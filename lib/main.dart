@@ -222,6 +222,149 @@ Future<void> resetAllProgress() async {
       await prefs.remove(key);
     }
   }
+
+
+  await resetStatistics();
+}
+
+// ============================================================
+// STUDY STATISTICS
+// ============================================================
+
+String statisticsDateKey(DateTime date) {
+  final day = startOfDay(date);
+  final year = day.year.toString().padLeft(4, '0');
+  final month = day.month.toString().padLeft(2, '0');
+  final dayNumber = day.day.toString().padLeft(2, '0');
+  return '$year-$month-$dayNumber';
+}
+
+Future<void> recordStudyAnswer({
+  required bool known,
+}) async {
+  final prefs = await SharedPreferences.getInstance();
+
+  final totalAnswers = prefs.getInt('stats_total_answers') ?? 0;
+  final totalKnown = prefs.getInt('stats_total_known') ?? 0;
+  final totalLearning = prefs.getInt('stats_total_learning') ?? 0;
+
+  await prefs.setInt('stats_total_answers', totalAnswers + 1);
+
+  if (known) {
+    await prefs.setInt('stats_total_known', totalKnown + 1);
+  } else {
+    await prefs.setInt('stats_total_learning', totalLearning + 1);
+  }
+
+  final rawDays = prefs.getString('stats_days');
+  Map<String, dynamic> days = {};
+
+  if (rawDays != null) {
+    try {
+      days = Map<String, dynamic>.from(jsonDecode(rawDays));
+    } catch (_) {
+      days = {};
+    }
+  }
+
+  final todayKey = statisticsDateKey(DateTime.now());
+  final existing = days[todayKey];
+  final today = existing is Map
+      ? Map<String, dynamic>.from(existing)
+      : <String, dynamic>{};
+
+  today['studied'] = (today['studied'] as int? ?? 0) + 1;
+  today['known'] = (today['known'] as int? ?? 0) + (known ? 1 : 0);
+  today['learning'] =
+      (today['learning'] as int? ?? 0) + (known ? 0 : 1);
+
+  days[todayKey] = today;
+  await prefs.setString('stats_days', jsonEncode(days));
+}
+
+Future<void> resetStatistics() async {
+  final prefs = await SharedPreferences.getInstance();
+  await prefs.remove('stats_total_answers');
+  await prefs.remove('stats_total_known');
+  await prefs.remove('stats_total_learning');
+  await prefs.remove('stats_days');
+}
+
+class StudyStatistics {
+  final int todayStudied;
+  final int todayKnown;
+  final int todayLearning;
+  final int totalAnswers;
+  final int totalKnown;
+  final int totalLearning;
+  final int currentStreak;
+
+  const StudyStatistics({
+    required this.todayStudied,
+    required this.todayKnown,
+    required this.todayLearning,
+    required this.totalAnswers,
+    required this.totalKnown,
+    required this.totalLearning,
+    required this.currentStreak,
+  });
+}
+
+Future<StudyStatistics> loadStatistics() async {
+  final prefs = await SharedPreferences.getInstance();
+
+  final totalAnswers = prefs.getInt('stats_total_answers') ?? 0;
+  final totalKnown = prefs.getInt('stats_total_known') ?? 0;
+  final totalLearning = prefs.getInt('stats_total_learning') ?? 0;
+
+  Map<String, dynamic> days = {};
+  final rawDays = prefs.getString('stats_days');
+
+  if (rawDays != null) {
+    try {
+      days = Map<String, dynamic>.from(jsonDecode(rawDays));
+    } catch (_) {
+      days = {};
+    }
+  }
+
+  final today = startOfDay(DateTime.now());
+  final todayDataRaw = days[statisticsDateKey(today)];
+  final todayData = todayDataRaw is Map
+      ? Map<String, dynamic>.from(todayDataRaw)
+      : <String, dynamic>{};
+
+  int streak = 0;
+  DateTime cursor = today;
+
+  // A streak remains active during a day before the user has studied,
+  // as long as they studied yesterday. Once today's first answer is
+  // recorded, today becomes part of the streak.
+  if (!days.containsKey(statisticsDateKey(cursor))) {
+    cursor = cursor.subtract(const Duration(days: 1));
+  }
+
+  while (true) {
+    final dataRaw = days[statisticsDateKey(cursor)];
+    if (dataRaw is! Map) break;
+
+    final data = Map<String, dynamic>.from(dataRaw);
+    final studied = data['studied'] as int? ?? 0;
+    if (studied <= 0) break;
+
+    streak++;
+    cursor = cursor.subtract(const Duration(days: 1));
+  }
+
+  return StudyStatistics(
+    todayStudied: todayData['studied'] as int? ?? 0,
+    todayKnown: todayData['known'] as int? ?? 0,
+    todayLearning: todayData['learning'] as int? ?? 0,
+    totalAnswers: totalAnswers,
+    totalKnown: totalKnown,
+    totalLearning: totalLearning,
+    currentStreak: streak,
+  );
 }
 
 // ============================================================
@@ -495,6 +638,20 @@ class _HomePageState extends State<HomePage> {
     await refreshProgress();
   }
 
+  Future<void> openStatistics() async {
+    await Navigator.push(
+      context,
+      MaterialPageRoute(
+        builder: (context) => StatisticsPage(
+          allWords: allWords,
+          progress: progress,
+        ),
+      ),
+    );
+
+    await refreshProgress();
+  }
+
   Future<void> openSettings() async {
     final wasReset = await Navigator.push<bool>(
       context,
@@ -683,6 +840,13 @@ class _HomePageState extends State<HomePage> {
                         ),
                       ),
                       IconButton(
+                        tooltip: 'Statistics',
+                        onPressed: openStatistics,
+                        icon: const Icon(
+                          Icons.bar_chart_rounded,
+                        ),
+                      ),
+                      IconButton(
                         tooltip: 'Settings',
                         onPressed: openSettings,
                         icon: const Icon(
@@ -806,6 +970,211 @@ class _HomePageState extends State<HomePage> {
             ),
           ),
         ),
+      ),
+    );
+  }
+}
+
+// ============================================================
+// STATISTICS
+// ============================================================
+
+class StatisticsPage extends StatefulWidget {
+  final List<Word> allWords;
+  final Map<String, WordProgress> progress;
+
+  const StatisticsPage({
+    super.key,
+    required this.allWords,
+    required this.progress,
+  });
+
+  @override
+  State<StatisticsPage> createState() => _StatisticsPageState();
+}
+
+class _StatisticsPageState extends State<StatisticsPage> {
+  StudyStatistics? statistics;
+  bool isLoading = true;
+
+  @override
+  void initState() {
+    super.initState();
+    loadData();
+  }
+
+  Future<void> loadData() async {
+    final loaded = await loadStatistics();
+    if (!mounted) return;
+
+    setState(() {
+      statistics = loaded;
+      isLoading = false;
+    });
+  }
+
+  int get newCount => widget.allWords.where((word) {
+        final p = widget.progress[word.id];
+        return p == null || p.level == 0;
+      }).length;
+
+  int get learningCount => widget.allWords.where((word) {
+        return widget.progress[word.id]?.level == 1;
+      }).length;
+
+  int get learnedCount => widget.allWords.where((word) {
+        final p = widget.progress[word.id];
+        return p != null && p.level >= 2;
+      }).length;
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(
+        title: const Text('Statistics'),
+      ),
+      body: SafeArea(
+        child: isLoading
+            ? const Center(child: CircularProgressIndicator())
+            : Center(
+                child: SingleChildScrollView(
+                  padding: const EdgeInsets.all(24),
+                  child: ConstrainedBox(
+                    constraints: const BoxConstraints(maxWidth: 550),
+                    child: Column(
+                      crossAxisAlignment: CrossAxisAlignment.stretch,
+                      children: [
+                        const Icon(
+                          Icons.bar_chart_rounded,
+                          size: 65,
+                          color: Color(0xFF006AA7),
+                        ),
+                        const SizedBox(height: 12),
+                        const Text(
+                          'Your Statistics',
+                          textAlign: TextAlign.center,
+                          style: TextStyle(
+                            fontSize: 30,
+                            fontWeight: FontWeight.bold,
+                          ),
+                        ),
+                        const SizedBox(height: 6),
+                        Text(
+                          statistics!.currentStreak == 1
+                              ? '🔥 1 day streak'
+                              : '🔥 ${statistics!.currentStreak} day streak',
+                          textAlign: TextAlign.center,
+                          style: TextStyle(
+                            color: Colors.grey.shade600,
+                            fontSize: 15,
+                            fontWeight: FontWeight.w600,
+                          ),
+                        ),
+                        const SizedBox(height: 34),
+                        const SectionTitle(title: 'TODAY'),
+                        const SizedBox(height: 12),
+                        Row(
+                          children: [
+                            Expanded(
+                              child: StatisticsCard(
+                                icon: Icons.style_outlined,
+                                value: statistics!.todayStudied,
+                                label: 'Studied',
+                              ),
+                            ),
+                            const SizedBox(width: 10),
+                            Expanded(
+                              child: StatisticsCard(
+                                icon: Icons.check_rounded,
+                                value: statistics!.todayKnown,
+                                label: 'I Know',
+                              ),
+                            ),
+                            const SizedBox(width: 10),
+                            Expanded(
+                              child: StatisticsCard(
+                                icon: Icons.school_outlined,
+                                value: statistics!.todayLearning,
+                                label: 'Learning',
+                              ),
+                            ),
+                          ],
+                        ),
+                        const SizedBox(height: 30),
+                        const SectionTitle(title: 'OVERALL PROGRESS'),
+                        const SizedBox(height: 12),
+                        Row(
+                          children: [
+                            Expanded(
+                              child: StatisticsCard(
+                                icon: Icons.check_circle_outline,
+                                value: learnedCount,
+                                label: 'Learned',
+                              ),
+                            ),
+                            const SizedBox(width: 10),
+                            Expanded(
+                              child: StatisticsCard(
+                                icon: Icons.school_outlined,
+                                value: learningCount,
+                                label: 'Learning',
+                              ),
+                            ),
+                            const SizedBox(width: 10),
+                            Expanded(
+                              child: StatisticsCard(
+                                icon: Icons.fiber_new_outlined,
+                                value: newCount,
+                                label: 'New',
+                              ),
+                            ),
+                          ],
+                        ),
+                        const SizedBox(height: 30),
+                        const SectionTitle(title: 'ALL TIME'),
+                        const SizedBox(height: 12),
+                        Card(
+                          elevation: 0,
+                          shape: RoundedRectangleBorder(
+                            borderRadius: BorderRadius.circular(18),
+                            side: BorderSide(color: Colors.grey.shade200),
+                          ),
+                          child: Padding(
+                            padding: const EdgeInsets.all(20),
+                            child: Column(
+                              children: [
+                                StatisticsRow(
+                                  label: 'Total answers',
+                                  value: statistics!.totalAnswers,
+                                ),
+                                const Divider(height: 28),
+                                StatisticsRow(
+                                  label: 'I Know answers',
+                                  value: statistics!.totalKnown,
+                                ),
+                                const Divider(height: 28),
+                                StatisticsRow(
+                                  label: 'Learning answers',
+                                  value: statistics!.totalLearning,
+                                ),
+                              ],
+                            ),
+                          ),
+                        ),
+                        const SizedBox(height: 18),
+                        Text(
+                          'Statistics are counted from this version of the app onward.',
+                          textAlign: TextAlign.center,
+                          style: TextStyle(
+                            color: Colors.grey.shade600,
+                            fontSize: 13,
+                          ),
+                        ),
+                      ],
+                    ),
+                  ),
+                ),
+              ),
       ),
     );
   }
@@ -1598,6 +1967,8 @@ class _FlashcardPageState
 
     sessionLearning++;
 
+    await recordStudyAnswer(known: false);
+
     await nextWord();
   }
 
@@ -1611,6 +1982,8 @@ class _FlashcardPageState
         newProgress;
 
     sessionKnown++;
+
+    await recordStudyAnswer(known: true);
 
     await nextWord();
   }
@@ -2108,6 +2481,100 @@ class SectionTitle extends StatelessWidget {
           color: Colors.grey,
         ),
       ),
+    );
+  }
+}
+
+class StatisticsCard extends StatelessWidget {
+  final IconData icon;
+  final int value;
+  final String label;
+
+  const StatisticsCard({
+    super.key,
+    required this.icon,
+    required this.value,
+    required this.label,
+  });
+
+  @override
+  Widget build(BuildContext context) {
+    return Card(
+      elevation: 0,
+      shape: RoundedRectangleBorder(
+        borderRadius: BorderRadius.circular(18),
+        side: BorderSide(color: Colors.grey.shade200),
+      ),
+      child: Padding(
+        padding: const EdgeInsets.symmetric(
+          horizontal: 8,
+          vertical: 16,
+        ),
+        child: Column(
+          children: [
+            Icon(
+              icon,
+              color: const Color(0xFF006AA7),
+              size: 25,
+            ),
+            const SizedBox(height: 8),
+            Text(
+              value.toString(),
+              style: const TextStyle(
+                fontSize: 23,
+                fontWeight: FontWeight.w800,
+              ),
+            ),
+            const SizedBox(height: 2),
+            Text(
+              label,
+              maxLines: 1,
+              overflow: TextOverflow.ellipsis,
+              textAlign: TextAlign.center,
+              style: TextStyle(
+                color: Colors.grey.shade600,
+                fontSize: 11,
+                fontWeight: FontWeight.w600,
+              ),
+            ),
+          ],
+        ),
+      ),
+    );
+  }
+}
+
+class StatisticsRow extends StatelessWidget {
+  final String label;
+  final int value;
+
+  const StatisticsRow({
+    super.key,
+    required this.label,
+    required this.value,
+  });
+
+  @override
+  Widget build(BuildContext context) {
+    return Row(
+      children: [
+        Expanded(
+          child: Text(
+            label,
+            style: const TextStyle(
+              fontSize: 16,
+              fontWeight: FontWeight.w600,
+            ),
+          ),
+        ),
+        Text(
+          value.toString(),
+          style: const TextStyle(
+            fontSize: 18,
+            fontWeight: FontWeight.w800,
+          ),
+        ),
+      ],
     );
   }
 }
