@@ -27,8 +27,20 @@ class SwedishFlashcardsApp extends StatelessWidget {
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(
           seedColor: const Color(0xFF006AA7),
+          brightness: Brightness.light,
         ),
+        scaffoldBackgroundColor: const Color(0xFFF7F9FC),
         useMaterial3: true,
+        cardTheme: const CardThemeData(
+          color: Colors.white,
+          surfaceTintColor: Colors.transparent,
+          margin: EdgeInsets.zero,
+        ),
+        appBarTheme: const AppBarTheme(
+          backgroundColor: Color(0xFFF7F9FC),
+          surfaceTintColor: Colors.transparent,
+          centerTitle: true,
+        ),
       ),
       home: const HomePage(),
     );
@@ -554,9 +566,7 @@ class _HomePageState extends State<HomePage> {
               SizedBox(height: 20),
               Text(
                 'Loading vocabulary...',
-                style: TextStyle(
-                  fontSize: 18,
-                ),
+                style: TextStyle(fontSize: 18),
               ),
             ],
           ),
@@ -597,11 +607,9 @@ class _HomePageState extends State<HomePage> {
                       isLoading = true;
                       errorMessage = null;
                     });
-
                     loadAppData();
                   },
-                  child:
-                      const Text('TRY AGAIN'),
+                  child: const Text('TRY AGAIN'),
                 ),
               ],
             ),
@@ -618,108 +626,143 @@ class _HomePageState extends State<HomePage> {
       body: SafeArea(
         child: Center(
           child: SingleChildScrollView(
-            padding:
-                const EdgeInsets.all(24),
+            padding: const EdgeInsets.fromLTRB(
+              20,
+              18,
+              20,
+              28,
+            ),
             child: ConstrainedBox(
-              constraints:
-                  const BoxConstraints(
+              constraints: const BoxConstraints(
                 maxWidth: 550,
               ),
               child: Column(
+                crossAxisAlignment:
+                    CrossAxisAlignment.stretch,
                 children: [
                   // HEADER
-
-                  const Text(
-                    '🇸🇪',
-                    style:
-                        TextStyle(fontSize: 55),
+                  Row(
+                    children: [
+                      Container(
+                        width: 54,
+                        height: 54,
+                        decoration: BoxDecoration(
+                          color: const Color(0xFF006AA7),
+                          borderRadius:
+                              BorderRadius.circular(16),
+                        ),
+                        alignment: Alignment.center,
+                        child: const Text(
+                          '🇸🇪',
+                          style: TextStyle(fontSize: 30),
+                        ),
+                      ),
+                      const SizedBox(width: 14),
+                      Expanded(
+                        child: Column(
+                          crossAxisAlignment:
+                              CrossAxisAlignment.start,
+                          children: [
+                            const Text(
+                              'Swedish Flashcards',
+                              style: TextStyle(
+                                fontSize: 25,
+                                fontWeight: FontWeight.w800,
+                                letterSpacing: -0.5,
+                              ),
+                            ),
+                            const SizedBox(height: 2),
+                            Text(
+                              '${allWords.length} words in your collection',
+                              style: TextStyle(
+                                color: Colors.grey.shade600,
+                                fontSize: 14,
+                              ),
+                            ),
+                          ],
+                        ),
+                      ),
+                      IconButton(
+                        tooltip: 'Settings',
+                        onPressed: openSettings,
+                        icon: const Icon(
+                          Icons.settings_outlined,
+                        ),
+                      ),
+                    ],
                   ),
 
-                  const SizedBox(height: 10),
-
-                  const Text(
-                    'Swedish Flashcards',
-                    textAlign: TextAlign.center,
-                    style: TextStyle(
-                      fontSize: 30,
-                      fontWeight:
-                          FontWeight.bold,
-                    ),
-                  ),
-
-                  const SizedBox(height: 8),
-
-                  Text(
-                    '${allWords.length} words in your collection',
-                    style: const TextStyle(
-                      color: Colors.grey,
-                    ),
-                  ),
-
-                  const SizedBox(height: 35),
-
-                  // PROGRESS
+                  const SizedBox(height: 28),
 
                   const SectionTitle(
                     title: 'YOUR PROGRESS',
                   ),
-
                   const SizedBox(height: 12),
 
-                  ProgressSummaryTile(
-                    icon:
-                        Icons.fiber_new_outlined,
-                    title: 'New',
-                    count: newCount,
+                  Row(
+                    children: [
+                      Expanded(
+                        child: ProgressStatCard(
+                          icon: Icons.fiber_new_outlined,
+                          title: 'New',
+                          count: newCount,
+                        ),
+                      ),
+                      const SizedBox(width: 10),
+                      Expanded(
+                        child: ProgressStatCard(
+                          icon: Icons.school_outlined,
+                          title: 'Learning',
+                          count: learningCount,
+                        ),
+                      ),
+                    ],
                   ),
-
-                  ProgressSummaryTile(
-                    icon: Icons.school_outlined,
-                    title: 'Learning',
-                    count: learningCount,
-                  ),
-
-                  ProgressSummaryTile(
-                    icon:
-                        Icons.schedule_outlined,
-                    title: 'Due for review',
-                    count: dueCount,
-                  ),
-
-                  ProgressSummaryTile(
-                    icon: Icons
-                        .check_circle_outline,
-                    title: 'Learned',
-                    count: learnedCount,
-                  ),
-
-                  const SizedBox(height: 20),
-
-                  LinearProgressIndicator(
-                    value: completion,
-                    minHeight: 10,
-                    borderRadius:
-                        BorderRadius.circular(10),
-                  ),
-
                   const SizedBox(height: 10),
+                  Row(
+                    children: [
+                      Expanded(
+                        child: ProgressStatCard(
+                          icon: Icons.schedule_outlined,
+                          title: 'Due',
+                          count: dueCount,
+                        ),
+                      ),
+                      const SizedBox(width: 10),
+                      Expanded(
+                        child: ProgressStatCard(
+                          icon: Icons.check_circle_outline,
+                          title: 'Learned',
+                          count: learnedCount,
+                        ),
+                      ),
+                    ],
+                  ),
 
+                  const SizedBox(height: 18),
+
+                  ClipRRect(
+                    borderRadius: BorderRadius.circular(20),
+                    child: LinearProgressIndicator(
+                      value: completion,
+                      minHeight: 8,
+                      backgroundColor:
+                          const Color(0xFFDCEAF5),
+                    ),
+                  ),
+                  const SizedBox(height: 8),
                   Text(
                     '$learnedCount of ${allWords.length} words entered the review system',
                     textAlign: TextAlign.center,
-                    style: const TextStyle(
-                      color: Colors.grey,
+                    style: TextStyle(
+                      color: Colors.grey.shade600,
+                      fontSize: 13,
                     ),
                   ),
 
-                  const SizedBox(height: 40),
+                  const SizedBox(height: 30),
 
-                  // TODAY
-
-                  const SectionTitle(
-                    title: 'TODAY',
-                  ),
-
+                  const SectionTitle(title: 'TODAY'),
                   const SizedBox(height: 12),
 
                   if (dueCount > 0)
@@ -730,19 +773,15 @@ class _HomePageState extends State<HomePage> {
                   else
                     const DailyCompleteTile(),
 
-                  const SizedBox(height: 40),
-
-                  // MATERIAL
+                  const SizedBox(height: 30),
 
                   const SectionTitle(
                     title: 'CHOOSE MATERIAL',
                   ),
-
                   const SizedBox(height: 12),
 
                   MaterialTile(
-                    icon: Icons
-                        .library_books_outlined,
+                    icon: Icons.library_books_outlined,
                     title: 'All Words',
                     subtitle:
                         'Entire vocabulary collection',
@@ -754,34 +793,13 @@ class _HomePageState extends State<HomePage> {
                     },
                   ),
 
-                  const SizedBox(height: 12),
+                  const SizedBox(height: 10),
 
                   MaterialTile(
-                    icon:
-                        Icons.menu_book_outlined,
+                    icon: Icons.menu_book_outlined,
                     title: 'By Chapter',
-                    subtitle:
-                        'Choose Kapitel 1–20',
-                    onTap:
-                        openChapterSelection,
-                  ),
-
-                  const SizedBox(height: 40),
-
-                  // SETTINGS
-
-                  const SectionTitle(
-                    title: 'SETTINGS',
-                  ),
-
-                  const SizedBox(height: 12),
-
-                  MaterialTile(
-                    icon: Icons.settings_outlined,
-                    title: 'Settings',
-                    subtitle:
-                        'Manage your learning data',
-                    onTap: openSettings,
+                    subtitle: 'Choose Kapitel 1–20',
+                    onTap: openChapterSelection,
                   ),
                 ],
               ),
@@ -1702,284 +1720,363 @@ class _FlashcardPageState
   @override
   Widget build(BuildContext context) {
     final cardProgress =
-        (currentIndex + 1) /
-            widget.words.length;
+        (currentIndex + 1) / widget.words.length;
+
+    final status = currentStatusText();
 
     return Scaffold(
       appBar: AppBar(
-        title: Text(widget.title),
+        title: Text(
+          widget.title,
+          style: const TextStyle(
+            fontWeight: FontWeight.w700,
+          ),
+        ),
       ),
       body: SafeArea(
         child: Center(
-          child: SingleChildScrollView(
-            padding:
-                const EdgeInsets.all(24),
-            child: ConstrainedBox(
-              constraints:
-                  const BoxConstraints(
-                maxWidth: 600,
-              ),
-              child: Column(
-                children: [
-                  Row(
-                    mainAxisAlignment:
-                        MainAxisAlignment
-                            .spaceBetween,
+          child: ConstrainedBox(
+            constraints: const BoxConstraints(
+              maxWidth: 600,
+            ),
+            child: LayoutBuilder(
+              builder: (context, constraints) {
+                // Keep the card large on phones, but prevent it from
+                // becoming excessively tall on desktop/tablet screens.
+                final availableHeight = constraints.maxHeight;
+                final targetCardHeight =
+                    (availableHeight * 0.72).clamp(430.0, 650.0);
+
+                return Padding(
+                  padding: const EdgeInsets.fromLTRB(
+                    20,
+                    8,
+                    20,
+                    20,
+                  ),
+                  child: Column(
                     children: [
-                      Text(
-                        '${currentIndex + 1} / ${widget.words.length}',
-                        style:
-                            const TextStyle(
-                          fontWeight:
-                              FontWeight.bold,
+                      Row(
+                        children: [
+                          Text(
+                            '${currentIndex + 1} / ${widget.words.length}',
+                            style: const TextStyle(
+                              fontSize: 16,
+                              fontWeight: FontWeight.w700,
+                            ),
+                          ),
+                          const Spacer(),
+                          Container(
+                            padding: const EdgeInsets.symmetric(
+                              horizontal: 11,
+                              vertical: 6,
+                            ),
+                            decoration: BoxDecoration(
+                              color: const Color(0xFFE3F1FA),
+                              borderRadius:
+                                  BorderRadius.circular(20),
+                            ),
+                            child: Text(
+                              status,
+                              style: const TextStyle(
+                                color: Color(0xFF006AA7),
+                                fontSize: 12,
+                                fontWeight: FontWeight.w800,
+                                letterSpacing: 0.5,
+                              ),
+                            ),
+                          ),
+                        ],
+                      ),
+
+                      const SizedBox(height: 10),
+
+                      ClipRRect(
+                        borderRadius: BorderRadius.circular(20),
+                        child: LinearProgressIndicator(
+                          value: cardProgress,
+                          minHeight: 8,
+                          backgroundColor:
+                              const Color(0xFFDCEAF5),
                         ),
                       ),
-                      Text(
-                        currentStatusText(),
-                        style:
-                            const TextStyle(
-                          color: Colors.grey,
-                          fontWeight:
-                              FontWeight.bold,
-                        ),
-                      ),
-                    ],
-                  ),
 
-                  const SizedBox(height: 10),
+                      const SizedBox(height: 18),
 
-                  LinearProgressIndicator(
-                    value: cardProgress,
-                    minHeight: 8,
-                    borderRadius:
-                        BorderRadius.circular(
-                      10,
-                    ),
-                  ),
-
-                  const SizedBox(height: 30),
-
-                  GestureDetector(
-                    onTap: () {
-                      setState(() {
-                        showTranslation =
-                            !showTranslation;
-                      });
-                    },
-                    child: Card(
-                      elevation: 4,
-                      child: SizedBox(
-                        width: double.infinity,
-                        height: 380,
-                        child: Padding(
-                          padding:
-                              const EdgeInsets
-                                  .all(30),
-                          child: Column(
-                            mainAxisAlignment:
-                                MainAxisAlignment
-                                    .center,
-                            children: [
-                              Text(
-                                showTranslation
-                                    ? 'ENGLISH'
-                                    : 'SVENSKA',
-                                style:
-                                    const TextStyle(
-                                  fontSize: 14,
-                                  fontWeight:
-                                      FontWeight
-                                          .bold,
-                                  color:
-                                      Colors.grey,
+                      Expanded(
+                        child: Center(
+                          child: SizedBox(
+                            height: targetCardHeight,
+                            width: double.infinity,
+                            child: GestureDetector(
+                              onTap: () {
+                                setState(() {
+                                  showTranslation =
+                                      !showTranslation;
+                                });
+                              },
+                              child: TweenAnimationBuilder<double>(
+                                tween: Tween<double>(
+                                  begin: 0,
+                                  end: showTranslation ? 1 : 0,
                                 ),
-                              ),
+                                duration:
+                                    const Duration(milliseconds: 420),
+                                curve: Curves.easeInOutCubic,
+                                builder: (context, value, child) {
+                                  final angle = value * pi;
+                                  final showingBack = value >= 0.5;
 
-                              const SizedBox(
-                                height: 30,
-                              ),
-
-                              if (!showTranslation)
-                                ...[
-                                  Text(
-                                    currentWord
-                                        .swedish,
-                                    textAlign:
-                                        TextAlign
-                                            .center,
-                                    style:
-                                        const TextStyle(
-                                      fontSize: 42,
-                                      fontWeight:
-                                          FontWeight
-                                              .bold,
-                                    ),
-                                  ),
-
-                                  if (currentWord
-                                      .forms
-                                      .isNotEmpty) ...[
-                                    const SizedBox(
-                                      height: 15,
-                                    ),
-                                    Text(
-                                      currentWord
-                                          .forms,
-                                      textAlign:
-                                          TextAlign
-                                              .center,
-                                      style:
-                                          const TextStyle(
-                                        fontSize: 19,
-                                        color: Colors
-                                            .grey,
+                                  return Transform(
+                                    alignment: Alignment.center,
+                                    transform: Matrix4.identity()
+                                      ..setEntry(3, 2, 0.0012)
+                                      ..rotateY(angle),
+                                    child: Transform(
+                                      alignment: Alignment.center,
+                                      transform: Matrix4.identity()
+                                        ..rotateY(
+                                          showingBack ? pi : 0,
+                                        ),
+                                      child: _buildFlashcardFace(
+                                        showEnglish: showingBack,
                                       ),
                                     ),
-                                  ],
-                                ]
-                              else ...[
-                                Text(
-                                  currentWord
-                                      .english,
-                                  textAlign:
-                                      TextAlign
-                                          .center,
-                                  style:
-                                      const TextStyle(
-                                    fontSize: 38,
-                                    fontWeight:
-                                        FontWeight
-                                            .bold,
-                                  ),
-                                ),
+                                  );
+                                },
+                              ),
+                            ),
+                          ),
+                        ),
+                      ),
 
-                                const SizedBox(
-                                  height: 25,
-                                ),
+                      const SizedBox(height: 16),
 
-                                Text(
-                                  currentWord
-                                      .swedish,
-                                  textAlign:
-                                      TextAlign
-                                          .center,
-                                  style:
-                                      const TextStyle(
-                                    fontSize: 22,
-                                    fontWeight:
-                                        FontWeight
-                                            .w600,
-                                  ),
+                      AnimatedSwitcher(
+                        duration:
+                            const Duration(milliseconds: 180),
+                        child: showTranslation
+                            ? Row(
+                                key: const ValueKey(
+                                  'answer-buttons',
                                 ),
-
-                                if (currentWord
-                                    .forms
-                                    .isNotEmpty) ...[
-                                  const SizedBox(
-                                    height: 8,
+                                children: [
+                                  Expanded(
+                                    child: OutlinedButton.icon(
+                                      onPressed: answerLearning,
+                                      icon: const Icon(
+                                        Icons.close_rounded,
+                                      ),
+                                      label: const Text(
+                                        'LEARNING',
+                                      ),
+                                      style:
+                                          OutlinedButton.styleFrom(
+                                        minimumSize:
+                                            const Size.fromHeight(
+                                          58,
+                                        ),
+                                        shape:
+                                            RoundedRectangleBorder(
+                                          borderRadius:
+                                              BorderRadius.circular(
+                                            16,
+                                          ),
+                                        ),
+                                      ),
+                                    ),
                                   ),
-                                  Text(
-                                    currentWord
-                                        .forms,
-                                    textAlign:
-                                        TextAlign
-                                            .center,
-                                    style:
-                                        const TextStyle(
-                                      fontSize: 17,
-                                      color: Colors
-                                          .grey,
+                                  const SizedBox(width: 12),
+                                  Expanded(
+                                    child: FilledButton.icon(
+                                      onPressed: answerKnown,
+                                      icon: const Icon(
+                                        Icons.check_rounded,
+                                      ),
+                                      label: const Text(
+                                        'I KNOW',
+                                      ),
+                                      style:
+                                          FilledButton.styleFrom(
+                                        minimumSize:
+                                            const Size.fromHeight(
+                                          58,
+                                        ),
+                                        backgroundColor:
+                                            const Color(
+                                          0xFF006AA7,
+                                        ),
+                                        shape:
+                                            RoundedRectangleBorder(
+                                          borderRadius:
+                                              BorderRadius.circular(
+                                            16,
+                                          ),
+                                        ),
+                                      ),
                                     ),
                                   ),
                                 ],
-                              ],
-
-                              const SizedBox(
-                                height: 35,
-                              ),
-
-                              Text(
-                                showTranslation
-                                    ? 'How well did you know it?'
-                                    : 'Tap to reveal',
-                                style:
-                                    const TextStyle(
-                                  color:
-                                      Colors.grey,
+                              )
+                            : const SizedBox(
+                                key: ValueKey(
+                                  'answer-placeholder',
                                 ),
+                                height: 58,
                               ),
-                            ],
-                          ),
-                        ),
+                      ),
+                    ],
+                  ),
+                );
+              },
+            ),
+          ),
+        ),
+      ),
+    );
+  }
+
+  Widget _buildFlashcardFace({
+    required bool showEnglish,
+  }) {
+    return Card(
+      elevation: 2,
+      shadowColor: Colors.black.withValues(
+        alpha: 0.12,
+      ),
+      shape: RoundedRectangleBorder(
+        borderRadius: BorderRadius.circular(24),
+        side: BorderSide(
+          color: Colors.grey.shade200,
+        ),
+      ),
+      child: SizedBox.expand(
+        child: Padding(
+          padding: const EdgeInsets.all(28),
+          child: Column(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: [
+              Container(
+                padding: const EdgeInsets.symmetric(
+                  horizontal: 12,
+                  vertical: 6,
+                ),
+                decoration: BoxDecoration(
+                  color: showEnglish
+                      ? const Color(0xFFFFF3BF)
+                      : const Color(0xFFE3F1FA),
+                  borderRadius: BorderRadius.circular(20),
+                ),
+                child: Text(
+                  showEnglish ? 'ENGLISH' : 'SVENSKA',
+                  style: TextStyle(
+                    color: showEnglish
+                        ? const Color(0xFF7A5B00)
+                        : const Color(0xFF006AA7),
+                    fontSize: 12,
+                    fontWeight: FontWeight.w800,
+                    letterSpacing: 0.8,
+                  ),
+                ),
+              ),
+
+              const SizedBox(height: 28),
+
+              if (!showEnglish) ...[
+                Flexible(
+                  child: FittedBox(
+                    fit: BoxFit.scaleDown,
+                    child: Text(
+                      currentWord.swedish,
+                      textAlign: TextAlign.center,
+                      style: const TextStyle(
+                        fontSize: 46,
+                        fontWeight: FontWeight.w800,
+                        letterSpacing: -0.8,
                       ),
                     ),
                   ),
-
-                  const SizedBox(height: 25),
-
-                  if (showTranslation)
-                    Row(
-                      children: [
-                        Expanded(
-                          child:
-                              OutlinedButton
-                                  .icon(
-                            onPressed:
-                                answerLearning,
-                            icon:
-                                const Icon(
-                              Icons.close,
-                            ),
-                            label:
-                                const Text(
-                              'LEARNING',
-                            ),
-                            style:
-                                OutlinedButton
-                                    .styleFrom(
-                              minimumSize:
-                                  const Size
-                                      .fromHeight(
-                                55,
-                              ),
-                            ),
-                          ),
-                        ),
-
-                        const SizedBox(
-                          width: 15,
-                        ),
-
-                        Expanded(
-                          child:
-                              FilledButton
-                                  .icon(
-                            onPressed:
-                                answerKnown,
-                            icon:
-                                const Icon(
-                              Icons.check,
-                            ),
-                            label:
-                                const Text(
-                              'I KNOW',
-                            ),
-                            style:
-                                FilledButton
-                                    .styleFrom(
-                              minimumSize:
-                                  const Size
-                                      .fromHeight(
-                                55,
-                              ),
-                            ),
-                          ),
-                        ),
-                      ],
+                ),
+                if (currentWord.forms.isNotEmpty) ...[
+                  const SizedBox(height: 14),
+                  Text(
+                    currentWord.forms,
+                    textAlign: TextAlign.center,
+                    style: TextStyle(
+                      fontSize: 19,
+                      color: Colors.grey.shade600,
                     ),
+                  ),
+                ],
+              ] else ...[
+                Flexible(
+                  child: FittedBox(
+                    fit: BoxFit.scaleDown,
+                    child: Text(
+                      currentWord.english,
+                      textAlign: TextAlign.center,
+                      style: const TextStyle(
+                        fontSize: 40,
+                        fontWeight: FontWeight.w800,
+                        letterSpacing: -0.5,
+                      ),
+                    ),
+                  ),
+                ),
+                const SizedBox(height: 24),
+                Container(
+                  width: 46,
+                  height: 3,
+                  decoration: BoxDecoration(
+                    color: const Color(0xFFFECC02),
+                    borderRadius: BorderRadius.circular(10),
+                  ),
+                ),
+                const SizedBox(height: 22),
+                Text(
+                  currentWord.swedish,
+                  textAlign: TextAlign.center,
+                  style: const TextStyle(
+                    fontSize: 23,
+                    fontWeight: FontWeight.w700,
+                  ),
+                ),
+                if (currentWord.forms.isNotEmpty) ...[
+                  const SizedBox(height: 7),
+                  Text(
+                    currentWord.forms,
+                    textAlign: TextAlign.center,
+                    style: TextStyle(
+                      fontSize: 17,
+                      color: Colors.grey.shade600,
+                    ),
+                  ),
+                ],
+              ],
+
+              const SizedBox(height: 30),
+
+              Row(
+                mainAxisSize: MainAxisSize.min,
+                children: [
+                  Icon(
+                    Icons.touch_app_outlined,
+                    size: 18,
+                    color: Colors.grey.shade500,
+                  ),
+                  const SizedBox(width: 7),
+                  Text(
+                    showEnglish
+                        ? 'Tap card to flip back'
+                        : 'Tap to reveal',
+                    style: TextStyle(
+                      color: Colors.grey.shade600,
+                      fontSize: 14,
+                    ),
+                  ),
                 ],
               ),
-            ),
+            ],
           ),
         ),
       ),
@@ -2009,6 +2106,79 @@ class SectionTitle extends StatelessWidget {
           fontSize: 14,
           fontWeight: FontWeight.bold,
           color: Colors.grey,
+        ),
+      ),
+    );
+  }
+}
+
+class ProgressStatCard extends StatelessWidget {
+  final IconData icon;
+  final String title;
+  final int count;
+
+  const ProgressStatCard({
+    super.key,
+    required this.icon,
+    required this.title,
+    required this.count,
+  });
+
+  @override
+  Widget build(BuildContext context) {
+    return Card(
+      elevation: 0,
+      shape: RoundedRectangleBorder(
+        borderRadius: BorderRadius.circular(18),
+        side: BorderSide(
+          color: Colors.grey.shade200,
+        ),
+      ),
+      child: Padding(
+        padding: const EdgeInsets.all(16),
+        child: Row(
+          children: [
+            Container(
+              width: 42,
+              height: 42,
+              decoration: BoxDecoration(
+                color: const Color(0xFFE3F1FA),
+                borderRadius: BorderRadius.circular(13),
+              ),
+              child: Icon(
+                icon,
+                color: const Color(0xFF006AA7),
+                size: 23,
+              ),
+            ),
+            const SizedBox(width: 12),
+            Expanded(
+              child: Column(
+                crossAxisAlignment:
+                    CrossAxisAlignment.start,
+                children: [
+                  Text(
+                    count.toString(),
+                    style: const TextStyle(
+                      fontSize: 21,
+                      fontWeight: FontWeight.w800,
+                    ),
+                  ),
+                  const SizedBox(height: 1),
+                  Text(
+                    title,
+                    maxLines: 1,
+                    overflow: TextOverflow.ellipsis,
+                    style: TextStyle(
+                      color: Colors.grey.shade600,
+                      fontSize: 12,
+                      fontWeight: FontWeight.w600,
+                    ),
+                  ),
+                ],
+              ),
+            ),
+          ],
         ),
       ),
     );
