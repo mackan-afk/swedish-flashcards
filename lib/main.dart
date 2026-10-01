@@ -2,6 +2,7 @@ import 'dart:convert';
 import 'dart:math';
 
 import 'package:flutter/material.dart';
+import 'package:http/http.dart' as http;
 import 'package:shared_preferences/shared_preferences.dart';
 
 import 'data/word_repository.dart';
@@ -1181,8 +1182,254 @@ class _StatisticsPageState extends State<StatisticsPage> {
 }
 
 // ============================================================
+// CARD DIRECTION
+// ============================================================
+
+enum CardDirection {
+  swedishToEnglish,
+  englishToSwedish,
+}
+
+const String cardDirectionPreferenceKey = 'card_direction';
+
+Future<CardDirection> loadCardDirection() async {
+  final prefs = await SharedPreferences.getInstance();
+  final saved = prefs.getString(cardDirectionPreferenceKey);
+
+  if (saved == CardDirection.englishToSwedish.name) {
+    return CardDirection.englishToSwedish;
+  }
+
+  return CardDirection.swedishToEnglish;
+}
+
+Future<void> saveCardDirection(CardDirection direction) async {
+  final prefs = await SharedPreferences.getInstance();
+  await prefs.setString(cardDirectionPreferenceKey, direction.name);
+}
+
+// ============================================================
 // SETTINGS
 // ============================================================
+
+
+class FeedbackPage extends StatefulWidget {
+  const FeedbackPage({super.key});
+
+  @override
+  State<FeedbackPage> createState() => _FeedbackPageState();
+}
+
+class _FeedbackPageState extends State<FeedbackPage> {
+  static const String _web3FormsAccessKey =
+      '2e2f8cd9-1e3a-4b27-9f00-59a793c4691b';
+
+  final TextEditingController _feedbackController = TextEditingController();
+
+  String _feedbackType = 'Bug';
+  bool _isSending = false;
+
+  @override
+  void dispose() {
+    _feedbackController.dispose();
+    super.dispose();
+  }
+
+  Future<void> _sendFeedback() async {
+    final message = _feedbackController.text.trim();
+
+    if (message.isEmpty) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        const SnackBar(
+          content: Text('Please enter your feedback before sending.'),
+        ),
+      );
+      return;
+    }
+
+    setState(() {
+      _isSending = true;
+    });
+
+    try {
+      final response = await http.post(
+        Uri.parse('https://api.web3forms.com/submit'),
+        headers: const {
+          'Content-Type': 'application/x-www-form-urlencoded',
+        },
+        body: {
+          'access_key': _web3FormsAccessKey,
+          'subject': 'SvenskaKort Feedback - $_feedbackType',
+          'from_name': 'SvenskaKort',
+          'feedback_type': _feedbackType,
+          'message': message,
+        },
+      );
+
+      if (!mounted) return;
+
+      if (response.statusCode >= 200 && response.statusCode < 300) {
+        _feedbackController.clear();
+
+        ScaffoldMessenger.of(context).showSnackBar(
+          const SnackBar(
+            content: Text('Thank you for your feedback! 💙'),
+          ),
+        );
+      } else {
+        ScaffoldMessenger.of(context).showSnackBar(
+          const SnackBar(
+            content: Text(
+              'Something went wrong. Please try again in a moment.',
+            ),
+          ),
+        );
+      }
+    } catch (_) {
+      if (!mounted) return;
+
+      ScaffoldMessenger.of(context).showSnackBar(
+        const SnackBar(
+          content: Text(
+            'Could not send feedback. Please check your connection and try again.',
+          ),
+        ),
+      );
+    } finally {
+      if (mounted) {
+        setState(() {
+          _isSending = false;
+        });
+      }
+    }
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(
+        title: const Text('Send Feedback'),
+      ),
+      body: SafeArea(
+        child: SingleChildScrollView(
+          padding: const EdgeInsets.all(20),
+          child: Center(
+            child: ConstrainedBox(
+              constraints: const BoxConstraints(maxWidth: 650),
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.stretch,
+                children: [
+                  const Text(
+                    'Help improve SvenskaKort',
+                    style: TextStyle(
+                      fontSize: 24,
+                      fontWeight: FontWeight.w800,
+                    ),
+                  ),
+                  const SizedBox(height: 8),
+                  Text(
+                    'Found a bug or have an idea? Send a short message below.',
+                    style: TextStyle(
+                      fontSize: 15,
+                      color: Colors.grey.shade700,
+                    ),
+                  ),
+                  const SizedBox(height: 28),
+                  const Text(
+                    'TYPE',
+                    style: TextStyle(
+                      fontSize: 12,
+                      fontWeight: FontWeight.w800,
+                      letterSpacing: 1.1,
+                    ),
+                  ),
+                  const SizedBox(height: 10),
+                  DropdownButtonFormField<String>(
+                    initialValue: _feedbackType,
+                    decoration: const InputDecoration(
+                      border: OutlineInputBorder(),
+                    ),
+                    items: const [
+                      DropdownMenuItem(
+                        value: 'Bug',
+                        child: Text('Bug'),
+                      ),
+                      DropdownMenuItem(
+                        value: 'Suggestion',
+                        child: Text('Suggestion'),
+                      ),
+                      DropdownMenuItem(
+                        value: 'Other',
+                        child: Text('Other'),
+                      ),
+                    ],
+                    onChanged: _isSending
+                        ? null
+                        : (value) {
+                            if (value != null) {
+                              setState(() {
+                                _feedbackType = value;
+                              });
+                            }
+                          },
+                  ),
+                  const SizedBox(height: 24),
+                  const Text(
+                    'YOUR FEEDBACK',
+                    style: TextStyle(
+                      fontSize: 12,
+                      fontWeight: FontWeight.w800,
+                      letterSpacing: 1.1,
+                    ),
+                  ),
+                  const SizedBox(height: 10),
+                  TextField(
+                    controller: _feedbackController,
+                    enabled: !_isSending,
+                    minLines: 6,
+                    maxLines: 10,
+                    maxLength: 1500,
+                    textCapitalization: TextCapitalization.sentences,
+                    decoration: const InputDecoration(
+                      hintText: 'Tell us what happened or what you would like to improve...',
+                      alignLabelWithHint: true,
+                      border: OutlineInputBorder(),
+                    ),
+                  ),
+                  const SizedBox(height: 12),
+                  FilledButton.icon(
+                    onPressed: _isSending ? null : _sendFeedback,
+                    icon: _isSending
+                        ? const SizedBox(
+                            width: 18,
+                            height: 18,
+                            child: CircularProgressIndicator(
+                              strokeWidth: 2,
+                            ),
+                          )
+                        : const Icon(Icons.send_rounded),
+                    label: Text(
+                      _isSending ? 'Sending...' : 'Send Feedback',
+                    ),
+                  ),
+                  const SizedBox(height: 14),
+                  Text(
+                    'No account or email address is required.',
+                    textAlign: TextAlign.center,
+                    style: TextStyle(
+                      fontSize: 13,
+                      color: Colors.grey.shade600,
+                    ),
+                  ),
+                ],
+              ),
+            ),
+          ),
+        ),
+      ),
+    );
+  }
+}
 
 class SettingsPage extends StatefulWidget {
   const SettingsPage({super.key});
@@ -1195,6 +1442,31 @@ class SettingsPage extends StatefulWidget {
 class _SettingsPageState
     extends State<SettingsPage> {
   bool isResetting = false;
+  bool isLoadingDirection = true;
+  CardDirection cardDirection = CardDirection.swedishToEnglish;
+
+  @override
+  void initState() {
+    super.initState();
+    loadDirectionSetting();
+  }
+
+  Future<void> loadDirectionSetting() async {
+    final loadedDirection = await loadCardDirection();
+    if (!mounted) return;
+
+    setState(() {
+      cardDirection = loadedDirection;
+      isLoadingDirection = false;
+    });
+  }
+
+  Future<void> changeCardDirection(CardDirection direction) async {
+    setState(() {
+      cardDirection = direction;
+    });
+    await saveCardDirection(direction);
+  }
 
   Future<void> confirmReset() async {
     final firstConfirmation =
@@ -1347,6 +1619,101 @@ class _SettingsPageState
                   ),
 
                   const SizedBox(height: 40),
+
+                  const SectionTitle(
+                    title: 'CARD DIRECTION',
+                  ),
+                  const SizedBox(height: 12),
+
+                  Card(
+                    child: isLoadingDirection
+                        ? const Padding(
+                            padding: EdgeInsets.all(24),
+                            child: Center(child: CircularProgressIndicator()),
+                          )
+                        : Column(
+                            children: [
+                              RadioListTile<CardDirection>(
+                                value: CardDirection.swedishToEnglish,
+                                groupValue: cardDirection,
+                                onChanged: (value) {
+                                  if (value != null) {
+                                    changeCardDirection(value);
+                                  }
+                                },
+                                title: const Text(
+                                  'Swedish → English',
+                                  style: TextStyle(fontWeight: FontWeight.w700),
+                                ),
+                                subtitle: const Text(
+                                  'See Swedish, recall English',
+                                ),
+                                secondary: const Text(
+                                  '🇸🇪',
+                                  style: TextStyle(fontSize: 25),
+                                ),
+                              ),
+                              const Divider(height: 1),
+                              RadioListTile<CardDirection>(
+                                value: CardDirection.englishToSwedish,
+                                groupValue: cardDirection,
+                                onChanged: (value) {
+                                  if (value != null) {
+                                    changeCardDirection(value);
+                                  }
+                                },
+                                title: const Text(
+                                  'English → Swedish',
+                                  style: TextStyle(fontWeight: FontWeight.w700),
+                                ),
+                                subtitle: const Text(
+                                  'See English, recall Swedish',
+                                ),
+                                secondary: const Text(
+                                  '🇬🇧',
+                                  style: TextStyle(fontSize: 25),
+                                ),
+                              ),
+                            ],
+                          ),
+                  ),
+
+                  const SizedBox(height: 30),
+
+                  const SectionTitle(
+                    title: 'FEEDBACK',
+                  ),
+                  const SizedBox(height: 12),
+
+                  Card(
+                    child: ListTile(
+                      onTap: () {
+                        Navigator.of(context).push(
+                          MaterialPageRoute(
+                            builder: (_) => const FeedbackPage(),
+                          ),
+                        );
+                      },
+                      leading: const Icon(
+                        Icons.feedback_outlined,
+                        size: 30,
+                      ),
+                      title: const Text(
+                        'Send Feedback',
+                        style: TextStyle(
+                          fontWeight: FontWeight.w700,
+                        ),
+                      ),
+                      subtitle: const Text(
+                        'Report a bug or suggest an improvement',
+                      ),
+                      trailing: const Icon(
+                        Icons.chevron_right_rounded,
+                      ),
+                    ),
+                  ),
+
+                  const SizedBox(height: 30),
 
                   const SectionTitle(
                     title: 'LEARNING DATA',
@@ -1945,6 +2312,9 @@ class _FlashcardPageState
 
   late Map<String, WordProgress> progress;
 
+  CardDirection cardDirection = CardDirection.swedishToEnglish;
+  bool isLoadingDirection = true;
+
   @override
   void initState() {
     super.initState();
@@ -1953,6 +2323,18 @@ class _FlashcardPageState
         Map<String, WordProgress>.from(
       widget.progress,
     );
+
+    loadDirection();
+  }
+
+  Future<void> loadDirection() async {
+    final loadedDirection = await loadCardDirection();
+    if (!mounted) return;
+
+    setState(() {
+      cardDirection = loadedDirection;
+      isLoadingDirection = false;
+    });
   }
 
   Word get currentWord =>
@@ -2095,6 +2477,20 @@ class _FlashcardPageState
 
   @override
   Widget build(BuildContext context) {
+    if (isLoadingDirection) {
+      return Scaffold(
+        appBar: AppBar(
+          title: Text(
+            widget.title,
+            style: const TextStyle(fontWeight: FontWeight.w700),
+          ),
+        ),
+        body: const SafeArea(
+          child: Center(child: CircularProgressIndicator()),
+        ),
+      );
+    }
+
     final cardProgress =
         (currentIndex + 1) / widget.words.length;
 
@@ -2316,16 +2712,18 @@ class _FlashcardPageState
   Widget _buildFlashcardFace({
     required bool showEnglish,
   }) {
+    final englishToSwedish =
+        cardDirection == CardDirection.englishToSwedish;
+
+    final showingSwedish =
+        englishToSwedish ? showEnglish : !showEnglish;
+
     return Card(
       elevation: 2,
-      shadowColor: Colors.black.withValues(
-        alpha: 0.12,
-      ),
+      shadowColor: Colors.black.withValues(alpha: 0.12),
       shape: RoundedRectangleBorder(
         borderRadius: BorderRadius.circular(24),
-        side: BorderSide(
-          color: Colors.grey.shade200,
-        ),
+        side: BorderSide(color: Colors.grey.shade200),
       ),
       child: SizedBox.expand(
         child: Padding(
@@ -2339,100 +2737,161 @@ class _FlashcardPageState
                   vertical: 6,
                 ),
                 decoration: BoxDecoration(
-                  color: showEnglish
-                      ? const Color(0xFFFFF3BF)
-                      : const Color(0xFFE3F1FA),
+                  color: showingSwedish
+                      ? const Color(0xFFE3F1FA)
+                      : const Color(0xFFFFF3BF),
                   borderRadius: BorderRadius.circular(20),
                 ),
                 child: Text(
-                  showEnglish ? 'ENGLISH' : 'SVENSKA',
+                  showingSwedish ? 'SVENSKA' : 'ENGLISH',
                   style: TextStyle(
-                    color: showEnglish
-                        ? const Color(0xFF7A5B00)
-                        : const Color(0xFF006AA7),
+                    color: showingSwedish
+                        ? const Color(0xFF006AA7)
+                        : const Color(0xFF7A5B00),
                     fontSize: 12,
                     fontWeight: FontWeight.w800,
                     letterSpacing: 0.8,
                   ),
                 ),
               ),
-
               const SizedBox(height: 28),
 
               if (!showEnglish) ...[
-                Flexible(
-                  child: FittedBox(
-                    fit: BoxFit.scaleDown,
-                    child: Text(
-                      currentWord.swedish,
-                      textAlign: TextAlign.center,
-                      style: const TextStyle(
-                        fontSize: 46,
-                        fontWeight: FontWeight.w800,
-                        letterSpacing: -0.8,
+                if (englishToSwedish)
+                  Flexible(
+                    child: FittedBox(
+                      fit: BoxFit.scaleDown,
+                      child: Text(
+                        currentWord.english,
+                        textAlign: TextAlign.center,
+                        style: const TextStyle(
+                          fontSize: 40,
+                          fontWeight: FontWeight.w800,
+                          letterSpacing: -0.5,
+                        ),
+                      ),
+                    ),
+                  )
+                else ...[
+                  Flexible(
+                    child: FittedBox(
+                      fit: BoxFit.scaleDown,
+                      child: Text(
+                        currentWord.swedish,
+                        textAlign: TextAlign.center,
+                        style: const TextStyle(
+                          fontSize: 46,
+                          fontWeight: FontWeight.w800,
+                          letterSpacing: -0.8,
+                        ),
                       ),
                     ),
                   ),
-                ),
-                if (currentWord.forms.isNotEmpty) ...[
-                  const SizedBox(height: 14),
-                  Text(
-                    currentWord.forms,
-                    textAlign: TextAlign.center,
-                    style: TextStyle(
-                      fontSize: 19,
-                      color: Colors.grey.shade600,
+                  if (currentWord.forms.isNotEmpty) ...[
+                    const SizedBox(height: 14),
+                    Text(
+                      currentWord.forms,
+                      textAlign: TextAlign.center,
+                      style: TextStyle(
+                        fontSize: 19,
+                        color: Colors.grey.shade600,
+                      ),
                     ),
-                  ),
+                  ],
                 ],
               ] else ...[
-                Flexible(
-                  child: FittedBox(
-                    fit: BoxFit.scaleDown,
-                    child: Text(
-                      currentWord.english,
-                      textAlign: TextAlign.center,
-                      style: const TextStyle(
-                        fontSize: 40,
-                        fontWeight: FontWeight.w800,
-                        letterSpacing: -0.5,
+                if (englishToSwedish) ...[
+                  Flexible(
+                    child: FittedBox(
+                      fit: BoxFit.scaleDown,
+                      child: Text(
+                        currentWord.swedish,
+                        textAlign: TextAlign.center,
+                        style: const TextStyle(
+                          fontSize: 46,
+                          fontWeight: FontWeight.w800,
+                          letterSpacing: -0.8,
+                        ),
                       ),
                     ),
                   ),
-                ),
-                const SizedBox(height: 24),
-                Container(
-                  width: 46,
-                  height: 3,
-                  decoration: BoxDecoration(
-                    color: const Color(0xFFFECC02),
-                    borderRadius: BorderRadius.circular(10),
-                  ),
-                ),
-                const SizedBox(height: 22),
-                Text(
-                  currentWord.swedish,
-                  textAlign: TextAlign.center,
-                  style: const TextStyle(
-                    fontSize: 23,
-                    fontWeight: FontWeight.w700,
-                  ),
-                ),
-                if (currentWord.forms.isNotEmpty) ...[
-                  const SizedBox(height: 7),
-                  Text(
-                    currentWord.forms,
-                    textAlign: TextAlign.center,
-                    style: TextStyle(
-                      fontSize: 17,
-                      color: Colors.grey.shade600,
+                  if (currentWord.forms.isNotEmpty) ...[
+                    const SizedBox(height: 14),
+                    Text(
+                      currentWord.forms,
+                      textAlign: TextAlign.center,
+                      style: TextStyle(
+                        fontSize: 19,
+                        color: Colors.grey.shade600,
+                      ),
+                    ),
+                  ],
+                  const SizedBox(height: 24),
+                  Container(
+                    width: 46,
+                    height: 3,
+                    decoration: BoxDecoration(
+                      color: const Color(0xFFFECC02),
+                      borderRadius: BorderRadius.circular(10),
                     ),
                   ),
+                  const SizedBox(height: 22),
+                  Text(
+                    currentWord.english,
+                    textAlign: TextAlign.center,
+                    style: const TextStyle(
+                      fontSize: 23,
+                      fontWeight: FontWeight.w700,
+                    ),
+                  ),
+                ] else ...[
+                  Flexible(
+                    child: FittedBox(
+                      fit: BoxFit.scaleDown,
+                      child: Text(
+                        currentWord.english,
+                        textAlign: TextAlign.center,
+                        style: const TextStyle(
+                          fontSize: 40,
+                          fontWeight: FontWeight.w800,
+                          letterSpacing: -0.5,
+                        ),
+                      ),
+                    ),
+                  ),
+                  const SizedBox(height: 24),
+                  Container(
+                    width: 46,
+                    height: 3,
+                    decoration: BoxDecoration(
+                      color: const Color(0xFFFECC02),
+                      borderRadius: BorderRadius.circular(10),
+                    ),
+                  ),
+                  const SizedBox(height: 22),
+                  Text(
+                    currentWord.swedish,
+                    textAlign: TextAlign.center,
+                    style: const TextStyle(
+                      fontSize: 23,
+                      fontWeight: FontWeight.w700,
+                    ),
+                  ),
+                  if (currentWord.forms.isNotEmpty) ...[
+                    const SizedBox(height: 7),
+                    Text(
+                      currentWord.forms,
+                      textAlign: TextAlign.center,
+                      style: TextStyle(
+                        fontSize: 17,
+                        color: Colors.grey.shade600,
+                      ),
+                    ),
+                  ],
                 ],
               ],
 
               const SizedBox(height: 30),
-
               Row(
                 mainAxisSize: MainAxisSize.min,
                 children: [
@@ -2459,6 +2918,7 @@ class _FlashcardPageState
       ),
     );
   }
+
 }
 
 // ============================================================
