@@ -1993,6 +1993,9 @@ class _FlashcardPageState
         widget.words.length - 1) {
       if (!mounted) return;
 
+      // Reset the flip widget completely when moving to a new word.
+      // The key used below makes the new card start from the Swedish side
+      // instead of inheriting the previous card's animation state.
       setState(() {
         currentIndex++;
         showTranslation = false;
@@ -2189,6 +2192,7 @@ class _FlashcardPageState
                                 });
                               },
                               child: TweenAnimationBuilder<double>(
+                                key: ValueKey(currentWord.id),
                                 tween: Tween<double>(
                                   begin: 0,
                                   end: showTranslation ? 1 : 0,
