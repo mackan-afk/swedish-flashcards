@@ -9,6 +9,9 @@ import 'data/word_repository.dart';
 import 'models/word.dart';
 import 'models/word_progress.dart';
 
+const String currentAppVersion = '1.1.0';
+const String lastSeenVersionKey = 'last_seen_version';
+
 void main() {
   runApp(const SwedishFlashcardsApp());
 }
@@ -510,6 +513,75 @@ class HomePage extends StatefulWidget {
 }
 
 class _HomePageState extends State<HomePage> {
+
+  Future<void> _showWhatsNewIfNeeded() async {
+    final prefs = await SharedPreferences.getInstance();
+    final lastSeenVersion = prefs.getString(lastSeenVersionKey);
+
+    if (!mounted || lastSeenVersion == currentAppVersion) {
+      return;
+    }
+
+    await showDialog<void>(
+      context: context,
+      barrierDismissible: false,
+      builder: (dialogContext) {
+        return AlertDialog(
+          title: const Row(
+            children: [
+              Expanded(
+                child: Text("What's new in SvenskaKort 🎉"),
+              ),
+            ],
+          ),
+          content: const SingleChildScrollView(
+            child: Column(
+              mainAxisSize: MainAxisSize.min,
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Text(
+                  '↔️ Card Direction',
+                  style: TextStyle(
+                    fontWeight: FontWeight.w800,
+                    fontSize: 16,
+                  ),
+                ),
+                SizedBox(height: 6),
+                Text(
+                  'You can now study Swedish → English or English → Swedish. '
+                  'Change the direction anytime in Settings.',
+                ),
+                SizedBox(height: 22),
+                Text(
+                  '💬 Send Feedback',
+                  style: TextStyle(
+                    fontWeight: FontWeight.w800,
+                    fontSize: 16,
+                  ),
+                ),
+                SizedBox(height: 6),
+                Text(
+                  'Found a bug or have an idea? You can now send feedback '
+                  'directly from Settings.',
+                ),
+              ],
+            ),
+          ),
+          actions: [
+            FilledButton(
+              onPressed: () {
+                Navigator.of(dialogContext).pop();
+              },
+              child: Text('Got it'),
+            ),
+          ],
+        );
+      },
+    );
+
+    await prefs.setString(lastSeenVersionKey, currentAppVersion);
+  }
+
   List<Word> allWords = [];
 
   Map<String, WordProgress> progress = {};
@@ -522,6 +594,10 @@ class _HomePageState extends State<HomePage> {
   void initState() {
     super.initState();
     loadAppData();
+
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      _showWhatsNewIfNeeded();
+    });
   }
 
   // ----------------------------------------------------------
