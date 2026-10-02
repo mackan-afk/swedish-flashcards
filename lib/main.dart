@@ -9,25 +9,27 @@ import 'data/word_repository.dart';
 import 'models/word.dart';
 import 'models/word_progress.dart';
 
-const String currentAppVersion = '1.1.0';
+const String currentAppVersion = '1.3.0';
 const String lastSeenVersionKey = 'last_seen_version';
+const String tutorialCompletedKey = 'tutorial_completed';
+const String helpGuideSeenVersionKey = 'help_guide_seen_version';
 
 void main() {
-  runApp(const SwedishFlashcardsApp());
+  runApp(const SvenskaKortApp());
 }
 
 // ============================================================
 // APP
 // ============================================================
 
-class SwedishFlashcardsApp extends StatelessWidget {
-  const SwedishFlashcardsApp({super.key});
+class SvenskaKortApp extends StatelessWidget {
+  const SvenskaKortApp({super.key});
 
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Swedish Flashcards',
+      title: 'SvenskaKort',
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(
           seedColor: const Color(0xFF006AA7),
@@ -518,61 +520,41 @@ class _HomePageState extends State<HomePage> {
     final prefs = await SharedPreferences.getInstance();
     final lastSeenVersion = prefs.getString(lastSeenVersionKey);
 
-    if (!mounted || lastSeenVersion == currentAppVersion) {
-      return;
-    }
+    if (!mounted || lastSeenVersion == currentAppVersion) return;
 
     await showDialog<void>(
       context: context,
       barrierDismissible: false,
       builder: (dialogContext) {
         return AlertDialog(
-          title: const Row(
-            children: [
-              Expanded(
-                child: Text("What's new in SvenskaKort 🎉"),
-              ),
-            ],
-          ),
+          title: const Text("What's new in SvenskaKort 🎉"),
           content: const SingleChildScrollView(
             child: Column(
               mainAxisSize: MainAxisSize.min,
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
-                Text(
-                  '↔️ Card Direction',
-                  style: TextStyle(
-                    fontWeight: FontWeight.w800,
-                    fontSize: 16,
-                  ),
-                ),
+                Text('Statistics', style: TextStyle(fontWeight: FontWeight.w800, fontSize: 16)),
                 SizedBox(height: 6),
-                Text(
-                  'You can now study Swedish → English or English → Swedish. '
-                  'Change the direction anytime in Settings.',
-                ),
-                SizedBox(height: 22),
-                Text(
-                  '💬 Send Feedback',
-                  style: TextStyle(
-                    fontWeight: FontWeight.w800,
-                    fontSize: 16,
-                  ),
-                ),
+                Text('Track your daily activity, overall progress and study streak.'),
+                SizedBox(height: 18),
+                Text('Card direction', style: TextStyle(fontWeight: FontWeight.w800, fontSize: 16)),
                 SizedBox(height: 6),
-                Text(
-                  'Found a bug or have an idea? You can now send feedback '
-                  'directly from Settings.',
-                ),
+                Text('Choose Swedish → English or English → Swedish in Settings.'),
+                SizedBox(height: 18),
+                Text('Feedback', style: TextStyle(fontWeight: FontWeight.w800, fontSize: 16)),
+                SizedBox(height: 6),
+                Text('You can now report a bug or send a suggestion directly from the app.'),
+                SizedBox(height: 18),
+                Text('Help Guide', style: TextStyle(fontWeight: FontWeight.w800, fontSize: 16)),
+                SizedBox(height: 6),
+                Text('The guide explains Learning, I Know and Daily Review. You can reopen it anytime in Settings.'),
               ],
             ),
           ),
           actions: [
             FilledButton(
-              onPressed: () {
-                Navigator.of(dialogContext).pop();
-              },
-              child: Text('Got it'),
+              onPressed: () => Navigator.of(dialogContext).pop(),
+              child: const Text('Got it'),
             ),
           ],
         );
@@ -582,12 +564,25 @@ class _HomePageState extends State<HomePage> {
     await prefs.setString(lastSeenVersionKey, currentAppVersion);
   }
 
+  Future<void> _showHelpGuideIfNeeded() async {
+    final prefs = await SharedPreferences.getInstance();
+    final helpGuideSeenVersion = prefs.getString(helpGuideSeenVersionKey);
+
+    if (!mounted || helpGuideSeenVersion == currentAppVersion) return;
+
+    await Navigator.of(context).push(
+      MaterialPageRoute(
+        fullscreenDialog: true,
+        builder: (_) => const TutorialPage(),
+      ),
+    );
+
+    await prefs.setString(helpGuideSeenVersionKey, currentAppVersion);
+  }
+
   List<Word> allWords = [];
-
   Map<String, WordProgress> progress = {};
-
   bool isLoading = true;
-
   String? errorMessage;
 
   @override
@@ -596,8 +591,36 @@ class _HomePageState extends State<HomePage> {
     loadAppData();
 
     WidgetsBinding.instance.addPostFrameCallback((_) {
-      _showWhatsNewIfNeeded();
+      _runStartupDialogs();
     });
+  }
+
+  Future<void> _runStartupDialogs() async {
+    final prefs = await SharedPreferences.getInstance();
+    final tutorialCompleted = prefs.getBool(tutorialCompletedKey) ?? false;
+
+    if (!mounted) return;
+
+    if (!tutorialCompleted) {
+      await Navigator.of(context).push(
+        MaterialPageRoute(
+          fullscreenDialog: true,
+          builder: (_) => const TutorialPage(),
+        ),
+      );
+
+      // New users have already seen the Help Guide as onboarding.
+      // Do not immediately show release notes or the guide again.
+      await prefs.setString(lastSeenVersionKey, currentAppVersion);
+      await prefs.setString(helpGuideSeenVersionKey, currentAppVersion);
+      return;
+    }
+
+    if (!mounted) return;
+    await _showWhatsNewIfNeeded();
+
+    if (!mounted) return;
+    await _showHelpGuideIfNeeded();
   }
 
   // ----------------------------------------------------------
@@ -898,7 +921,7 @@ class _HomePageState extends State<HomePage> {
                               CrossAxisAlignment.start,
                           children: [
                             const Text(
-                              'Swedish Flashcards',
+                              'SvenskaKort',
                               style: TextStyle(
                                 fontSize: 25,
                                 fontWeight: FontWeight.w800,
@@ -1003,7 +1026,7 @@ class _HomePageState extends State<HomePage> {
 
                   const SizedBox(height: 30),
 
-                  const SectionTitle(title: 'TODAY'),
+                  const SectionTitle(title: 'DAILY REVIEW'),
                   const SizedBox(height: 12),
 
                   if (dueCount > 0)
@@ -1282,6 +1305,205 @@ Future<CardDirection> loadCardDirection() async {
 Future<void> saveCardDirection(CardDirection direction) async {
   final prefs = await SharedPreferences.getInstance();
   await prefs.setString(cardDirectionPreferenceKey, direction.name);
+}
+
+// ============================================================
+// TUTORIAL
+// ============================================================
+
+class TutorialPage extends StatefulWidget {
+  const TutorialPage({super.key});
+
+  @override
+  State<TutorialPage> createState() => _TutorialPageState();
+}
+
+class _TutorialPageState extends State<TutorialPage> {
+  final PageController _pageController = PageController();
+  int currentPage = 0;
+
+  static const int pageCount = 3;
+
+  @override
+  void dispose() {
+    _pageController.dispose();
+    super.dispose();
+  }
+
+  Future<void> _finishTutorial() async {
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.setBool(tutorialCompletedKey, true);
+
+    if (!mounted) return;
+    Navigator.of(context).pop();
+  }
+
+  void _nextPage() {
+    if (currentPage >= pageCount - 1) {
+      _finishTutorial();
+      return;
+    }
+
+    _pageController.nextPage(
+      duration: const Duration(milliseconds: 300),
+      curve: Curves.easeOutCubic,
+    );
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      body: SafeArea(
+        child: Center(
+          child: ConstrainedBox(
+            constraints: const BoxConstraints(maxWidth: 550),
+            child: Padding(
+              padding: const EdgeInsets.fromLTRB(24, 16, 24, 24),
+              child: Column(
+                children: [
+                  Align(
+                    alignment: Alignment.centerRight,
+                    child: TextButton(
+                      onPressed: _finishTutorial,
+                      child: const Text('SKIP'),
+                    ),
+                  ),
+                  Expanded(
+                    child: PageView(
+                      controller: _pageController,
+                      onPageChanged: (index) {
+                        setState(() {
+                          currentPage = index;
+                        });
+                      },
+                      children: const [
+                        TutorialSlide(
+                          icon: Icons.style_rounded,
+                          title: 'Welcome to SvenskaKort',
+                          text:
+                              'Learn Swedish vocabulary with smart flashcards. '
+                              'SvenskaKort remembers your learning progress on this device.',
+                        ),
+                        TutorialSlide(
+                          icon: Icons.psychology_outlined,
+                          title: 'Learn at your own pace',
+                          text:
+                              'Choose Learning when a word still needs practice. '
+                              'Choose I Know when you remember it, and SvenskaKort will schedule it for a future review.',
+                        ),
+                        TutorialSlide(
+                          icon: Icons.refresh_rounded,
+                          title: 'Daily Review',
+                          text:
+                              'Words return when they are due. Check Daily Review regularly '
+                              'to strengthen vocabulary over time with spaced repetition.',
+                        ),
+                      ],
+                    ),
+                  ),
+                  const SizedBox(height: 18),
+                  Row(
+                    mainAxisAlignment: MainAxisAlignment.center,
+                    children: List.generate(
+                      pageCount,
+                      (index) => AnimatedContainer(
+                        duration: const Duration(milliseconds: 200),
+                        width: currentPage == index ? 24 : 8,
+                        height: 8,
+                        margin: const EdgeInsets.symmetric(horizontal: 4),
+                        decoration: BoxDecoration(
+                          color: currentPage == index
+                              ? const Color(0xFF006AA7)
+                              : const Color(0xFFD5DCE3),
+                          borderRadius: BorderRadius.circular(20),
+                        ),
+                      ),
+                    ),
+                  ),
+                  const SizedBox(height: 24),
+                  SizedBox(
+                    width: double.infinity,
+                    child: FilledButton(
+                      onPressed: _nextPage,
+                      style: FilledButton.styleFrom(
+                        minimumSize: const Size.fromHeight(56),
+                        shape: RoundedRectangleBorder(
+                          borderRadius: BorderRadius.circular(16),
+                        ),
+                      ),
+                      child: Text(
+                        currentPage == pageCount - 1
+                            ? 'START LEARNING'
+                            : 'NEXT',
+                      ),
+                    ),
+                  ),
+                ],
+              ),
+            ),
+          ),
+        ),
+      ),
+    );
+  }
+}
+
+class TutorialSlide extends StatelessWidget {
+  final IconData icon;
+  final String title;
+  final String text;
+
+  const TutorialSlide({
+    super.key,
+    required this.icon,
+    required this.title,
+    required this.text,
+  });
+
+  @override
+  Widget build(BuildContext context) {
+    return Padding(
+      padding: const EdgeInsets.symmetric(horizontal: 8),
+      child: Column(
+        mainAxisAlignment: MainAxisAlignment.center,
+        children: [
+          Container(
+            width: 110,
+            height: 110,
+            decoration: BoxDecoration(
+              color: const Color(0xFFE3F1FA),
+              borderRadius: BorderRadius.circular(30),
+            ),
+            child: Icon(
+              icon,
+              size: 58,
+              color: const Color(0xFF006AA7),
+            ),
+          ),
+          const SizedBox(height: 34),
+          Text(
+            title,
+            textAlign: TextAlign.center,
+            style: const TextStyle(
+              fontSize: 28,
+              fontWeight: FontWeight.w800,
+              letterSpacing: -0.5,
+            ),
+          ),
+          const SizedBox(height: 18),
+          Text(
+            text,
+            textAlign: TextAlign.center,
+            style: TextStyle(
+              fontSize: 17,
+              height: 1.5,
+              color: Colors.grey.shade700,
+            ),
+          ),
+        ],
+      ),
+    );
+  }
 }
 
 // ============================================================
@@ -1752,6 +1974,42 @@ class _SettingsPageState
                               ),
                             ],
                           ),
+                  ),
+
+                  const SizedBox(height: 30),
+
+                  const SectionTitle(
+                    title: 'HELP',
+                  ),
+                  const SizedBox(height: 12),
+
+                  Card(
+                    child: ListTile(
+                      onTap: () {
+                        Navigator.of(context).push(
+                          MaterialPageRoute(
+                            fullscreenDialog: true,
+                            builder: (_) => const TutorialPage(),
+                          ),
+                        );
+                      },
+                      leading: const Icon(
+                        Icons.help_outline_rounded,
+                        size: 30,
+                      ),
+                      title: const Text(
+                        'View Tutorial Again',
+                        style: TextStyle(
+                          fontWeight: FontWeight.w700,
+                        ),
+                      ),
+                      subtitle: const Text(
+                        'See how learning and Daily Review work',
+                      ),
+                      trailing: const Icon(
+                        Icons.chevron_right_rounded,
+                      ),
+                    ),
                   ),
 
                   const SizedBox(height: 30),
@@ -3465,7 +3723,7 @@ class DailyCompleteTile
                         .start,
                 children: [
                   Text(
-                    'You\'re done for today!',
+                    'Reviews complete',
                     style: TextStyle(
                       fontSize: 18,
                       fontWeight:
@@ -3474,7 +3732,7 @@ class DailyCompleteTile
                   ),
                   SizedBox(height: 4),
                   Text(
-                    'No reviews are due.',
+                    'No scheduled reviews are due today.',
                     style: TextStyle(
                       color: Colors.grey,
                     ),

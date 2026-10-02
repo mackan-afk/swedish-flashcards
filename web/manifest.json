@@ -1,11 +1,11 @@
 {
-  "name": "Swedish Flashcards",
-  "short_name": "Swedish",
+  "name": "SvenskaKort",
+  "short_name": "SvenskaKort",
   "start_url": ".",
   "display": "standalone",
-  "background_color": "#FFFFFF",
-  "theme_color": "#1565C0",
-  "description": "Learn Swedish vocabulary with flashcards and spaced repetition.",
+  "background_color": "#F7F9FC",
+  "theme_color": "#006AA7",
+  "description": "Learn Swedish vocabulary with SvenskaKort using flashcards and spaced repetition.",
   "orientation": "portrait-primary",
   "prefer_related_applications": false,
   "icons": [
