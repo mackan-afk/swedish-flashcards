@@ -1,0 +1,722 @@
+[
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "vacation",
+    "chapter": 1,
+    "page": 17,
+    "source_pdf_page": 6,
+    "column": "right",
+    "y": 369.50341796875
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "Anledningen till att jag skriver är… The reason I’m writing",
+    "chapter": 1,
+    "page": 19,
+    "source_pdf_page": 7,
+    "column": "left",
+    "y": 750.6049194335938
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "write is…",
+    "chapter": 1,
+    "page": 19,
+    "source_pdf_page": 7,
+    "column": "right",
+    "y": 49.10492706298828
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "jag är mycket intresserad av… I am very interested in…",
+    "chapter": 1,
+    "page": 19,
+    "source_pdf_page": 7,
+    "column": "right",
+    "y": 86.00489044189453
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "one’s mind",
+    "chapter": 2,
+    "page": 27,
+    "source_pdf_page": 9,
+    "column": "right",
+    "y": 382.20343017578125
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "slower?",
+    "chapter": 2,
+    "page": 30,
+    "source_pdf_page": 10,
+    "column": "right",
+    "y": 664.9033813476562
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "here",
+    "chapter": 2,
+    "page": 33,
+    "source_pdf_page": 11,
+    "column": "right",
+    "y": 726.4034423828125
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "in…",
+    "chapter": 2,
+    "page": 33,
+    "source_pdf_page": 11,
+    "column": "right",
+    "y": 751.00341796875
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "karensdag (-en, -ar, -arna) ",
+    "chapter": 3,
+    "page": 38,
+    "source_pdf_page": 12,
+    "column": "right",
+    "y": 627.5977783203125
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "Vad hände med…? What happened with…?",
+    "chapter": 4,
+    "page": 47,
+    "source_pdf_page": 15,
+    "column": "left",
+    "y": 319.70489501953125
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "Vilken form står de i? In what form are they?",
+    "chapter": 4,
+    "page": 48,
+    "source_pdf_page": 15,
+    "column": "left",
+    "y": 393.70489501953125
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "yesterday?",
+    "chapter": 5,
+    "page": 63,
+    "source_pdf_page": 19,
+    "column": "left",
+    "y": 628.2034301757812
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "leave?",
+    "chapter": 5,
+    "page": 64,
+    "source_pdf_page": 19,
+    "column": "right",
+    "y": 443.50341796875
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "about you?",
+    "chapter": 5,
+    "page": 65,
+    "source_pdf_page": 19,
+    "column": "right",
+    "y": 591.3034057617188
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "grandmother",
+    "chapter": 5,
+    "page": 66,
+    "source_pdf_page": 20,
+    "column": "left",
+    "y": 111.20342254638672
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "snap",
+    "chapter": 5,
+    "page": 67,
+    "source_pdf_page": 20,
+    "column": "left",
+    "y": 751.00341796875
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "beet",
+    "chapter": 5,
+    "page": 71,
+    "source_pdf_page": 21,
+    "column": "right",
+    "y": 234.20343017578125
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "of parliament",
+    "chapter": 6,
+    "page": 75,
+    "source_pdf_page": 22,
+    "column": "right",
+    "y": 480.20343017578125
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "book",
+    "chapter": 6,
+    "page": 77,
+    "source_pdf_page": 22,
+    "column": "right",
+    "y": 677.4033813476562
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "issue",
+    "chapter": 6,
+    "page": 79,
+    "source_pdf_page": 23,
+    "column": "right",
+    "y": 246.70343017578125
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "with",
+    "chapter": 6,
+    "page": 81,
+    "source_pdf_page": 24,
+    "column": "left",
+    "y": 185.20343017578125
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "freedom of the press",
+    "chapter": 6,
+    "page": 82,
+    "source_pdf_page": 24,
+    "column": "left",
+    "y": 406.80340576171875
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "freedom of speech",
+    "chapter": 6,
+    "page": 82,
+    "source_pdf_page": 24,
+    "column": "left",
+    "y": 431.4034118652344
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "parliament",
+    "chapter": 6,
+    "page": 84,
+    "source_pdf_page": 24,
+    "column": "right",
+    "y": 49.703426361083984
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "of parliament",
+    "chapter": 6,
+    "page": 84,
+    "source_pdf_page": 24,
+    "column": "right",
+    "y": 74.30333709716797
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "Sami people",
+    "chapter": 7,
+    "page": 94,
+    "source_pdf_page": 27,
+    "column": "right",
+    "y": 431.00341796875
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "pancake",
+    "chapter": 7,
+    "page": 97,
+    "source_pdf_page": 28,
+    "column": "right",
+    "y": 554.2034301757812
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "have you/has (s)he worked here?",
+    "chapter": 7,
+    "page": 99,
+    "source_pdf_page": 29,
+    "column": "right",
+    "y": 123.381689453125
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "on a true story.",
+    "chapter": 7,
+    "page": 100,
+    "source_pdf_page": 29,
+    "column": "right",
+    "y": 308.20343017578125
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "climate debate",
+    "chapter": 8,
+    "page": 102,
+    "source_pdf_page": 30,
+    "column": "left",
+    "y": 480.20343017578125
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "country",
+    "chapter": 8,
+    "page": 103,
+    "source_pdf_page": 30,
+    "column": "right",
+    "y": 443.50341796875
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "daughter",
+    "chapter": 8,
+    "page": 106,
+    "source_pdf_page": 31,
+    "column": "right",
+    "y": 148.1033935546875
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "brother",
+    "chapter": 8,
+    "page": 109,
+    "source_pdf_page": 32,
+    "column": "left",
+    "y": 382.00341796875
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "countries",
+    "chapter": 8,
+    "page": 112,
+    "source_pdf_page": 32,
+    "column": "right",
+    "y": 357.6034240722656
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "School",
+    "chapter": 8,
+    "page": 114,
+    "source_pdf_page": 33,
+    "column": "left",
+    "y": 234.4034423828125
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "en sådan, ett sådant one such",
+    "chapter": 9,
+    "page": 120,
+    "source_pdf_page": 34,
+    "column": "left",
+    "y": 676.8048706054688
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "bill",
+    "chapter": 9,
+    "page": 123,
+    "source_pdf_page": 34,
+    "column": "right",
+    "y": 382.20343017578125
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "eyes, look away, act shifty",
+    "chapter": 9,
+    "page": 125,
+    "source_pdf_page": 35,
+    "column": "left",
+    "y": 603.4033813476562
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "gaze",
+    "chapter": 9,
+    "page": 126,
+    "source_pdf_page": 35,
+    "column": "right",
+    "y": 98.90343475341797
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "certification",
+    "chapter": 10,
+    "page": 134,
+    "source_pdf_page": 36,
+    "column": "right",
+    "y": 664.9033813476562
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "turn out the way one imagined.",
+    "chapter": 11,
+    "page": 149,
+    "source_pdf_page": 39,
+    "column": "right",
+    "y": 172.9034423828125
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "documented",
+    "chapter": 11,
+    "page": 149,
+    "source_pdf_page": 39,
+    "column": "right",
+    "y": 246.70343017578125
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "influence of drugs",
+    "chapter": 11,
+    "page": 150,
+    "source_pdf_page": 39,
+    "column": "right",
+    "y": 357.6034240722656
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "circumstances",
+    "chapter": 11,
+    "page": 152,
+    "source_pdf_page": 40,
+    "column": "left",
+    "y": 443.70343017578125
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "lura (-r, -de, -t) till sig ",
+    "chapter": 11,
+    "page": 157,
+    "source_pdf_page": 41,
+    "column": "left",
+    "y": 406.2001495361328
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "trip",
+    "chapter": 12,
+    "page": 161,
+    "source_pdf_page": 41,
+    "column": "right",
+    "y": 283.80340576171875
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "to…",
+    "chapter": 12,
+    "page": 170,
+    "source_pdf_page": 43,
+    "column": "left",
+    "y": 517.50341796875
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "saturday",
+    "chapter": 13,
+    "page": 171,
+    "source_pdf_page": 43,
+    "column": "left",
+    "y": 746.0015258789062
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "fastlagen lent",
+    "chapter": 13,
+    "page": 175,
+    "source_pdf_page": 44,
+    "column": "left",
+    "y": 541.3048706054688
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "before Easter",
+    "chapter": 13,
+    "page": 175,
+    "source_pdf_page": 44,
+    "column": "left",
+    "y": 701.8034057617188
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "me",
+    "chapter": 13,
+    "page": 180,
+    "source_pdf_page": 45,
+    "column": "right",
+    "y": 49.703426361083984
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "midvinternatt (-en, midvinternätter, midvinternätterna)",
+    "chapter": 13,
+    "page": 181,
+    "source_pdf_page": 45,
+    "column": "right",
+    "y": 282.99776458740234
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "mid-winter night",
+    "chapter": 13,
+    "page": 181,
+    "source_pdf_page": 45,
+    "column": "right",
+    "y": 295.304931640625
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "again?",
+    "chapter": 14,
+    "page": 191,
+    "source_pdf_page": 47,
+    "column": "left",
+    "y": 295.9034423828125
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "with anything?",
+    "chapter": 14,
+    "page": 192,
+    "source_pdf_page": 47,
+    "column": "left",
+    "y": 579.00341796875
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "do about the issue.",
+    "chapter": 14,
+    "page": 193,
+    "source_pdf_page": 47,
+    "column": "right",
+    "y": 221.9034423828125
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "nothing we can do.",
+    "chapter": 14,
+    "page": 193,
+    "source_pdf_page": 47,
+    "column": "right",
+    "y": 258.80340576171875
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "service instructions",
+    "chapter": 14,
+    "page": 196,
+    "source_pdf_page": 48,
+    "column": "left",
+    "y": 135.8033447265625
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "statistics agency",
+    "chapter": 15,
+    "page": 203,
+    "source_pdf_page": 48,
+    "column": "right",
+    "y": 721.4015502929688
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "out",
+    "chapter": 15,
+    "page": 206,
+    "source_pdf_page": 49,
+    "column": "right",
+    "y": 135.8033447265625
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "request",
+    "chapter": 15,
+    "page": 207,
+    "source_pdf_page": 49,
+    "column": "right",
+    "y": 652.6034545898438
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "of…",
+    "chapter": 15,
+    "page": 208,
+    "source_pdf_page": 50,
+    "column": "left",
+    "y": 111.20342254638672
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "structured",
+    "chapter": 15,
+    "page": 208,
+    "source_pdf_page": 50,
+    "column": "left",
+    "y": 160.4034423828125
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "brother",
+    "chapter": 16,
+    "page": 218,
+    "source_pdf_page": 51,
+    "column": "right",
+    "y": 733.7015380859375
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "brush",
+    "chapter": 16,
+    "page": 221,
+    "source_pdf_page": 52,
+    "column": "right",
+    "y": 480.4034118652344
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "iblandbo ”sometimes” cohabiting",
+    "chapter": 16,
+    "page": 227,
+    "source_pdf_page": 53,
+    "column": "right",
+    "y": 627.6049194335938
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "being",
+    "chapter": 16,
+    "page": 230,
+    "source_pdf_page": 54,
+    "column": "right",
+    "y": 332.6034240722656
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "mother",
+    "chapter": 17,
+    "page": 241,
+    "source_pdf_page": 56,
+    "column": "right",
+    "y": 406.6034240722656
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "nurse",
+    "chapter": 18,
+    "page": 248,
+    "source_pdf_page": 58,
+    "column": "left",
+    "y": 86.60338592529297
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "the window?",
+    "chapter": 18,
+    "page": 250,
+    "source_pdf_page": 58,
+    "column": "left",
+    "y": 579.00341796875
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "close the window?",
+    "chapter": 18,
+    "page": 250,
+    "source_pdf_page": 58,
+    "column": "left",
+    "y": 615.9033813476562
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "me my jacket?",
+    "chapter": 18,
+    "page": 250,
+    "source_pdf_page": 58,
+    "column": "left",
+    "y": 640.50341796875
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "close the window?",
+    "chapter": 18,
+    "page": 250,
+    "source_pdf_page": 58,
+    "column": "left",
+    "y": 665.1034545898438
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "would be good if you closed/could close the window.",
+    "chapter": 18,
+    "page": 250,
+    "source_pdf_page": 58,
+    "column": "left",
+    "y": 689.7034301757812
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "the window?",
+    "chapter": 18,
+    "page": 250,
+    "source_pdf_page": 58,
+    "column": "right",
+    "y": 111.20342254638672
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "like to close the window?",
+    "chapter": 18,
+    "page": 250,
+    "source_pdf_page": 58,
+    "column": "right",
+    "y": 135.8033447265625
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "between employers and employees",
+    "chapter": 18,
+    "page": 251,
+    "source_pdf_page": 58,
+    "column": "right",
+    "y": 308.20343017578125
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "bumped into the other day?",
+    "chapter": 18,
+    "page": 254,
+    "source_pdf_page": 59,
+    "column": "left",
+    "y": 591.3034057617188
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "ge (ett djur) mat",
+    "chapter": 18,
+    "page": 257,
+    "source_pdf_page": 60,
+    "column": "left",
+    "y": 369.1001739501953
+  },
+  {
+    "reason": "UNRESOLVED_ROW",
+    "raw": "connected",
+    "chapter": 18,
+    "page": 259,
+    "source_pdf_page": 60,
+    "column": "right",
+    "y": 98.90343475341797
+  }
+]

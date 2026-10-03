@@ -1,0 +1,1943 @@
+[
+  {
+    "status": "REVIEW",
+    "word": "i",
+    "normalized": "i",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "\"i:",
+        "ipa": "ˈiː",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "%I",
+        "ipa": "ˌɪ",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "ˈiː",
+      "ˌɪ"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "hon",
+    "normalized": "hon",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "\"h u: n",
+        "ipa": "ˈhuːn",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"h U n",
+        "ipa": "ˈhʊn",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "ˈhuːn",
+      "ˈhʊn"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "han",
+    "normalized": "han",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "\"h A: n",
+        "ipa": "ˈhɑːn",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"h a n",
+        "ipa": "ˈhan",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"h a n",
+        "ipa": "ˈhan",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "ˈhɑːn",
+      "ˈhan"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "vi",
+    "normalized": "vi",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "\"s E k s",
+        "ipa": "ˈsɛks",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"v i:",
+        "ipa": "ˈviː",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "ˈsɛks",
+      "ˈviː"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "men",
+    "normalized": "men",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "\"m E n",
+        "ipa": "ˈmɛn",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"m e: n",
+        "ipa": "ˈmeːn",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "ˈmɛn",
+      "ˈmeːn"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "sambo",
+    "normalized": "sambo",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "\"s a m b U",
+        "ipa": "ˈsambʊ",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"s a m b u:",
+        "ipa": "ˈsambuː",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "ˈsambʊ",
+      "ˈsambuː"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "son",
+    "normalized": "son",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "\"s u: n",
+        "ipa": "ˈsuːn",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"s o: n",
+        "ipa": "ˈsoːn",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "ˈsuːn",
+      "ˈsoːn"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "sedan",
+    "normalized": "sedan",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "\"s e: d a n",
+        "ipa": "ˈseːdan",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "s e \"d A: n",
+        "ipa": "seˈdɑːn",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "s e \"d a n",
+        "ipa": "seˈdan",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "ˈseːdan",
+      "seˈdɑːn",
+      "seˈdan"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "person",
+    "normalized": "person",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "\"p E: s` O n",
+        "ipa": "ˈpɛːʂɔn",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "p e \"s` u: n",
+        "ipa": "peˈʂuːn",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "ˈpɛːʂɔn",
+      "peˈʂuːn"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "kön",
+    "normalized": "kön",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "\"s' 2: n",
+        "ipa": "ˈɕøːn",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"k 2: n",
+        "ipa": "ˈkøːn",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "ˈɕøːn",
+      "ˈkøːn"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "man",
+    "normalized": "man",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "\"m a n",
+        "ipa": "ˈman",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"m A: n",
+        "ipa": "ˈmɑːn",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "ˈman",
+      "ˈmɑːn"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "ton",
+    "normalized": "ton",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "\"t O n",
+        "ipa": "ˈtɔn",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"t u: n",
+        "ipa": "ˈtuːn",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "ˈtɔn",
+      "ˈtuːn"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "vän",
+    "normalized": "vän",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "\"v E: n",
+        "ipa": "ˈvɛːn",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"v E n",
+        "ipa": "ˈvɛn",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "ˈvɛːn",
+      "ˈvɛn"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "substantiv",
+    "normalized": "substantiv",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "s u0 b s t a n \"t i: v",
+        "ipa": "sɵbstanˈtiːv",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"s u0 b s t a n %t i: v",
+        "ipa": "ˈsɵbstanˌtiːv",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"s u0 b s t a n t i: v",
+        "ipa": "ˈsɵbstantiːv",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "sɵbstanˈtiːv",
+      "ˈsɵbstanˌtiːv",
+      "ˈsɵbstantiːv"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "banan",
+    "normalized": "banan",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "\"b A: n a n",
+        "ipa": "ˈbɑːnan",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "b a \"n A: n",
+        "ipa": "baˈnɑːn",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "ˈbɑːnan",
+      "baˈnɑːn"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "sedan",
+    "normalized": "sedan",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "\"s e: d a n",
+        "ipa": "ˈseːdan",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "s e \"d A: n",
+        "ipa": "seˈdɑːn",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "s e \"d a n",
+        "ipa": "seˈdan",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "ˈseːdan",
+      "seˈdɑːn",
+      "seˈdan"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "teve",
+    "normalized": "teve",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "\"t e: v e",
+        "ipa": "ˈteːve",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"t e: %v e:",
+        "ipa": "ˈteːˌveː",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"t e: v e:",
+        "ipa": "ˈteːveː",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "ˈteːve",
+      "ˈteːˌveː",
+      "ˈteːveː"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "bredvid",
+    "normalized": "bredvid",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "b r e \"v i: d",
+        "ipa": "breˈviːd",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"b r e: %d v i: d",
+        "ipa": "ˈbreːˌdviːd",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "breˈviːd",
+      "ˈbreːˌdviːd"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "imperativ",
+    "normalized": "imperativ",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "I m p e r a \"t i: v",
+        "ipa": "ɪmperaˈtiːv",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"I m p e r a %t i: v",
+        "ipa": "ˈɪmperaˌtiːv",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"I m p e r a t i: v",
+        "ipa": "ˈɪmperatiːv",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "ɪmperaˈtiːv",
+      "ˈɪmperaˌtiːv",
+      "ˈɪmperatiːv"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "sen",
+    "normalized": "sen",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "\"s E n",
+        "ipa": "ˈsɛn",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"s e: n",
+        "ipa": "ˈseːn",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "ˈsɛn",
+      "ˈseːn"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "schack",
+    "normalized": "schack",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "\"s` a k",
+        "ipa": "ˈʂak",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"S a k",
+        "ipa": "ˈɧak",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "ˈʂak",
+      "ˈɧak"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "livs",
+    "normalized": "livs",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "\"l i: v s",
+        "ipa": "ˈliːvs",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"l I f s",
+        "ipa": "ˈlɪfs",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "ˈliːvs",
+      "ˈlɪfs"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "perfekt",
+    "normalized": "perfekt",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "p E r \"f E k t",
+        "ipa": "pɛrˈfɛkt",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "p e r \"f E k t",
+        "ipa": "perˈfɛkt",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"p E: r %f E k t",
+        "ipa": "ˈpɛːrˌfɛkt",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "pɛrˈfɛkt",
+      "perˈfɛkt",
+      "ˈpɛːrˌfɛkt"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "infinitiv",
+    "normalized": "infinitiv",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "I n f I n I \"t i: v",
+        "ipa": "ɪnfɪnɪˈtiːv",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"I n f I n I %t i: v",
+        "ipa": "ˈɪnfɪnɪˌtiːv",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "ɪnfɪnɪˈtiːv",
+      "ˈɪnfɪnɪˌtiːv"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "kort",
+    "normalized": "kort",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "\"k O t`",
+        "ipa": "ˈkɔʈ",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"k U t`",
+        "ipa": "ˈkʊʈ",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "ˈkɔʈ",
+      "ˈkʊʈ"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "kosta",
+    "normalized": "kosta",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "\"k u: s t a",
+        "ipa": "ˈkuːsta",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"k O s t a",
+        "ipa": "ˈkɔsta",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "ˈkuːsta",
+      "ˈkɔsta"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "plural",
+    "normalized": "plural",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "p l u0 \"r A: l",
+        "ipa": "plɵˈrɑːl",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"p l }: %r A: l",
+        "ipa": "ˈplʉːˌrɑːl",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "plɵˈrɑːl",
+      "ˈplʉːˌrɑːl"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "andra",
+    "normalized": "andra",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "\"a n d r a",
+        "ipa": "ˈandra",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"a n d r A:",
+        "ipa": "ˈandrɑː",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "ˈandra",
+      "ˈandrɑː"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "påse",
+    "normalized": "påse",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "\"p o: s e",
+        "ipa": "ˈpoːse",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"p o: %s E",
+        "ipa": "ˈpoːˌsɛ",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"p o: %s e:",
+        "ipa": "ˈpoːˌseː",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "ˈpoːse",
+      "ˈpoːˌsɛ",
+      "ˈpoːˌseː"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "jäst",
+    "normalized": "jäst",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "\"j E: s t",
+        "ipa": "ˈjɛːst",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"j E s t",
+        "ipa": "ˈjɛst",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "ˈjɛːst",
+      "ˈjɛst"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "kosta",
+    "normalized": "kosta",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "\"k u: s t a",
+        "ipa": "ˈkuːsta",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"k O s t a",
+        "ipa": "ˈkɔsta",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "ˈkuːsta",
+      "ˈkɔsta"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "trumpet",
+    "normalized": "trumpet",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "\"t r u0 m p e t",
+        "ipa": "ˈtrɵmpet",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "t r u0 m \"p e: t",
+        "ipa": "trɵmˈpeːt",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "ˈtrɵmpet",
+      "trɵmˈpeːt"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "hans",
+    "normalized": "hans",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "\"h A: n s",
+        "ipa": "ˈhɑːns",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"h a n s",
+        "ipa": "ˈhans",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "ˈhɑːns",
+      "ˈhans"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "omgift",
+    "normalized": "omgift",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "\"O %m j I f t",
+        "ipa": "ˈɔˌmjɪft",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"O m %j I f t",
+        "ipa": "ˈɔmˌjɪft",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "ˈɔˌmjɪft",
+      "ˈɔmˌjɪft"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "fransman",
+    "normalized": "fransman",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "\"f r a n s m a n",
+        "ipa": "ˈfransman",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"f r a n s %m a n",
+        "ipa": "ˈfransˌman",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "ˈfransman",
+      "ˈfransˌman"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "kärnteknik",
+    "normalized": "kärnteknik",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "\"s' E: n` t` e k %n i: k",
+        "ipa": "ˈɕɛːɳʈekˌniːk",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"s' E: n` t` e %k n i: k",
+        "ipa": "ˈɕɛːɳʈeˌkniːk",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "ˈɕɛːɳʈekˌniːk",
+      "ˈɕɛːɳʈeˌkniːk"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "kemi",
+    "normalized": "kemi",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "\"k e: m I",
+        "ipa": "ˈkeːmɪ",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "s' e \"m i:",
+        "ipa": "ɕeˈmiː",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "ˈkeːmɪ",
+      "ɕeˈmiː"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "Polen",
+    "normalized": "polen",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "\"p o: l e n",
+        "ipa": "ˈpoːlen",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"p u: l e n",
+        "ipa": "ˈpuːlen",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "ˈpoːlen",
+      "ˈpuːlen"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "hos",
+    "normalized": "hos",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "\"h u: s",
+        "ipa": "ˈhuːs",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"h U s",
+        "ipa": "ˈhʊs",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "ˈhuːs",
+      "ˈhʊs"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "min",
+    "normalized": "min",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "\"m i: n",
+        "ipa": "ˈmiːn",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"m I n",
+        "ipa": "ˈmɪn",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "ˈmiːn",
+      "ˈmɪn"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "din",
+    "normalized": "din",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "\"d i: n",
+        "ipa": "ˈdiːn",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"d I n",
+        "ipa": "ˈdɪn",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "ˈdiːn",
+      "ˈdɪn"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "otrolig",
+    "normalized": "otrolig",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "\"u: %t r u: l I g",
+        "ipa": "ˈuːˌtruːlɪɡ",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"u: %t r u: l I g t",
+        "ipa": "ˈuːˌtruːlɪɡt",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "ˈuːˌtruːlɪɡ",
+      "ˈuːˌtruːlɪɡt"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "oss",
+    "normalized": "oss",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "u: e s \"E s",
+        "ipa": "uːesˈɛs",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"O s",
+        "ipa": "ˈɔs",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "uːesˈɛs",
+      "ˈɔs"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "fred",
+    "normalized": "fred",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "\"f r E d",
+        "ipa": "ˈfrɛd",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"f r e: d",
+        "ipa": "ˈfreːd",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "ˈfrɛd",
+      "ˈfreːd"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "cykel",
+    "normalized": "cykel",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "\"s y: k e l",
+        "ipa": "ˈsyːkel",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"s Y k e l",
+        "ipa": "ˈsʏkel",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "ˈsyːkel",
+      "ˈsʏkel"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "slips",
+    "normalized": "slips",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "\"s l i: p s",
+        "ipa": "ˈsliːps",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"s l I p s",
+        "ipa": "ˈslɪps",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "ˈsliːps",
+      "ˈslɪps"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "rosa",
+    "normalized": "rosa",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "\"r u: s a",
+        "ipa": "ˈruːsa",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"r o: s a",
+        "ipa": "ˈroːsa",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "ˈruːsa",
+      "ˈroːsa"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "modern",
+    "normalized": "modern",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "m U \"d E: n`",
+        "ipa": "mʊˈdɛːɳ",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"m u: d e n`",
+        "ipa": "ˈmuːdeɳ",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "mʊˈdɛːɳ",
+      "ˈmuːdeɳ"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "komparativ",
+    "normalized": "komparativ",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "k O m p a r a \"t i: v",
+        "ipa": "kɔmparaˈtiːv",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"k O m p a r a %t i: v",
+        "ipa": "ˈkɔmparaˌtiːv",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "kɔmparaˈtiːv",
+      "ˈkɔmparaˌtiːv"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "kort",
+    "normalized": "kort",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "\"k O t`",
+        "ipa": "ˈkɔʈ",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"k U t`",
+        "ipa": "ˈkʊʈ",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "ˈkɔʈ",
+      "ˈkʊʈ"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "skylt",
+    "normalized": "skylt",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "\"S Y l t",
+        "ipa": "ˈɧʏlt",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"S y: l t",
+        "ipa": "ˈɧyːlt",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "ˈɧʏlt",
+      "ˈɧyːlt"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "nervös",
+    "normalized": "nervös",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "n e r \"v 2: s",
+        "ipa": "nerˈvøːs",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "n E r \"v 2: s",
+        "ipa": "nɛrˈvøːs",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "nerˈvøːs",
+      "nɛrˈvøːs"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "förbud",
+    "normalized": "förbud",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "\"f 2: r %b }: d",
+        "ipa": "ˈføːrˌbʉːd",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "f 9 r \"b }: d",
+        "ipa": "fœrˈbʉːd",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "ˈføːrˌbʉːd",
+      "fœrˈbʉːd"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "Stureplan",
+    "normalized": "stureplan",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "\"s t }: r e %p l A: n",
+        "ipa": "ˈstʉːreˌplɑːn",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"s t }: r e p l a n",
+        "ipa": "ˈstʉːreplan",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "ˈstʉːreˌplɑːn",
+      "ˈstʉːreplan"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "underlag",
+    "normalized": "underlag",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "\"u0 n d e %l` A: g",
+        "ipa": "ˈɵndeˌɭɑːɡ",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"u0 n d e r %l` A: g",
+        "ipa": "ˈɵnderˌɭɑːɡ",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "ˈɵndeˌɭɑːɡ",
+      "ˈɵnderˌɭɑːɡ"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "genom",
+    "normalized": "genom",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "\"j e: n O m",
+        "ipa": "ˈjeːnɔm",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "j e \"n o: m",
+        "ipa": "jeˈnoːm",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "ˈjeːnɔm",
+      "jeˈnoːm"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "säsongsarbetare",
+    "normalized": "säsongsarbetare",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "s E \"s O N s a r %b e: t a r e",
+        "ipa": "sɛˈsɔŋsarˌbeːtare",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "N\ts E \"s O N s a r %b e: t a r e n",
+        "ipa": "ŋsɛˈsɔŋsarˌbeːtaren",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "sɛˈsɔŋsarˌbeːtare",
+      "ŋsɛˈsɔŋsarˌbeːtaren"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "rom",
+    "normalized": "rom",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "\"r U m",
+        "ipa": "ˈrʊm",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"r o: m",
+        "ipa": "ˈroːm",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"r O m",
+        "ipa": "ˈrɔm",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "ˈrʊm",
+      "ˈroːm",
+      "ˈrɔm"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "ute",
+    "normalized": "ute",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "\"u: t e",
+        "ipa": "ˈuːte",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"}: t e",
+        "ipa": "ˈʉːte",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "ˈuːte",
+      "ˈʉːte"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "samhälle",
+    "normalized": "samhälle",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "\"s a m %h E l e",
+        "ipa": "ˈsamˌhɛle",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"s a m h E l e",
+        "ipa": "ˈsamhɛle",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "ˈsamˌhɛle",
+      "ˈsamhɛle"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "kör",
+    "normalized": "kör",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "\"s' 2: r",
+        "ipa": "ˈɕøːr",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"k 2: r",
+        "ipa": "ˈkøːr",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "ˈɕøːr",
+      "ˈkøːr"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "språkkurs",
+    "normalized": "språkkurs",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "\"s p r o: %k u0 s`",
+        "ipa": "ˈsproːˌkɵʂ",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"s p r o: k %k u0 s`",
+        "ipa": "ˈsproːkˌkɵʂ",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "ˈsproːˌkɵʂ",
+      "ˈsproːkˌkɵʂ"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "dam",
+    "normalized": "dam",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "\"d a m",
+        "ipa": "ˈdam",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"d A: m",
+        "ipa": "ˈdɑːm",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "ˈdam",
+      "ˈdɑːm"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "Rom",
+    "normalized": "rom",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "\"r U m",
+        "ipa": "ˈrʊm",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"r o: m",
+        "ipa": "ˈroːm",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"r O m",
+        "ipa": "ˈrɔm",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "ˈrʊm",
+      "ˈroːm",
+      "ˈrɔm"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "genitiv",
+    "normalized": "genitiv",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "j e: n I \"t i: v",
+        "ipa": "jeːnɪˈtiːv",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"j e: n I %t i: v",
+        "ipa": "ˈjeːnɪˌtiːv",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "jeːnɪˈtiːv",
+      "ˈjeːnɪˌtiːv"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "ton",
+    "normalized": "ton",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "\"t O n",
+        "ipa": "ˈtɔn",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"t u: n",
+        "ipa": "ˈtuːn",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "ˈtɔn",
+      "ˈtuːn"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "planet",
+    "normalized": "planet",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "\"p l A: n e t",
+        "ipa": "ˈplɑːnet",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "p l a \"n e: t",
+        "ipa": "plaˈneːt",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "ˈplɑːnet",
+      "plaˈneːt"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "ute",
+    "normalized": "ute",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "\"u: t e",
+        "ipa": "ˈuːte",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"}: t e",
+        "ipa": "ˈʉːte",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "ˈuːte",
+      "ˈʉːte"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "än",
+    "normalized": "än",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "\"E n",
+        "ipa": "ˈɛn",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "E n",
+        "ipa": "ɛn",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "ˈɛn",
+      "ɛn"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "ifall",
+    "normalized": "ifall",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "%I \"f a l",
+        "ipa": "ˌɪˈfal",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "I \"f a l",
+        "ipa": "ɪˈfal",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "ˌɪˈfal",
+      "ɪˈfal"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "Berlin",
+    "normalized": "berlin",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "b e r \"l` i: n",
+        "ipa": "berˈɭiːn",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "b E \"l` i: n",
+        "ipa": "bɛˈɭiːn",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "b E r \"l` i: n",
+        "ipa": "bɛrˈɭiːn",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "berˈɭiːn",
+      "bɛˈɭiːn",
+      "bɛrˈɭiːn"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "Obs!",
+    "normalized": "obs",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "\"O p s",
+        "ipa": "ˈɔps",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"O b s",
+        "ipa": "ˈɔbs",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "O b s e r \"v e: r a",
+        "ipa": "ɔbserˈveːra",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "ˈɔps",
+      "ˈɔbs",
+      "ɔbserˈveːra"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "lov",
+    "normalized": "lov",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "\"l o: v",
+        "ipa": "ˈloːv",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"l u: v",
+        "ipa": "ˈluːv",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "ˈloːv",
+      "ˈluːv"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "särskild",
+    "normalized": "särskild",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "\"s E: %s` I l d",
+        "ipa": "ˈsɛːˌʂɪld",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"s E: r %s` I l d",
+        "ipa": "ˈsɛːrˌʂɪld",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "ˈsɛːˌʂɪld",
+      "ˈsɛːrˌʂɪld"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "sommarlov",
+    "normalized": "sommarlov",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "\"s O m a %l` o: v",
+        "ipa": "ˈsɔmaˌɭoːv",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"s O m a %l` U v",
+        "ipa": "ˈsɔmaˌɭʊv",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "ˈsɔmaˌɭoːv",
+      "ˈsɔmaˌɭʊv"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "Japan",
+    "normalized": "japan",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "\"j A: p a n",
+        "ipa": "ˈjɑːpan",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "j a \"p A: n",
+        "ipa": "jaˈpɑːn",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "ˈjɑːpan",
+      "jaˈpɑːn"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "kollektiv",
+    "normalized": "kollektiv",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "k O l e k \"t i: v",
+        "ipa": "kɔlekˈtiːv",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"k O l e k t i: v",
+        "ipa": "ˈkɔlektiːv",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "kɔlekˈtiːv",
+      "ˈkɔlektiːv"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "tomt",
+    "normalized": "tomt",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "\"t O m t",
+        "ipa": "ˈtɔmt",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"t U m t",
+        "ipa": "ˈtʊmt",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "ˈtɔmt",
+      "ˈtʊmt"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "murad",
+    "normalized": "murad",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "m u0 \"r a d",
+        "ipa": "mɵˈrad",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"m }: r a d",
+        "ipa": "ˈmʉːrad",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "mɵˈrad",
+      "ˈmʉːrad"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "gråbeige",
+    "normalized": "gråbeige",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "\"g r o: %b e: s` e",
+        "ipa": "ˈɡroːˌbeːʂe",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"g r o: %b e: s`",
+        "ipa": "ˈɡroːˌbeːʂ",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "ˈɡroːˌbeːʂe",
+      "ˈɡroːˌbeːʂ"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "hals",
+    "normalized": "hals",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "\"h a l s",
+        "ipa": "ˈhals",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"h A: l s",
+        "ipa": "ˈhɑːls",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "ˈhals",
+      "ˈhɑːls"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "vad",
+    "normalized": "vad",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "\"v A: d",
+        "ipa": "ˈvɑːd",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"v a d",
+        "ipa": "ˈvad",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "ˈvɑːd",
+      "ˈvad"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "ben",
+    "normalized": "ben",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "\"b E n",
+        "ipa": "ˈbɛn",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "\"b e: n",
+        "ipa": "ˈbeːn",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "ˈbɛn",
+      "ˈbeːn"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "succé",
+    "normalized": "succé",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "s u0 k \"s e:",
+        "ipa": "sɵkˈseː",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "s u0 k \"s E",
+        "ipa": "sɵkˈsɛ",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "sɵkˈseː",
+      "sɵkˈsɛ"
+    ]
+  },
+  {
+    "status": "REVIEW",
+    "word": "fossil",
+    "normalized": "fossil",
+    "word_count": 1,
+    "pronunciations": [
+      {
+        "sampa": "f U \"s i: l",
+        "ipa": "fʊˈsiːl",
+        "unknown_symbols": []
+      },
+      {
+        "sampa": "f O \"s i: l",
+        "ipa": "fɔˈsiːl",
+        "unknown_symbols": []
+      }
+    ],
+    "distinct_ipa": [
+      "fʊˈsiːl",
+      "fɔˈsiːl"
+    ]
+  }
+]

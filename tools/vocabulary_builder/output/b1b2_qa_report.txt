@@ -1,0 +1,718 @@
+==============================================================================
+B1-B2 FINAL QA REPORT
+==============================================================================
+
+SUMMARY
+------------------------------------------------------------------------------
+Total cards:                 6164
+Structural errors:           0
+Structural warnings:         0
+Suspicious records:          5
+Exact duplicate groups:      160
+Same SW+EN groups:           196
+Same Swedish groups:         322
+Manual fixed cards:          146
+Manual added cards:          15
+
+STRUCTURAL ERRORS
+------------------------------------------------------------------------------
+NONE
+
+STRUCTURAL WARNINGS
+------------------------------------------------------------------------------
+NONE
+
+PARSE METHODS
+------------------------------------------------------------------------------
+MANUAL_REVIEW                  15
+MANUAL_REVIEW_FIXED            146
+MORPHOLOGY_FALLBACK            69
+UNICODE_SEPARATOR              5934
+
+CHAPTER DISTRIBUTION
+------------------------------------------------------------------------------
+Chapter  1:  741 cards | book pages 8 - 19
+Chapter  2:  466 cards | book pages 20 - 33
+Chapter  3:  276 cards | book pages 34 - 45
+Chapter  4:  397 cards | book pages 46 - 58
+Chapter  5:  384 cards | book pages 59 - 72
+Chapter  6:  287 cards | book pages 73 - 85
+Chapter  7:  507 cards | book pages 86 - 100
+Chapter  8:  388 cards | book pages 101 - 115
+Chapter  9:  265 cards | book pages 116 - 130
+Chapter 10:  254 cards | book pages 131 - 143
+Chapter 11:  270 cards | book pages 144 - 157
+Chapter 12:  212 cards | book pages 158 - 170
+Chapter 13:  325 cards | book pages 171 - 187
+Chapter 14:  204 cards | book pages 188 - 201
+Chapter 15:  306 cards | book pages 202 - 216
+Chapter 16:  304 cards | book pages 217 - 231
+Chapter 17:  308 cards | book pages 232 - 246
+Chapter 18:  270 cards | book pages 247 - 259
+
+SUSPICIOUS RECORD TYPES
+------------------------------------------------------------------------------
+TRAILING_HYPHEN                2
+VERY_SHORT_SWEDISH             2
+SUSPICIOUS_TEXT                1
+
+EXACT DUPLICATE GROUPS
+------------------------------------------------------------------------------
+
+än idag | still today | count=4
+  riv_b_1067 | ch 2 | page 29 | PDF 10
+  riv_b_2145 | ch 5 | page 70 | PDF 21
+  riv_b_3929 | ch 10 | page 142 | PDF 38
+  riv_b_5843 | ch 17 | page 243 | PDF 57
+
+först | first | count=3
+  riv_b_0303 | ch 1 | page 11 | PDF 3
+  riv_b_0444 | ch 1 | page 13 | PDF 5
+  riv_b_2339 | ch 6 | page 77 | PDF 22
+
+lycklig | happy | count=3
+  riv_b_0550 | ch 1 | page 16 | PDF 6
+  riv_b_0920 | ch 2 | page 25 | PDF 9
+  riv_b_4591 | ch 13 | page 177 | PDF 44
+
+långsam | slow | count=3
+  riv_b_0172 | ch 1 | page 9 | PDF 2
+  riv_b_0311 | ch 1 | page 11 | PDF 3
+  riv_b_1731 | ch 4 | page 53 | PDF 17
+
+mot | against | count=3
+  riv_b_1156 | ch 2 | page 31 | PDF 11
+  riv_b_2673 | ch 7 | page 90 | PDF 26
+  riv_b_3086 | ch 8 | page 102 | PDF 30
+
+styrka | strength | count=3
+  riv_b_0392 | ch 1 | page 12 | PDF 4
+  riv_b_0452 | ch 1 | page 13 | PDF 5
+  riv_b_5435 | ch 16 | page 224 | PDF 53
+
+tid | time | count=3
+  riv_b_0159 | ch 1 | page 9 | PDF 2
+  riv_b_0565 | ch 1 | page 16 | PDF 6
+  riv_b_1376 | ch 3 | page 42 | PDF 13
+
+till och med | even | count=3
+  riv_b_1160 | ch 2 | page 31 | PDF 11
+  riv_b_2947 | ch 7 | page 97 | PDF 28
+  riv_b_5762 | ch 17 | page 240 | PDF 56
+
+absolut inte | absolutely not | count=2
+  riv_b_0185 | ch 1 | page 9 | PDF 2
+  riv_b_1761 | ch 4 | page 54 | PDF 17
+
+aktiv | active | count=2
+  riv_b_1155 | ch 2 | page 31 | PDF 11
+  riv_b_2355 | ch 6 | page 77 | PDF 23
+
+alla | all | count=2
+  riv_b_0235 | ch 1 | page 10 | PDF 3
+  riv_b_0541 | ch 1 | page 16 | PDF 5
+
+allför | all too | count=2
+  riv_b_3796 | ch 10 | page 135 | PDF 37
+  riv_b_5108 | ch 15 | page 208 | PDF 50
+
+andra | other | count=2
+  riv_b_0322 | ch 1 | page 12 | PDF 3
+  riv_b_5873 | ch 17 | page 245 | PDF 57
+
+avsluta | finish | count=2
+  riv_b_0726 | ch 1 | page 19 | PDF 7
+  riv_b_3435 | ch 8 | page 115 | PDF 33
+
+barnbarn | grandchildren | count=2
+  riv_b_2295 | ch 6 | page 75 | PDF 22
+  riv_b_5544 | ch 16 | page 230 | PDF 54
+
+besöka | visit | count=2
+  riv_b_0486 | ch 1 | page 14 | PDF 5
+  riv_b_0492 | ch 1 | page 14 | PDF 5
+
+betydelse | meaning | count=2
+  riv_b_0819 | ch 2 | page 22 | PDF 8
+  riv_b_5981 | ch 18 | page 252 | PDF 58
+
+bland annat | among other things | count=2
+  riv_b_0736 | ch 1 | page 19 | PDF 7
+  riv_b_2365 | ch 6 | page 77 | PDF 23
+
+blod | blood | count=2
+  riv_b_1574 | ch 4 | page 50 | PDF 15
+  riv_b_2959 | ch 7 | page 97 | PDF 28
+
+bondesamhälle | farming society | count=2
+  riv_b_5430 | ch 16 | page 224 | PDF 53
+  riv_b_5446 | ch 16 | page 225 | PDF 53
+
+djup | deep | count=2
+  riv_b_0286 | ch 1 | page 11 | PDF 3
+  riv_b_4670 | ch 13 | page 181 | PDF 45
+
+entré | entrance | count=2
+  riv_b_1821 | ch 4 | page 57 | PDF 17
+  riv_b_3181 | ch 8 | page 103 | PDF 30
+
+erfarenhet | experience | count=2
+  riv_b_3466 | ch 9 | page 117 | PDF 33
+  riv_b_5034 | ch 15 | page 206 | PDF 49
+
+europeisk | european | count=2
+  riv_b_0649 | ch 1 | page 17 | PDF 6
+  riv_b_2070 | ch 5 | page 67 | PDF 20
+
+exportera | export | count=2
+  riv_b_1834 | ch 4 | page 57 | PDF 18
+  riv_b_2631 | ch 7 | page 89 | PDF 25
+
+faktor | factor | count=2
+  riv_b_2243 | ch 5 | page 71 | PDF 21
+  riv_b_5279 | ch 16 | page 218 | PDF 51
+
+fattig | poor | count=2
+  riv_b_1433 | ch 3 | page 44 | PDF 14
+  riv_b_5916 | ch 18 | page 249 | PDF 58
+
+fika | coffee break | count=2
+  riv_b_2873 | ch 7 | page 95 | PDF 28
+  riv_b_5844 | ch 17 | page 243 | PDF 57
+
+folk | people | count=2
+  riv_b_0504 | ch 1 | page 15 | PDF 5
+  riv_b_2670 | ch 7 | page 90 | PDF 26
+
+framför allt | above all | count=2
+  riv_b_1779 | ch 4 | page 54 | PDF 17
+  riv_b_5142 | ch 15 | page 211 | PDF 50
+
+frukt | fruit | count=2
+  riv_b_2162 | ch 5 | page 70 | PDF 21
+  riv_b_4799 | ch 14 | page 190 | PDF 47
+
+fråga | ask | count=2
+  riv_b_0025 | ch 1 | page 8 | PDF 1
+  riv_b_1076 | ch 2 | page 30 | PDF 10
+
+från början | from the beginning | count=2
+  riv_b_2825 | ch 7 | page 94 | PDF 27
+  riv_b_5581 | ch 17 | page 233 | PDF 54
+
+full | drunk | count=2
+  riv_b_4108 | ch 11 | page 151 | PDF 40
+  riv_b_4622 | ch 13 | page 178 | PDF 45
+
+funktion | function | count=2
+  riv_b_1797 | ch 4 | page 55 | PDF 17
+  riv_b_5079 | ch 15 | page 207 | PDF 49
+
+följande | following | count=2
+  riv_b_1177 | ch 2 | page 33 | PDF 11
+  riv_b_5052 | ch 15 | page 206 | PDF 49
+
+fönsterputsmedel | window cleaner | count=2
+  riv_b_5400 | ch 16 | page 222 | PDF 53
+  riv_b_5516 | ch 16 | page 229 | PDF 54
+
+fönsterskrapa | squeegee | count=2
+  riv_b_5350 | ch 16 | page 221 | PDF 52
+  riv_b_5399 | ch 16 | page 222 | PDF 53
+
+före | before | count=2
+  riv_b_0554 | ch 1 | page 16 | PDF 6
+  riv_b_2712 | ch 7 | page 91 | PDF 26
+
+förlora | lose | count=2
+  riv_b_0894 | ch 2 | page 25 | PDF 9
+  riv_b_0976 | ch 2 | page 28 | PDF 10
+
+förort | suburb | count=2
+  riv_b_1015 | ch 2 | page 28 | PDF 10
+  riv_b_5826 | ch 17 | page 243 | PDF 57
+
+först | first | count=2
+  riv_b_1981 | ch 5 | page 63 | PDF 19
+  riv_b_3352 | ch 8 | page 111 | PDF 32
+
+förstå | understand | count=2
+  riv_b_1077 | ch 2 | page 30 | PDF 10
+  riv_b_2615 | ch 7 | page 88 | PDF 25
+
+generation | generation | count=2
+  riv_b_1732 | ch 4 | page 53 | PDF 17
+  riv_b_5429 | ch 16 | page 224 | PDF 53
+
+grad | degree | count=2
+  riv_b_3668 | ch 9 | page 127 | PDF 35
+  riv_b_3687 | ch 9 | page 127 | PDF 35
+
+grafisk formgivning | graphic design | count=2
+  riv_b_3316 | ch 8 | page 109 | PDF 32
+  riv_b_5038 | ch 15 | page 206 | PDF 49
+
+grupp | group | count=2
+  riv_b_0948 | ch 2 | page 27 | PDF 9
+  riv_b_5821 | ch 17 | page 243 | PDF 57
+
+gå ut | go out | count=2
+  riv_b_0881 | ch 2 | page 24 | PDF 9
+  riv_b_3462 | ch 9 | page 117 | PDF 33
+
+göra | do | count=2
+  riv_b_0062 | ch 1 | page 8 | PDF 1
+  riv_b_0505 | ch 1 | page 15 | PDF 5
+
+hallå! | hello! | count=2
+  riv_b_0435 | ch 1 | page 13 | PDF 4
+  riv_b_1942 | ch 5 | page 62 | PDF 19
+
+hals | throat | count=2
+  riv_b_2997 | ch 7 | page 97 | PDF 29
+  riv_b_4702 | ch 13 | page 182 | PDF 46
+
+hantera | handle | count=2
+  riv_b_4948 | ch 14 | page 200 | PDF 48
+  riv_b_6128 | ch 18 | page 258 | PDF 60
+
+hets mot folkgrupp | hate speech | count=2
+  riv_b_3119 | ch 8 | page 102 | PDF 30
+  riv_b_4392 | ch 12 | page 168 | PDF 42
+
+hot | threat | count=2
+  riv_b_2089 | ch 5 | page 67 | PDF 20
+  riv_b_5926 | ch 18 | page 249 | PDF 58
+
+hundratals | hundreds | count=2
+  riv_b_1751 | ch 4 | page 54 | PDF 17
+  riv_b_5120 | ch 15 | page 209 | PDF 50
+
+hända | happen | count=2
+  riv_b_0864 | ch 2 | page 24 | PDF 8
+  riv_b_2385 | ch 6 | page 78 | PDF 23
+
+här | here | count=2
+  riv_b_0027 | ch 1 | page 8 | PDF 1
+  riv_b_0274 | ch 1 | page 10 | PDF 3
+
+hår | hair | count=2
+  riv_b_0157 | ch 1 | page 9 | PDF 2
+  riv_b_0857 | ch 2 | page 24 | PDF 8
+
+höra till | belong | count=2
+  riv_b_0891 | ch 2 | page 24 | PDF 9
+  riv_b_6075 | ch 18 | page 256 | PDF 59
+
+i allmänhet | in general | count=2
+  riv_b_1924 | ch 5 | page 60 | PDF 18
+  riv_b_4897 | ch 14 | page 196 | PDF 48
+
+i lägre grad | to a lesser extent | count=2
+  riv_b_6071 | ch 18 | page 256 | PDF 59
+  riv_b_6093 | ch 18 | page 256 | PDF 60
+
+i mitten av | in the middle of | count=2
+  riv_b_0581 | ch 1 | page 16 | PDF 6
+  riv_b_5252 | ch 15 | page 216 | PDF 51
+
+i samband med | in connection to | count=2
+  riv_b_5534 | ch 16 | page 229 | PDF 54
+  riv_b_5851 | ch 17 | page 244 | PDF 57
+
+i större utsträckning | to a greater extent | count=2
+  riv_b_6073 | ch 18 | page 256 | PDF 59
+  riv_b_6085 | ch 18 | page 256 | PDF 59
+
+inleda | initiate | count=2
+  riv_b_4028 | ch 11 | page 147 | PDF 39
+  riv_b_6023 | ch 18 | page 254 | PDF 59
+
+institution | institution | count=2
+  riv_b_5061 | ch 15 | page 206 | PDF 49
+  riv_b_6008 | ch 18 | page 253 | PDF 59
+
+julklapp | christmas present | count=2
+  riv_b_4484 | ch 13 | page 174 | PDF 43
+  riv_b_5561 | ch 16 | page 230 | PDF 54
+
+kina | china | count=2
+  riv_b_2173 | ch 5 | page 70 | PDF 21
+  riv_b_4247 | ch 12 | page 159 | PDF 41
+
+konditionalis | conditional | count=2
+  riv_b_2269 | ch 6 | page 74 | PDF 22
+  riv_b_4212 | ch 11 | page 156 | PDF 41
+
+konjak | cognac | count=2
+  riv_b_2994 | ch 7 | page 97 | PDF 29
+  riv_b_4006 | ch 11 | page 145 | PDF 39
+
+konsumtion | consumption | count=2
+  riv_b_2229 | ch 5 | page 71 | PDF 21
+  riv_b_3775 | ch 10 | page 134 | PDF 36
+
+kontakt | contact | count=2
+  riv_b_1007 | ch 2 | page 28 | PDF 10
+  riv_b_4985 | ch 15 | page 203 | PDF 48
+
+kontrollerad | controlled | count=2
+  riv_b_3600 | ch 9 | page 124 | PDF 35
+  riv_b_5993 | ch 18 | page 252 | PDF 59
+
+krascha | crash | count=2
+  riv_b_3886 | ch 10 | page 139 | PDF 37
+  riv_b_4053 | ch 11 | page 149 | PDF 39
+
+krona | crown | count=2
+  riv_b_2052 | ch 5 | page 67 | PDF 20
+  riv_b_3288 | ch 8 | page 108 | PDF 32
+
+krävande | demanding | count=2
+  riv_b_5469 | ch 16 | page 226 | PDF 53
+  riv_b_6119 | ch 18 | page 258 | PDF 60
+
+kyrka | church | count=2
+  riv_b_0960 | ch 2 | page 27 | PDF 9
+  riv_b_2790 | ch 7 | page 93 | PDF 27
+
+känna igen | recognize | count=2
+  riv_b_3221 | ch 8 | page 105 | PDF 31
+  riv_b_4111 | ch 11 | page 151 | PDF 40
+
+lansera | launch | count=2
+  riv_b_2236 | ch 5 | page 71 | PDF 21
+  riv_b_3873 | ch 10 | page 138 | PDF 37
+
+lista | list | count=2
+  riv_b_0771 | ch 2 | page 21 | PDF 8
+  riv_b_5048 | ch 15 | page 206 | PDF 49
+
+ljusare | lighter | count=2
+  riv_b_3646 | ch 9 | page 126 | PDF 35
+  riv_b_4912 | ch 14 | page 196 | PDF 48
+
+lojal | loyal | count=2
+  riv_b_0787 | ch 2 | page 21 | PDF 8
+  riv_b_6097 | ch 18 | page 257 | PDF 60
+
+läger | camp | count=2
+  riv_b_0531 | ch 1 | page 15 | PDF 5
+  riv_b_2903 | ch 7 | page 96 | PDF 28
+
+lärare | teacher | count=2
+  riv_b_2466 | ch 6 | page 81 | PDF 24
+  riv_b_5736 | ch 17 | page 239 | PDF 56
+
+löna sig | pay off | count=2
+  riv_b_4974 | ch 15 | page 202 | PDF 48
+  riv_b_4989 | ch 15 | page 203 | PDF 49
+
+mellanöstern | middle east | count=2
+  riv_b_2176 | ch 5 | page 70 | PDF 21
+  riv_b_5861 | ch 17 | page 245 | PDF 57
+
+mikro | microwave oven | count=2
+  riv_b_3482 | ch 9 | page 118 | PDF 33
+  riv_b_5915 | ch 18 | page 249 | PDF 58
+
+miljard | billion | count=2
+  riv_b_3771 | ch 10 | page 134 | PDF 36
+  riv_b_4442 | ch 13 | page 171 | PDF 43
+
+miljö | environment | count=2
+  riv_b_1852 | ch 4 | page 57 | PDF 18
+  riv_b_3040 | ch 7 | page 100 | PDF 29
+
+miljömedveten | environmentally conscious | count=2
+  riv_b_3778 | ch 10 | page 134 | PDF 36
+  riv_b_5853 | ch 17 | page 244 | PDF 57
+
+mod | courage | count=2
+  riv_b_4227 | ch 12 | page 158 | PDF 41
+  riv_b_6130 | ch 18 | page 258 | PDF 60
+
+mål | goal | count=2
+  riv_b_0381 | ch 1 | page 12 | PDF 4
+  riv_b_2075 | ch 5 | page 67 | PDF 20
+
+möte | meeting | count=2
+  riv_b_1419 | ch 3 | page 43 | PDF 14
+  riv_b_5909 | ch 18 | page 249 | PDF 58
+
+närma sig | approach | count=2
+  riv_b_1584 | ch 4 | page 50 | PDF 15
+  riv_b_4598 | ch 13 | page 178 | PDF 45
+
+nästa | next | count=2
+  riv_b_0045 | ch 1 | page 8 | PDF 1
+  riv_b_1270 | ch 3 | page 37 | PDF 12
+
+oj! | oh! | count=2
+  riv_b_0869 | ch 2 | page 24 | PDF 8
+  riv_b_3342 | ch 8 | page 110 | PDF 32
+
+olik | different | count=2
+  riv_b_0309 | ch 1 | page 11 | PDF 3
+  riv_b_0500 | ch 1 | page 15 | PDF 5
+
+olycka | accident | count=2
+  riv_b_1757 | ch 4 | page 54 | PDF 17
+  riv_b_3238 | ch 8 | page 106 | PDF 31
+
+omtyckt | well-liked | count=2
+  riv_b_3793 | ch 10 | page 135 | PDF 37
+  riv_b_4166 | ch 11 | page 154 | PDF 40
+
+ord | word | count=2
+  riv_b_0012 | ch 1 | page 8 | PDF 1
+  riv_b_3657 | ch 9 | page 126 | PDF 35
+
+organisation | organization | count=2
+  riv_b_0687 | ch 1 | page 19 | PDF 7
+  riv_b_5067 | ch 15 | page 206 | PDF 49
+
+palats | palace | count=2
+  riv_b_0974 | ch 2 | page 28 | PDF 9
+  riv_b_5831 | ch 17 | page 243 | PDF 57
+
+pizza | pizza | count=2
+  riv_b_1890 | ch 5 | page 60 | PDF 18
+  riv_b_5519 | ch 16 | page 229 | PDF 54
+
+poet | poet | count=2
+  riv_b_2562 | ch 7 | page 87 | PDF 25
+  riv_b_4741 | ch 13 | page 186 | PDF 46
+
+popcorn | popcorn | count=2
+  riv_b_1917 | ch 5 | page 60 | PDF 18
+  riv_b_5244 | ch 15 | page 215 | PDF 51
+
+preposition | preposition | count=2
+  riv_b_0316 | ch 1 | page 11 | PDF 3
+  riv_b_5423 | ch 16 | page 223 | PDF 53
+
+privat | private | count=2
+  riv_b_1004 | ch 2 | page 28 | PDF 10
+  riv_b_5522 | ch 16 | page 229 | PDF 54
+
+rasande | livid | count=2
+  riv_b_4132 | ch 11 | page 153 | PDF 40
+  riv_b_5924 | ch 18 | page 249 | PDF 58
+
+registrerad | registered | count=2
+  riv_b_3069 | ch 8 | page 101 | PDF 29
+  riv_b_3085 | ch 8 | page 102 | PDF 30
+
+rekommendera | recommend | count=2
+  riv_b_1618 | ch 4 | page 50 | PDF 16
+  riv_b_5717 | ch 17 | page 238 | PDF 56
+
+ridning | riding | count=2
+  riv_b_0349 | ch 1 | page 12 | PDF 4
+  riv_b_6112 | ch 18 | page 257 | PDF 60
+
+rike | kingdom | count=2
+  riv_b_3324 | ch 8 | page 109 | PDF 32
+  riv_b_5754 | ch 17 | page 240 | PDF 56
+
+rå | raw | count=2
+  riv_b_2933 | ch 7 | page 97 | PDF 28
+  riv_b_3004 | ch 7 | page 98 | PDF 29
+
+rådjur | deer | count=2
+  riv_b_1781 | ch 4 | page 54 | PDF 17
+  riv_b_2592 | ch 7 | page 87 | PDF 25
+
+råtta | rat | count=2
+  riv_b_1565 | ch 4 | page 49 | PDF 15
+  riv_b_2040 | ch 5 | page 66 | PDF 20
+
+röka | to smoke | count=2
+  riv_b_2097 | ch 5 | page 68 | PDF 20
+  riv_b_3570 | ch 9 | page 123 | PDF 34
+
+satsadverb | clausal adverb | count=2
+  riv_b_4250 | ch 12 | page 160 | PDF 41
+  riv_b_5421 | ch 16 | page 223 | PDF 53
+
+sex | sex | count=2
+  riv_b_2685 | ch 7 | page 90 | PDF 26
+  riv_b_3059 | ch 8 | page 101 | PDF 29
+
+skamlig | shameful | count=2
+  riv_b_1039 | ch 2 | page 29 | PDF 10
+  riv_b_5641 | ch 17 | page 234 | PDF 55
+
+skapa | create | count=2
+  riv_b_0600 | ch 1 | page 16 | PDF 6
+  riv_b_3769 | ch 10 | page 134 | PDF 36
+
+skilsmässa | divorce | count=2
+  riv_b_0897 | ch 2 | page 25 | PDF 9
+  riv_b_5927 | ch 18 | page 249 | PDF 58
+
+skinka | ham | count=2
+  riv_b_3019 | ch 7 | page 98 | PDF 29
+  riv_b_5655 | ch 17 | page 234 | PDF 55
+
+slippa | avoid, escape | count=2
+  riv_b_0533 | ch 1 | page 15 | PDF 5
+  riv_b_3461 | ch 9 | page 117 | PDF 33
+
+spela in | record | count=2
+  riv_b_1642 | ch 4 | page 52 | PDF 16
+  riv_b_2594 | ch 7 | page 87 | PDF 25
+
+spela schack | play chess | count=2
+  riv_b_0706 | ch 1 | page 19 | PDF 7
+  riv_b_1054 | ch 2 | page 29 | PDF 10
+
+stall | stable | count=2
+  riv_b_4633 | ch 13 | page 180 | PDF 45
+  riv_b_6117 | ch 18 | page 258 | PDF 60
+
+storbritannien | great britain | count=2
+  riv_b_0661 | ch 1 | page 17 | PDF 6
+  riv_b_2069 | ch 5 | page 67 | PDF 20
+
+stryka under | underline | count=2
+  riv_b_0284 | ch 1 | page 11 | PDF 3
+  riv_b_0671 | ch 1 | page 18 | PDF 7
+
+städare | cleaner | count=2
+  riv_b_1313 | ch 3 | page 39 | PDF 13
+  riv_b_5468 | ch 16 | page 226 | PDF 53
+
+stämma | be correct | count=2
+  riv_b_1264 | ch 3 | page 37 | PDF 12
+  riv_b_3532 | ch 9 | page 120 | PDF 34
+
+supinum | past perfect | count=2
+  riv_b_1534 | ch 4 | page 48 | PDF 15
+  riv_b_3007 | ch 7 | page 98 | PDF 29
+
+sur | upset | count=2
+  riv_b_1960 | ch 5 | page 62 | PDF 19
+  riv_b_5923 | ch 18 | page 249 | PDF 58
+
+svettig | sweaty | count=2
+  riv_b_0270 | ch 1 | page 10 | PDF 3
+  riv_b_2589 | ch 7 | page 87 | PDF 25
+
+symbol | symbol | count=2
+  riv_b_1738 | ch 4 | page 53 | PDF 17
+  riv_b_5437 | ch 16 | page 224 | PDF 53
+
+sämre | worse | count=2
+  riv_b_1056 | ch 2 | page 29 | PDF 10
+  riv_b_4910 | ch 14 | page 196 | PDF 48
+
+tredje | third | count=2
+  riv_b_0439 | ch 1 | page 13 | PDF 4
+  riv_b_1920 | ch 5 | page 60 | PDF 18
+
+träd | tree | count=2
+  riv_b_1693 | ch 4 | page 53 | PDF 16
+  riv_b_5669 | ch 17 | page 235 | PDF 55
+
+trähus | wooden house | count=2
+  riv_b_2807 | ch 7 | page 94 | PDF 27
+  riv_b_5829 | ch 17 | page 243 | PDF 57
+
+tung | heavy | count=2
+  riv_b_1321 | ch 3 | page 39 | PDF 13
+  riv_b_2617 | ch 7 | page 88 | PDF 25
+
+tvilling | twin | count=2
+  riv_b_3896 | ch 10 | page 141 | PDF 38
+  riv_b_6047 | ch 18 | page 255 | PDF 59
+
+tävling | competition | count=2
+  riv_b_0183 | ch 1 | page 9 | PDF 2
+  riv_b_5769 | ch 17 | page 241 | PDF 56
+
+underlig | strange | count=2
+  riv_b_3478 | ch 9 | page 118 | PDF 33
+  riv_b_5256 | ch 15 | page 216 | PDF 51
+
+uppmana | call on | count=2
+  riv_b_3145 | ch 8 | page 103 | PDF 30
+  riv_b_6103 | ch 18 | page 257 | PDF 60
+
+ur | out of | count=2
+  riv_b_0306 | ch 1 | page 11 | PDF 3
+  riv_b_3567 | ch 9 | page 123 | PDF 34
+
+utomlands | abroad | count=2
+  riv_b_1006 | ch 2 | page 28 | PDF 10
+  riv_b_2205 | ch 5 | page 71 | PDF 21
+
+varannan | every other | count=2
+  riv_b_1899 | ch 5 | page 60 | PDF 18
+  riv_b_5471 | ch 16 | page 226 | PDF 53
+
+vecka | week | count=2
+  riv_b_0318 | ch 1 | page 11 | PDF 3
+  riv_b_0586 | ch 1 | page 16 | PDF 6
+
+via | via | count=2
+  riv_b_2175 | ch 5 | page 70 | PDF 21
+  riv_b_4984 | ch 15 | page 203 | PDF 48
+
+viktig | important | count=2
+  riv_b_0421 | ch 1 | page 13 | PDF 4
+  riv_b_2703 | ch 7 | page 90 | PDF 26
+
+viska | whisper | count=2
+  riv_b_0882 | ch 2 | page 24 | PDF 9
+  riv_b_5846 | ch 17 | page 243 | PDF 57
+
+vispad | whipped | count=2
+  riv_b_2966 | ch 7 | page 97 | PDF 28
+  riv_b_3820 | ch 10 | page 136 | PDF 37
+
+viss | certain | count=2
+  riv_b_1178 | ch 2 | page 33 | PDF 11
+  riv_b_4546 | ch 13 | page 175 | PDF 44
+
+vänta | wait | count=2
+  riv_b_0425 | ch 1 | page 13 | PDF 4
+  riv_b_1032 | ch 2 | page 29 | PDF 10
+
+väska | bag | count=2
+  riv_b_1408 | ch 3 | page 42 | PDF 14
+  riv_b_3557 | ch 9 | page 123 | PDF 34
+
+ärlig | honest | count=2
+  riv_b_0782 | ch 2 | page 21 | PDF 8
+  riv_b_0902 | ch 2 | page 25 | PDF 9
+
+äta upp | eat up | count=2
+  riv_b_4796 | ch 14 | page 190 | PDF 47
+  riv_b_5763 | ch 17 | page 240 | PDF 56
+
+å ena sidan… å andra sidan | on the one hand… on the other hand | count=2
+  riv_b_1258 | ch 3 | page 37 | PDF 12
+  riv_b_5867 | ch 17 | page 245 | PDF 57
+
+ö | island | count=2
+  riv_b_2681 | ch 7 | page 90 | PDF 26
+  riv_b_3905 | ch 10 | page 141 | PDF 38
+
+öka | increase | count=2
+  riv_b_0685 | ch 1 | page 18 | PDF 7
+  riv_b_2228 | ch 5 | page 71 | PDF 21
+
+överraska | surprise | count=2
+  riv_b_1668 | ch 4 | page 52 | PDF 16
+  riv_b_5590 | ch 17 | page 233 | PDF 55
+
+MANUAL REVIEW CHECK
+------------------------------------------------------------------------------
+MANUAL_REVIEW_FIXED: 146
+MANUAL_REVIEW:       15
+
+==============================================================================
+RESULT: STRUCTURE OK - inspect QA candidate files.
+==============================================================================

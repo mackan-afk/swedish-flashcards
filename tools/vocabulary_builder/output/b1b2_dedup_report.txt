@@ -1,0 +1,1009 @@
+==============================================================================
+B1-B2 SAFE DEDUPLICATION REPORT
+==============================================================================
+
+Original cards:             6164
+Safe merged groups:         196
+Duplicate cards removed:    209
+Cards after safe dedup:     5955
+Semantic review groups:     132
+Validation errors:          0
+
+SAFE MERGE RULE
+------------------------------------------------------------------------------
+Cards were merged ONLY when normalized Swedish AND normalized English were identical.
+
+Same Swedish spelling with different English translations was NOT merged.
+
+Each merged card preserves all original Rivstart occurrences.
+
+MERGED GROUPS
+------------------------------------------------------------------------------
+
+ord -> word
+  kept: riv_b_0012
+  removed: riv_b_3657
+  chapters: 1, 9
+
+fråga -> ask
+  kept: riv_b_0025
+  removed: riv_b_1076
+  chapters: 1, 2
+
+här -> here
+  kept: riv_b_0027
+  removed: riv_b_0274
+  chapters: 1
+
+alternativ -> alternative
+  kept: riv_b_0036
+  removed: riv_b_0501
+  chapters: 1
+
+nästa -> next
+  kept: riv_b_0045
+  removed: riv_b_1270
+  chapters: 1, 3
+
+måste -> must
+  kept: riv_b_0057
+  removed: riv_b_4724
+  chapters: 1, 13
+
+göra -> do
+  kept: riv_b_0062
+  removed: riv_b_0505
+  chapters: 1
+
+läsk -> soda
+  kept: riv_b_0072
+  removed: riv_b_1895
+  chapters: 1, 5
+
+gång -> time
+  kept: riv_b_0090
+  removed: riv_b_0473
+  chapters: 1
+
+gärna -> happily
+  kept: riv_b_0112
+  removed: riv_b_0694
+  chapters: 1
+
+hår -> hair
+  kept: riv_b_0157
+  removed: riv_b_0857
+  chapters: 1, 2
+
+tid -> time
+  kept: riv_b_0159
+  removed: riv_b_0565, riv_b_1376
+  chapters: 1, 3
+
+långsam -> slow
+  kept: riv_b_0172
+  removed: riv_b_0311, riv_b_1731, riv_b_2618
+  chapters: 1, 4, 7
+
+bygga upp -> build up
+  kept: riv_b_0176
+  removed: riv_b_0251
+  chapters: 1
+
+tävling -> competition
+  kept: riv_b_0183
+  removed: riv_b_5769
+  chapters: 1, 17
+
+absolut inte -> absolutely not
+  kept: riv_b_0185
+  removed: riv_b_1761
+  chapters: 1, 4
+
+delta -> participate
+  kept: riv_b_0192
+  removed: riv_b_0483
+  chapters: 1
+
+dålig -> bad
+  kept: riv_b_0219
+  removed: riv_b_0326
+  chapters: 1
+
+alla -> all
+  kept: riv_b_0235
+  removed: riv_b_0541
+  chapters: 1
+
+roll -> role
+  kept: riv_b_0248
+  removed: riv_b_0807
+  chapters: 1, 2
+
+svettig -> sweaty
+  kept: riv_b_0270
+  removed: riv_b_2589
+  chapters: 1, 7
+
+stryka under -> underline
+  kept: riv_b_0284
+  removed: riv_b_0671
+  chapters: 1
+
+djup -> deep
+  kept: riv_b_0286
+  removed: riv_b_4670
+  chapters: 1, 13
+
+först -> first
+  kept: riv_b_0303
+  removed: riv_b_0444, riv_b_1981, riv_b_2339, riv_b_3352
+  chapters: 1, 5, 6, 8
+
+ur -> out of
+  kept: riv_b_0306
+  removed: riv_b_3567
+  chapters: 1, 9
+
+olik -> different
+  kept: riv_b_0309
+  removed: riv_b_0500
+  chapters: 1
+
+preposition -> preposition
+  kept: riv_b_0316
+  removed: riv_b_5423
+  chapters: 1, 16
+
+vecka -> week
+  kept: riv_b_0318
+  removed: riv_b_0586
+  chapters: 1
+
+andra -> other
+  kept: riv_b_0322
+  removed: riv_b_5873
+  chapters: 1, 17
+
+svensk -> Swedish
+  kept: riv_b_0334
+  removed: riv_b_0464
+  chapters: 1
+
+ridning -> riding
+  kept: riv_b_0349
+  removed: riv_b_6112
+  chapters: 1, 18
+
+mål -> goal
+  kept: riv_b_0381
+  removed: riv_b_2075
+  chapters: 1, 5
+
+styrka -> strength
+  kept: riv_b_0392
+  removed: riv_b_0452, riv_b_5435
+  chapters: 1, 16
+
+viktig -> important
+  kept: riv_b_0421
+  removed: riv_b_2703
+  chapters: 1, 7
+
+vänta -> wait
+  kept: riv_b_0425
+  removed: riv_b_1032
+  chapters: 1, 2
+
+Hallå! -> Hello!
+  kept: riv_b_0435
+  removed: riv_b_1942
+  chapters: 1, 5
+
+tredje -> third
+  kept: riv_b_0439
+  removed: riv_b_1920
+  chapters: 1, 5
+
+besöka -> visit
+  kept: riv_b_0486
+  removed: riv_b_0492
+  chapters: 1
+
+folk -> people
+  kept: riv_b_0504
+  removed: riv_b_2670
+  chapters: 1, 7
+
+rätt -> right
+  kept: riv_b_0508
+  removed: riv_b_0585
+  chapters: 1
+
+läger -> camp
+  kept: riv_b_0531
+  removed: riv_b_2903
+  chapters: 1, 7
+
+slippa -> avoid, escape
+  kept: riv_b_0533
+  removed: riv_b_3461
+  chapters: 1, 9
+
+intresse -> interest
+  kept: riv_b_0544
+  removed: riv_b_2464
+  chapters: 1, 6
+
+lycklig -> happy
+  kept: riv_b_0550
+  removed: riv_b_0920, riv_b_4591
+  chapters: 1, 2, 13
+
+före -> before
+  kept: riv_b_0554
+  removed: riv_b_2712
+  chapters: 1, 7
+
+i mitten av -> in the middle of
+  kept: riv_b_0581
+  removed: riv_b_5252
+  chapters: 1, 15
+
+skapa -> create
+  kept: riv_b_0600
+  removed: riv_b_3769
+  chapters: 1, 10
+
+europeisk -> European
+  kept: riv_b_0649
+  removed: riv_b_2070
+  chapters: 1, 5
+
+samma -> same
+  kept: riv_b_0654
+  removed: riv_b_4304
+  chapters: 1, 12
+
+Storbritannien -> Great Britain
+  kept: riv_b_0661
+  removed: riv_b_2069
+  chapters: 1, 5
+
+öka -> increase
+  kept: riv_b_0685
+  removed: riv_b_2228
+  chapters: 1, 5
+
+organisation -> organization
+  kept: riv_b_0687
+  removed: riv_b_5067
+  chapters: 1, 15
+
+spela schack -> play chess
+  kept: riv_b_0706
+  removed: riv_b_1054
+  chapters: 1, 2
+
+kort -> short
+  kept: riv_b_0709
+  removed: riv_b_2740
+  chapters: 1, 7
+
+spela dataspel -> play computer games
+  kept: riv_b_0711
+  removed: riv_b_3555
+  chapters: 1, 9
+
+avsluta -> finish
+  kept: riv_b_0726
+  removed: riv_b_3435
+  chapters: 1, 8
+
+bland annat -> among other things
+  kept: riv_b_0736
+  removed: riv_b_2365
+  chapters: 1, 6
+
+gammal -> old
+  kept: riv_b_0761
+  removed: riv_b_3688
+  chapters: 2, 9
+
+lista -> list
+  kept: riv_b_0771
+  removed: riv_b_5048
+  chapters: 2, 15
+
+problem -> problem
+  kept: riv_b_0775
+  removed: riv_b_2663
+  chapters: 2, 7
+
+ärlig -> honest
+  kept: riv_b_0782
+  removed: riv_b_0902
+  chapters: 2
+
+lojal -> loyal
+  kept: riv_b_0787
+  removed: riv_b_6097
+  chapters: 2, 18
+
+betydelse -> meaning
+  kept: riv_b_0819
+  removed: riv_b_5981
+  chapters: 2, 18
+
+hända -> happen
+  kept: riv_b_0864
+  removed: riv_b_2385
+  chapters: 2, 6
+
+Oj! -> Oh!
+  kept: riv_b_0869
+  removed: riv_b_3342
+  chapters: 2, 8
+
+gå ut -> go out
+  kept: riv_b_0881
+  removed: riv_b_2010, riv_b_3462
+  chapters: 2, 5, 9
+
+viska -> whisper
+  kept: riv_b_0882
+  removed: riv_b_5846
+  chapters: 2, 17
+
+höra till -> belong
+  kept: riv_b_0891
+  removed: riv_b_6075
+  chapters: 2, 18
+
+förlora -> lose
+  kept: riv_b_0894
+  removed: riv_b_0976
+  chapters: 2
+
+skilsmässa -> divorce
+  kept: riv_b_0897
+  removed: riv_b_5927
+  chapters: 2, 18
+
+verb -> verb
+  kept: riv_b_0935
+  removed: riv_b_1237
+  chapters: 2, 3
+
+grupp -> group
+  kept: riv_b_0948
+  removed: riv_b_5821
+  chapters: 2, 17
+
+bry sig om -> care about
+  kept: riv_b_0951
+  removed: riv_b_4550
+  chapters: 2, 13
+
+kyrka -> church
+  kept: riv_b_0960
+  removed: riv_b_2790
+  chapters: 2, 7
+
+palats -> palace
+  kept: riv_b_0974
+  removed: riv_b_5831
+  chapters: 2, 17
+
+privat -> private
+  kept: riv_b_1004
+  removed: riv_b_5522
+  chapters: 2, 16
+
+utomlands -> abroad
+  kept: riv_b_1006
+  removed: riv_b_2205
+  chapters: 2, 5
+
+kontakt -> contact
+  kept: riv_b_1007
+  removed: riv_b_4985
+  chapters: 2, 15
+
+förort -> suburb
+  kept: riv_b_1015
+  removed: riv_b_5826
+  chapters: 2, 17
+
+skamlig -> shameful
+  kept: riv_b_1039
+  removed: riv_b_5641
+  chapters: 2, 17
+
+sämre -> worse
+  kept: riv_b_1056
+  removed: riv_b_4910
+  chapters: 2, 14
+
+än idag -> still today
+  kept: riv_b_1067
+  removed: riv_b_2145, riv_b_3929, riv_b_5843
+  chapters: 2, 5, 10, 17
+
+förstå -> understand
+  kept: riv_b_1077
+  removed: riv_b_2615
+  chapters: 2, 7
+
+komma från -> come from
+  kept: riv_b_1095
+  removed: riv_b_1710
+  chapters: 2, 4
+
+aktiv -> active
+  kept: riv_b_1155
+  removed: riv_b_2355
+  chapters: 2, 6
+
+mot -> against
+  kept: riv_b_1156
+  removed: riv_b_2673, riv_b_3086
+  chapters: 2, 7, 8
+
+till och med -> even
+  kept: riv_b_1160
+  removed: riv_b_2947, riv_b_5762
+  chapters: 2, 7, 17
+
+förbli -> remain
+  kept: riv_b_1175
+  removed: riv_b_4679
+  chapters: 2, 13
+
+följande -> following
+  kept: riv_b_1177
+  removed: riv_b_5052
+  chapters: 2, 15
+
+viss -> certain
+  kept: riv_b_1178
+  removed: riv_b_4546
+  chapters: 2, 13
+
+å ena sidan… å andra sidan -> on the one hand… on the other hand
+  kept: riv_b_1258
+  removed: riv_b_5867
+  chapters: 3, 17
+
+stämma -> be correct
+  kept: riv_b_1264
+  removed: riv_b_3532
+  chapters: 3, 9
+
+förskollärare -> preschool teacher
+  kept: riv_b_1307
+  removed: riv_b_4412
+  chapters: 3, 12
+
+städare -> cleaner
+  kept: riv_b_1313
+  removed: riv_b_5468
+  chapters: 3, 16
+
+tung -> heavy
+  kept: riv_b_1321
+  removed: riv_b_2617
+  chapters: 3, 7
+
+ljus -> light
+  kept: riv_b_1403
+  removed: riv_b_4493
+  chapters: 3, 13
+
+väska -> bag
+  kept: riv_b_1408
+  removed: riv_b_3557
+  chapters: 3, 9
+
+möte -> meeting
+  kept: riv_b_1419
+  removed: riv_b_5909
+  chapters: 3, 18
+
+fattig -> poor
+  kept: riv_b_1433
+  removed: riv_b_5916
+  chapters: 3, 18
+
+misslyckande -> failure
+  kept: riv_b_1449
+  removed: riv_b_4231
+  chapters: 3, 12
+
+supinum -> past perfect
+  kept: riv_b_1534
+  removed: riv_b_3007
+  chapters: 4, 7
+
+råtta -> rat
+  kept: riv_b_1565
+  removed: riv_b_2040
+  chapters: 4, 5
+
+blod -> blood
+  kept: riv_b_1574
+  removed: riv_b_2959
+  chapters: 4, 7
+
+närma sig -> approach
+  kept: riv_b_1584
+  removed: riv_b_4598
+  chapters: 4, 13
+
+mun -> mouth
+  kept: riv_b_1603
+  removed: riv_b_5749
+  chapters: 4, 17
+
+rekommendera -> recommend
+  kept: riv_b_1618
+  removed: riv_b_5717
+  chapters: 4, 17
+
+spela in -> record
+  kept: riv_b_1642
+  removed: riv_b_2594
+  chapters: 4, 7
+
+överraska -> surprise
+  kept: riv_b_1668
+  removed: riv_b_5590
+  chapters: 4, 17
+
+träd -> tree
+  kept: riv_b_1693
+  removed: riv_b_5669
+  chapters: 4, 17
+
+ren -> reindeer
+  kept: riv_b_1720
+  removed: riv_b_2856
+  chapters: 4, 7
+
+generation -> generation
+  kept: riv_b_1732
+  removed: riv_b_5429
+  chapters: 4, 16
+
+symbol -> symbol
+  kept: riv_b_1738
+  removed: riv_b_5437
+  chapters: 4, 16
+
+ske -> occur
+  kept: riv_b_1743
+  removed: riv_b_4100
+  chapters: 4, 11
+
+hundratals -> hundreds
+  kept: riv_b_1751
+  removed: riv_b_5120
+  chapters: 4, 15
+
+olycka -> accident
+  kept: riv_b_1757
+  removed: riv_b_3238
+  chapters: 4, 8
+
+framför allt -> above all
+  kept: riv_b_1779
+  removed: riv_b_5142
+  chapters: 4, 15
+
+rådjur -> deer
+  kept: riv_b_1781
+  removed: riv_b_2592
+  chapters: 4, 7
+
+funktion -> function
+  kept: riv_b_1797
+  removed: riv_b_5079
+  chapters: 4, 15
+
+entré -> entrance
+  kept: riv_b_1821
+  removed: riv_b_3181
+  chapters: 4, 8
+
+exportera -> export
+  kept: riv_b_1834
+  removed: riv_b_2631
+  chapters: 4, 7
+
+miljö -> environment
+  kept: riv_b_1852
+  removed: riv_b_3040
+  chapters: 4, 7
+
+pizza -> pizza
+  kept: riv_b_1890
+  removed: riv_b_5519
+  chapters: 5, 16
+
+varannan -> every other
+  kept: riv_b_1899
+  removed: riv_b_5471
+  chapters: 5, 16
+
+popcorn -> popcorn
+  kept: riv_b_1917
+  removed: riv_b_5244
+  chapters: 5, 15
+
+i allmänhet -> in general
+  kept: riv_b_1924
+  removed: riv_b_4897
+  chapters: 5, 14
+
+sur -> upset
+  kept: riv_b_1960
+  removed: riv_b_5923
+  chapters: 5, 18
+
+krona -> crown
+  kept: riv_b_2052
+  removed: riv_b_3288
+  chapters: 5, 8
+
+hot -> threat
+  kept: riv_b_2089
+  removed: riv_b_5926
+  chapters: 5, 18
+
+röka -> to smoke
+  kept: riv_b_2097
+  removed: riv_b_3570
+  chapters: 5, 9
+
+frukt -> fruit
+  kept: riv_b_2162
+  removed: riv_b_4799
+  chapters: 5, 14
+
+Kina -> China
+  kept: riv_b_2173
+  removed: riv_b_4247
+  chapters: 5, 12
+
+via -> via
+  kept: riv_b_2175
+  removed: riv_b_4984
+  chapters: 5, 15
+
+Mellanöstern -> Middle East
+  kept: riv_b_2176
+  removed: riv_b_5861
+  chapters: 5, 17
+
+konsumtion -> consumption
+  kept: riv_b_2229
+  removed: riv_b_3775
+  chapters: 5, 10
+
+lansera -> launch
+  kept: riv_b_2236
+  removed: riv_b_3873
+  chapters: 5, 10
+
+faktor -> factor
+  kept: riv_b_2243
+  removed: riv_b_5279
+  chapters: 5, 16
+
+konditionalis -> conditional
+  kept: riv_b_2269
+  removed: riv_b_4212
+  chapters: 6, 11
+
+barnbarn -> grandchildren
+  kept: riv_b_2295
+  removed: riv_b_5544
+  chapters: 6, 16
+
+lärare -> teacher
+  kept: riv_b_2466
+  removed: riv_b_5736
+  chapters: 6, 17
+
+hälft -> half
+  kept: riv_b_2542
+  removed: riv_b_5874
+  chapters: 6, 17
+
+poet -> poet
+  kept: riv_b_2562
+  removed: riv_b_4741
+  chapters: 7, 13
+
+ung -> young
+  kept: riv_b_2626
+  removed: riv_b_4775
+  chapters: 7, 14
+
+Gud -> God
+  kept: riv_b_2674
+  removed: riv_b_4514
+  chapters: 7, 13
+
+ö -> island
+  kept: riv_b_2681
+  removed: riv_b_3905
+  chapters: 7, 10
+
+sex -> sex
+  kept: riv_b_2685
+  removed: riv_b_3059
+  chapters: 7, 8
+
+trähus -> wooden house
+  kept: riv_b_2807
+  removed: riv_b_5829
+  chapters: 7, 17
+
+från början -> from the beginning
+  kept: riv_b_2825
+  removed: riv_b_5581
+  chapters: 7, 17
+
+fika -> coffee break
+  kept: riv_b_2873
+  removed: riv_b_5844
+  chapters: 7, 17
+
+rå -> raw
+  kept: riv_b_2933
+  removed: riv_b_3004
+  chapters: 7
+
+vispad -> whipped
+  kept: riv_b_2966
+  removed: riv_b_3820
+  chapters: 7, 10
+
+konjak -> cognac
+  kept: riv_b_2994
+  removed: riv_b_4006
+  chapters: 7, 11
+
+hals -> throat
+  kept: riv_b_2997
+  removed: riv_b_4702
+  chapters: 7, 13
+
+skinka -> ham
+  kept: riv_b_3019
+  removed: riv_b_5655
+  chapters: 7, 17
+
+registrerad -> registered
+  kept: riv_b_3069
+  removed: riv_b_3085
+  chapters: 8
+
+hets mot folkgrupp -> hate speech
+  kept: riv_b_3119
+  removed: riv_b_4392
+  chapters: 8, 12
+
+uppmana -> call on
+  kept: riv_b_3145
+  removed: riv_b_6103
+  chapters: 8, 18
+
+känna igen -> recognize
+  kept: riv_b_3221
+  removed: riv_b_4111
+  chapters: 8, 11
+
+grafisk formgivning -> graphic design
+  kept: riv_b_3316
+  removed: riv_b_5038
+  chapters: 8, 15
+
+rike -> kingdom
+  kept: riv_b_3324
+  removed: riv_b_5754
+  chapters: 8, 17
+
+suffix -> suffix
+  kept: riv_b_3442
+  removed: riv_b_5780
+  chapters: 9, 17
+
+erfarenhet -> experience
+  kept: riv_b_3466
+  removed: riv_b_5034
+  chapters: 9, 15
+
+underlig -> strange
+  kept: riv_b_3478
+  removed: riv_b_5256
+  chapters: 9, 15
+
+mikro -> microwave oven
+  kept: riv_b_3482
+  removed: riv_b_5915
+  chapters: 9, 18
+
+kontrollerad -> controlled
+  kept: riv_b_3600
+  removed: riv_b_5993
+  chapters: 9, 18
+
+ljusare -> lighter
+  kept: riv_b_3646
+  removed: riv_b_4912
+  chapters: 9, 14
+
+grad -> degree
+  kept: riv_b_3668
+  removed: riv_b_3687
+  chapters: 9
+
+miljard -> billion
+  kept: riv_b_3771
+  removed: riv_b_4442
+  chapters: 10, 13
+
+miljömedveten -> environmentally conscious
+  kept: riv_b_3778
+  removed: riv_b_5853
+  chapters: 10, 17
+
+omtyckt -> well-liked
+  kept: riv_b_3793
+  removed: riv_b_4166
+  chapters: 10, 11
+
+allför -> all too
+  kept: riv_b_3796
+  removed: riv_b_5108
+  chapters: 10, 15
+
+krascha -> crash
+  kept: riv_b_3886
+  removed: riv_b_4053
+  chapters: 10, 11
+
+tvilling -> twin
+  kept: riv_b_3896
+  removed: riv_b_6047
+  chapters: 10, 18
+
+bryta sig in -> break in
+  kept: riv_b_3993
+  removed: riv_b_4064
+  chapters: 11
+
+kokain -> cocaine
+  kept: riv_b_3994
+  removed: riv_b_4128
+  chapters: 11
+
+inleda -> initiate
+  kept: riv_b_4028
+  removed: riv_b_6023
+  chapters: 11, 18
+
+full -> drunk
+  kept: riv_b_4108
+  removed: riv_b_4622
+  chapters: 11, 13
+
+rasande -> livid
+  kept: riv_b_4132
+  removed: riv_b_5924
+  chapters: 11, 18
+
+mod -> courage
+  kept: riv_b_4227
+  removed: riv_b_6130
+  chapters: 12, 18
+
+satsadverb -> clausal adverb
+  kept: riv_b_4250
+  removed: riv_b_5421
+  chapters: 12, 16
+
+synonym -> synonym
+  kept: riv_b_4253
+  removed: riv_b_4532
+  chapters: 12, 13
+
+sätta stopp för -> put a stop to
+  kept: riv_b_4376
+  removed: riv_b_5229
+  chapters: 12, 15
+
+julklapp -> Christmas present
+  kept: riv_b_4484
+  removed: riv_b_5561
+  chapters: 13, 16
+
+stängd -> closed
+  kept: riv_b_4554
+  removed: riv_b_5454
+  chapters: 13, 16
+
+stall -> stable
+  kept: riv_b_4633
+  removed: riv_b_6117
+  chapters: 13, 18
+
+äta upp -> eat up
+  kept: riv_b_4796
+  removed: riv_b_5763
+  chapters: 14, 17
+
+gå sönder -> break
+  kept: riv_b_4834
+  removed: riv_b_5243
+  chapters: 14, 15
+
+hantera -> handle
+  kept: riv_b_4948
+  removed: riv_b_6128
+  chapters: 14, 18
+
+löna sig -> pay off
+  kept: riv_b_4974
+  removed: riv_b_4989
+  chapters: 15
+
+institution -> institution
+  kept: riv_b_5061
+  removed: riv_b_6008
+  chapters: 15, 18
+
+fönsterskrapa -> squeegee
+  kept: riv_b_5350
+  removed: riv_b_5399
+  chapters: 16
+
+fönsterputsmedel -> window cleaner
+  kept: riv_b_5400
+  removed: riv_b_5516
+  chapters: 16
+
+bondesamhälle -> farming society
+  kept: riv_b_5430
+  removed: riv_b_5446
+  chapters: 16
+
+krävande -> demanding
+  kept: riv_b_5469
+  removed: riv_b_6119
+  chapters: 16, 18
+
+i samband med -> in connection to
+  kept: riv_b_5534
+  removed: riv_b_5851
+  chapters: 16, 17
+
+i lägre grad -> to a lesser extent
+  kept: riv_b_6071
+  removed: riv_b_6093
+  chapters: 18
+
+i större utsträckning -> to a greater extent
+  kept: riv_b_6073
+  removed: riv_b_6085
+  chapters: 18
+
+VALIDATION
+------------------------------------------------------------------------------
+OK - no validation errors.
+
+==============================================================================
+RESULT: SAFE DEDUPLICATION OK
+==============================================================================

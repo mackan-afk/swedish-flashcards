@@ -1,0 +1,2212 @@
+[
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "B1+B2 Textbok  Ordlista",
+    "chapter": 1,
+    "page": null,
+    "source_pdf_page": 1,
+    "column": "left",
+    "y": 50.321842193603516
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "sida (-n, sidor, sidorna) book page",
+    "chapter": 1,
+    "page": null,
+    "source_pdf_page": 1,
+    "column": "left",
+    "y": 128.30604553222656
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "bild (-en, -er, -erna) picture",
+    "chapter": 1,
+    "page": 8,
+    "source_pdf_page": 1,
+    "column": "left",
+    "y": 226.90513305664064
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "skriva (skriver, skrev, skrivit) write",
+    "chapter": 1,
+    "page": 8,
+    "source_pdf_page": 1,
+    "column": "left",
+    "y": 239.2051208496094
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "din (ditt, dina) your",
+    "chapter": 1,
+    "page": 8,
+    "source_pdf_page": 1,
+    "column": "left",
+    "y": 337.60606384277344
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "svarsalternativ (-et, –, -en) multiple choice answer",
+    "chapter": 1,
+    "page": 8,
+    "source_pdf_page": 1,
+    "column": "left",
+    "y": 583.6066981724331
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "stor (-t, -a) big, large",
+    "chapter": 1,
+    "page": 8,
+    "source_pdf_page": 1,
+    "column": "left",
+    "y": 731.2070068359375
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "( engelska )",
+    "chapter": 1,
+    "page": null,
+    "source_pdf_page": 1,
+    "column": "right",
+    "y": 50.30784225463867
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "kylskåp (-et, –, -en) refrigerator",
+    "chapter": 1,
+    "page": null,
+    "source_pdf_page": 1,
+    "column": "right",
+    "y": 332.40540771484376
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "påse (-n, påsar, påsarna) bag",
+    "chapter": 1,
+    "page": null,
+    "source_pdf_page": 1,
+    "column": "right",
+    "y": 369.30540161132814
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "chips (-et, –, -en) chips",
+    "chapter": 1,
+    "page": null,
+    "source_pdf_page": 1,
+    "column": "right",
+    "y": 381.605419921875
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "hus (-et, –, -en) house",
+    "chapter": 1,
+    "page": null,
+    "source_pdf_page": 1,
+    "column": "right",
+    "y": 455.40540771484376
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "löparsko (-n, -r, -rna) running shoe",
+    "chapter": 1,
+    "page": null,
+    "source_pdf_page": 1,
+    "column": "right",
+    "y": 504.6063995361328
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "1",
+    "chapter": 1,
+    "page": 9,
+    "source_pdf_page": 1,
+    "column": "right",
+    "y": 792.3109741210938
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "kilometer (-n, kilometrar, kilometrarna) kilometer",
+    "chapter": 1,
+    "page": 8,
+    "source_pdf_page": 2,
+    "column": "left",
+    "y": 85.99919128417969
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "drink (-en, -ar, -arna) a drink",
+    "chapter": 1,
+    "page": 8,
+    "source_pdf_page": 2,
+    "column": "left",
+    "y": 233.6001739501953
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "banan (-en, -er, -erna) banana",
+    "chapter": 1,
+    "page": 8,
+    "source_pdf_page": 2,
+    "column": "left",
+    "y": 491.8992126464844
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "långsam (-t, -ma) slow",
+    "chapter": 1,
+    "page": 9,
+    "source_pdf_page": 2,
+    "column": "right",
+    "y": 196.7001495361328
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "2",
+    "chapter": 1,
+    "page": 9,
+    "source_pdf_page": 2,
+    "column": "right",
+    "y": 792.3109741210938
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "motargument (-et, –, -en) counter argument",
+    "chapter": 1,
+    "page": 10,
+    "source_pdf_page": 3,
+    "column": "left",
+    "y": 406.0001678466797
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "knä (-t, -n, -na) knee",
+    "chapter": 1,
+    "page": 10,
+    "source_pdf_page": 3,
+    "column": "left",
+    "y": 467.49921875
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "understuken (understruket, understrukna) underlined",
+    "chapter": 1,
+    "page": 9,
+    "source_pdf_page": 3,
+    "column": "right",
+    "y": 61.400041580200195
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "kall (-t, -a) cold",
+    "chapter": 1,
+    "page": 11,
+    "source_pdf_page": 3,
+    "column": "right",
+    "y": 307.6001739501953
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "lyssna (-r, -de, -t) listen",
+    "chapter": 1,
+    "page": 11,
+    "source_pdf_page": 3,
+    "column": "right",
+    "y": 344.49921875
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "3",
+    "chapter": 1,
+    "page": 12,
+    "source_pdf_page": 3,
+    "column": "right",
+    "y": 792.3109741210938
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "orientering (-en) orienteering",
+    "chapter": 1,
+    "page": 10,
+    "source_pdf_page": 4,
+    "column": "left",
+    "y": 295.1017557779948
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "köra (kör, körde, kört) to cover (in running, i.e ”to cover a mile”)",
+    "chapter": 1,
+    "page": 13,
+    "source_pdf_page": 4,
+    "column": "right",
+    "y": 442.8976064828726
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "hård (hårt, hårda) hard",
+    "chapter": 1,
+    "page": 13,
+    "source_pdf_page": 4,
+    "column": "right",
+    "y": 652.0001831054688
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "serve (-n, servar, servarna) serve",
+    "chapter": 1,
+    "page": 13,
+    "source_pdf_page": 4,
+    "column": "right",
+    "y": 664.2991577148438
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "4",
+    "chapter": 1,
+    "page": 13,
+    "source_pdf_page": 4,
+    "column": "right",
+    "y": 792.3109741210938
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "släppa (släpper, släppte, släppt) let go",
+    "chapter": 1,
+    "page": 10,
+    "source_pdf_page": 5,
+    "column": "left",
+    "y": 49.100175857543945
+  },
+  {
+    "reason": "EMPTY_SIDE",
+    "raw": "ringa (-r, -de, -t) in ",
+    "swedish_raw": "ringa (-r, -de, -t) in",
+    "english_raw": "",
+    "chapter": 1,
+    "page": 14,
+    "source_pdf_page": 5,
+    "column": "left",
+    "y": 295.2992370605469
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "delta (-r, deltog, deltagit) participate",
+    "chapter": 1,
+    "page": 14,
+    "source_pdf_page": 5,
+    "column": "left",
+    "y": 590.4992309570313
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "lajv (-et, –, -en) cosplay",
+    "chapter": 1,
+    "page": 14,
+    "source_pdf_page": 5,
+    "column": "left",
+    "y": 602.7991577148438
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "5",
+    "chapter": 1,
+    "page": 16,
+    "source_pdf_page": 5,
+    "column": "right",
+    "y": 792.3109741210938
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "stad (-en, städer, städerna) city",
+    "chapter": 1,
+    "page": 14,
+    "source_pdf_page": 6,
+    "column": "left",
+    "y": 381.19920043945314
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "vacation",
+    "chapter": 1,
+    "page": 16,
+    "source_pdf_page": 6,
+    "column": "right",
+    "y": 369.50341796875
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "6",
+    "chapter": 1,
+    "page": 16,
+    "source_pdf_page": 6,
+    "column": "right",
+    "y": 792.3109741210938
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "Anledningen till att jag skriver är… The reason I’m writing",
+    "chapter": 2,
+    "page": 19,
+    "source_pdf_page": 7,
+    "column": "left",
+    "y": 750.6049194335938
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "write is…",
+    "chapter": 2,
+    "page": 16,
+    "source_pdf_page": 7,
+    "column": "right",
+    "y": 49.10492706298828
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "jag är mycket intresserad av… I am very interested in…",
+    "chapter": 2,
+    "page": 16,
+    "source_pdf_page": 7,
+    "column": "right",
+    "y": 86.00489044189453
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "7",
+    "chapter": 2,
+    "page": 20,
+    "source_pdf_page": 7,
+    "column": "right",
+    "y": 792.3109741210938
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "fashion",
+    "chapter": 2,
+    "page": 21,
+    "source_pdf_page": 8,
+    "column": "left",
+    "y": 492.70343017578125
+  },
+  {
+    "reason": "EMPTY_SIDE",
+    "raw": "sammanfatta (-r, -de, -t) ",
+    "swedish_raw": "sammanfatta (-r, -de, -t)",
+    "english_raw": "",
+    "chapter": 2,
+    "page": 24,
+    "source_pdf_page": 8,
+    "column": "right",
+    "y": 455.1977767944336
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "8",
+    "chapter": 2,
+    "page": 24,
+    "source_pdf_page": 8,
+    "column": "right",
+    "y": 792.3109741210938
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "one’s mind",
+    "chapter": 2,
+    "page": 27,
+    "source_pdf_page": 9,
+    "column": "right",
+    "y": 382.20343017578125
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "9",
+    "chapter": 2,
+    "page": 28,
+    "source_pdf_page": 9,
+    "column": "right",
+    "y": 792.3109741210938
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "Sidan30",
+    "chapter": 2,
+    "page": 28,
+    "source_pdf_page": 10,
+    "column": "right",
+    "y": 578.8034057617188
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "slower?",
+    "chapter": 2,
+    "page": 28,
+    "source_pdf_page": 10,
+    "column": "right",
+    "y": 664.9033813476562
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "10",
+    "chapter": 2,
+    "page": 28,
+    "source_pdf_page": 10,
+    "column": "right",
+    "y": 792.3109741210938
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "utsikt (-en, -er, -erna) view",
+    "chapter": 2,
+    "page": 29,
+    "source_pdf_page": 11,
+    "column": "left",
+    "y": 85.99919128417969
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "culture",
+    "chapter": 2,
+    "page": 29,
+    "source_pdf_page": 11,
+    "column": "left",
+    "y": 172.70343017578125
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "konstutbildning (-en, -ar, -arna) art program",
+    "chapter": 2,
+    "page": 29,
+    "source_pdf_page": 11,
+    "column": "left",
+    "y": 307.40016174316406
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "here",
+    "chapter": 2,
+    "page": 33,
+    "source_pdf_page": 11,
+    "column": "right",
+    "y": 726.4034423828125
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "in…",
+    "chapter": 2,
+    "page": 33,
+    "source_pdf_page": 11,
+    "column": "right",
+    "y": 751.00341796875
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "11",
+    "chapter": 2,
+    "page": 33,
+    "source_pdf_page": 11,
+    "column": "right",
+    "y": 792.3109741210938
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "other hand",
+    "chapter": 3,
+    "page": 37,
+    "source_pdf_page": 12,
+    "column": "right",
+    "y": 271.30340576171875
+  },
+  {
+    "reason": "EMPTY_SIDE",
+    "raw": "skrapa (-r, -de, -t) lotter ",
+    "swedish_raw": "skrapa (-r, -de, -t) lotter",
+    "english_raw": "",
+    "chapter": 3,
+    "page": 37,
+    "source_pdf_page": 12,
+    "column": "right",
+    "y": 332.19920043945314
+  },
+  {
+    "reason": "EMPTY_SIDE",
+    "raw": "karensdag (-en, -ar, -arna) ",
+    "swedish_raw": "karensdag (-en, -ar, -arna)",
+    "english_raw": "",
+    "chapter": 3,
+    "page": 38,
+    "source_pdf_page": 12,
+    "column": "right",
+    "y": 627.5977783203125
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "12",
+    "chapter": 3,
+    "page": 38,
+    "source_pdf_page": 12,
+    "column": "right",
+    "y": 792.3109741210938
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "13",
+    "chapter": 3,
+    "page": 42,
+    "source_pdf_page": 13,
+    "column": "right",
+    "y": 792.3109741210938
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "14",
+    "chapter": 4,
+    "page": 47,
+    "source_pdf_page": 14,
+    "column": "right",
+    "y": 792.3109741210938
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "leka (med) (leker, lekte, lekt) play with",
+    "chapter": 4,
+    "page": 44,
+    "source_pdf_page": 15,
+    "column": "left",
+    "y": 85.9994626726423
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "fågel (fågeln, fåglar, fåglarna) bird",
+    "chapter": 4,
+    "page": 44,
+    "source_pdf_page": 15,
+    "column": "left",
+    "y": 282.7992370605469
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "katt (-en, -er, -erna) cat",
+    "chapter": 4,
+    "page": 44,
+    "source_pdf_page": 15,
+    "column": "left",
+    "y": 295.09922485351564
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "Vad hände med…? What happened with…?",
+    "chapter": 4,
+    "page": 44,
+    "source_pdf_page": 15,
+    "column": "left",
+    "y": 319.70489501953125
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "form (-en, -er, -erna) form",
+    "chapter": 4,
+    "page": 48,
+    "source_pdf_page": 15,
+    "column": "left",
+    "y": 381.3992126464844
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "Vilken form står de i? In what form are they?",
+    "chapter": 4,
+    "page": 48,
+    "source_pdf_page": 15,
+    "column": "left",
+    "y": 393.70489501953125
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "15",
+    "chapter": 4,
+    "page": 50,
+    "source_pdf_page": 15,
+    "column": "right",
+    "y": 792.3109741210938
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "16",
+    "chapter": 4,
+    "page": 53,
+    "source_pdf_page": 16,
+    "column": "right",
+    "y": 792.3109741210938
+  },
+  {
+    "reason": "EMPTY_SIDE",
+    "raw": "stöta (stöter, stötte, stött) på ",
+    "swedish_raw": "stöta (stöter, stötte, stött) på",
+    "english_raw": "",
+    "chapter": 4,
+    "page": 54,
+    "source_pdf_page": 17,
+    "column": "left",
+    "y": 639.6991821289063
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "17",
+    "chapter": 4,
+    "page": 57,
+    "source_pdf_page": 17,
+    "column": "right",
+    "y": 792.3109741210938
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "shorts (-en) shorts",
+    "chapter": 5,
+    "page": 60,
+    "source_pdf_page": 18,
+    "column": "right",
+    "y": 492.1017557779948
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "18",
+    "chapter": 5,
+    "page": 61,
+    "source_pdf_page": 18,
+    "column": "right",
+    "y": 792.3109741210938
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "myskväll (-en, -ar, -arna) cozy night at home",
+    "chapter": 5,
+    "page": 62,
+    "source_pdf_page": 19,
+    "column": "left",
+    "y": 479.80134201049805
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "yesterday?",
+    "chapter": 5,
+    "page": 63,
+    "source_pdf_page": 19,
+    "column": "left",
+    "y": 628.2034301757812
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "leave?",
+    "chapter": 5,
+    "page": 64,
+    "source_pdf_page": 19,
+    "column": "right",
+    "y": 443.50341796875
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "about you?",
+    "chapter": 5,
+    "page": 65,
+    "source_pdf_page": 19,
+    "column": "right",
+    "y": 591.3034057617188
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "19",
+    "chapter": 5,
+    "page": 66,
+    "source_pdf_page": 19,
+    "column": "right",
+    "y": 792.3109741210938
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "grandmother",
+    "chapter": 5,
+    "page": 63,
+    "source_pdf_page": 20,
+    "column": "left",
+    "y": 111.20342254638672
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "snap",
+    "chapter": 5,
+    "page": 67,
+    "source_pdf_page": 20,
+    "column": "left",
+    "y": 751.00341796875
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "alphabet)",
+    "chapter": 5,
+    "page": 70,
+    "source_pdf_page": 20,
+    "column": "right",
+    "y": 738.495361328125
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "20",
+    "chapter": 5,
+    "page": 70,
+    "source_pdf_page": 20,
+    "column": "right",
+    "y": 792.3109741210938
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "beet",
+    "chapter": 5,
+    "page": 70,
+    "source_pdf_page": 21,
+    "column": "right",
+    "y": 234.20343017578125
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "21",
+    "chapter": 5,
+    "page": 70,
+    "source_pdf_page": 21,
+    "column": "right",
+    "y": 792.3109741210938
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "follow",
+    "chapter": 6,
+    "page": 70,
+    "source_pdf_page": 22,
+    "column": "right",
+    "y": 332.6034240722656
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "of parliament",
+    "chapter": 6,
+    "page": 70,
+    "source_pdf_page": 22,
+    "column": "right",
+    "y": 480.20343017578125
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "book",
+    "chapter": 6,
+    "page": 77,
+    "source_pdf_page": 22,
+    "column": "right",
+    "y": 677.4033813476562
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "22",
+    "chapter": 6,
+    "page": 77,
+    "source_pdf_page": 22,
+    "column": "right",
+    "y": 792.3109741210938
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "issue",
+    "chapter": 6,
+    "page": 79,
+    "source_pdf_page": 23,
+    "column": "right",
+    "y": 246.70343017578125
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "farfar (farfadern, farfäder, farfäderna) paternal grandfather",
+    "chapter": 6,
+    "page": 80,
+    "source_pdf_page": 23,
+    "column": "right",
+    "y": 750.6001586914062
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "23",
+    "chapter": 6,
+    "page": 80,
+    "source_pdf_page": 23,
+    "column": "right",
+    "y": 792.3109741210938
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "with",
+    "chapter": 7,
+    "page": 81,
+    "source_pdf_page": 24,
+    "column": "left",
+    "y": 185.20343017578125
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "freedom of the press",
+    "chapter": 7,
+    "page": 82,
+    "source_pdf_page": 24,
+    "column": "left",
+    "y": 406.80340576171875
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "freedom of speech",
+    "chapter": 7,
+    "page": 82,
+    "source_pdf_page": 24,
+    "column": "left",
+    "y": 431.4034118652344
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "parliament",
+    "chapter": 7,
+    "page": 80,
+    "source_pdf_page": 24,
+    "column": "right",
+    "y": 49.703426361083984
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "of parliament",
+    "chapter": 7,
+    "page": 80,
+    "source_pdf_page": 24,
+    "column": "right",
+    "y": 74.30333709716797
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "24",
+    "chapter": 7,
+    "page": 86,
+    "source_pdf_page": 24,
+    "column": "right",
+    "y": 792.3109741210938
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "skådespelerska (-n, skådespelerskor, skådespelerskor­",
+    "chapter": 7,
+    "page": 89,
+    "source_pdf_page": 25,
+    "column": "right",
+    "y": 688.8977661132812
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "25",
+    "chapter": 7,
+    "page": 89,
+    "source_pdf_page": 25,
+    "column": "right",
+    "y": 792.3109741210938
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "one’s normal life",
+    "chapter": 7,
+    "page": 88,
+    "source_pdf_page": 26,
+    "column": "left",
+    "y": 123.50328826904297
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "26",
+    "chapter": 7,
+    "page": 93,
+    "source_pdf_page": 26,
+    "column": "right",
+    "y": 792.3109741210938
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "Sami people",
+    "chapter": 7,
+    "page": 93,
+    "source_pdf_page": 27,
+    "column": "right",
+    "y": 431.00341796875
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "27",
+    "chapter": 7,
+    "page": 95,
+    "source_pdf_page": 27,
+    "column": "right",
+    "y": 792.3109741210938
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "pancake",
+    "chapter": 7,
+    "page": 97,
+    "source_pdf_page": 28,
+    "column": "right",
+    "y": 554.2034301757812
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "28",
+    "chapter": 7,
+    "page": 97,
+    "source_pdf_page": 28,
+    "column": "right",
+    "y": 792.3109741210938
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "have you/has (s)he worked here?",
+    "chapter": 8,
+    "page": 97,
+    "source_pdf_page": 29,
+    "column": "right",
+    "y": 123.381689453125
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "book by…",
+    "chapter": 8,
+    "page": 100,
+    "source_pdf_page": 29,
+    "column": "right",
+    "y": 283.6033935546875
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "on a true story.",
+    "chapter": 8,
+    "page": 100,
+    "source_pdf_page": 29,
+    "column": "right",
+    "y": 308.20343017578125
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "member)",
+    "chapter": 8,
+    "page": 101,
+    "source_pdf_page": 29,
+    "column": "right",
+    "y": 720.593505859375
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "29",
+    "chapter": 8,
+    "page": 101,
+    "source_pdf_page": 29,
+    "column": "right",
+    "y": 792.3109741210938
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "climate debate",
+    "chapter": 8,
+    "page": 102,
+    "source_pdf_page": 30,
+    "column": "left",
+    "y": 480.20343017578125
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "country",
+    "chapter": 8,
+    "page": 103,
+    "source_pdf_page": 30,
+    "column": "right",
+    "y": 443.50341796875
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "parliament",
+    "chapter": 8,
+    "page": 103,
+    "source_pdf_page": 30,
+    "column": "right",
+    "y": 689.50341796875
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "30",
+    "chapter": 8,
+    "page": 103,
+    "source_pdf_page": 30,
+    "column": "right",
+    "y": 792.3109741210938
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "födas (föds, föddes, fötts) to be born",
+    "chapter": 8,
+    "page": 104,
+    "source_pdf_page": 31,
+    "column": "left",
+    "y": 233.80086408342635
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "daughter",
+    "chapter": 8,
+    "page": 103,
+    "source_pdf_page": 31,
+    "column": "right",
+    "y": 148.1033935546875
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "vetenskapsman (-nen, vetenskapsmän, vetneskapsmän­",
+    "chapter": 8,
+    "page": 107,
+    "source_pdf_page": 31,
+    "column": "right",
+    "y": 418.2977828979492
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "31",
+    "chapter": 8,
+    "page": 108,
+    "source_pdf_page": 31,
+    "column": "right",
+    "y": 792.3109741210938
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "brother",
+    "chapter": 8,
+    "page": 109,
+    "source_pdf_page": 32,
+    "column": "left",
+    "y": 382.00341796875
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "countries",
+    "chapter": 8,
+    "page": 112,
+    "source_pdf_page": 32,
+    "column": "right",
+    "y": 357.6034240722656
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "32",
+    "chapter": 8,
+    "page": 112,
+    "source_pdf_page": 32,
+    "column": "right",
+    "y": 792.3109741210938
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "School",
+    "chapter": 9,
+    "page": 114,
+    "source_pdf_page": 33,
+    "column": "left",
+    "y": 234.4034423828125
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "massmedium (massmediet, massmedia, massmedia)( alt:",
+    "chapter": 9,
+    "page": 116,
+    "source_pdf_page": 33,
+    "column": "right",
+    "y": 207.89700927734376
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "33",
+    "chapter": 9,
+    "page": 118,
+    "source_pdf_page": 33,
+    "column": "right",
+    "y": 792.3109741210938
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "ears!",
+    "chapter": 9,
+    "page": 115,
+    "source_pdf_page": 34,
+    "column": "left",
+    "y": 62.003292083740234
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "en sådan, ett sådant one such",
+    "chapter": 9,
+    "page": 120,
+    "source_pdf_page": 34,
+    "column": "left",
+    "y": 676.8048706054688
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "bill",
+    "chapter": 9,
+    "page": 123,
+    "source_pdf_page": 34,
+    "column": "right",
+    "y": 382.20343017578125
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "34",
+    "chapter": 9,
+    "page": 124,
+    "source_pdf_page": 34,
+    "column": "right",
+    "y": 792.3109741210938
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "eyes, look away, act shifty",
+    "chapter": 9,
+    "page": 125,
+    "source_pdf_page": 35,
+    "column": "left",
+    "y": 603.4033813476562
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "hålla (håller, höll, hållit) still",
+    "chapter": 9,
+    "page": 125,
+    "source_pdf_page": 35,
+    "column": "left",
+    "y": 725.79921875
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "gaze",
+    "chapter": 9,
+    "page": 126,
+    "source_pdf_page": 35,
+    "column": "right",
+    "y": 98.90343475341797
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "35",
+    "chapter": 9,
+    "page": 128,
+    "source_pdf_page": 35,
+    "column": "right",
+    "y": 792.3109741210938
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "certification",
+    "chapter": 10,
+    "page": 134,
+    "source_pdf_page": 36,
+    "column": "right",
+    "y": 664.9033813476562
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "36",
+    "chapter": 10,
+    "page": 135,
+    "source_pdf_page": 36,
+    "column": "right",
+    "y": 792.3109741210938
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "Shrove Tuesday",
+    "chapter": 10,
+    "page": 136,
+    "source_pdf_page": 37,
+    "column": "left",
+    "y": 308.20343017578125
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "nyår (-et, –, -en) New Year",
+    "chapter": 10,
+    "page": 136,
+    "source_pdf_page": 37,
+    "column": "left",
+    "y": 565.900146484375
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "koka (-r, -de, -t) to boil",
+    "chapter": 10,
+    "page": 137,
+    "source_pdf_page": 37,
+    "column": "left",
+    "y": 738.3001708984375
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "paj (-en, -er, -erna) pie",
+    "chapter": 10,
+    "page": 137,
+    "source_pdf_page": 37,
+    "column": "left",
+    "y": 750.5992065429688
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "interest",
+    "chapter": 10,
+    "page": 138,
+    "source_pdf_page": 37,
+    "column": "right",
+    "y": 222.1033935546875
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "37",
+    "chapter": 10,
+    "page": 140,
+    "source_pdf_page": 37,
+    "column": "right",
+    "y": 792.3109741210938
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "konstmuseum (konstmuseet, konstmuseer, konstmuseer­",
+    "chapter": 11,
+    "page": 141,
+    "source_pdf_page": 38,
+    "column": "left",
+    "y": 282.79781341552734
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "38",
+    "chapter": 11,
+    "page": 145,
+    "source_pdf_page": 38,
+    "column": "right",
+    "y": 792.3109741210938
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "daughter)",
+    "chapter": 11,
+    "page": 142,
+    "source_pdf_page": 39,
+    "column": "left",
+    "y": 135.19534301757812
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "turn out the way one imagined.",
+    "chapter": 11,
+    "page": 149,
+    "source_pdf_page": 39,
+    "column": "right",
+    "y": 172.9034423828125
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "documented",
+    "chapter": 11,
+    "page": 149,
+    "source_pdf_page": 39,
+    "column": "right",
+    "y": 246.70343017578125
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "influence of drugs",
+    "chapter": 11,
+    "page": 150,
+    "source_pdf_page": 39,
+    "column": "right",
+    "y": 357.6034240722656
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "39",
+    "chapter": 11,
+    "page": 150,
+    "source_pdf_page": 39,
+    "column": "right",
+    "y": 792.3109741210938
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "gripas (grips, greps, gripits) to be arrested",
+    "chapter": 11,
+    "page": 148,
+    "source_pdf_page": 40,
+    "column": "left",
+    "y": 49.10085460117885
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "postbil (-en, -ar, -arna) mail delivery van",
+    "chapter": 11,
+    "page": 151,
+    "source_pdf_page": 40,
+    "column": "left",
+    "y": 86.20077078683036
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "circumstances",
+    "chapter": 11,
+    "page": 152,
+    "source_pdf_page": 40,
+    "column": "left",
+    "y": 443.70343017578125
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "40",
+    "chapter": 11,
+    "page": 155,
+    "source_pdf_page": 40,
+    "column": "right",
+    "y": 792.3109741210938
+  },
+  {
+    "reason": "EMPTY_SIDE",
+    "raw": "lura (-r, -de, -t) till sig ",
+    "swedish_raw": "lura (-r, -de, -t) till sig",
+    "english_raw": "",
+    "chapter": 12,
+    "page": 157,
+    "source_pdf_page": 41,
+    "column": "left",
+    "y": 406.2001495361328
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "trip",
+    "chapter": 12,
+    "page": 161,
+    "source_pdf_page": 41,
+    "column": "right",
+    "y": 283.80340576171875
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "41",
+    "chapter": 12,
+    "page": 163,
+    "source_pdf_page": 41,
+    "column": "right",
+    "y": 792.3109741210938
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "law",
+    "chapter": 12,
+    "page": 166,
+    "source_pdf_page": 42,
+    "column": "left",
+    "y": 640.7034301757812
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "42",
+    "chapter": 12,
+    "page": 168,
+    "source_pdf_page": 42,
+    "column": "right",
+    "y": 792.3109741210938
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "to…",
+    "chapter": 13,
+    "page": 170,
+    "source_pdf_page": 43,
+    "column": "left",
+    "y": 517.50341796875
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "saturday",
+    "chapter": 13,
+    "page": 171,
+    "source_pdf_page": 43,
+    "column": "left",
+    "y": 746.0015258789062
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "ljus (-et, –, -en) light",
+    "chapter": 13,
+    "page": 174,
+    "source_pdf_page": 43,
+    "column": "right",
+    "y": 738.499169921875
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "43",
+    "chapter": 13,
+    "page": 174,
+    "source_pdf_page": 43,
+    "column": "right",
+    "y": 792.3109741210938
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "lucia (-n, lucior, luciorna) St. Lucia",
+    "chapter": 13,
+    "page": 171,
+    "source_pdf_page": 44,
+    "column": "left",
+    "y": 49.100175857543945
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "fastlagen lent",
+    "chapter": 13,
+    "page": 175,
+    "source_pdf_page": 44,
+    "column": "left",
+    "y": 541.3048706054688
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "before Easter",
+    "chapter": 13,
+    "page": 175,
+    "source_pdf_page": 44,
+    "column": "left",
+    "y": 701.8034057617188
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "44",
+    "chapter": 13,
+    "page": 178,
+    "source_pdf_page": 44,
+    "column": "right",
+    "y": 792.3109741210938
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "me",
+    "chapter": 13,
+    "page": 178,
+    "source_pdf_page": 45,
+    "column": "right",
+    "y": 49.703426361083984
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "midvinternatt (-en, midvinternätter, midvinternätterna)",
+    "chapter": 13,
+    "page": 181,
+    "source_pdf_page": 45,
+    "column": "right",
+    "y": 282.99776458740234
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "mid-winter night",
+    "chapter": 13,
+    "page": 181,
+    "source_pdf_page": 45,
+    "column": "right",
+    "y": 295.304931640625
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "ban (förkortning, gammalt för bana) bana (-n, banor, banor­",
+    "chapter": 13,
+    "page": 181,
+    "source_pdf_page": 45,
+    "column": "right",
+    "y": 381.3975253634983
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "sticka (sticker, stack, stuckit) (hugga) stab",
+    "chapter": 13,
+    "page": 182,
+    "source_pdf_page": 45,
+    "column": "right",
+    "y": 492.29857381184894
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "45",
+    "chapter": 13,
+    "page": 182,
+    "source_pdf_page": 45,
+    "column": "right",
+    "y": 792.3109741210938
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "snack (-et) talk, chat",
+    "chapter": 14,
+    "page": 185,
+    "source_pdf_page": 46,
+    "column": "left",
+    "y": 381.80252838134766
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "årstid (-en, -er, -erna) season",
+    "chapter": 14,
+    "page": 185,
+    "source_pdf_page": 46,
+    "column": "left",
+    "y": 394.09922485351564
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "måste (-t, -n, -na) must",
+    "chapter": 14,
+    "page": 185,
+    "source_pdf_page": 46,
+    "column": "left",
+    "y": 418.69920043945314
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "46",
+    "chapter": 14,
+    "page": 190,
+    "source_pdf_page": 46,
+    "column": "right",
+    "y": 792.3109741210938
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "again?",
+    "chapter": 14,
+    "page": 191,
+    "source_pdf_page": 47,
+    "column": "left",
+    "y": 295.9034423828125
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "bensin (-en) petrol, gas",
+    "chapter": 14,
+    "page": 192,
+    "source_pdf_page": 47,
+    "column": "left",
+    "y": 430.80252838134766
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "with anything?",
+    "chapter": 14,
+    "page": 192,
+    "source_pdf_page": 47,
+    "column": "left",
+    "y": 579.00341796875
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "do about the issue.",
+    "chapter": 14,
+    "page": 190,
+    "source_pdf_page": 47,
+    "column": "right",
+    "y": 221.9034423828125
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "nothing we can do.",
+    "chapter": 14,
+    "page": 190,
+    "source_pdf_page": 47,
+    "column": "right",
+    "y": 258.80340576171875
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "47",
+    "chapter": 14,
+    "page": 195,
+    "source_pdf_page": 47,
+    "column": "right",
+    "y": 792.3109741210938
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "service instructions",
+    "chapter": 15,
+    "page": 196,
+    "source_pdf_page": 48,
+    "column": "left",
+    "y": 135.8033447265625
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "consumer goods",
+    "chapter": 15,
+    "page": 196,
+    "source_pdf_page": 48,
+    "column": "left",
+    "y": 185.0032958984375
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "förutsätta (förutsätter, förutsatte, förutsatt) presuppose",
+    "chapter": 15,
+    "page": 199,
+    "source_pdf_page": 48,
+    "column": "left",
+    "y": 590.8991943359375
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "something",
+    "chapter": 15,
+    "page": 199,
+    "source_pdf_page": 48,
+    "column": "left",
+    "y": 665.3034057617188
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "statistics agency",
+    "chapter": 15,
+    "page": 203,
+    "source_pdf_page": 48,
+    "column": "right",
+    "y": 721.4015502929688
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "48",
+    "chapter": 15,
+    "page": 203,
+    "source_pdf_page": 48,
+    "column": "right",
+    "y": 792.3109741210938
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "out",
+    "chapter": 15,
+    "page": 203,
+    "source_pdf_page": 49,
+    "column": "right",
+    "y": 135.8033447265625
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "request",
+    "chapter": 15,
+    "page": 207,
+    "source_pdf_page": 49,
+    "column": "right",
+    "y": 652.6034545898438
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "49",
+    "chapter": 15,
+    "page": 208,
+    "source_pdf_page": 49,
+    "column": "right",
+    "y": 792.3109741210938
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "of…",
+    "chapter": 15,
+    "page": 206,
+    "source_pdf_page": 50,
+    "column": "left",
+    "y": 111.20342254638672
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "structured",
+    "chapter": 15,
+    "page": 206,
+    "source_pdf_page": 50,
+    "column": "left",
+    "y": 160.4034423828125
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "överensstämma (överensstämmer, överensstämde, överens­",
+    "chapter": 15,
+    "page": 210,
+    "source_pdf_page": 50,
+    "column": "left",
+    "y": 713.69775390625
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "50",
+    "chapter": 15,
+    "page": 213,
+    "source_pdf_page": 50,
+    "column": "right",
+    "y": 792.3109741210938
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "fingers",
+    "chapter": 16,
+    "page": 214,
+    "source_pdf_page": 51,
+    "column": "left",
+    "y": 455.80340576171875
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "table",
+    "chapter": 16,
+    "page": 214,
+    "source_pdf_page": 51,
+    "column": "left",
+    "y": 615.7034301757812
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "thought",
+    "chapter": 16,
+    "page": 213,
+    "source_pdf_page": 51,
+    "column": "right",
+    "y": 86.60338592529297
+  },
+  {
+    "reason": "EMPTY_SIDE",
+    "raw": "ställa (ställer, ställde, ställt) upp ",
+    "swedish_raw": "ställa (ställer, ställde, ställt) upp",
+    "english_raw": "",
+    "chapter": 16,
+    "page": 213,
+    "source_pdf_page": 51,
+    "column": "right",
+    "y": 208.9991882324219
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "syskonskara (-n, syskonskaror, syskonskarorna) group of sib­",
+    "chapter": 16,
+    "page": 218,
+    "source_pdf_page": 51,
+    "column": "right",
+    "y": 671.5989467075893
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "lings",
+    "chapter": 16,
+    "page": 218,
+    "source_pdf_page": 51,
+    "column": "right",
+    "y": 683.9030151367188
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "individ (-en, -er, -erna) individual",
+    "chapter": 16,
+    "page": 218,
+    "source_pdf_page": 51,
+    "column": "right",
+    "y": 708.4972778320313
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "brother",
+    "chapter": 16,
+    "page": 218,
+    "source_pdf_page": 51,
+    "column": "right",
+    "y": 733.7015380859375
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "51",
+    "chapter": 16,
+    "page": 218,
+    "source_pdf_page": 51,
+    "column": "right",
+    "y": 792.3109741210938
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "börs-vd:n (börs-vd:ar, börs-vd:arna) CEO of the Stock Ex­",
+    "chapter": 16,
+    "page": 219,
+    "source_pdf_page": 52,
+    "column": "left",
+    "y": 393.70252227783203
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "change",
+    "chapter": 16,
+    "page": 219,
+    "source_pdf_page": 52,
+    "column": "left",
+    "y": 406.0049133300781
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "självkänsla (-n, självkänslor, -orna) self-esteem",
+    "chapter": 16,
+    "page": 219,
+    "source_pdf_page": 52,
+    "column": "left",
+    "y": 479.79920654296876
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "strykjärn (-et, –, -en) iron",
+    "chapter": 16,
+    "page": 221,
+    "source_pdf_page": 52,
+    "column": "right",
+    "y": 270.69920043945314
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "brush",
+    "chapter": 16,
+    "page": 221,
+    "source_pdf_page": 52,
+    "column": "right",
+    "y": 480.4034118652344
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "52",
+    "chapter": 16,
+    "page": 222,
+    "source_pdf_page": 52,
+    "column": "right",
+    "y": 792.3109741210938
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "Sidan224",
+    "chapter": 16,
+    "page": 223,
+    "source_pdf_page": 53,
+    "column": "left",
+    "y": 529.8034057617188
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "utsträckning (-en, -ar, -arna) extent",
+    "chapter": 16,
+    "page": 226,
+    "source_pdf_page": 53,
+    "column": "right",
+    "y": 405.99921875
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "plastmormor (-mormodern, -mormödrar, -mormödrar­",
+    "chapter": 16,
+    "page": 226,
+    "source_pdf_page": 53,
+    "column": "right",
+    "y": 516.69775390625
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "iblandbo ”sometimes” cohabiting",
+    "chapter": 16,
+    "page": 227,
+    "source_pdf_page": 53,
+    "column": "right",
+    "y": 627.6049194335938
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "53",
+    "chapter": 16,
+    "page": 227,
+    "source_pdf_page": 53,
+    "column": "right",
+    "y": 792.3109741210938
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "being",
+    "chapter": 17,
+    "page": 227,
+    "source_pdf_page": 54,
+    "column": "right",
+    "y": 332.6034240722656
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "54",
+    "chapter": 17,
+    "page": 233,
+    "source_pdf_page": 54,
+    "column": "right",
+    "y": 792.3109741210938
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "färdas (färdades, färdats) travel",
+    "chapter": 17,
+    "page": 230,
+    "source_pdf_page": 55,
+    "column": "left",
+    "y": 245.90016174316406
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "nordman (-nen, nordmän, nordmännen) Northman",
+    "chapter": 17,
+    "page": 235,
+    "source_pdf_page": 55,
+    "column": "right",
+    "y": 282.9991882324219
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "55",
+    "chapter": 17,
+    "page": 236,
+    "source_pdf_page": 55,
+    "column": "right",
+    "y": 792.3109741210938
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "56",
+    "chapter": 17,
+    "page": 242,
+    "source_pdf_page": 56,
+    "column": "right",
+    "y": 792.3109741210938
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "other hand",
+    "chapter": 18,
+    "page": 245,
+    "source_pdf_page": 57,
+    "column": "right",
+    "y": 295.9034423828125
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "57",
+    "chapter": 18,
+    "page": 248,
+    "source_pdf_page": 57,
+    "column": "right",
+    "y": 792.3109741210938
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "nurse",
+    "chapter": 18,
+    "page": 244,
+    "source_pdf_page": 58,
+    "column": "left",
+    "y": 86.60338592529297
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "the window?",
+    "chapter": 18,
+    "page": 250,
+    "source_pdf_page": 58,
+    "column": "left",
+    "y": 579.00341796875
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "close the window?",
+    "chapter": 18,
+    "page": 250,
+    "source_pdf_page": 58,
+    "column": "left",
+    "y": 615.9033813476562
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "me my jacket?",
+    "chapter": 18,
+    "page": 250,
+    "source_pdf_page": 58,
+    "column": "left",
+    "y": 640.50341796875
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "close the window?",
+    "chapter": 18,
+    "page": 250,
+    "source_pdf_page": 58,
+    "column": "left",
+    "y": 665.1034545898438
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "would be good if you closed/could close the window.",
+    "chapter": 18,
+    "page": 250,
+    "source_pdf_page": 58,
+    "column": "left",
+    "y": 689.7034301757812
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "close the window?",
+    "chapter": 18,
+    "page": 248,
+    "source_pdf_page": 58,
+    "column": "right",
+    "y": 62.003292083740234
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "window?",
+    "chapter": 18,
+    "page": 248,
+    "source_pdf_page": 58,
+    "column": "right",
+    "y": 86.60338592529297
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "the window?",
+    "chapter": 18,
+    "page": 248,
+    "source_pdf_page": 58,
+    "column": "right",
+    "y": 111.20342254638672
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "like to close the window?",
+    "chapter": 18,
+    "page": 248,
+    "source_pdf_page": 58,
+    "column": "right",
+    "y": 135.8033447265625
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "window?",
+    "chapter": 18,
+    "page": 248,
+    "source_pdf_page": 58,
+    "column": "right",
+    "y": 160.4034423828125
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "between employers and employees",
+    "chapter": 18,
+    "page": 251,
+    "source_pdf_page": 58,
+    "column": "right",
+    "y": 308.20343017578125
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "samråd (-et, –, -en) consultation",
+    "chapter": 18,
+    "page": 251,
+    "source_pdf_page": 58,
+    "column": "right",
+    "y": 442.8992126464844
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "affärsman (-nen, affärsmän, affärsmännen) business man",
+    "chapter": 18,
+    "page": 252,
+    "source_pdf_page": 58,
+    "column": "right",
+    "y": 566.1001586914062
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "58",
+    "chapter": 18,
+    "page": 252,
+    "source_pdf_page": 58,
+    "column": "right",
+    "y": 792.3109741210938
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "bumped into the other day?",
+    "chapter": 18,
+    "page": 254,
+    "source_pdf_page": 59,
+    "column": "left",
+    "y": 591.3034057617188
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "fun.",
+    "chapter": 18,
+    "page": 254,
+    "source_pdf_page": 59,
+    "column": "left",
+    "y": 738.9034423828125
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "59",
+    "chapter": 18,
+    "page": 256,
+    "source_pdf_page": 59,
+    "column": "right",
+    "y": 792.3109741210938
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "ge (ett djur) mat",
+    "chapter": 18,
+    "page": 257,
+    "source_pdf_page": 60,
+    "column": "left",
+    "y": 369.1001739501953
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "connected",
+    "chapter": 18,
+    "page": 259,
+    "source_pdf_page": 60,
+    "column": "right",
+    "y": 98.90343475341797
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "60",
+    "chapter": 18,
+    "page": 259,
+    "source_pdf_page": 60,
+    "column": "right",
+    "y": 792.3109741210938
+  },
+  {
+    "reason": "UNMATCHED_ROW",
+    "raw": "61",
+    "chapter": 18,
+    "page": 259,
+    "source_pdf_page": 61,
+    "column": "right",
+    "y": 792.3109741210938
+  }
+]

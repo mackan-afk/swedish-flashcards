@@ -1,0 +1,3497 @@
+[
+  {
+    "swedish": "affär",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_4573",
+        "swedish": "affär",
+        "forms": "-en, -er, -erna",
+        "english": "store",
+        "chapter": 13,
+        "page": 176,
+        "source_pdf_page": 44
+      },
+      {
+        "id": "riv_b_5983",
+        "swedish": "affär",
+        "forms": "-en, -er, -erna",
+        "english": "agreement",
+        "chapter": 18,
+        "page": 252,
+        "source_pdf_page": 58
+      }
+    ]
+  },
+  {
+    "swedish": "andra",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_0322",
+        "swedish": "andra",
+        "forms": "",
+        "english": "other",
+        "chapter": 1,
+        "page": 12,
+        "source_pdf_page": 3
+      },
+      {
+        "id": "riv_b_1919",
+        "swedish": "andra",
+        "forms": "",
+        "english": "second",
+        "chapter": 5,
+        "page": 60,
+        "source_pdf_page": 18
+      }
+    ]
+  },
+  {
+    "swedish": "anse",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_3289",
+        "swedish": "anse",
+        "forms": "-r, ansåg, ansett",
+        "english": "deem, consider",
+        "chapter": 8,
+        "page": 108,
+        "source_pdf_page": 32
+      },
+      {
+        "id": "riv_b_4019",
+        "swedish": "anse",
+        "forms": "-r, ansåg, ansett",
+        "english": "consider, believe",
+        "chapter": 11,
+        "page": 146,
+        "source_pdf_page": 39
+      }
+    ]
+  },
+  {
+    "swedish": "arbetsfri",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_0564",
+        "swedish": "arbetsfri",
+        "forms": "-tt, -a",
+        "english": "free, off work",
+        "chapter": 1,
+        "page": 16,
+        "source_pdf_page": 6
+      },
+      {
+        "id": "riv_b_1884",
+        "swedish": "arbetsfri",
+        "forms": "-tt, -a",
+        "english": "free (from work)",
+        "chapter": 5,
+        "page": 59,
+        "source_pdf_page": 18
+      }
+    ]
+  },
+  {
+    "swedish": "Ask",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_5668",
+        "swedish": "Ask",
+        "forms": "",
+        "english": "Ash",
+        "chapter": 17,
+        "page": 235,
+        "source_pdf_page": 55
+      },
+      {
+        "id": "riv_b_5805",
+        "swedish": "ask",
+        "forms": "-en, -ar, -arna",
+        "english": "ash tree",
+        "chapter": 17,
+        "page": 242,
+        "source_pdf_page": 57
+      }
+    ]
+  },
+  {
+    "swedish": "barnbidrag",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_2361",
+        "swedish": "barnbidrag",
+        "forms": "-et, -, -en",
+        "english": "child benefit",
+        "chapter": 6,
+        "page": 77,
+        "source_pdf_page": 23
+      },
+      {
+        "id": "riv_b_5538",
+        "swedish": "barnbidrag",
+        "forms": "-et, -, -en",
+        "english": "child benefits",
+        "chapter": 16,
+        "page": 230,
+        "source_pdf_page": 54
+      }
+    ]
+  },
+  {
+    "swedish": "beroende",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_2108",
+        "swedish": "beroende",
+        "forms": "",
+        "english": "addicted",
+        "chapter": 5,
+        "page": 68,
+        "source_pdf_page": 20
+      },
+      {
+        "id": "riv_b_6064",
+        "swedish": "beroende",
+        "forms": "",
+        "english": "dependent",
+        "chapter": 18,
+        "page": 255,
+        "source_pdf_page": 59
+      }
+    ]
+  },
+  {
+    "swedish": "bit",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_2164",
+        "swedish": "bit",
+        "forms": "-en, -ar, -arna",
+        "english": "piece, slice",
+        "chapter": 5,
+        "page": 70,
+        "source_pdf_page": 21
+      },
+      {
+        "id": "riv_b_5407",
+        "swedish": "bit",
+        "forms": "-en, -ar, -arna",
+        "english": "bit, piece",
+        "chapter": 16,
+        "page": 223,
+        "source_pdf_page": 53
+      }
+    ]
+  },
+  {
+    "swedish": "björk",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_2166",
+        "swedish": "björk",
+        "forms": "-en, -ar, -arna",
+        "english": "birch tree",
+        "chapter": 5,
+        "page": 70,
+        "source_pdf_page": 21
+      },
+      {
+        "id": "riv_b_5807",
+        "swedish": "björk",
+        "forms": "-en, -ar, -arna",
+        "english": "birch",
+        "chapter": 17,
+        "page": 242,
+        "source_pdf_page": 57
+      }
+    ]
+  },
+  {
+    "swedish": "bra",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_0039",
+        "swedish": "bra",
+        "forms": "",
+        "english": "well, good",
+        "chapter": 1,
+        "page": 8,
+        "source_pdf_page": 1
+      },
+      {
+        "id": "riv_b_0755",
+        "swedish": "bra",
+        "forms": "bättre, bäst",
+        "english": "good",
+        "chapter": 2,
+        "page": 20,
+        "source_pdf_page": 7
+      }
+    ]
+  },
+  {
+    "swedish": "debutera",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_1146",
+        "swedish": "debutera",
+        "forms": "-r, -de, -t",
+        "english": "debut",
+        "chapter": 2,
+        "page": 31,
+        "source_pdf_page": 11
+      },
+      {
+        "id": "riv_b_5494",
+        "swedish": "debutera",
+        "forms": "-r, -de, -t",
+        "english": "to debut",
+        "chapter": 16,
+        "page": 228,
+        "source_pdf_page": 54
+      }
+    ]
+  },
+  {
+    "swedish": "ena",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_2780",
+        "swedish": "ena",
+        "forms": "",
+        "english": "one (of several)",
+        "chapter": 7,
+        "page": 93,
+        "source_pdf_page": 27
+      },
+      {
+        "id": "riv_b_5872",
+        "swedish": "ena",
+        "forms": "",
+        "english": "one",
+        "chapter": 17,
+        "page": 245,
+        "source_pdf_page": 57
+      }
+    ]
+  },
+  {
+    "swedish": "enorm",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_2952",
+        "swedish": "enorm",
+        "forms": "-t, -a",
+        "english": "enrmous",
+        "chapter": 7,
+        "page": 97,
+        "source_pdf_page": 28
+      },
+      {
+        "id": "riv_b_3797",
+        "swedish": "enorm",
+        "forms": "-t, -a",
+        "english": "enormous",
+        "chapter": 10,
+        "page": 135,
+        "source_pdf_page": 37
+      }
+    ]
+  },
+  {
+    "swedish": "falla",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_0987",
+        "swedish": "falla",
+        "forms": "faller, föll, fallit",
+        "english": "fall",
+        "chapter": 2,
+        "page": 28,
+        "source_pdf_page": 10
+      },
+      {
+        "id": "riv_b_5562",
+        "swedish": "falla",
+        "forms": "-er, föll, fallit",
+        "english": "to fall",
+        "chapter": 16,
+        "page": 230,
+        "source_pdf_page": 54
+      }
+    ]
+  },
+  {
+    "swedish": "falsk",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_0302",
+        "swedish": "falsk",
+        "forms": "-t, -a",
+        "english": "false, out of tune",
+        "chapter": 1,
+        "page": 11,
+        "source_pdf_page": 3
+      },
+      {
+        "id": "riv_b_3663",
+        "swedish": "falsk",
+        "forms": "-t, -a",
+        "english": "false",
+        "chapter": 9,
+        "page": 126,
+        "source_pdf_page": 35
+      }
+    ]
+  },
+  {
+    "swedish": "fast",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_4530",
+        "swedish": "fast",
+        "forms": "-a",
+        "english": "determined",
+        "chapter": 13,
+        "page": 175,
+        "source_pdf_page": 44
+      },
+      {
+        "id": "riv_b_5187",
+        "swedish": "fast",
+        "forms": "-a",
+        "english": "firm",
+        "chapter": 15,
+        "page": 213,
+        "source_pdf_page": 51
+      }
+    ]
+  },
+  {
+    "swedish": "fel",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_0509",
+        "swedish": "fel",
+        "forms": "",
+        "english": "wrong",
+        "chapter": 1,
+        "page": 15,
+        "source_pdf_page": 5
+      },
+      {
+        "id": "riv_b_4012",
+        "swedish": "fel",
+        "forms": "-et, -, -en",
+        "english": "fault",
+        "chapter": 11,
+        "page": 146,
+        "source_pdf_page": 39
+      }
+    ]
+  },
+  {
+    "swedish": "fru",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_1169",
+        "swedish": "fru",
+        "forms": "-n, -ar, -arna",
+        "english": "wife",
+        "chapter": 2,
+        "page": 32,
+        "source_pdf_page": 11
+      },
+      {
+        "id": "riv_b_5031",
+        "swedish": "fru",
+        "forms": "",
+        "english": "Mrs.",
+        "chapter": 15,
+        "page": 205,
+        "source_pdf_page": 49
+      }
+    ]
+  },
+  {
+    "swedish": "fräck",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_0926",
+        "swedish": "fräck",
+        "forms": "-t, -a",
+        "english": "cheeky, brash",
+        "chapter": 2,
+        "page": 25,
+        "source_pdf_page": 9
+      },
+      {
+        "id": "riv_b_4095",
+        "swedish": "fräck",
+        "forms": "-t, -a",
+        "english": "brazen",
+        "chapter": 11,
+        "page": 150,
+        "source_pdf_page": 39
+      }
+    ]
+  },
+  {
+    "swedish": "fråga",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_0025",
+        "swedish": "fråga",
+        "forms": "-r, -de, -t",
+        "english": "ask",
+        "chapter": 1,
+        "page": 8,
+        "source_pdf_page": 1
+      },
+      {
+        "id": "riv_b_0466",
+        "swedish": "fråga",
+        "forms": "-r, -de, -t",
+        "english": "question",
+        "chapter": 1,
+        "page": 14,
+        "source_pdf_page": 5
+      }
+    ]
+  },
+  {
+    "swedish": "fylla",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_1385",
+        "swedish": "fylla",
+        "forms": "fyller, fyllde, fyllt",
+        "english": "fill",
+        "chapter": 3,
+        "page": 42,
+        "source_pdf_page": 13
+      },
+      {
+        "id": "riv_b_1828",
+        "swedish": "fylla",
+        "forms": "-n, fyllor, fyllorna",
+        "english": "drinking binge, being drunk",
+        "chapter": 4,
+        "page": 57,
+        "source_pdf_page": 18
+      }
+    ]
+  },
+  {
+    "swedish": "föda",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_1717",
+        "swedish": "föda",
+        "forms": "-n",
+        "english": "food",
+        "chapter": 4,
+        "page": 53,
+        "source_pdf_page": 16
+      },
+      {
+        "id": "riv_b_1724",
+        "swedish": "föda",
+        "forms": "föder, födde, fött",
+        "english": "give birth",
+        "chapter": 4,
+        "page": 53,
+        "source_pdf_page": 17
+      }
+    ]
+  },
+  {
+    "swedish": "förändras",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_3348",
+        "swedish": "förändras",
+        "forms": "-förändrades, förändrats",
+        "english": "to change",
+        "chapter": 8,
+        "page": 110,
+        "source_pdf_page": 32
+      },
+      {
+        "id": "riv_b_4776",
+        "swedish": "förändras",
+        "forms": "förändrades, förändrats",
+        "english": "change",
+        "chapter": 14,
+        "page": 189,
+        "source_pdf_page": 46
+      }
+    ]
+  },
+  {
+    "swedish": "gemenskap",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_1901",
+        "swedish": "gemenskap",
+        "forms": "-en, -er, -erna",
+        "english": "community, connection",
+        "chapter": 5,
+        "page": 60,
+        "source_pdf_page": 18
+      },
+      {
+        "id": "riv_b_3371",
+        "swedish": "gemenskap",
+        "forms": "-en, -er, -erna",
+        "english": "community, fellowship",
+        "chapter": 8,
+        "page": 112,
+        "source_pdf_page": 32
+      }
+    ]
+  },
+  {
+    "swedish": "gift",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_1138",
+        "swedish": "gift",
+        "forms": "-a",
+        "english": "married",
+        "chapter": 2,
+        "page": 31,
+        "source_pdf_page": 11
+      },
+      {
+        "id": "riv_b_6043",
+        "swedish": "gift",
+        "forms": "-et, -er, -erna",
+        "english": "poison",
+        "chapter": 18,
+        "page": 255,
+        "source_pdf_page": 59
+      }
+    ]
+  },
+  {
+    "swedish": "gifta sig",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_0885",
+        "swedish": "gifta sig",
+        "forms": "gifter, gifte, gift",
+        "english": "get married",
+        "chapter": 2,
+        "page": 24,
+        "source_pdf_page": 9
+      },
+      {
+        "id": "riv_b_5447",
+        "swedish": "gifta sig",
+        "forms": "gifter, gifte, gift",
+        "english": "to get married",
+        "chapter": 16,
+        "page": 225,
+        "source_pdf_page": 53
+      }
+    ]
+  },
+  {
+    "swedish": "gjord av",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_2931",
+        "swedish": "gjord av",
+        "forms": "",
+        "english": "made with",
+        "chapter": 7,
+        "page": 97,
+        "source_pdf_page": 28
+      },
+      {
+        "id": "riv_b_4560",
+        "swedish": "gjord av",
+        "forms": "gjort, gjorda",
+        "english": "made out of",
+        "chapter": 13,
+        "page": 175,
+        "source_pdf_page": 44
+      }
+    ]
+  },
+  {
+    "swedish": "gå över till",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_3054",
+        "swedish": "gå över till",
+        "forms": "",
+        "english": "go over to, change to",
+        "chapter": 8,
+        "page": 101,
+        "source_pdf_page": 29
+      },
+      {
+        "id": "riv_b_3272",
+        "swedish": "gå över till",
+        "forms": "",
+        "english": "change to",
+        "chapter": 8,
+        "page": 107,
+        "source_pdf_page": 31
+      }
+    ]
+  },
+  {
+    "swedish": "gång",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_0090",
+        "swedish": "gång",
+        "forms": "-en, -er, -erna",
+        "english": "time",
+        "chapter": 1,
+        "page": 9,
+        "source_pdf_page": 1
+      },
+      {
+        "id": "riv_b_2788",
+        "swedish": "gång",
+        "forms": "-en, -ar, -arna",
+        "english": "walking path",
+        "chapter": 7,
+        "page": 93,
+        "source_pdf_page": 27
+      }
+    ]
+  },
+  {
+    "swedish": "hemsk",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_0875",
+        "swedish": "hemsk",
+        "forms": "-t, -a",
+        "english": "horrible",
+        "chapter": 2,
+        "page": 24,
+        "source_pdf_page": 9
+      },
+      {
+        "id": "riv_b_2702",
+        "swedish": "hemsk",
+        "forms": "-t, -a",
+        "english": "horrible, scary",
+        "chapter": 7,
+        "page": 90,
+        "source_pdf_page": 26
+      }
+    ]
+  },
+  {
+    "swedish": "himla",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_2264",
+        "swedish": "himla",
+        "forms": "",
+        "english": "really",
+        "chapter": 6,
+        "page": 73,
+        "source_pdf_page": 22
+      },
+      {
+        "id": "riv_b_4452",
+        "swedish": "himla",
+        "forms": "",
+        "english": "really, very",
+        "chapter": 13,
+        "page": 172,
+        "source_pdf_page": 43
+      }
+    ]
+  },
+  {
+    "swedish": "hindra",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_1822",
+        "swedish": "hindra",
+        "forms": "-r, -de, -t",
+        "english": "hinder, stop",
+        "chapter": 4,
+        "page": 57,
+        "source_pdf_page": 17
+      },
+      {
+        "id": "riv_b_5850",
+        "swedish": "hindra",
+        "forms": "-r, -de, -t",
+        "english": "hinder",
+        "chapter": 17,
+        "page": 244,
+        "source_pdf_page": 57
+      }
+    ]
+  },
+  {
+    "swedish": "hjälpas åt",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_5466",
+        "swedish": "hjälpas åt",
+        "forms": "hjälps, hjälptes, hjälpts",
+        "english": "help each other out",
+        "chapter": 16,
+        "page": 226,
+        "source_pdf_page": 53
+      },
+      {
+        "id": "riv_b_5920",
+        "swedish": "hjälpas åt",
+        "forms": "hjälps, hjälptes, hjälpts",
+        "english": "help one another out",
+        "chapter": 18,
+        "page": 249,
+        "source_pdf_page": 58
+      }
+    ]
+  },
+  {
+    "swedish": "hoppa över",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_4459",
+        "swedish": "hoppa över",
+        "forms": "-r, -de, -t",
+        "english": "skip",
+        "chapter": 13,
+        "page": 172,
+        "source_pdf_page": 43
+      },
+      {
+        "id": "riv_b_5043",
+        "swedish": "hoppa över",
+        "forms": "-r, -de, -t",
+        "english": "skip over",
+        "chapter": 15,
+        "page": 206,
+        "source_pdf_page": 49
+      }
+    ]
+  },
+  {
+    "swedish": "hälsa",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_1179",
+        "swedish": "hälsa",
+        "forms": "-r, -de, -t",
+        "english": "greet",
+        "chapter": 2,
+        "page": 33,
+        "source_pdf_page": 11
+      },
+      {
+        "id": "riv_b_2090",
+        "swedish": "hälsa",
+        "forms": "-n",
+        "english": "health",
+        "chapter": 5,
+        "page": 67,
+        "source_pdf_page": 20
+      }
+    ]
+  },
+  {
+    "swedish": "hälsa på",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_0830",
+        "swedish": "hälsa på",
+        "forms": "",
+        "english": "pay a visit",
+        "chapter": 2,
+        "page": 22,
+        "source_pdf_page": 8
+      },
+      {
+        "id": "riv_b_1977",
+        "swedish": "hälsa på",
+        "forms": "-r, -de, -t",
+        "english": "visit",
+        "chapter": 5,
+        "page": 63,
+        "source_pdf_page": 19
+      }
+    ]
+  },
+  {
+    "swedish": "Hänger du med?",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_1083",
+        "swedish": "Hänger du med?",
+        "forms": "",
+        "english": "Do you follow?",
+        "chapter": 2,
+        "page": 30,
+        "source_pdf_page": 10
+      },
+      {
+        "id": "riv_b_1948",
+        "swedish": "Hänger du med?",
+        "forms": "",
+        "english": "Will you join us?",
+        "chapter": 5,
+        "page": 62,
+        "source_pdf_page": 19
+      }
+    ]
+  },
+  {
+    "swedish": "hård",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_0433",
+        "swedish": "hård",
+        "forms": "hårt, hårda",
+        "english": "hard",
+        "chapter": 1,
+        "page": 13,
+        "source_pdf_page": 4
+      },
+      {
+        "id": "riv_b_2676",
+        "swedish": "hård",
+        "forms": "hårt, hårda",
+        "english": "tough",
+        "chapter": 7,
+        "page": 90,
+        "source_pdf_page": 26
+      }
+    ]
+  },
+  {
+    "swedish": "högst",
+    "count": 3,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_1749",
+        "swedish": "högst",
+        "forms": "",
+        "english": "at most",
+        "chapter": 4,
+        "page": 54,
+        "source_pdf_page": 17
+      },
+      {
+        "id": "riv_b_3666",
+        "swedish": "högst",
+        "forms": "-a",
+        "english": "highest",
+        "chapter": 9,
+        "page": 127,
+        "source_pdf_page": 35
+      },
+      {
+        "id": "riv_b_3672",
+        "swedish": "högst",
+        "forms": "-a",
+        "english": "tallest",
+        "chapter": 9,
+        "page": 127,
+        "source_pdf_page": 35
+      }
+    ]
+  },
+  {
+    "swedish": "höra hemma",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_3052",
+        "swedish": "höra hemma",
+        "forms": "hör, hörde, hört",
+        "english": "belong to",
+        "chapter": 8,
+        "page": 101,
+        "source_pdf_page": 29
+      },
+      {
+        "id": "riv_b_4396",
+        "swedish": "höra hemma",
+        "forms": "hör, hörde, hört",
+        "english": "belong",
+        "chapter": 12,
+        "page": 168,
+        "source_pdf_page": 42
+      }
+    ]
+  },
+  {
+    "swedish": "i första hand",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_4417",
+        "swedish": "i första hand",
+        "forms": "",
+        "english": "primarily",
+        "chapter": 12,
+        "page": 169,
+        "source_pdf_page": 43
+      },
+      {
+        "id": "riv_b_5432",
+        "swedish": "i första hand",
+        "forms": "",
+        "english": "firstly",
+        "chapter": 16,
+        "page": 224,
+        "source_pdf_page": 53
+      }
+    ]
+  },
+  {
+    "swedish": "i samband med",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_0602",
+        "swedish": "i samband med",
+        "forms": "",
+        "english": "in conjunction with",
+        "chapter": 1,
+        "page": 17,
+        "source_pdf_page": 6
+      },
+      {
+        "id": "riv_b_5534",
+        "swedish": "i samband med",
+        "forms": "",
+        "english": "in connection to",
+        "chapter": 16,
+        "page": 229,
+        "source_pdf_page": 54
+      }
+    ]
+  },
+  {
+    "swedish": "i slutet av",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_0568",
+        "swedish": "i slutet av",
+        "forms": "",
+        "english": "at the end of",
+        "chapter": 1,
+        "page": 16,
+        "source_pdf_page": 6
+      },
+      {
+        "id": "riv_b_5253",
+        "swedish": "i slutet av",
+        "forms": "",
+        "english": "in the end of",
+        "chapter": 15,
+        "page": 216,
+        "source_pdf_page": 51
+      }
+    ]
+  },
+  {
+    "swedish": "inför",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_2458",
+        "swedish": "inför",
+        "forms": "",
+        "english": "before, in front of",
+        "chapter": 6,
+        "page": 81,
+        "source_pdf_page": 24
+      },
+      {
+        "id": "riv_b_5811",
+        "swedish": "inför",
+        "forms": "",
+        "english": "before",
+        "chapter": 17,
+        "page": 242,
+        "source_pdf_page": 57
+      }
+    ]
+  },
+  {
+    "swedish": "inte alls",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_0240",
+        "swedish": "inte alls",
+        "forms": "",
+        "english": "not at all",
+        "chapter": 1,
+        "page": 10,
+        "source_pdf_page": 3
+      },
+      {
+        "id": "riv_b_3427",
+        "swedish": "inte alls",
+        "forms": "",
+        "english": "not at all, never",
+        "chapter": 8,
+        "page": 114,
+        "source_pdf_page": 33
+      }
+    ]
+  },
+  {
+    "swedish": "kamma sig",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_0856",
+        "swedish": "kamma sig",
+        "forms": "-r, -de, -t",
+        "english": "comb one’s hair",
+        "chapter": 2,
+        "page": 24,
+        "source_pdf_page": 8
+      },
+      {
+        "id": "riv_b_5662",
+        "swedish": "kamma sig",
+        "forms": "-r, -de, -t",
+        "english": "comb oneself",
+        "chapter": 17,
+        "page": 235,
+        "source_pdf_page": 55
+      }
+    ]
+  },
+  {
+    "swedish": "klappa",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_1506",
+        "swedish": "klappa",
+        "forms": "-r, -de, -t",
+        "english": "pet, caress",
+        "chapter": 4,
+        "page": 47,
+        "source_pdf_page": 15
+      },
+      {
+        "id": "riv_b_2842",
+        "swedish": "klappa",
+        "forms": "-r, -de, -t",
+        "english": "to pet",
+        "chapter": 7,
+        "page": 94,
+        "source_pdf_page": 27
+      }
+    ]
+  },
+  {
+    "swedish": "klubb",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_0686",
+        "swedish": "klubb",
+        "forms": "-en, -ar, -arna",
+        "english": "club",
+        "chapter": 1,
+        "page": 19,
+        "source_pdf_page": 7
+      },
+      {
+        "id": "riv_b_2869",
+        "swedish": "klubb",
+        "forms": "-en, -ar, -arna",
+        "english": "nightclub",
+        "chapter": 7,
+        "page": 95,
+        "source_pdf_page": 28
+      }
+    ]
+  },
+  {
+    "swedish": "komma på",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_1982",
+        "swedish": "komma på",
+        "forms": "kommer, kom, kommit",
+        "english": "think of",
+        "chapter": 5,
+        "page": 63,
+        "source_pdf_page": 19
+      },
+      {
+        "id": "riv_b_3808",
+        "swedish": "komma på",
+        "forms": "kommer, kom, kommit",
+        "english": "think of, realize",
+        "chapter": 10,
+        "page": 136,
+        "source_pdf_page": 37
+      }
+    ]
+  },
+  {
+    "swedish": "kvar",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_3895",
+        "swedish": "kvar",
+        "forms": "",
+        "english": "remaining",
+        "chapter": 10,
+        "page": 141,
+        "source_pdf_page": 38
+      },
+      {
+        "id": "riv_b_5817",
+        "swedish": "kvar",
+        "forms": "",
+        "english": "left",
+        "chapter": 17,
+        "page": 243,
+        "source_pdf_page": 57
+      }
+    ]
+  },
+  {
+    "swedish": "känd",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_0604",
+        "swedish": "känd",
+        "forms": "känt, kända",
+        "english": "well known",
+        "chapter": 1,
+        "page": 17,
+        "source_pdf_page": 6
+      },
+      {
+        "id": "riv_b_3313",
+        "swedish": "känd",
+        "forms": "käntt, kända",
+        "english": "famous, known",
+        "chapter": 8,
+        "page": 109,
+        "source_pdf_page": 32
+      }
+    ]
+  },
+  {
+    "swedish": "känna",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_0261",
+        "swedish": "känna",
+        "forms": "känner, kände, känt",
+        "english": "feel",
+        "chapter": 1,
+        "page": 10,
+        "source_pdf_page": 3
+      },
+      {
+        "id": "riv_b_2637",
+        "swedish": "känna",
+        "forms": "känner, kände, känt",
+        "english": "till to be familiar with",
+        "chapter": 7,
+        "page": 89,
+        "source_pdf_page": 25
+      }
+    ]
+  },
+  {
+    "swedish": "köra",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_0416",
+        "swedish": "köra",
+        "forms": "kör, körde, kört",
+        "english": "to cover (in running, i.e ”to cover a mile”)",
+        "chapter": 1,
+        "page": 13,
+        "source_pdf_page": 4
+      },
+      {
+        "id": "riv_b_3730",
+        "swedish": "köra",
+        "forms": "kör, körde, kört",
+        "english": "drive",
+        "chapter": 10,
+        "page": 133,
+        "source_pdf_page": 36
+      }
+    ]
+  },
+  {
+    "swedish": "ledig",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_0522",
+        "swedish": "ledig",
+        "forms": "-t, -a",
+        "english": "free, off work",
+        "chapter": 1,
+        "page": 15,
+        "source_pdf_page": 5
+      },
+      {
+        "id": "riv_b_5974",
+        "swedish": "ledig",
+        "forms": "-t, -a",
+        "english": "relaxed",
+        "chapter": 18,
+        "page": 251,
+        "source_pdf_page": 58
+      }
+    ]
+  },
+  {
+    "swedish": "ligga",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_2808",
+        "swedish": "ligga",
+        "forms": "ligger, låg, legat",
+        "english": "lie, be placed",
+        "chapter": 7,
+        "page": 94,
+        "source_pdf_page": 27
+      },
+      {
+        "id": "riv_b_3990",
+        "swedish": "ligga",
+        "forms": "-er, låg, legat",
+        "english": "have sex",
+        "chapter": 11,
+        "page": 145,
+        "source_pdf_page": 38
+      }
+    ]
+  },
+  {
+    "swedish": "lita på",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_3548",
+        "swedish": "lita på",
+        "forms": "-r, -de, -t",
+        "english": "trust",
+        "chapter": 9,
+        "page": 122,
+        "source_pdf_page": 34
+      },
+      {
+        "id": "riv_b_5560",
+        "swedish": "lita på",
+        "forms": "-r, -de, -t",
+        "english": "to trust",
+        "chapter": 16,
+        "page": 230,
+        "source_pdf_page": 54
+      }
+    ]
+  },
+  {
+    "swedish": "locka",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_1854",
+        "swedish": "locka",
+        "forms": "-r, -de, -t",
+        "english": "lure, attract",
+        "chapter": 4,
+        "page": 57,
+        "source_pdf_page": 18
+      },
+      {
+        "id": "riv_b_2857",
+        "swedish": "locka",
+        "forms": "-r, -de, -t",
+        "english": "attract, lure",
+        "chapter": 7,
+        "page": 95,
+        "source_pdf_page": 27
+      }
+    ]
+  },
+  {
+    "swedish": "lukt",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_1650",
+        "swedish": "lukt",
+        "forms": "-en, -er, -erna",
+        "english": "smell, scent",
+        "chapter": 4,
+        "page": 52,
+        "source_pdf_page": 16
+      },
+      {
+        "id": "riv_b_3951",
+        "swedish": "lukt",
+        "forms": "-en, -er, -erna",
+        "english": "smell",
+        "chapter": 10,
+        "page": 143,
+        "source_pdf_page": 38
+      }
+    ]
+  },
+  {
+    "swedish": "lägga sig",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_0075",
+        "swedish": "lägga sig",
+        "forms": "lägger, la/lade, lagt",
+        "english": "lie down",
+        "chapter": 1,
+        "page": 8,
+        "source_pdf_page": 1
+      },
+      {
+        "id": "riv_b_0953",
+        "swedish": "lägga sig",
+        "forms": "lägger, lade/la, lagt",
+        "english": "lie down, go to bed",
+        "chapter": 2,
+        "page": 27,
+        "source_pdf_page": 9
+      }
+    ]
+  },
+  {
+    "swedish": "läkare",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_1137",
+        "swedish": "läkare",
+        "forms": "-n, -, läkarna",
+        "english": "doctor, general practicioner",
+        "chapter": 2,
+        "page": 31,
+        "source_pdf_page": 11
+      },
+      {
+        "id": "riv_b_2568",
+        "swedish": "läkare",
+        "forms": "-n, -, läkarna",
+        "english": "medical doctor",
+        "chapter": 7,
+        "page": 87,
+        "source_pdf_page": 25
+      }
+    ]
+  },
+  {
+    "swedish": "lätt",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_0145",
+        "swedish": "lätt",
+        "forms": "-a",
+        "english": "light, low fat",
+        "chapter": 1,
+        "page": 9,
+        "source_pdf_page": 2
+      },
+      {
+        "id": "riv_b_0764",
+        "swedish": "lätt",
+        "forms": "-a",
+        "english": "simple",
+        "chapter": 2,
+        "page": 20,
+        "source_pdf_page": 7
+      }
+    ]
+  },
+  {
+    "swedish": "låta",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_1643",
+        "swedish": "låta",
+        "forms": "låter, lät, låtit",
+        "english": "to sound, make noise",
+        "chapter": 4,
+        "page": 52,
+        "source_pdf_page": 16
+      },
+      {
+        "id": "riv_b_3293",
+        "swedish": "låta",
+        "forms": "låter, lät, låtit",
+        "english": "to sound",
+        "chapter": 8,
+        "page": 108,
+        "source_pdf_page": 32
+      }
+    ]
+  },
+  {
+    "swedish": "man",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_0058",
+        "swedish": "man",
+        "forms": "",
+        "english": "one",
+        "chapter": 1,
+        "page": 8,
+        "source_pdf_page": 1
+      },
+      {
+        "id": "riv_b_0527",
+        "swedish": "man",
+        "forms": "mannen, män, männen",
+        "english": "man",
+        "chapter": 1,
+        "page": 15,
+        "source_pdf_page": 5
+      }
+    ]
+  },
+  {
+    "swedish": "matte",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_1255",
+        "swedish": "matte",
+        "forms": "-n",
+        "english": "math",
+        "chapter": 3,
+        "page": 37,
+        "source_pdf_page": 12
+      },
+      {
+        "id": "riv_b_5488",
+        "swedish": "matte",
+        "forms": "-n, mattar, mattarna",
+        "english": "pet owner (female)",
+        "chapter": 16,
+        "page": 227,
+        "source_pdf_page": 53
+      }
+    ]
+  },
+  {
+    "swedish": "minst",
+    "count": 3,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_0471",
+        "swedish": "minst",
+        "forms": "-a",
+        "english": "least, smallest",
+        "chapter": 1,
+        "page": 14,
+        "source_pdf_page": 5
+      },
+      {
+        "id": "riv_b_3680",
+        "swedish": "minst",
+        "forms": "-a",
+        "english": "smallest",
+        "chapter": 9,
+        "page": 127,
+        "source_pdf_page": 35
+      },
+      {
+        "id": "riv_b_4501",
+        "swedish": "minst",
+        "forms": "-a",
+        "english": "youngest",
+        "chapter": 13,
+        "page": 174,
+        "source_pdf_page": 44
+      }
+    ]
+  },
+  {
+    "swedish": "motion",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_0405",
+        "swedish": "motion",
+        "forms": "-en",
+        "english": "exercise",
+        "chapter": 1,
+        "page": 13,
+        "source_pdf_page": 4
+      },
+      {
+        "id": "riv_b_2498",
+        "swedish": "motion",
+        "forms": "-en, -er, -erna",
+        "english": "bill proposed by members of parliament",
+        "chapter": 6,
+        "page": 84,
+        "source_pdf_page": 24
+      }
+    ]
+  },
+  {
+    "swedish": "nordbo",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_3360",
+        "swedish": "nordbo",
+        "forms": "-n, -r, -rna",
+        "english": "person living in/from the Nordic countries",
+        "chapter": 8,
+        "page": 112,
+        "source_pdf_page": 32
+      },
+      {
+        "id": "riv_b_5592",
+        "swedish": "nordbo",
+        "forms": "-n, -r, -rna",
+        "english": "person from the Nordic countries",
+        "chapter": 17,
+        "page": 233,
+        "source_pdf_page": 55
+      }
+    ]
+  },
+  {
+    "swedish": "område",
+    "count": 3,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_0402",
+        "swedish": "område",
+        "forms": "-t, -n, -na",
+        "english": "subject, special area",
+        "chapter": 1,
+        "page": 13,
+        "source_pdf_page": 4
+      },
+      {
+        "id": "riv_b_1589",
+        "swedish": "område",
+        "forms": "-t, -, -n",
+        "english": "area",
+        "chapter": 4,
+        "page": 50,
+        "source_pdf_page": 15
+      },
+      {
+        "id": "riv_b_2827",
+        "swedish": "område",
+        "forms": "-t, -n, -na",
+        "english": "area, region",
+        "chapter": 7,
+        "page": 94,
+        "source_pdf_page": 27
+      }
+    ]
+  },
+  {
+    "swedish": "pass",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_0151",
+        "swedish": "pass",
+        "forms": "-et, -, -en",
+        "english": "workout",
+        "chapter": 1,
+        "page": 9,
+        "source_pdf_page": 2
+      },
+      {
+        "id": "riv_b_3372",
+        "swedish": "pass",
+        "forms": "-et, -, -en",
+        "english": "passport",
+        "chapter": 8,
+        "page": 112,
+        "source_pdf_page": 32
+      }
+    ]
+  },
+  {
+    "swedish": "presentera",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_0712",
+        "swedish": "presentera",
+        "forms": "-r, -de, -t",
+        "english": "introduce",
+        "chapter": 1,
+        "page": 19,
+        "source_pdf_page": 7
+      },
+      {
+        "id": "riv_b_2906",
+        "swedish": "presentera",
+        "forms": "-r, -de, -t",
+        "english": "present, do a presentation",
+        "chapter": 7,
+        "page": 96,
+        "source_pdf_page": 28
+      }
+    ]
+  },
+  {
+    "swedish": "pryl",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_2255",
+        "swedish": "pryl",
+        "forms": "-en, -ar, -arna",
+        "english": "object",
+        "chapter": 5,
+        "page": 72,
+        "source_pdf_page": 22
+      },
+      {
+        "id": "riv_b_6127",
+        "swedish": "pryl",
+        "forms": "-en, -ar, -arna",
+        "english": "object, thing",
+        "chapter": 18,
+        "page": 258,
+        "source_pdf_page": 60
+      }
+    ]
+  },
+  {
+    "swedish": "på så sätt",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_1154",
+        "swedish": "på så sätt",
+        "forms": "",
+        "english": "in such a way",
+        "chapter": 2,
+        "page": 31,
+        "source_pdf_page": 11
+      },
+      {
+        "id": "riv_b_3700",
+        "swedish": "på så sätt",
+        "forms": "",
+        "english": "so",
+        "chapter": 9,
+        "page": 130,
+        "source_pdf_page": 36
+      }
+    ]
+  },
+  {
+    "swedish": "pålitlig",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_0792",
+        "swedish": "pålitlig",
+        "forms": "-t, -a",
+        "english": "dependable",
+        "chapter": 2,
+        "page": 21,
+        "source_pdf_page": 8
+      },
+      {
+        "id": "riv_b_1489",
+        "swedish": "pålitlig",
+        "forms": "-t, -a",
+        "english": "reliable",
+        "chapter": 4,
+        "page": 46,
+        "source_pdf_page": 14
+      }
+    ]
+  },
+  {
+    "swedish": "resa",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_0635",
+        "swedish": "resa",
+        "forms": "-n, resor, resorna",
+        "english": "travel, trip",
+        "chapter": 1,
+        "page": 17,
+        "source_pdf_page": 6
+      },
+      {
+        "id": "riv_b_4602",
+        "swedish": "resa",
+        "forms": "reser, reste, rest",
+        "english": "raise",
+        "chapter": 13,
+        "page": 178,
+        "source_pdf_page": 45
+      }
+    ]
+  },
+  {
+    "swedish": "rest",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_4512",
+        "swedish": "rest",
+        "forms": "-en, -er, -erna",
+        "english": "remainder, leftover",
+        "chapter": 13,
+        "page": 174,
+        "source_pdf_page": 44
+      },
+      {
+        "id": "riv_b_5914",
+        "swedish": "rest",
+        "forms": "-en, -er, -erna",
+        "english": "leftover",
+        "chapter": 18,
+        "page": 249,
+        "source_pdf_page": 58
+      }
+    ]
+  },
+  {
+    "swedish": "rubrik",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_1807",
+        "swedish": "rubrik",
+        "forms": "-en, -er, -erna",
+        "english": "header",
+        "chapter": 4,
+        "page": 56,
+        "source_pdf_page": 17
+      },
+      {
+        "id": "riv_b_3455",
+        "swedish": "rubrik",
+        "forms": "-en, -er, -erna",
+        "english": "headline",
+        "chapter": 9,
+        "page": 117,
+        "source_pdf_page": 33
+      }
+    ]
+  },
+  {
+    "swedish": "räkna",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_0041",
+        "swedish": "räkna",
+        "forms": "-r, -de, -t",
+        "english": "count",
+        "chapter": 1,
+        "page": 8,
+        "source_pdf_page": 1
+      },
+      {
+        "id": "riv_b_0199",
+        "swedish": "räkna",
+        "forms": "-r, -de, -t",
+        "english": "ut",
+        "chapter": 1,
+        "page": 9,
+        "source_pdf_page": 2
+      }
+    ]
+  },
+  {
+    "swedish": "rätt",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_0508",
+        "swedish": "rätt",
+        "forms": "-en, -er, -erna",
+        "english": "right",
+        "chapter": 1,
+        "page": 15,
+        "source_pdf_page": 5
+      },
+      {
+        "id": "riv_b_4522",
+        "swedish": "rätt",
+        "forms": "-en, -er, -erna",
+        "english": "dish",
+        "chapter": 13,
+        "page": 175,
+        "source_pdf_page": 44
+      }
+    ]
+  },
+  {
+    "swedish": "röra",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_0202",
+        "swedish": "röra",
+        "forms": "rör, rörde, rört",
+        "english": "move",
+        "chapter": 1,
+        "page": 9,
+        "source_pdf_page": 2
+      },
+      {
+        "id": "riv_b_5249",
+        "swedish": "röra",
+        "forms": "-n, röror, rörorna",
+        "english": "mess",
+        "chapter": 15,
+        "page": 215,
+        "source_pdf_page": 51
+      }
+    ]
+  },
+  {
+    "swedish": "röst",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_2425",
+        "swedish": "röst",
+        "forms": "-en, -er, -erna",
+        "english": "vote",
+        "chapter": 6,
+        "page": 79,
+        "source_pdf_page": 23
+      },
+      {
+        "id": "riv_b_3644",
+        "swedish": "röst",
+        "forms": "-en, -er, -erna",
+        "english": "voice",
+        "chapter": 9,
+        "page": 126,
+        "source_pdf_page": 35
+      }
+    ]
+  },
+  {
+    "swedish": "saft",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_2558",
+        "swedish": "saft",
+        "forms": "-en, -er, -erna",
+        "english": "fruit syrup",
+        "chapter": 7,
+        "page": 86,
+        "source_pdf_page": 25
+      },
+      {
+        "id": "riv_b_4738",
+        "swedish": "saft",
+        "forms": "-en, -er, -erna",
+        "english": "juice, sap",
+        "chapter": 13,
+        "page": 186,
+        "source_pdf_page": 46
+      }
+    ]
+  },
+  {
+    "swedish": "saga",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_1733",
+        "swedish": "saga",
+        "forms": "-n, sagor, sagorna",
+        "english": "story, fairy tale, folk tale",
+        "chapter": 4,
+        "page": 53,
+        "source_pdf_page": 17
+      },
+      {
+        "id": "riv_b_5721",
+        "swedish": "saga",
+        "forms": "-n, sagor, sagorna",
+        "english": "saga, story",
+        "chapter": 17,
+        "page": 238,
+        "source_pdf_page": 56
+      }
+    ]
+  },
+  {
+    "swedish": "salt",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_1850",
+        "swedish": "salt",
+        "forms": "-et, -er, -erna",
+        "english": "salt",
+        "chapter": 4,
+        "page": 57,
+        "source_pdf_page": 18
+      },
+      {
+        "id": "riv_b_2033",
+        "swedish": "salt",
+        "forms": "-a",
+        "english": "salted, salty",
+        "chapter": 5,
+        "page": 66,
+        "source_pdf_page": 20
+      }
+    ]
+  },
+  {
+    "swedish": "sammansatt",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_3787",
+        "swedish": "sammansatt",
+        "forms": "-a",
+        "english": "compound",
+        "chapter": 10,
+        "page": 135,
+        "source_pdf_page": 36
+      },
+      {
+        "id": "riv_b_5657",
+        "swedish": "sammansatt",
+        "forms": "-a",
+        "english": "put together",
+        "chapter": 17,
+        "page": 235,
+        "source_pdf_page": 55
+      }
+    ]
+  },
+  {
+    "swedish": "sida",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_0002",
+        "swedish": "sida",
+        "forms": "-n, sidor, sidorna",
+        "english": "book page",
+        "chapter": 1,
+        "page": null,
+        "source_pdf_page": 1
+      },
+      {
+        "id": "riv_b_2809",
+        "swedish": "sida",
+        "forms": "-n, sidor, sidorna",
+        "english": "side",
+        "chapter": 7,
+        "page": 94,
+        "source_pdf_page": 27
+      }
+    ]
+  },
+  {
+    "swedish": "skadad",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_1660",
+        "swedish": "skadad",
+        "forms": "skadat, skadade",
+        "english": "wounded",
+        "chapter": 4,
+        "page": 52,
+        "source_pdf_page": 16
+      },
+      {
+        "id": "riv_b_4900",
+        "swedish": "skadad",
+        "forms": "skadat, skadade",
+        "english": "injured, damaged",
+        "chapter": 14,
+        "page": 196,
+        "source_pdf_page": 48
+      }
+    ]
+  },
+  {
+    "swedish": "skatt",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_1276",
+        "swedish": "skatt",
+        "forms": "-en, -er, -erna",
+        "english": "tax",
+        "chapter": 3,
+        "page": 38,
+        "source_pdf_page": 12
+      },
+      {
+        "id": "riv_b_5752",
+        "swedish": "skatt",
+        "forms": "-en, -er, -erna",
+        "english": "treasure",
+        "chapter": 17,
+        "page": 240,
+        "source_pdf_page": 56
+      }
+    ]
+  },
+  {
+    "swedish": "skicklig",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_1694",
+        "swedish": "skicklig",
+        "forms": "-t, -a",
+        "english": "skilled",
+        "chapter": 4,
+        "page": 53,
+        "source_pdf_page": 16
+      },
+      {
+        "id": "riv_b_3622",
+        "swedish": "skicklig",
+        "forms": "-t, -a",
+        "english": "skillful",
+        "chapter": 9,
+        "page": 124,
+        "source_pdf_page": 35
+      }
+    ]
+  },
+  {
+    "swedish": "slå",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_2335",
+        "swedish": "slå",
+        "forms": "slår, slog, slagit",
+        "english": "to hit, beat",
+        "chapter": 6,
+        "page": 76,
+        "source_pdf_page": 22
+      },
+      {
+        "id": "riv_b_3222",
+        "swedish": "slå",
+        "forms": "",
+        "english": "beat",
+        "chapter": 8,
+        "page": 106,
+        "source_pdf_page": 31
+      }
+    ]
+  },
+  {
+    "swedish": "snack",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_0400",
+        "swedish": "snack",
+        "forms": "-et",
+        "english": "talk",
+        "chapter": 1,
+        "page": 13,
+        "source_pdf_page": 4
+      },
+      {
+        "id": "riv_b_4721",
+        "swedish": "snack",
+        "forms": "-et",
+        "english": "talk, chat",
+        "chapter": 13,
+        "page": 185,
+        "source_pdf_page": 46
+      }
+    ]
+  },
+  {
+    "swedish": "sopa",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_5358",
+        "swedish": "sopa",
+        "forms": "-r, -de, -t",
+        "english": "sweep",
+        "chapter": 16,
+        "page": 221,
+        "source_pdf_page": 52
+      },
+      {
+        "id": "riv_b_5382",
+        "swedish": "sopa",
+        "forms": "-n, sopor, soporna",
+        "english": "garbage",
+        "chapter": 16,
+        "page": 222,
+        "source_pdf_page": 52
+      }
+    ]
+  },
+  {
+    "swedish": "spela roll",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_0808",
+        "swedish": "spela roll",
+        "forms": "-r, -de, -t",
+        "english": "play an important role",
+        "chapter": 2,
+        "page": 22,
+        "source_pdf_page": 8
+      },
+      {
+        "id": "riv_b_2088",
+        "swedish": "spela roll",
+        "forms": "",
+        "english": "play a role, matter",
+        "chapter": 5,
+        "page": 67,
+        "source_pdf_page": 20
+      }
+    ]
+  },
+  {
+    "swedish": "spontan",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_0797",
+        "swedish": "spontan",
+        "forms": "-t, -a",
+        "english": "spontanteous",
+        "chapter": 2,
+        "page": 21,
+        "source_pdf_page": 8
+      },
+      {
+        "id": "riv_b_5902",
+        "swedish": "spontan",
+        "forms": "-t, -a",
+        "english": "spontaneous",
+        "chapter": 18,
+        "page": 248,
+        "source_pdf_page": 58
+      }
+    ]
+  },
+  {
+    "swedish": "sprida sig",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_2143",
+        "swedish": "sprida sig",
+        "forms": "sprider, spridde, spridit",
+        "english": "spread",
+        "chapter": 5,
+        "page": 70,
+        "source_pdf_page": 21
+      },
+      {
+        "id": "riv_b_4171",
+        "swedish": "sprida sig",
+        "forms": "sprider, spred, spridit",
+        "english": "to spread",
+        "chapter": 11,
+        "page": 154,
+        "source_pdf_page": 40
+      }
+    ]
+  },
+  {
+    "swedish": "starta",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_2210",
+        "swedish": "starta",
+        "forms": "-r, -de, -t",
+        "english": "to start",
+        "chapter": 5,
+        "page": 71,
+        "source_pdf_page": 21
+      },
+      {
+        "id": "riv_b_3097",
+        "swedish": "starta",
+        "forms": "-r, -de, -t",
+        "english": "start",
+        "chapter": 8,
+        "page": 102,
+        "source_pdf_page": 30
+      }
+    ]
+  },
+  {
+    "swedish": "statskupp",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_2386",
+        "swedish": "statskupp",
+        "forms": "-en, -er, -erna",
+        "english": "coup",
+        "chapter": 6,
+        "page": 78,
+        "source_pdf_page": 23
+      },
+      {
+        "id": "riv_b_3196",
+        "swedish": "statskupp",
+        "forms": "-en, -er, -erna",
+        "english": "state coup",
+        "chapter": 8,
+        "page": 104,
+        "source_pdf_page": 31
+      }
+    ]
+  },
+  {
+    "swedish": "stav",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_0382",
+        "swedish": "stav",
+        "forms": "-en, -ar, -arna",
+        "english": "pole",
+        "chapter": 1,
+        "page": 12,
+        "source_pdf_page": 4
+      },
+      {
+        "id": "riv_b_5644",
+        "swedish": "stav",
+        "forms": "-en, -ar, -arna",
+        "english": "staff",
+        "chapter": 17,
+        "page": 234,
+        "source_pdf_page": 55
+      }
+    ]
+  },
+  {
+    "swedish": "steka",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_3841",
+        "swedish": "steka",
+        "forms": "steker, stekte, stekt",
+        "english": "to fry",
+        "chapter": 10,
+        "page": 137,
+        "source_pdf_page": 37
+      },
+      {
+        "id": "riv_b_5360",
+        "swedish": "steka",
+        "forms": "steker, stekte, stekt",
+        "english": "fry",
+        "chapter": 16,
+        "page": 221,
+        "source_pdf_page": 52
+      }
+    ]
+  },
+  {
+    "swedish": "sten",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_1858",
+        "swedish": "sten",
+        "forms": "-en, -ar, -arna",
+        "english": "stone, rock",
+        "chapter": 4,
+        "page": 57,
+        "source_pdf_page": 18
+      },
+      {
+        "id": "riv_b_4638",
+        "swedish": "sten",
+        "forms": "-en, -ar, -arna",
+        "english": "stone",
+        "chapter": 13,
+        "page": 180,
+        "source_pdf_page": 45
+      }
+    ]
+  },
+  {
+    "swedish": "stoppa",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_4069",
+        "swedish": "stoppa",
+        "forms": "-r, -de, -t",
+        "english": "to stop",
+        "chapter": 11,
+        "page": 150,
+        "source_pdf_page": 39
+      },
+      {
+        "id": "riv_b_5747",
+        "swedish": "stoppa",
+        "forms": "-r, -de, -t",
+        "english": "place",
+        "chapter": 17,
+        "page": 240,
+        "source_pdf_page": 56
+      }
+    ]
+  },
+  {
+    "swedish": "stor",
+    "count": 3,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_0049",
+        "swedish": "stor",
+        "forms": "-t, -a",
+        "english": "big, large",
+        "chapter": 1,
+        "page": 8,
+        "source_pdf_page": 1
+      },
+      {
+        "id": "riv_b_1651",
+        "swedish": "stor",
+        "forms": "större, störst",
+        "english": "large",
+        "chapter": 4,
+        "page": 52,
+        "source_pdf_page": 16
+      },
+      {
+        "id": "riv_b_3689",
+        "swedish": "stor",
+        "forms": "större, störst",
+        "english": "big",
+        "chapter": 9,
+        "page": 128,
+        "source_pdf_page": 35
+      }
+    ]
+  },
+  {
+    "swedish": "stressad",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_0646",
+        "swedish": "stressad",
+        "forms": "stressat, stressade",
+        "english": "stressed out",
+        "chapter": 1,
+        "page": 17,
+        "source_pdf_page": 6
+      },
+      {
+        "id": "riv_b_3650",
+        "swedish": "stressad",
+        "forms": "stressat, stressade",
+        "english": "stressed",
+        "chapter": 9,
+        "page": 126,
+        "source_pdf_page": 35
+      }
+    ]
+  },
+  {
+    "swedish": "stryka",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_5129",
+        "swedish": "stryka",
+        "forms": "stryker, strök, strykit",
+        "english": "delete",
+        "chapter": 15,
+        "page": 210,
+        "source_pdf_page": 50
+      },
+      {
+        "id": "riv_b_5345",
+        "swedish": "stryka",
+        "forms": "stryker, strök, strykit",
+        "english": "to iron",
+        "chapter": 16,
+        "page": 221,
+        "source_pdf_page": 52
+      }
+    ]
+  },
+  {
+    "swedish": "städa",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_0078",
+        "swedish": "städa",
+        "forms": "-r, -de, -t",
+        "english": "clean",
+        "chapter": 1,
+        "page": 8,
+        "source_pdf_page": 1
+      },
+      {
+        "id": "riv_b_2009",
+        "swedish": "städa",
+        "forms": "-r, -de, -t",
+        "english": "clean up",
+        "chapter": 5,
+        "page": 64,
+        "source_pdf_page": 19
+      }
+    ]
+  },
+  {
+    "swedish": "störst",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_1372",
+        "swedish": "störst",
+        "forms": "-a",
+        "english": "largest",
+        "chapter": 3,
+        "page": 42,
+        "source_pdf_page": 13
+      },
+      {
+        "id": "riv_b_3669",
+        "swedish": "störst",
+        "forms": "-a",
+        "english": "biggest",
+        "chapter": 9,
+        "page": 127,
+        "source_pdf_page": 35
+      }
+    ]
+  },
+  {
+    "swedish": "stöta på",
+    "count": 3,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_1795",
+        "swedish": "stöta på",
+        "forms": "stöter, stötte, stött",
+        "english": "flirt with, hit on",
+        "chapter": 4,
+        "page": 55,
+        "source_pdf_page": 17
+      },
+      {
+        "id": "riv_b_3522",
+        "swedish": "stöta på",
+        "forms": "stöter, stötte, stött",
+        "english": "encounter, pick up/flirt",
+        "chapter": 9,
+        "page": 120,
+        "source_pdf_page": 34
+      },
+      {
+        "id": "riv_b_manual_0008",
+        "swedish": "stöta på",
+        "forms": "stöter, stötte, stött",
+        "english": "run into, come across",
+        "chapter": 4,
+        "page": 54,
+        "source_pdf_page": 17
+      }
+    ]
+  },
+  {
+    "swedish": "svettas",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_0165",
+        "swedish": "svettas",
+        "forms": "svettades, svettats",
+        "english": "sweat",
+        "chapter": 1,
+        "page": 9,
+        "source_pdf_page": 2
+      },
+      {
+        "id": "riv_b_0269",
+        "swedish": "svettas",
+        "forms": "svettas, svettades, svettats",
+        "english": "to sweat",
+        "chapter": 1,
+        "page": 10,
+        "source_pdf_page": 3
+      }
+    ]
+  },
+  {
+    "swedish": "synd",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_2635",
+        "swedish": "synd",
+        "forms": "-en, -er, -erna",
+        "english": "sin",
+        "chapter": 7,
+        "page": 89,
+        "source_pdf_page": 25
+      },
+      {
+        "id": "riv_b_3399",
+        "swedish": "synd",
+        "forms": "",
+        "english": "too bad, a pity",
+        "chapter": 8,
+        "page": 113,
+        "source_pdf_page": 33
+      }
+    ]
+  },
+  {
+    "swedish": "ta kontakt med",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_3266",
+        "swedish": "ta kontakt med",
+        "forms": "",
+        "english": "to contact",
+        "chapter": 8,
+        "page": 107,
+        "source_pdf_page": 31
+      },
+      {
+        "id": "riv_b_5650",
+        "swedish": "ta kontakt med",
+        "forms": "-r, tog, tagit",
+        "english": "make contact with",
+        "chapter": 17,
+        "page": 234,
+        "source_pdf_page": 55
+      }
+    ]
+  },
+  {
+    "swedish": "tid",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_0159",
+        "swedish": "tid",
+        "forms": "-en, -er, -erna",
+        "english": "time",
+        "chapter": 1,
+        "page": 9,
+        "source_pdf_page": 2
+      },
+      {
+        "id": "riv_b_3041",
+        "swedish": "tid",
+        "forms": "",
+        "english": "(-en , -er, -erna) time period",
+        "chapter": 7,
+        "page": 100,
+        "source_pdf_page": 29
+      }
+    ]
+  },
+  {
+    "swedish": "till",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_0069",
+        "swedish": "till",
+        "forms": "",
+        "english": "to",
+        "chapter": 1,
+        "page": 8,
+        "source_pdf_page": 1
+      },
+      {
+        "id": "riv_b_0427",
+        "swedish": "till",
+        "forms": "",
+        "english": "also, another",
+        "chapter": 1,
+        "page": 13,
+        "source_pdf_page": 4
+      }
+    ]
+  },
+  {
+    "swedish": "ton",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_4446",
+        "swedish": "ton",
+        "forms": "-et, -, tonnen",
+        "english": "metric ton",
+        "chapter": 13,
+        "page": 172,
+        "source_pdf_page": 43
+      },
+      {
+        "id": "riv_b_5102",
+        "swedish": "ton",
+        "forms": "-en, -er, -erna",
+        "english": "tone",
+        "chapter": 15,
+        "page": 208,
+        "source_pdf_page": 50
+      }
+    ]
+  },
+  {
+    "swedish": "tro",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_1512",
+        "swedish": "tro",
+        "forms": "tror, trodde, trott",
+        "english": "believe",
+        "chapter": 4,
+        "page": 47,
+        "source_pdf_page": 15
+      },
+      {
+        "id": "riv_b_3459",
+        "swedish": "tro",
+        "forms": "tror, trodde, trott",
+        "english": "på believe in",
+        "chapter": 9,
+        "page": 117,
+        "source_pdf_page": 33
+      }
+    ]
+  },
+  {
+    "swedish": "träningskläder",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_0155",
+        "swedish": "träningskläder",
+        "forms": "-na",
+        "english": "workout clothes",
+        "chapter": 1,
+        "page": 9,
+        "source_pdf_page": 2
+      },
+      {
+        "id": "riv_b_1913",
+        "swedish": "träningskläder",
+        "forms": "-na",
+        "english": "exercise clothes",
+        "chapter": 5,
+        "page": 60,
+        "source_pdf_page": 18
+      }
+    ]
+  },
+  {
+    "swedish": "tur",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_0438",
+        "swedish": "tur",
+        "forms": "-en, -er, -erna",
+        "english": "turn",
+        "chapter": 1,
+        "page": 13,
+        "source_pdf_page": 4
+      },
+      {
+        "id": "riv_b_5858",
+        "swedish": "tur",
+        "forms": "-en",
+        "english": "good luck",
+        "chapter": 17,
+        "page": 245,
+        "source_pdf_page": 57
+      }
+    ]
+  },
+  {
+    "swedish": "undra",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_2015",
+        "swedish": "undra",
+        "forms": "-r, -de, -t",
+        "english": "wonder",
+        "chapter": 5,
+        "page": 65,
+        "source_pdf_page": 19
+      },
+      {
+        "id": "riv_b_3807",
+        "swedish": "undra",
+        "forms": "-r, -de, -t",
+        "english": "to wonder",
+        "chapter": 10,
+        "page": 136,
+        "source_pdf_page": 37
+      }
+    ]
+  },
+  {
+    "swedish": "uppmaning",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_4402",
+        "swedish": "uppmaning",
+        "forms": "-en, -ar, -arna",
+        "english": "appeal, urging",
+        "chapter": 12,
+        "page": 169,
+        "source_pdf_page": 43
+      },
+      {
+        "id": "riv_b_5921",
+        "swedish": "uppmaning",
+        "forms": "-en, -ar, -arna",
+        "english": "appeal",
+        "chapter": 18,
+        "page": 249,
+        "source_pdf_page": 58
+      }
+    ]
+  },
+  {
+    "swedish": "val",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_0803",
+        "swedish": "val",
+        "forms": "-et, -, -en",
+        "english": "choice",
+        "chapter": 2,
+        "page": 22,
+        "source_pdf_page": 8
+      },
+      {
+        "id": "riv_b_2370",
+        "swedish": "val",
+        "forms": "-et, -, -en",
+        "english": "election, choice",
+        "chapter": 6,
+        "page": 77,
+        "source_pdf_page": 23
+      }
+    ]
+  },
+  {
+    "swedish": "vandra",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_0127",
+        "swedish": "vandra",
+        "forms": "-r, -de, -t",
+        "english": "hike",
+        "chapter": 1,
+        "page": 9,
+        "source_pdf_page": 2
+      },
+      {
+        "id": "riv_b_2833",
+        "swedish": "vandra",
+        "forms": "-r, -de, -t",
+        "english": "to hike",
+        "chapter": 7,
+        "page": 94,
+        "source_pdf_page": 27
+      }
+    ]
+  },
+  {
+    "swedish": "vara",
+    "count": 4,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_0046",
+        "swedish": "vara",
+        "forms": "är, var, varit",
+        "english": "to be",
+        "chapter": 1,
+        "page": 8,
+        "source_pdf_page": 1
+      },
+      {
+        "id": "riv_b_3159",
+        "swedish": "vara",
+        "forms": "-n, varor, varorna",
+        "english": "good, ware",
+        "chapter": 8,
+        "page": 103,
+        "source_pdf_page": 30
+      },
+      {
+        "id": "riv_b_3370",
+        "swedish": "vara",
+        "forms": "-r, -de, -t",
+        "english": "persist",
+        "chapter": 8,
+        "page": 112,
+        "source_pdf_page": 32
+      },
+      {
+        "id": "riv_b_5485",
+        "swedish": "vara",
+        "forms": "-r, -de, -t",
+        "english": "to last",
+        "chapter": 16,
+        "page": 227,
+        "source_pdf_page": 53
+      }
+    ]
+  },
+  {
+    "swedish": "vara på väg",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_0582",
+        "swedish": "vara på väg",
+        "forms": "",
+        "english": "be on the way",
+        "chapter": 1,
+        "page": 16,
+        "source_pdf_page": 6
+      },
+      {
+        "id": "riv_b_4540",
+        "swedish": "vara på väg",
+        "forms": "är, var, varit",
+        "english": "be on one’s way",
+        "chapter": 13,
+        "page": 175,
+        "source_pdf_page": 44
+      }
+    ]
+  },
+  {
+    "swedish": "Varje",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_0089",
+        "swedish": "Varje",
+        "forms": "",
+        "english": "each, every",
+        "chapter": 1,
+        "page": 9,
+        "source_pdf_page": 1
+      },
+      {
+        "id": "riv_b_0254",
+        "swedish": "varje",
+        "forms": "",
+        "english": "each",
+        "chapter": 1,
+        "page": 10,
+        "source_pdf_page": 3
+      }
+    ]
+  },
+  {
+    "swedish": "vid",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_2137",
+        "swedish": "vid",
+        "forms": "",
+        "english": "by",
+        "chapter": 5,
+        "page": 70,
+        "source_pdf_page": 21
+      },
+      {
+        "id": "riv_b_2343",
+        "swedish": "vid",
+        "forms": "",
+        "english": "next to, by",
+        "chapter": 6,
+        "page": 77,
+        "source_pdf_page": 22
+      }
+    ]
+  },
+  {
+    "swedish": "visa",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_0650",
+        "swedish": "visa",
+        "forms": "-r, -de, -t",
+        "english": "show",
+        "chapter": 1,
+        "page": 17,
+        "source_pdf_page": 6
+      },
+      {
+        "id": "riv_b_2577",
+        "swedish": "visa",
+        "forms": "-r, -de, -t",
+        "english": "song",
+        "chapter": 7,
+        "page": 87,
+        "source_pdf_page": 25
+      }
+    ]
+  },
+  {
+    "swedish": "väcka intresse",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_3332",
+        "swedish": "väcka intresse",
+        "forms": "",
+        "english": "generate interest",
+        "chapter": 8,
+        "page": 110,
+        "source_pdf_page": 32
+      },
+      {
+        "id": "riv_b_5128",
+        "swedish": "väcka intresse",
+        "forms": "",
+        "english": "raise interest",
+        "chapter": 15,
+        "page": 210,
+        "source_pdf_page": 50
+      }
+    ]
+  },
+  {
+    "swedish": "väga",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_1726",
+        "swedish": "väga",
+        "forms": "väger, vägde, vägt",
+        "english": "to weigh",
+        "chapter": 4,
+        "page": 53,
+        "source_pdf_page": 17
+      },
+      {
+        "id": "riv_b_3514",
+        "swedish": "väga",
+        "forms": "väger, vägde, vägt",
+        "english": "weigh",
+        "chapter": 9,
+        "page": 120,
+        "source_pdf_page": 34
+      }
+    ]
+  },
+  {
+    "swedish": "väl",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_0768",
+        "swedish": "väl",
+        "forms": "",
+        "english": "well",
+        "chapter": 2,
+        "page": 20,
+        "source_pdf_page": 8
+      },
+      {
+        "id": "riv_b_4248",
+        "swedish": "väl",
+        "forms": "",
+        "english": "surely",
+        "chapter": 12,
+        "page": 160,
+        "source_pdf_page": 41
+      }
+    ]
+  },
+  {
+    "swedish": "väldig",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_0289",
+        "swedish": "väldig",
+        "forms": "-t, -a",
+        "english": "great, large",
+        "chapter": 1,
+        "page": 11,
+        "source_pdf_page": 3
+      },
+      {
+        "id": "riv_b_5742",
+        "swedish": "väldig",
+        "forms": "-t, -a",
+        "english": "enormous",
+        "chapter": 17,
+        "page": 240,
+        "source_pdf_page": 56
+      }
+    ]
+  },
+  {
+    "swedish": "våttorka",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_5357",
+        "swedish": "våttorka",
+        "forms": "-r, -de, -t",
+        "english": "swab",
+        "chapter": 16,
+        "page": 221,
+        "source_pdf_page": 52
+      },
+      {
+        "id": "riv_b_5394",
+        "swedish": "våttorka",
+        "forms": "-r, -de, -t",
+        "english": "swab, dust",
+        "chapter": 16,
+        "page": 222,
+        "source_pdf_page": 53
+      }
+    ]
+  },
+  {
+    "swedish": "återgå",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_4804",
+        "swedish": "återgå",
+        "forms": "-r, återgick, återgått",
+        "english": "go back",
+        "chapter": 14,
+        "page": 190,
+        "source_pdf_page": 47
+      },
+      {
+        "id": "riv_b_6037",
+        "swedish": "Återgå",
+        "forms": "",
+        "english": "return to",
+        "chapter": 18,
+        "page": 254,
+        "source_pdf_page": 59
+      }
+    ]
+  },
+  {
+    "swedish": "öde",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_2748",
+        "swedish": "öde",
+        "forms": "tomt, utan folk",
+        "english": "deserted",
+        "chapter": 7,
+        "page": 93,
+        "source_pdf_page": 26
+      },
+      {
+        "id": "riv_b_4148",
+        "swedish": "öde",
+        "forms": "-t, -n, -na",
+        "english": "fate",
+        "chapter": 11,
+        "page": 154,
+        "source_pdf_page": 40
+      }
+    ]
+  },
+  {
+    "swedish": "över",
+    "count": 2,
+    "decision": "REVIEW",
+    "reason": "Same Swedish headword but different English translation.",
+    "cards": [
+      {
+        "id": "riv_b_0638",
+        "swedish": "över",
+        "forms": "",
+        "english": "over",
+        "chapter": 1,
+        "page": 17,
+        "source_pdf_page": 6
+      },
+      {
+        "id": "riv_b_3091",
+        "swedish": "över",
+        "forms": "",
+        "english": "over, more than",
+        "chapter": 8,
+        "page": 102,
+        "source_pdf_page": 30
+      }
+    ]
+  }
+]

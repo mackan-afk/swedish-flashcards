@@ -1,0 +1,704 @@
+======================================================================
+B1-B2 CLEAN DATABASE REPORT
+======================================================================
+
+Raw cards:            6149
+Review records:       163
+
+Updated cards:        146
+Added cards:          15
+Skipped rows:         2
+
+Final cards:          6164
+
+CARDS PER CHAPTER
+----------------------------------------------------------------------
+Chapter  1: 741
+Chapter  2: 466
+Chapter  3: 276
+Chapter  4: 397
+Chapter  5: 384
+Chapter  6: 287
+Chapter  7: 507
+Chapter  8: 388
+Chapter  9: 265
+Chapter 10: 254
+Chapter 11: 270
+Chapter 12: 212
+Chapter 13: 325
+Chapter 14: 204
+Chapter 15: 306
+Chapter 16: 304
+Chapter 17: 308
+Chapter 18: 270
+
+QA
+----------------------------------------------------------------------
+Errors:               0
+Warnings:             0
+
+MANUAL CHANGES
+----------------------------------------------------------------------
+Review #001: ADD_CARD
+  ID: riv_b_manual_0001
+  Swedish: ringa in
+  English: call in
+
+Review #002: UPDATE_PREVIOUS
+  ID: riv_b_0596
+  English: human being, per -> human being, person
+
+Review #003: UPDATE_PREVIOUS
+  ID: riv_b_0630
+  English: housewives’ -> housewives’ vacation
+
+Review #004: ADD_CARD
+  ID: riv_b_manual_0002
+  Swedish: Anledningen till att jag skriver är…
+  English: The reason I’m writing is…
+
+Review #005: SKIP
+
+Review #006: UPDATE_PREVIOUS
+  ID: riv_b_0715
+  English: I have always been inte -> I have always been interested in…
+
+Review #007: ADD_CARD
+  ID: riv_b_manual_0003
+  Swedish: jag är mycket intresserad av…
+  English: I am very interested in…
+
+Review #008: UPDATE_PREVIOUS
+  ID: riv_b_0798
+  English: interested in -> interested in fashion
+
+Review #009: ADD_CARD
+  ID: riv_b_manual_0004
+  Swedish: sammanfatta
+  English: summarize
+
+Review #010: UPDATE_PREVIOUS
+  ID: riv_b_0950
+  English: make up -> make up one’s mind
+
+Review #011: UPDATE_PREVIOUS
+  ID: riv_b_0952
+  English: prepare one -> prepare oneself
+
+Review #012: UPDATE_PREVIOUS
+  ID: riv_b_0965
+  English: cultural persona, someo -> cultural persona, someone well known in the arts/culture
+
+Review #013: UPDATE_PREVIOUS
+  ID: riv_b_1079
+  English: Can you speak a bit -> Can you speak a bit slower?
+
+Review #014: UPDATE_PREVIOUS
+  ID: riv_b_1096
+  Swedish: kuturintresserad -> kulturintresserad
+  English: interested in -> interested in culture
+
+Review #015: UPDATE_PREVIOUS
+  ID: riv_b_1188
+  English: Have you heard what’s hap -> Have you heard what’s happened?
+
+Review #016: UPDATE_PREVIOUS
+  ID: riv_b_1192
+  English: Everything is great -> Everything is great here
+
+Review #017: UPDATE_PREVIOUS
+  ID: riv_b_1193
+  English: We’re having a wonderful time -> We’re having a wonderful time in…
+
+Review #018: UPDATE_PREVIOUS
+  ID: riv_b_1258
+  English: on the one hand… on the -> on the one hand… on the other hand
+
+Review #019: ADD_CARD
+  ID: riv_b_manual_0005
+  Swedish: karensdag
+  English: qualifying day, waiting day
+
+Review #020: ADD_CARD
+  ID: riv_b_manual_0006
+  Swedish: Vad hände med…?
+  English: What happened with…?
+
+Review #021: ADD_CARD
+  ID: riv_b_manual_0007
+  Swedish: Vilken form står de i?
+  English: In what form are they?
+
+Review #022: UPDATE_PREVIOUS
+  ID: riv_b_1740
+  English: ancestor, -> ancestor, forefather
+
+Review #023: ADD_CARD
+  ID: riv_b_manual_0008
+  Swedish: stöta på
+  English: run into, come across
+
+Review #024: UPDATE_PREVIOUS
+  ID: riv_b_1793
+  English: grammatical par -> grammatical particle
+
+Review #025: UPDATE_PREVIOUS
+  ID: riv_b_1974
+  English: Do you know what happened -> Do you know what happened yesterday?
+
+Review #026: UPDATE_PREVIOUS
+  ID: riv_b_2014
+  English: Do you know when the buses -> Do you know when the buses leave?
+
+Review #027: UPDATE_PREVIOUS
+  ID: riv_b_2023
+  English: Do you know who asked -> Do you know who asked about you?
+
+Review #028: UPDATE_PREVIOUS
+  ID: riv_b_2024
+  English: Do you know what I did yes -> Do you know what I did yesterday…?
+
+Review #029: UPDATE_PREVIOUS
+  ID: riv_b_2037
+  English: maternal -> maternal grandmother
+
+Review #030: UPDATE_PREVIOUS
+  ID: riv_b_2086
+  English: gingerbread -> gingerbread snap
+
+Review #031: UPDATE_PREVIOUS
+  ID: riv_b_2189
+  English: confectio -> confectioner
+
+Review #032: UPDATE_PREVIOUS
+  ID: riv_b_2206
+  English: sugar -> sugar beet
+
+Review #033: UPDATE_PREVIOUS
+  ID: riv_b_2275
+  English: minis -> minister of finance
+
+Review #034: UPDATE_PREVIOUS
+  ID: riv_b_2316
+  English: to succeed, to -> to succeed, to follow
+
+Review #035: UPDATE_PREVIOUS
+  ID: riv_b_2327
+  English: member -> member of parliament
+
+Review #036: UPDATE_PREVIOUS
+  ID: riv_b_2338
+  English: exercise -> exercise book
+
+Review #037: UPDATE_PREVIOUS
+  ID: riv_b_2363
+  English: supplementary, income-ba -> supplementary, income-based pension
+
+Review #038: UPDATE_PREVIOUS
+  ID: riv_b_2413
+  English: main quastion, main -> main question, main issue
+
+Review #039: UPDATE_PREVIOUS
+  ID: riv_b_2461
+  English: to do, to occupy oneself -> to do, to occupy oneself with
+
+Review #040: UPDATE_PREVIOUS
+  ID: riv_b_2476
+  English: constitutional law guaranteeing -> constitutional law guaranteeing freedom of the press
+
+Review #041: UPDATE_PREVIOUS
+  ID: riv_b_2477
+  English: constitutional law guaranteeing -> constitutional law guaranteeing freedom of speech
+
+Review #042: UPDATE_PREVIOUS
+  ID: riv_b_2498
+  English: bill proposed by members of -> bill proposed by members of parliament
+
+Review #043: UPDATE_PREVIOUS
+  ID: riv_b_2499
+  English: member -> member of parliament
+
+Review #044: UPDATE_PREVIOUS
+  ID: riv_b_2536
+  English: disa -> disability
+
+Review #045: UPDATE_PREVIOUS
+  ID: riv_b_2648
+  English: daydre -> daydream
+
+Review #046: UPDATE_PREVIOUS
+  ID: riv_b_2652
+  English: family chro -> family chronicle
+
+Review #047: UPDATE_PREVIOUS
+  ID: riv_b_2658
+  English: go back to normal, to -> go back to normal, to one’s normal life
+
+Review #048: UPDATE_PREVIOUS
+  ID: riv_b_2721
+  English: official coun -> official county flower
+
+Review #049: UPDATE_PREVIOUS
+  ID: riv_b_2844
+  English: Sami, person belonging to indigenous -> Sami, person belonging to indigenous Sami people
+
+Review #050: UPDATE_PREVIOUS
+  ID: riv_b_2861
+  English: moun -> mountain bike
+
+Review #051: UPDATE_PREVIOUS
+  ID: riv_b_2866
+  English: locally produ -> locally produced
+
+Review #052: UPDATE_PREVIOUS
+  ID: riv_b_2884
+  English: art and indu -> art and industry exhibition
+
+Review #053: UPDATE_PREVIOUS
+  ID: riv_b_2960
+  English: saffron -> saffron pancake
+
+Review #054: UPDATE_PREVIOUS
+  ID: riv_b_3003
+  English: apple wedge/ -> apple wedge/slice
+
+Review #055: UPDATE_PREVIOUS
+  ID: riv_b_3035
+  English: How many years -> How many years have you/has (s)he worked here?
+
+Review #056: UPDATE_PREVIOUS
+  ID: riv_b_3045
+  English: The movie is based on a -> The movie is based on a book by…
+
+Review #057: UPDATE_PREVIOUS
+  ID: riv_b_3046
+  English: The movie is based -> The movie is based on a true story.
+
+Review #058: UPDATE_PREVIOUS
+  ID: riv_b_3084
+  English: enter into a civil uni -> enter into a civil union
+
+Review #059: UPDATE_PREVIOUS
+  ID: riv_b_3108
+  English: environment and -> environment and climate debate
+
+Review #060: UPDATE_PREVIOUS
+  ID: riv_b_3160
+  English: neighboring -> neighboring country
+
+Review #061: UPDATE_PREVIOUS
+  ID: riv_b_3179
+  English: member of -> member of parliament
+
+Review #062: UPDATE_PREVIOUS
+  ID: riv_b_3243
+  English: niece, sister’s -> niece, sister’s daughter
+
+Review #063: UPDATE_PREVIOUS
+  ID: riv_b_3312
+  English: uncle, father’s -> uncle, father’s brother
+
+Review #064: UPDATE_PREVIOUS
+  ID: riv_b_3335
+  English: I have to tell you so -> I have to tell you something…
+
+Review #065: UPDATE_PREVIOUS
+  ID: riv_b_3360
+  English: person living in/from the Nordic -> person living in/from the Nordic countries
+
+Review #066: UPDATE_PREVIOUS
+  ID: riv_b_3402
+  English: Folk High -> Folk High School
+
+Review #067: UPDATE_PREVIOUS
+  ID: riv_b_3408
+  English: make an appoint -> make an appointment
+
+Review #068: UPDATE_PREVIOUS
+  ID: riv_b_3422
+  English: How fortunate that you re -> How fortunate that you reminded me.
+
+Review #069: UPDATE_PREVIOUS
+  ID: riv_b_3489
+  English: You won’t believe your -> You won’t believe your ears!
+
+Review #070: ADD_CARD
+  ID: riv_b_manual_0009
+  Swedish: en sådan, ett sådant
+  English: one such
+
+Review #071: UPDATE_PREVIOUS
+  ID: riv_b_3559
+  English: hundred kronor -> hundred kronor bill
+
+Review #072: UPDATE_PREVIOUS
+  ID: riv_b_3629
+  English: not meet the other person’s -> not meet the other person’s eyes, look away, act shifty
+
+Review #073: UPDATE_PREVIOUS
+  ID: riv_b_3643
+  English: look into one’s eyes, meet -> look into one’s eyes, meet one’s gaze
+
+Review #074: UPDATE_PREVIOUS
+  ID: riv_b_3676
+  English: square kilo -> square kilometer
+
+Review #075: UPDATE_PREVIOUS
+  ID: riv_b_3778
+  English: environme -> environmentally conscious
+
+Review #076: UPDATE_PREVIOUS
+  ID: riv_b_3785
+  English: environmental -> environmental certification
+
+Review #077: UPDATE_PREVIOUS
+  ID: riv_b_3809
+  English: traditional sweet roll, made for -> traditional sweet roll, made for Shrove Tuesday
+
+Review #078: UPDATE_PREVIOUS
+  ID: riv_b_3855
+  English: inquiry, expression of -> inquiry, expression of interest
+
+Review #079: UPDATE_PREVIOUS
+  ID: riv_b_3938
+  English: rural, agricultural environ- -> rural, agricultural environment
+
+Review #080: UPDATE_PREVIOUS
+  ID: riv_b_4054
+  English: Things don’t always -> Things don’t always turn out the way one imagined.
+
+Review #081: UPDATE_PREVIOUS
+  ID: riv_b_4059
+  English: well -> well documented
+
+Review #082: UPDATE_PREVIOUS
+  ID: riv_b_4065
+  English: under the -> under the influence of drugs
+
+Review #083: UPDATE_PREVIOUS
+  ID: riv_b_4101
+  English: police heli -> police helicopter
+
+Review #084: UPDATE_PREVIOUS
+  ID: riv_b_4124
+  English: mitigating -> mitigating circumstances
+
+Review #085: ADD_CARD
+  ID: riv_b_manual_0010
+  Swedish: lura till sig
+  English: obtain by deception, trick someone out of
+
+Review #086: UPDATE_PREVIOUS
+  ID: riv_b_4257
+  English: adventu -> adventuress
+
+Review #087: UPDATE_PREVIOUS
+  ID: riv_b_4260
+  English: honeymoon -> honeymoon trip
+
+Review #088: UPDATE_PREVIOUS
+  ID: riv_b_4335
+  English: mother in -> mother-in-law
+
+Review #089: UPDATE_PREVIOUS
+  ID: riv_b_4430
+  English: Now, there has to be an end -> Now, there has to be an end to…
+
+Review #090: UPDATE_PREVIOUS
+  ID: riv_b_4443
+  English: Easter eve, holy -> Easter eve, Holy Saturday
+
+Review #091: UPDATE_PREVIOUS
+  ID: riv_b_4445
+  English: national holiday, independen -> national holiday, independence day
+
+Review #092: UPDATE_PREVIOUS
+  ID: riv_b_4504
+  English: reformed, reconsti -> reformed, reconstituted family
+
+Review #093: ADD_CARD
+  ID: riv_b_manual_0011
+  Swedish: fastlagen
+  English: Lent
+
+Review #094: UPDATE_PREVIOUS
+  ID: riv_b_4542
+  English: Maundy Thursday, Thursday -> Maundy Thursday, Thursday before Easter
+
+Review #095: UPDATE_PREVIOUS
+  ID: riv_b_4569
+  English: man dressed in lea -> man dressed in leaves
+
+Review #096: UPDATE_PREVIOUS
+  ID: riv_b_4650
+  English: house/farm gno -> house/farm gnome
+
+Review #097: UPDATE_PREVIOUS
+  ID: riv_b_4652
+  English: attract atten -> attract attention
+
+Review #098: ADD_CARD
+  ID: riv_b_manual_0012
+  Swedish: midvinternatt
+  English: mid-winter night
+
+Review #099: SKIP
+
+Review #100: UPDATE_PREVIOUS
+  ID: riv_b_4771
+  English: It’s different in different situ -> It’s different in different situations.
+
+Review #101: UPDATE_PREVIOUS
+  ID: riv_b_4813
+  English: Where was it you lived -> Where was it you lived again?
+
+Review #102: UPDATE_PREVIOUS
+  ID: riv_b_4833
+  English: Hello. Can I help you -> Hello. Can I help you with anything?
+
+Review #103: UPDATE_PREVIOUS
+  ID: riv_b_4858
+  English: I shall see what we can -> I shall see what we can do about the issue.
+
+Review #104: UPDATE_PREVIOUS
+  ID: riv_b_4860
+  English: Unfortunately there’s -> Unfortunately there’s nothing we can do.
+
+Review #105: UPDATE_PREVIOUS
+  ID: riv_b_4899
+  English: care and -> care and service instructions
+
+Review #106: UPDATE_PREVIOUS
+  ID: riv_b_4902
+  English: law regulating sale of -> law regulating sale of consumer goods
+
+Review #107: UPDATE_PREVIOUS
+  ID: riv_b_4934
+  English: paint oneself a picture of -> paint oneself a picture of something
+
+Review #108: UPDATE_PREVIOUS
+  ID: riv_b_4947
+  English: have a certain tempera -> have a certain temperament
+
+Review #109: UPDATE_PREVIOUS
+  ID: riv_b_4983
+  English: Statistics Sweden, the central -> Statistics Sweden, the central statistics agency
+
+Review #110: UPDATE_PREVIOUS
+  ID: riv_b_5003
+  English: annual report, annual ac -> annual report, annual accounts
+
+Review #111: UPDATE_PREVIOUS
+  ID: riv_b_5042
+  English: highlight, bring -> highlight, bring out
+
+Review #112: UPDATE_PREVIOUS
+  ID: riv_b_5058
+  English: personal intentifica -> personal identification number, social security number
+
+Review #113: UPDATE_PREVIOUS
+  ID: riv_b_5080
+  English: references available upon -> references available upon request
+
+Review #114: UPDATE_PREVIOUS
+  ID: riv_b_5091
+  English: Application for the position -> Application for the position of…
+
+Review #115: UPDATE_PREVIOUS
+  ID: riv_b_5094
+  English: well -> well structured
+
+Review #116: UPDATE_PREVIOUS
+  ID: riv_b_5147
+  English: documen -> documented
+
+Review #117: UPDATE_PREVIOUS
+  ID: riv_b_5153
+  English: maternal grand -> maternal grandfather
+
+Review #118: UPDATE_PREVIOUS
+  ID: riv_b_5195
+  English: finish one’s sentence, not be inter -> finish one’s sentence, not be interrupted
+
+Review #119: UPDATE_PREVIOUS
+  ID: riv_b_5216
+  English: hold thumbs, cross one’s -> hold thumbs, cross one’s fingers
+
+Review #120: UPDATE_PREVIOUS
+  ID: riv_b_5228
+  English: bang one’s fist on the -> bang one’s fist on the table
+
+Review #121: UPDATE_PREVIOUS
+  ID: riv_b_5240
+  English: lose one’s train of -> lose one’s train of thought
+
+Review #122: ADD_CARD
+  ID: riv_b_manual_0013
+  Swedish: ställa upp
+  English: support, help out
+
+Review #123: UPDATE_PREVIOUS
+  ID: riv_b_5278
+  English: group of sib -> group of siblings
+
+Review #124: UPDATE_PREVIOUS
+  ID: riv_b_5281
+  English: big -> big brother
+
+Review #125: UPDATE_PREVIOUS
+  ID: riv_b_5299
+  English: performance-orien -> performance-oriented
+
+Review #126: UPDATE_PREVIOUS
+  ID: riv_b_5308
+  English: CEO of the Stock Ex -> CEO of the Stock Exchange
+
+Review #127: UPDATE_PREVIOUS
+  ID: riv_b_5367
+  English: dishwashing -> dishwashing brush
+
+Review #128: UPDATE_PREVIOUS
+  ID: riv_b_5438
+  English: keyring, -> keyring, bunch of keys
+
+Review #129: UPDATE_PREVIOUS
+  ID: riv_b_5474
+  English: ”bonus” mother, -> ”bonus” mother, stepmother
+
+Review #130: ADD_CARD
+  ID: riv_b_manual_0014
+  Swedish: iblandbo
+  English: ”sometimes” cohabiting
+
+Review #131: UPDATE_PREVIOUS
+  ID: riv_b_5537
+  English: panoramic win -> panoramic windows
+
+Review #132: UPDATE_PREVIOUS
+  ID: riv_b_5563
+  English: fellow human -> fellow human being
+
+Review #133: UPDATE_PREVIOUS
+  ID: riv_b_5566
+  English: description of a person, -> description of a person, character description
+
+Review #134: UPDATE_PREVIOUS
+  ID: riv_b_5702
+  English: costumes of transforma -> costumes of transformation
+
+Review #135: UPDATE_PREVIOUS
+  ID: riv_b_5771
+  English: paternal grand -> paternal grandmother
+
+Review #136: UPDATE_PREVIOUS
+  ID: riv_b_5799
+  English: apply, -> apply, place
+
+Review #137: UPDATE_PREVIOUS
+  ID: riv_b_5853
+  English: environme -> environmentally conscious
+
+Review #138: UPDATE_PREVIOUS
+  ID: riv_b_5867
+  English: on the one hand… on the -> on the one hand… on the other hand
+
+Review #139: UPDATE_PREVIOUS
+  ID: riv_b_5898
+  English: head -> head nurse
+
+Review #140: UPDATE_PREVIOUS
+  ID: riv_b_5933
+  English: Perhaps you could close -> Perhaps you could close the window?
+
+Review #141: UPDATE_PREVIOUS
+  ID: riv_b_5935
+  English: Couldn’t you -> Couldn’t you close the window?
+
+Review #142: UPDATE_PREVIOUS
+  ID: riv_b_5936
+  English: Couldn’t you get -> Couldn’t you get me my jacket?
+
+Review #143: UPDATE_PREVIOUS
+  ID: riv_b_5937
+  English: Could you possibly -> Could you possibly close the window?
+
+Review #144: UPDATE_PREVIOUS
+  ID: riv_b_5938
+  English: It -> It would be good if you closed/could close the window.
+
+Review #145: UPDATE_PREVIOUS
+  ID: riv_b_5939
+  English: Would it be pos -> Would it be possible to close the window?
+
+Review #146: UPDATE_PREVIOUS
+  ID: riv_b_5943
+  English: Would you be able to -> Would you be able to close the window?
+
+Review #147: UPDATE_PREVIOUS
+  ID: riv_b_5944
+  English: Do you want to close the -> Do you want to close the window?
+
+Review #148: UPDATE_PREVIOUS
+  ID: riv_b_5945
+  English: Do/don’t you want to close -> Do/don’t you want to close the window?
+
+Review #149: UPDATE_PREVIOUS
+  ID: riv_b_5946
+  English: Would/wouldn’t you -> Would/wouldn’t you like to close the window?
+
+Review #150: UPDATE_PREVIOUS
+  ID: riv_b_5947
+  English: Do you want to close the -> Do you want to close the window?
+
+Review #151: UPDATE_PREVIOUS
+  ID: riv_b_5956
+  English: law regulating relationship -> law regulating relationship between employers and employees
+
+Review #152: UPDATE_PREVIOUS
+  ID: riv_b_6005
+  English: forestry worker, -> forestry worker, logger
+
+Review #153: UPDATE_PREVIOUS
+  ID: riv_b_6025
+  English: Have you heard what happe -> Have you heard what happened?
+
+Review #154: UPDATE_PREVIOUS
+  ID: riv_b_6028
+  English: Do you know who I -> Do you know who I bumped into the other day?
+
+Review #155: UPDATE_PREVIOUS
+  ID: riv_b_6039
+  English: Well… That was the end of the -> Well… That was the end of the fun.
+
+Review #156: UPDATE_PREVIOUS
+  ID: riv_b_6062
+  English: relations -> relationship-oriented
+
+Review #157: UPDATE_PREVIOUS
+  ID: riv_b_6067
+  English: female-domi -> female-dominated
+
+Review #158: UPDATE_PREVIOUS
+  ID: riv_b_6069
+  English: male-domina -> male-dominated
+
+Review #159: UPDATE_PREVIOUS
+  ID: riv_b_6100
+  English: to be assessed, -> to be assessed, judged
+
+Review #160: UPDATE_PREVIOUS
+  ID: riv_b_6104
+  English: to be rediscove -> to be rediscovered
+
+Review #161: ADD_CARD
+  ID: riv_b_manual_0015
+  Swedish: ge (ett djur) mat
+  English: feed (an animal)
+
+Review #162: UPDATE_PREVIOUS
+  ID: riv_b_6121
+  English: sense of responsibi -> sense of responsibility
+
+Review #163: UPDATE_PREVIOUS
+  ID: riv_b_6143
+  English: to hang out together, to be -> to hang out together, to be connected

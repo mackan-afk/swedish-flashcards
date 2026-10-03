@@ -9,7 +9,7 @@ import 'data/word_repository.dart';
 import 'models/word.dart';
 import 'models/word_progress.dart';
 
-const String currentAppVersion = '1.3.0';
+const String currentAppVersion = '1.5.0';
 const String lastSeenVersionKey = 'last_seen_version';
 const String tutorialCompletedKey = 'tutorial_completed';
 const String helpGuideSeenVersionKey = 'help_guide_seen_version';
@@ -533,21 +533,21 @@ class _HomePageState extends State<HomePage> {
               mainAxisSize: MainAxisSize.min,
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
-                Text('Statistics', style: TextStyle(fontWeight: FontWeight.w800, fontSize: 16)),
+                Text('B1–B2 vocabulary', style: TextStyle(fontWeight: FontWeight.w800, fontSize: 16)),
                 SizedBox(height: 6),
-                Text('Track your daily activity, overall progress and study streak.'),
+                Text('A complete B1–B2 vocabulary collection has been added with 5,870 flashcards.'),
                 SizedBox(height: 18),
-                Text('Card direction', style: TextStyle(fontWeight: FontWeight.w800, fontSize: 16)),
+                Text('Level selection', style: TextStyle(fontWeight: FontWeight.w800, fontSize: 16)),
                 SizedBox(height: 6),
-                Text('Choose Swedish → English or English → Swedish in Settings.'),
+                Text('Study material is now organised into A1–A2 and B1–B2 levels.'),
                 SizedBox(height: 18),
-                Text('Feedback', style: TextStyle(fontWeight: FontWeight.w800, fontSize: 16)),
+                Text('All Words or By Chapter', style: TextStyle(fontWeight: FontWeight.w800, fontSize: 16)),
                 SizedBox(height: 6),
-                Text('You can now report a bug or send a suggestion directly from the app.'),
+                Text('For each level, you can study the complete collection or choose a specific chapter.'),
                 SizedBox(height: 18),
-                Text('Help Guide', style: TextStyle(fontWeight: FontWeight.w800, fontSize: 16)),
+                Text('9,378 words in total', style: TextStyle(fontWeight: FontWeight.w800, fontSize: 16)),
                 SizedBox(height: 6),
-                Text('The guide explains Learning, I Know and Daily Review. You can reopen it anytime in Settings.'),
+                Text('SvenskaKort now contains 3,508 A1–A2 cards and 5,870 B1–B2 cards. Your existing learning progress is preserved.'),
               ],
             ),
           ),
@@ -723,13 +723,19 @@ class _HomePageState extends State<HomePage> {
     await refreshProgress();
   }
 
-  Future<void> openChapterSelection() async {
+  Future<void> openLevelMaterial({
+    required String level,
+  }) async {
+    final levelWords = allWords
+        .where((word) => word.level == level)
+        .toList();
+
     await Navigator.push(
       context,
       MaterialPageRoute(
-        builder: (context) =>
-            ChapterSelectionPage(
-          allWords: allWords,
+        builder: (context) => LevelMaterialPage(
+          level: level,
+          words: levelWords,
           progress: progress,
         ),
       ),
@@ -1045,14 +1051,13 @@ class _HomePageState extends State<HomePage> {
                   const SizedBox(height: 12),
 
                   MaterialTile(
-                    icon: Icons.library_books_outlined,
-                    title: 'All Words',
+                    icon: Icons.looks_one_outlined,
+                    title: 'A1–A2',
                     subtitle:
-                        'Entire vocabulary collection',
+                        '${allWords.where((word) => word.level == 'A1-A2').length} words',
                     onTap: () {
-                      openStudyOptions(
-                        title: 'All Words',
-                        words: allWords,
+                      openLevelMaterial(
+                        level: 'A1-A2',
                       );
                     },
                   ),
@@ -1060,10 +1065,15 @@ class _HomePageState extends State<HomePage> {
                   const SizedBox(height: 10),
 
                   MaterialTile(
-                    icon: Icons.menu_book_outlined,
-                    title: 'By Chapter',
-                    subtitle: 'Choose Kapitel 1–20',
-                    onTap: openChapterSelection,
+                    icon: Icons.looks_two_outlined,
+                    title: 'B1–B2',
+                    subtitle:
+                        '${allWords.where((word) => word.level == 'B1-B2').length} words',
+                    onTap: () {
+                      openLevelMaterial(
+                        level: 'B1-B2',
+                      );
+                    },
                   ),
                 ],
               ),
@@ -2163,16 +2173,194 @@ class _SettingsPageState
 }
 
 // ============================================================
+// LEVEL MATERIAL
+// ============================================================
+
+class LevelMaterialPage extends StatefulWidget {
+  final String level;
+  final List<Word> words;
+  final Map<String, WordProgress> progress;
+
+  const LevelMaterialPage({
+    super.key,
+    required this.level,
+    required this.words,
+    required this.progress,
+  });
+
+  @override
+  State<LevelMaterialPage> createState() =>
+      _LevelMaterialPageState();
+}
+
+class _LevelMaterialPageState extends State<LevelMaterialPage> {
+  late Map<String, WordProgress> progress;
+
+  @override
+  void initState() {
+    super.initState();
+
+    progress =
+        Map<String, WordProgress>.from(
+      widget.progress,
+    );
+  }
+
+  Future<void> refreshProgress() async {
+    final loaded =
+        await loadProgress(widget.words);
+
+    if (!mounted) return;
+
+    setState(() {
+      for (final word in widget.words) {
+        progress.remove(word.id);
+      }
+
+      progress.addAll(loaded);
+    });
+  }
+
+  Future<void> openAllWords() async {
+    await Navigator.push(
+      context,
+      MaterialPageRoute(
+        builder: (context) =>
+            StudyOptionsPage(
+          title:
+              '${widget.level} • All Words',
+          words: widget.words,
+          progress: progress,
+        ),
+      ),
+    );
+
+    await refreshProgress();
+  }
+
+  Future<void> openChapters() async {
+    await Navigator.push(
+      context,
+      MaterialPageRoute(
+        builder: (context) =>
+            ChapterSelectionPage(
+          title: widget.level,
+          allWords: widget.words,
+          progress: progress,
+        ),
+      ),
+    );
+
+    await refreshProgress();
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    final chapters = widget.words
+        .expand((word) => word.chapters)
+        .where((chapter) => chapter > 0)
+        .toSet()
+        .toList()
+      ..sort();
+
+    return Scaffold(
+      appBar: AppBar(
+        title: Text(widget.level),
+      ),
+      body: SafeArea(
+        child: Center(
+          child: SingleChildScrollView(
+            padding:
+                const EdgeInsets.all(24),
+            child: ConstrainedBox(
+              constraints:
+                  const BoxConstraints(
+                maxWidth: 550,
+              ),
+              child: Column(
+                crossAxisAlignment:
+                    CrossAxisAlignment
+                        .stretch,
+                children: [
+                  Icon(
+                    Icons.school_outlined,
+                    size: 64,
+                    color: Theme.of(context)
+                        .colorScheme
+                        .primary,
+                  ),
+                  const SizedBox(
+                    height: 16,
+                  ),
+                  Text(
+                    widget.level,
+                    textAlign:
+                        TextAlign.center,
+                    style:
+                        const TextStyle(
+                      fontSize: 30,
+                      fontWeight:
+                          FontWeight.w800,
+                    ),
+                  ),
+                  const SizedBox(
+                    height: 6,
+                  ),
+                  Text(
+                    '${widget.words.length} words',
+                    textAlign:
+                        TextAlign.center,
+                    style: TextStyle(
+                      color:
+                          Colors.grey.shade600,
+                      fontSize: 15,
+                    ),
+                  ),
+                  const SizedBox(
+                    height: 30,
+                  ),
+                  MaterialTile(
+                    icon: Icons
+                        .library_books_outlined,
+                    title: 'All Words',
+                    subtitle:
+                        'Study the entire ${widget.level} collection',
+                    onTap: openAllWords,
+                  ),
+                  const SizedBox(
+                    height: 10,
+                  ),
+                  MaterialTile(
+                    icon: Icons
+                        .menu_book_outlined,
+                    title: 'By Chapter',
+                    subtitle:
+                        'Choose from ${chapters.length} chapters',
+                    onTap: openChapters,
+                  ),
+                ],
+              ),
+            ),
+          ),
+        ),
+      ),
+    );
+  }
+}
+
+// ============================================================
 // CHAPTER SELECTION
 // ============================================================
 
 class ChapterSelectionPage
     extends StatefulWidget {
+  final String title;
   final List<Word> allWords;
   final Map<String, WordProgress> progress;
 
   const ChapterSelectionPage({
     super.key,
+    required this.title,
     required this.allWords,
     required this.progress,
   });
@@ -2229,7 +2417,7 @@ class _ChapterSelectionPageState
   @override
   Widget build(BuildContext context) {
     final chapters = widget.allWords
-        .map((word) => word.chapter)
+        .expand((word) => word.chapters)
         .where((chapter) => chapter > 0)
         .toSet()
         .toList()
@@ -2237,7 +2425,7 @@ class _ChapterSelectionPageState
 
     return Scaffold(
       appBar: AppBar(
-        title: const Text('By Chapter'),
+        title: Text('${widget.title} • By Chapter'),
       ),
       body: SafeArea(
         child: Center(
@@ -2279,8 +2467,9 @@ class _ChapterSelectionPageState
                               .allWords
                               .where(
                                 (word) =>
-                                    word.chapter ==
-                                    chapter,
+                                    word.belongsToChapter(
+                                      chapter,
+                                    ),
                               )
                               .toList();
 

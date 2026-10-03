@@ -1,0 +1,5517 @@
+[
+  {
+    "swedish": "först",
+    "english": "first",
+    "count": 5,
+    "cards": [
+      {
+        "id": "riv_b_0283",
+        "swedish": "först",
+        "forms": "-a",
+        "english": "first",
+        "level": "B1-B2",
+        "chapter": 1,
+        "page": 11,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 3
+      },
+      {
+        "id": "riv_b_0419",
+        "swedish": "först",
+        "forms": "-a",
+        "english": "first",
+        "level": "B1-B2",
+        "chapter": 1,
+        "page": 10,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 5
+      },
+      {
+        "id": "riv_b_1944",
+        "swedish": "först",
+        "forms": "",
+        "english": "first",
+        "level": "B1-B2",
+        "chapter": 5,
+        "page": 63,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 19
+      },
+      {
+        "id": "riv_b_2302",
+        "swedish": "först",
+        "forms": "-a",
+        "english": "first",
+        "level": "B1-B2",
+        "chapter": 6,
+        "page": 77,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 22
+      },
+      {
+        "id": "riv_b_3313",
+        "swedish": "först",
+        "forms": "",
+        "english": "first",
+        "level": "B1-B2",
+        "chapter": 8,
+        "page": 111,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 32
+      }
+    ]
+  },
+  {
+    "swedish": "än idag",
+    "english": "still today",
+    "count": 4,
+    "cards": [
+      {
+        "id": "riv_b_1039",
+        "swedish": "än idag",
+        "forms": "",
+        "english": "still today",
+        "level": "B1-B2",
+        "chapter": 2,
+        "page": 28,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 10
+      },
+      {
+        "id": "riv_b_2108",
+        "swedish": "än idag",
+        "forms": "",
+        "english": "still today",
+        "level": "B1-B2",
+        "chapter": 5,
+        "page": 67,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 21
+      },
+      {
+        "id": "riv_b_3886",
+        "swedish": "än idag",
+        "forms": "",
+        "english": "still today",
+        "level": "B1-B2",
+        "chapter": 11,
+        "page": 142,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 38
+      },
+      {
+        "id": "riv_b_5782",
+        "swedish": "än idag",
+        "forms": "",
+        "english": "still today",
+        "level": "B1-B2",
+        "chapter": 18,
+        "page": 243,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 57
+      }
+    ]
+  },
+  {
+    "swedish": "lycklig",
+    "english": "happy",
+    "count": 3,
+    "cards": [
+      {
+        "id": "riv_b_0523",
+        "swedish": "lycklig",
+        "forms": "-t, -a",
+        "english": "happy",
+        "level": "B1-B2",
+        "chapter": 1,
+        "page": 14,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 6
+      },
+      {
+        "id": "riv_b_0892",
+        "swedish": "lycklig",
+        "forms": "-t, -a",
+        "english": "happy",
+        "level": "B1-B2",
+        "chapter": 2,
+        "page": 25,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 9
+      },
+      {
+        "id": "riv_b_4544",
+        "swedish": "lycklig",
+        "forms": "-t, -a",
+        "english": "happy",
+        "level": "B1-B2",
+        "chapter": 13,
+        "page": 177,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 44
+      }
+    ]
+  },
+  {
+    "swedish": "långsam",
+    "english": "slow",
+    "count": 3,
+    "cards": [
+      {
+        "id": "riv_b_0291",
+        "swedish": "långsam",
+        "forms": "-t, -ma",
+        "english": "slow",
+        "level": "B1-B2",
+        "chapter": 1,
+        "page": 11,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 3
+      },
+      {
+        "id": "riv_b_1696",
+        "swedish": "långsam",
+        "forms": "-t, -ma",
+        "english": "slow",
+        "level": "B1-B2",
+        "chapter": 4,
+        "page": 52,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 17
+      },
+      {
+        "id": "riv_b_2580",
+        "swedish": "långsam",
+        "forms": "-t, -a",
+        "english": "slow",
+        "level": "B1-B2",
+        "chapter": 7,
+        "page": 86,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 25
+      }
+    ]
+  },
+  {
+    "swedish": "mot",
+    "english": "against",
+    "count": 3,
+    "cards": [
+      {
+        "id": "riv_b_1126",
+        "swedish": "mot",
+        "forms": "",
+        "english": "against",
+        "level": "B1-B2",
+        "chapter": 2,
+        "page": 28,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 11
+      },
+      {
+        "id": "riv_b_2635",
+        "swedish": "mot",
+        "forms": "",
+        "english": "against",
+        "level": "B1-B2",
+        "chapter": 7,
+        "page": 90,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 26
+      },
+      {
+        "id": "riv_b_3048",
+        "swedish": "mot",
+        "forms": "",
+        "english": "against",
+        "level": "B1-B2",
+        "chapter": 8,
+        "page": 102,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 30
+      }
+    ]
+  },
+  {
+    "swedish": "styrka",
+    "english": "strength",
+    "count": 3,
+    "cards": [
+      {
+        "id": "riv_b_0371",
+        "swedish": "styrka",
+        "forms": "-n, styrkor, styrkorna",
+        "english": "strength",
+        "level": "B1-B2",
+        "chapter": 1,
+        "page": 12,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 4
+      },
+      {
+        "id": "riv_b_0427",
+        "swedish": "styrka",
+        "forms": "-n, styrkor, styrkorna",
+        "english": "strength",
+        "level": "B1-B2",
+        "chapter": 1,
+        "page": 10,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 5
+      },
+      {
+        "id": "riv_b_5377",
+        "swedish": "styrka",
+        "forms": "-n, styrkor, styrkorna",
+        "english": "strength",
+        "level": "B1-B2",
+        "chapter": 16,
+        "page": 223,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 53
+      }
+    ]
+  },
+  {
+    "swedish": "tid",
+    "english": "time",
+    "count": 3,
+    "cards": [
+      {
+        "id": "riv_b_0145",
+        "swedish": "tid",
+        "forms": "-en, -er, -erna",
+        "english": "time",
+        "level": "B1-B2",
+        "chapter": 1,
+        "page": 8,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 2
+      },
+      {
+        "id": "riv_b_0538",
+        "swedish": "tid",
+        "forms": "-en, -er, -erna",
+        "english": "time",
+        "level": "B1-B2",
+        "chapter": 1,
+        "page": 14,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 6
+      },
+      {
+        "id": "riv_b_1345",
+        "swedish": "tid",
+        "forms": "-en, -er, -erna",
+        "english": "time",
+        "level": "B1-B2",
+        "chapter": 3,
+        "page": 42,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 13
+      }
+    ]
+  },
+  {
+    "swedish": "till och med",
+    "english": "even",
+    "count": 3,
+    "cards": [
+      {
+        "id": "riv_b_1130",
+        "swedish": "till och med",
+        "forms": "",
+        "english": "even",
+        "level": "B1-B2",
+        "chapter": 2,
+        "page": 28,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 11
+      },
+      {
+        "id": "riv_b_2909",
+        "swedish": "till och med",
+        "forms": "",
+        "english": "even",
+        "level": "B1-B2",
+        "chapter": 7,
+        "page": 97,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 28
+      },
+      {
+        "id": "riv_b_5701",
+        "swedish": "till och med",
+        "forms": "",
+        "english": "even",
+        "level": "B1-B2",
+        "chapter": 17,
+        "page": 236,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 56
+      }
+    ]
+  },
+  {
+    "swedish": "absolut inte",
+    "english": "absolutely not",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_0170",
+        "swedish": "absolut inte",
+        "forms": "",
+        "english": "absolutely not",
+        "level": "B1-B2",
+        "chapter": 1,
+        "page": 9,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 2
+      },
+      {
+        "id": "riv_b_1726",
+        "swedish": "absolut inte",
+        "forms": "",
+        "english": "absolutely not",
+        "level": "B1-B2",
+        "chapter": 4,
+        "page": 54,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 17
+      }
+    ]
+  },
+  {
+    "swedish": "aktiv",
+    "english": "active",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_1125",
+        "swedish": "aktiv",
+        "forms": "-t, -a",
+        "english": "active",
+        "level": "B1-B2",
+        "chapter": 2,
+        "page": 28,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 11
+      },
+      {
+        "id": "riv_b_2318",
+        "swedish": "aktiv",
+        "forms": "-t, -a",
+        "english": "active",
+        "level": "B1-B2",
+        "chapter": 6,
+        "page": 75,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 23
+      }
+    ]
+  },
+  {
+    "swedish": "alla",
+    "english": "all",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_0220",
+        "swedish": "alla",
+        "forms": "",
+        "english": "all",
+        "level": "B1-B2",
+        "chapter": 1,
+        "page": 10,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 3
+      },
+      {
+        "id": "riv_b_0514",
+        "swedish": "alla",
+        "forms": "",
+        "english": "all",
+        "level": "B1-B2",
+        "chapter": 1,
+        "page": 16,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 5
+      }
+    ]
+  },
+  {
+    "swedish": "allför",
+    "english": "all too",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_3756",
+        "swedish": "allför",
+        "forms": "",
+        "english": "all too",
+        "level": "B1-B2",
+        "chapter": 10,
+        "page": 133,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 37
+      },
+      {
+        "id": "riv_b_5055",
+        "swedish": "allför",
+        "forms": "",
+        "english": "all too",
+        "level": "B1-B2",
+        "chapter": 15,
+        "page": 206,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 50
+      }
+    ]
+  },
+  {
+    "swedish": "alternativ",
+    "english": "alternative",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_0032",
+        "swedish": "alternativ",
+        "forms": "-et, -, -en",
+        "english": "alternative",
+        "level": "B1-B2",
+        "chapter": 1,
+        "page": 8,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 1
+      },
+      {
+        "id": "riv_b_0474",
+        "swedish": "alternativ",
+        "forms": "-t, -a",
+        "english": "alternative",
+        "level": "B1-B2",
+        "chapter": 1,
+        "page": 15,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 5
+      }
+    ]
+  },
+  {
+    "swedish": "andra",
+    "english": "other",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_0302",
+        "swedish": "andra",
+        "forms": "",
+        "english": "other",
+        "level": "B1-B2",
+        "chapter": 1,
+        "page": 12,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 3
+      },
+      {
+        "id": "riv_b_5812",
+        "swedish": "andra",
+        "forms": "",
+        "english": "other",
+        "level": "B1-B2",
+        "chapter": 18,
+        "page": 245,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 57
+      }
+    ]
+  },
+  {
+    "swedish": "avsluta",
+    "english": "finish",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_0698",
+        "swedish": "avsluta",
+        "forms": "-r, -de, -t",
+        "english": "finish",
+        "level": "B1-B2",
+        "chapter": 2,
+        "page": 16,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 7
+      },
+      {
+        "id": "riv_b_3396",
+        "swedish": "avsluta",
+        "forms": "-r, -de, -t",
+        "english": "finish",
+        "level": "B1-B2",
+        "chapter": 9,
+        "page": 115,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 33
+      }
+    ]
+  },
+  {
+    "swedish": "barnbarn",
+    "english": "grandchildren",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_2258",
+        "swedish": "barnbarn",
+        "forms": "-et, -, -en",
+        "english": "grandchildren",
+        "level": "B1-B2",
+        "chapter": 6,
+        "page": 70,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 22
+      },
+      {
+        "id": "riv_b_5485",
+        "swedish": "barnbarn",
+        "forms": "-et, -, -en",
+        "english": "grandchildren",
+        "level": "B1-B2",
+        "chapter": 17,
+        "page": 227,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 54
+      }
+    ]
+  },
+  {
+    "swedish": "besöka",
+    "english": "visit",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_0459",
+        "swedish": "besöka",
+        "forms": "besöker, besökte, besökt",
+        "english": "visit",
+        "level": "B1-B2",
+        "chapter": 1,
+        "page": 14,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 5
+      },
+      {
+        "id": "riv_b_0465",
+        "swedish": "besöka",
+        "forms": "besöker, besökte, besökt",
+        "english": "visit",
+        "level": "B1-B2",
+        "chapter": 1,
+        "page": 14,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 5
+      }
+    ]
+  },
+  {
+    "swedish": "betydelse",
+    "english": "meaning",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_0791",
+        "swedish": "betydelse",
+        "forms": "-n, -r, -rna",
+        "english": "meaning",
+        "level": "B1-B2",
+        "chapter": 2,
+        "page": 20,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 8
+      },
+      {
+        "id": "riv_b_5918",
+        "swedish": "betydelse",
+        "forms": "-n, -r, -rna",
+        "english": "meaning",
+        "level": "B1-B2",
+        "chapter": 18,
+        "page": 252,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 58
+      }
+    ]
+  },
+  {
+    "swedish": "bland annat",
+    "english": "among other things",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_0708",
+        "swedish": "bland annat",
+        "forms": "",
+        "english": "among other things",
+        "level": "B1-B2",
+        "chapter": 2,
+        "page": 16,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 7
+      },
+      {
+        "id": "riv_b_2328",
+        "swedish": "bland annat",
+        "forms": "",
+        "english": "among other things",
+        "level": "B1-B2",
+        "chapter": 6,
+        "page": 75,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 23
+      }
+    ]
+  },
+  {
+    "swedish": "blod",
+    "english": "blood",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_1539",
+        "swedish": "blod",
+        "forms": "-et",
+        "english": "blood",
+        "level": "B1-B2",
+        "chapter": 4,
+        "page": 50,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 15
+      },
+      {
+        "id": "riv_b_2921",
+        "swedish": "blod",
+        "forms": "-et",
+        "english": "blood",
+        "level": "B1-B2",
+        "chapter": 7,
+        "page": 97,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 28
+      }
+    ]
+  },
+  {
+    "swedish": "bondesamhälle",
+    "english": "farming society",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_5372",
+        "swedish": "bondesamhälle",
+        "forms": "-t, -n, -na",
+        "english": "farming society",
+        "level": "B1-B2",
+        "chapter": 16,
+        "page": 223,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 53
+      },
+      {
+        "id": "riv_b_5388",
+        "swedish": "bondesamhälle",
+        "forms": "-t, -n, -na",
+        "english": "farming society",
+        "level": "B1-B2",
+        "chapter": 16,
+        "page": 225,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 53
+      }
+    ]
+  },
+  {
+    "swedish": "djup",
+    "english": "deep",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_0268",
+        "swedish": "djup",
+        "forms": "-t, -a",
+        "english": "deep",
+        "level": "B1-B2",
+        "chapter": 1,
+        "page": 11,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 3
+      },
+      {
+        "id": "riv_b_4623",
+        "swedish": "djup",
+        "forms": "-t, -a",
+        "english": "deep",
+        "level": "B1-B2",
+        "chapter": 13,
+        "page": 181,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 45
+      }
+    ]
+  },
+  {
+    "swedish": "dålig",
+    "english": "bad",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_0204",
+        "swedish": "dålig",
+        "forms": "-t, -a",
+        "english": "bad",
+        "level": "B1-B2",
+        "chapter": 1,
+        "page": 8,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 3
+      },
+      {
+        "id": "riv_b_0306",
+        "swedish": "dålig",
+        "forms": "sämre, sämst",
+        "english": "bad",
+        "level": "B1-B2",
+        "chapter": 1,
+        "page": 12,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 3
+      }
+    ]
+  },
+  {
+    "swedish": "entré",
+    "english": "entrance",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_1786",
+        "swedish": "entré",
+        "forms": "-n, -er, -erna",
+        "english": "entrance",
+        "level": "B1-B2",
+        "chapter": 4,
+        "page": 57,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 17
+      },
+      {
+        "id": "riv_b_3143",
+        "swedish": "entré",
+        "forms": "-n, -er, -erna",
+        "english": "entrance",
+        "level": "B1-B2",
+        "chapter": 8,
+        "page": 103,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 30
+      }
+    ]
+  },
+  {
+    "swedish": "erfarenhet",
+    "english": "experience",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_3427",
+        "swedish": "erfarenhet",
+        "forms": "-en, -er, -erna",
+        "english": "experience",
+        "level": "B1-B2",
+        "chapter": 9,
+        "page": 117,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 33
+      },
+      {
+        "id": "riv_b_4981",
+        "swedish": "erfarenhet",
+        "forms": "-en, -er, -erna",
+        "english": "experience",
+        "level": "B1-B2",
+        "chapter": 15,
+        "page": 206,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 49
+      }
+    ]
+  },
+  {
+    "swedish": "europeisk",
+    "english": "European",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_0621",
+        "swedish": "europeisk",
+        "forms": "-t, -a",
+        "english": "European",
+        "level": "B1-B2",
+        "chapter": 1,
+        "page": 16,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 6
+      },
+      {
+        "id": "riv_b_2033",
+        "swedish": "europeisk",
+        "forms": "-t, -a",
+        "english": "European",
+        "level": "B1-B2",
+        "chapter": 5,
+        "page": 67,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 20
+      }
+    ]
+  },
+  {
+    "swedish": "exportera",
+    "english": "export",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_1799",
+        "swedish": "exportera",
+        "forms": "-r, -de, -t",
+        "english": "export",
+        "level": "B1-B2",
+        "chapter": 5,
+        "page": 54,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 18
+      },
+      {
+        "id": "riv_b_2593",
+        "swedish": "exportera",
+        "forms": "-r, -de, -t",
+        "english": "export",
+        "level": "B1-B2",
+        "chapter": 7,
+        "page": 89,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 25
+      }
+    ]
+  },
+  {
+    "swedish": "faktor",
+    "english": "factor",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_2206",
+        "swedish": "faktor",
+        "forms": "-n, -er, -erna",
+        "english": "factor",
+        "level": "B1-B2",
+        "chapter": 5,
+        "page": 70,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 21
+      },
+      {
+        "id": "riv_b_5225",
+        "swedish": "faktor",
+        "forms": "-n, -er, -erna",
+        "english": "factor",
+        "level": "B1-B2",
+        "chapter": 16,
+        "page": 218,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 51
+      }
+    ]
+  },
+  {
+    "swedish": "fattig",
+    "english": "poor",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_1402",
+        "swedish": "fattig",
+        "forms": "-t, -a",
+        "english": "poor",
+        "level": "B1-B2",
+        "chapter": 4,
+        "page": 44,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 14
+      },
+      {
+        "id": "riv_b_5855",
+        "swedish": "fattig",
+        "forms": "-t, -a",
+        "english": "poor",
+        "level": "B1-B2",
+        "chapter": 18,
+        "page": 249,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 58
+      }
+    ]
+  },
+  {
+    "swedish": "fika",
+    "english": "coffee break",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_2835",
+        "swedish": "fika",
+        "forms": "-r, -de, -t",
+        "english": "coffee break",
+        "level": "B1-B2",
+        "chapter": 7,
+        "page": 94,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 28
+      },
+      {
+        "id": "riv_b_5783",
+        "swedish": "fika",
+        "forms": "-r, -de, -t",
+        "english": "coffee break",
+        "level": "B1-B2",
+        "chapter": 18,
+        "page": 243,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 57
+      }
+    ]
+  },
+  {
+    "swedish": "folk",
+    "english": "people",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_0477",
+        "swedish": "folk",
+        "forms": "-et, -, -en",
+        "english": "people",
+        "level": "B1-B2",
+        "chapter": 1,
+        "page": 15,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 5
+      },
+      {
+        "id": "riv_b_2632",
+        "swedish": "folk",
+        "forms": "-et, -, -en",
+        "english": "people",
+        "level": "B1-B2",
+        "chapter": 7,
+        "page": 90,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 26
+      }
+    ]
+  },
+  {
+    "swedish": "framför allt",
+    "english": "above all",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_1744",
+        "swedish": "framför allt",
+        "forms": "",
+        "english": "above all",
+        "level": "B1-B2",
+        "chapter": 4,
+        "page": 53,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 17
+      },
+      {
+        "id": "riv_b_5089",
+        "swedish": "framför allt",
+        "forms": "",
+        "english": "above all",
+        "level": "B1-B2",
+        "chapter": 15,
+        "page": 211,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 50
+      }
+    ]
+  },
+  {
+    "swedish": "frukt",
+    "english": "fruit",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_2125",
+        "swedish": "frukt",
+        "forms": "-en, -er, -erna",
+        "english": "fruit",
+        "level": "B1-B2",
+        "chapter": 5,
+        "page": 67,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 21
+      },
+      {
+        "id": "riv_b_4748",
+        "swedish": "frukt",
+        "forms": "-en, -er, -erna",
+        "english": "fruit",
+        "level": "B1-B2",
+        "chapter": 14,
+        "page": 186,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 47
+      }
+    ]
+  },
+  {
+    "swedish": "fråga",
+    "english": "ask",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_0021",
+        "swedish": "fråga",
+        "forms": "-r, -de, -t",
+        "english": "ask",
+        "level": "B1-B2",
+        "chapter": 1,
+        "page": 8,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 1
+      },
+      {
+        "id": "riv_b_1048",
+        "swedish": "fråga",
+        "forms": "-r, -de, -t",
+        "english": "ask",
+        "level": "B1-B2",
+        "chapter": 2,
+        "page": 28,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 10
+      }
+    ]
+  },
+  {
+    "swedish": "från början",
+    "english": "from the beginning",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_2787",
+        "swedish": "från början",
+        "forms": "",
+        "english": "from the beginning",
+        "level": "B1-B2",
+        "chapter": 7,
+        "page": 93,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 27
+      },
+      {
+        "id": "riv_b_5522",
+        "swedish": "från början",
+        "forms": "",
+        "english": "from the beginning",
+        "level": "B1-B2",
+        "chapter": 17,
+        "page": 233,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 54
+      }
+    ]
+  },
+  {
+    "swedish": "full",
+    "english": "drunk",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_4063",
+        "swedish": "full",
+        "forms": "-t, -a",
+        "english": "drunk",
+        "level": "B1-B2",
+        "chapter": 11,
+        "page": 151,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 40
+      },
+      {
+        "id": "riv_b_4575",
+        "swedish": "full",
+        "forms": "-t, -a",
+        "english": "drunk",
+        "level": "B1-B2",
+        "chapter": 13,
+        "page": 175,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 45
+      }
+    ]
+  },
+  {
+    "swedish": "funktion",
+    "english": "function",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_1762",
+        "swedish": "funktion",
+        "forms": "-en, -er, -erna",
+        "english": "function",
+        "level": "B1-B2",
+        "chapter": 4,
+        "page": 55,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 17
+      },
+      {
+        "id": "riv_b_5026",
+        "swedish": "funktion",
+        "forms": "-en , -er, -erna",
+        "english": "function",
+        "level": "B1-B2",
+        "chapter": 15,
+        "page": 207,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 49
+      }
+    ]
+  },
+  {
+    "swedish": "följande",
+    "english": "following",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_1147",
+        "swedish": "följande",
+        "forms": "",
+        "english": "following",
+        "level": "B1-B2",
+        "chapter": 2,
+        "page": 33,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 11
+      },
+      {
+        "id": "riv_b_4999",
+        "swedish": "följande",
+        "forms": "",
+        "english": "following",
+        "level": "B1-B2",
+        "chapter": 15,
+        "page": 203,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 49
+      }
+    ]
+  },
+  {
+    "swedish": "fönsterputsmedel",
+    "english": "window cleaner",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_5342",
+        "swedish": "fönsterputsmedel",
+        "forms": "-medlet, -, -medlen",
+        "english": "window cleaner",
+        "level": "B1-B2",
+        "chapter": 16,
+        "page": 220,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 53
+      },
+      {
+        "id": "riv_b_5457",
+        "swedish": "fönsterputsmedel",
+        "forms": "-medlet, -, -medlen",
+        "english": "window cleaner",
+        "level": "B1-B2",
+        "chapter": 17,
+        "page": 229,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 54
+      }
+    ]
+  },
+  {
+    "swedish": "fönsterskrapa",
+    "english": "squeegee",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_5293",
+        "swedish": "fönsterskrapa",
+        "forms": "-n, -skrapor, -skraporna",
+        "english": "squeegee",
+        "level": "B1-B2",
+        "chapter": 16,
+        "page": 221,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 52
+      },
+      {
+        "id": "riv_b_5341",
+        "swedish": "fönsterskrapa",
+        "forms": "-n, -skrapor, -skraporna",
+        "english": "squeegee",
+        "level": "B1-B2",
+        "chapter": 16,
+        "page": 220,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 53
+      }
+    ]
+  },
+  {
+    "swedish": "förbli",
+    "english": "remain",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_1145",
+        "swedish": "förbli",
+        "forms": "förblir, förblev, förblivit",
+        "english": "remain",
+        "level": "B1-B2",
+        "chapter": 2,
+        "page": 32,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 11
+      },
+      {
+        "id": "riv_b_4631",
+        "swedish": "förbli",
+        "forms": "-r, förblev, förblivit",
+        "english": "remain",
+        "level": "B1-B2",
+        "chapter": 13,
+        "page": 182,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 45
+      }
+    ]
+  },
+  {
+    "swedish": "före",
+    "english": "before",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_0527",
+        "swedish": "före",
+        "forms": "",
+        "english": "before",
+        "level": "B1-B2",
+        "chapter": 1,
+        "page": 14,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 6
+      },
+      {
+        "id": "riv_b_2674",
+        "swedish": "före",
+        "forms": "",
+        "english": "before",
+        "level": "B1-B2",
+        "chapter": 7,
+        "page": 91,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 26
+      }
+    ]
+  },
+  {
+    "swedish": "förlora",
+    "english": "lose",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_0866",
+        "swedish": "förlora",
+        "forms": "-r, -de, -t",
+        "english": "lose",
+        "level": "B1-B2",
+        "chapter": 2,
+        "page": 25,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 9
+      },
+      {
+        "id": "riv_b_0948",
+        "swedish": "förlora",
+        "forms": "-r, -de, -t",
+        "english": "lose",
+        "level": "B1-B2",
+        "chapter": 2,
+        "page": 25,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 10
+      }
+    ]
+  },
+  {
+    "swedish": "förort",
+    "english": "suburb",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_0987",
+        "swedish": "förort",
+        "forms": "-en, -er, -erna",
+        "english": "suburb",
+        "level": "B1-B2",
+        "chapter": 2,
+        "page": 25,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 10
+      },
+      {
+        "id": "riv_b_5765",
+        "swedish": "förort",
+        "forms": "-en, -er, -erna",
+        "english": "suburb",
+        "level": "B1-B2",
+        "chapter": 18,
+        "page": 243,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 57
+      }
+    ]
+  },
+  {
+    "swedish": "förskollärare",
+    "english": "preschool teacher",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_1276",
+        "swedish": "förskollärare",
+        "forms": "-n, -, förskollärarna",
+        "english": "preschool teacher",
+        "level": "B1-B2",
+        "chapter": 3,
+        "page": 39,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 13
+      },
+      {
+        "id": "riv_b_4367",
+        "swedish": "förskollärare",
+        "forms": "-n, -, -lärarna",
+        "english": "preschool teacher",
+        "level": "B1-B2",
+        "chapter": 13,
+        "page": 169,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 43
+      }
+    ]
+  },
+  {
+    "swedish": "förstå",
+    "english": "understand",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_1049",
+        "swedish": "förstå",
+        "forms": "förstår, förstod, förstått",
+        "english": "understand",
+        "level": "B1-B2",
+        "chapter": 2,
+        "page": 28,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 10
+      },
+      {
+        "id": "riv_b_2577",
+        "swedish": "förstå",
+        "forms": "förstår, förstod, förstått",
+        "english": "understand",
+        "level": "B1-B2",
+        "chapter": 7,
+        "page": 86,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 25
+      }
+    ]
+  },
+  {
+    "swedish": "gammal",
+    "english": "old",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_0733",
+        "swedish": "gammal",
+        "forms": "gammalt, gamla",
+        "english": "old",
+        "level": "B1-B2",
+        "chapter": 2,
+        "page": 20,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 7
+      },
+      {
+        "id": "riv_b_3648",
+        "swedish": "gammal",
+        "forms": "äldre, äldst",
+        "english": "old",
+        "level": "B1-B2",
+        "chapter": 9,
+        "page": 128,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 35
+      }
+    ]
+  },
+  {
+    "swedish": "generation",
+    "english": "generation",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_1697",
+        "swedish": "generation",
+        "forms": "-en, -er, -erna",
+        "english": "generation",
+        "level": "B1-B2",
+        "chapter": 4,
+        "page": 52,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 17
+      },
+      {
+        "id": "riv_b_5371",
+        "swedish": "generation",
+        "forms": "-en, -er, -erna",
+        "english": "generation",
+        "level": "B1-B2",
+        "chapter": 16,
+        "page": 223,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 53
+      }
+    ]
+  },
+  {
+    "swedish": "grad",
+    "english": "degree",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_3628",
+        "swedish": "grad",
+        "forms": "-en, -er, -erna",
+        "english": "degree",
+        "level": "B1-B2",
+        "chapter": 9,
+        "page": 127,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 35
+      },
+      {
+        "id": "riv_b_3647",
+        "swedish": "grad",
+        "forms": "-en, -er, -erna",
+        "english": "degree",
+        "level": "B1-B2",
+        "chapter": 9,
+        "page": 127,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 35
+      }
+    ]
+  },
+  {
+    "swedish": "grafisk formgivning",
+    "english": "graphic design",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_3277",
+        "swedish": "grafisk formgivning",
+        "forms": "",
+        "english": "graphic design",
+        "level": "B1-B2",
+        "chapter": 8,
+        "page": 109,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 32
+      },
+      {
+        "id": "riv_b_4985",
+        "swedish": "grafisk formgivning",
+        "forms": "",
+        "english": "graphic design",
+        "level": "B1-B2",
+        "chapter": 15,
+        "page": 203,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 49
+      }
+    ]
+  },
+  {
+    "swedish": "grupp",
+    "english": "group",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_0920",
+        "swedish": "grupp",
+        "forms": "-en, -er, -erna",
+        "english": "group",
+        "level": "B1-B2",
+        "chapter": 2,
+        "page": 27,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 9
+      },
+      {
+        "id": "riv_b_5760",
+        "swedish": "grupp",
+        "forms": "-en, -er, -erna",
+        "english": "group",
+        "level": "B1-B2",
+        "chapter": 18,
+        "page": 243,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 57
+      }
+    ]
+  },
+  {
+    "swedish": "Gud",
+    "english": "God",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_2636",
+        "swedish": "Gud",
+        "forms": "",
+        "english": "God",
+        "level": "B1-B2",
+        "chapter": 7,
+        "page": 90,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 26
+      },
+      {
+        "id": "riv_b_4467",
+        "swedish": "gud",
+        "forms": "-en, -ar, -arna",
+        "english": "God",
+        "level": "B1-B2",
+        "chapter": 13,
+        "page": 171,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 44
+      }
+    ]
+  },
+  {
+    "swedish": "gärna",
+    "english": "happily",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_0100",
+        "swedish": "gärna",
+        "forms": "hellre, helst",
+        "english": "happily",
+        "level": "B1-B2",
+        "chapter": 1,
+        "page": 8,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 2
+      },
+      {
+        "id": "riv_b_0666",
+        "swedish": "gärna",
+        "forms": "",
+        "english": "happily",
+        "level": "B1-B2",
+        "chapter": 2,
+        "page": 19,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 7
+      }
+    ]
+  },
+  {
+    "swedish": "gå (-r, gick, gått) ut",
+    "english": "go out",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_0853",
+        "swedish": "gå (-r, gick, gått) ut",
+        "forms": "",
+        "english": "go out",
+        "level": "B1-B2",
+        "chapter": 2,
+        "page": 22,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 9
+      },
+      {
+        "id": "riv_b_3423",
+        "swedish": "gå (-r, gick, gått) ut",
+        "forms": "",
+        "english": "go out",
+        "level": "B1-B2",
+        "chapter": 9,
+        "page": 117,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 33
+      }
+    ]
+  },
+  {
+    "swedish": "gång",
+    "english": "time",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_0079",
+        "swedish": "gång",
+        "forms": "-en, -ar, -arna",
+        "english": "time",
+        "level": "B1-B2",
+        "chapter": 1,
+        "page": 9,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 1
+      },
+      {
+        "id": "riv_b_0448",
+        "swedish": "gång",
+        "forms": "-en, -er, -erna",
+        "english": "time",
+        "level": "B1-B2",
+        "chapter": 1,
+        "page": 14,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 5
+      }
+    ]
+  },
+  {
+    "swedish": "göra",
+    "english": "do",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_0056",
+        "swedish": "göra",
+        "forms": "gör, gjorde, gjort",
+        "english": "do",
+        "level": "B1-B2",
+        "chapter": 1,
+        "page": null,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 1
+      },
+      {
+        "id": "riv_b_0478",
+        "swedish": "göra",
+        "forms": "gör, gjorde, gjort",
+        "english": "do",
+        "level": "B1-B2",
+        "chapter": 1,
+        "page": 15,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 5
+      }
+    ]
+  },
+  {
+    "swedish": "Hallå!",
+    "english": "Hello!",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_0411",
+        "swedish": "Hallå!",
+        "forms": "",
+        "english": "Hello!",
+        "level": "B1-B2",
+        "chapter": 1,
+        "page": 13,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 4
+      },
+      {
+        "id": "riv_b_1906",
+        "swedish": "Hallå!",
+        "forms": "",
+        "english": "Hello!",
+        "level": "B1-B2",
+        "chapter": 5,
+        "page": 62,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 19
+      }
+    ]
+  },
+  {
+    "swedish": "hals",
+    "english": "throat",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_2959",
+        "swedish": "hals",
+        "forms": "-en, -ar, -arna",
+        "english": "throat",
+        "level": "B1-B2",
+        "chapter": 8,
+        "page": 96,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 29
+      },
+      {
+        "id": "riv_b_4654",
+        "swedish": "hals",
+        "forms": "-en, -ar, -arna",
+        "english": "throat",
+        "level": "B1-B2",
+        "chapter": 14,
+        "page": 180,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 46
+      }
+    ]
+  },
+  {
+    "swedish": "hantera",
+    "english": "handle",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_4895",
+        "swedish": "hantera",
+        "forms": "-r, -de, -t",
+        "english": "handle",
+        "level": "B1-B2",
+        "chapter": 15,
+        "page": 195,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 48
+      },
+      {
+        "id": "riv_b_6065",
+        "swedish": "hantera",
+        "forms": "-r, -de, -t",
+        "english": "handle",
+        "level": "B1-B2",
+        "chapter": 18,
+        "page": 258,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 60
+      }
+    ]
+  },
+  {
+    "swedish": "hets mot folkgrupp",
+    "english": "hate speech",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_3081",
+        "swedish": "hets mot folkgrupp",
+        "forms": "",
+        "english": "hate speech",
+        "level": "B1-B2",
+        "chapter": 8,
+        "page": 102,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 30
+      },
+      {
+        "id": "riv_b_4347",
+        "swedish": "hets mot folkgrupp",
+        "forms": "",
+        "english": "hate speech",
+        "level": "B1-B2",
+        "chapter": 12,
+        "page": 168,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 42
+      }
+    ]
+  },
+  {
+    "swedish": "hot",
+    "english": "threat",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_2052",
+        "swedish": "hot",
+        "forms": "-et, -, -en",
+        "english": "threat",
+        "level": "B1-B2",
+        "chapter": 5,
+        "page": 66,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 20
+      },
+      {
+        "id": "riv_b_5865",
+        "swedish": "hot",
+        "forms": "-et, -, -en",
+        "english": "threat",
+        "level": "B1-B2",
+        "chapter": 18,
+        "page": 249,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 58
+      }
+    ]
+  },
+  {
+    "swedish": "hundratals",
+    "english": "hundreds",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_1716",
+        "swedish": "hundratals",
+        "forms": "",
+        "english": "hundreds",
+        "level": "B1-B2",
+        "chapter": 4,
+        "page": 54,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 17
+      },
+      {
+        "id": "riv_b_5067",
+        "swedish": "hundratals",
+        "forms": "",
+        "english": "hundreds",
+        "level": "B1-B2",
+        "chapter": 15,
+        "page": 209,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 50
+      }
+    ]
+  },
+  {
+    "swedish": "hälft",
+    "english": "half",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_2504",
+        "swedish": "hälft",
+        "forms": "-en",
+        "english": "half",
+        "level": "B1-B2",
+        "chapter": 7,
+        "page": 85,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 24
+      },
+      {
+        "id": "riv_b_5813",
+        "swedish": "hälft",
+        "forms": "-en, -er, -erna",
+        "english": "half",
+        "level": "B1-B2",
+        "chapter": 18,
+        "page": 245,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 57
+      }
+    ]
+  },
+  {
+    "swedish": "hända",
+    "english": "happen",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_0836",
+        "swedish": "hända",
+        "forms": "händer, hände, hänt",
+        "english": "happen",
+        "level": "B1-B2",
+        "chapter": 2,
+        "page": 24,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 8
+      },
+      {
+        "id": "riv_b_2348",
+        "swedish": "hända",
+        "forms": "händer, hände, hänt",
+        "english": "happen",
+        "level": "B1-B2",
+        "chapter": 6,
+        "page": 78,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 23
+      }
+    ]
+  },
+  {
+    "swedish": "här",
+    "english": "here",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_0023",
+        "swedish": "här",
+        "forms": "",
+        "english": "here",
+        "level": "B1-B2",
+        "chapter": 1,
+        "page": 8,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 1
+      },
+      {
+        "id": "riv_b_0257",
+        "swedish": "här",
+        "forms": "",
+        "english": "here",
+        "level": "B1-B2",
+        "chapter": 1,
+        "page": 9,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 3
+      }
+    ]
+  },
+  {
+    "swedish": "hår",
+    "english": "hair",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_0143",
+        "swedish": "hår",
+        "forms": "-et, -, -en",
+        "english": "hair",
+        "level": "B1-B2",
+        "chapter": 1,
+        "page": 8,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 2
+      },
+      {
+        "id": "riv_b_0829",
+        "swedish": "hår",
+        "forms": "-et, -, -en",
+        "english": "hair",
+        "level": "B1-B2",
+        "chapter": 2,
+        "page": 24,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 8
+      }
+    ]
+  },
+  {
+    "swedish": "höra (hör, hörde, hört) till",
+    "english": "belong",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_0863",
+        "swedish": "höra (hör, hörde, hört) till",
+        "forms": "",
+        "english": "belong",
+        "level": "B1-B2",
+        "chapter": 2,
+        "page": 22,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 9
+      },
+      {
+        "id": "riv_b_6012",
+        "swedish": "höra (hör, hörde, hört) till",
+        "forms": "",
+        "english": "belong",
+        "level": "B1-B2",
+        "chapter": 18,
+        "page": 256,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 59
+      }
+    ]
+  },
+  {
+    "swedish": "i allmänhet",
+    "english": "in general",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_1888",
+        "swedish": "i allmänhet",
+        "forms": "",
+        "english": "in general",
+        "level": "B1-B2",
+        "chapter": 5,
+        "page": 60,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 18
+      },
+      {
+        "id": "riv_b_4845",
+        "swedish": "i allmänhet",
+        "forms": "",
+        "english": "in general",
+        "level": "B1-B2",
+        "chapter": 15,
+        "page": 196,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 48
+      }
+    ]
+  },
+  {
+    "swedish": "i lägre grad",
+    "english": "to a lesser extent",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_6008",
+        "swedish": "i lägre grad",
+        "forms": "",
+        "english": "to a lesser extent",
+        "level": "B1-B2",
+        "chapter": 18,
+        "page": 256,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 59
+      },
+      {
+        "id": "riv_b_6030",
+        "swedish": "i lägre grad",
+        "forms": "",
+        "english": "to a lesser extent",
+        "level": "B1-B2",
+        "chapter": 18,
+        "page": 254,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 60
+      }
+    ]
+  },
+  {
+    "swedish": "i mitten av",
+    "english": "in the middle of",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_0553",
+        "swedish": "i mitten av",
+        "forms": "",
+        "english": "in the middle of",
+        "level": "B1-B2",
+        "chapter": 1,
+        "page": 14,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 6
+      },
+      {
+        "id": "riv_b_5199",
+        "swedish": "i mitten av",
+        "forms": "",
+        "english": "in the middle of",
+        "level": "B1-B2",
+        "chapter": 16,
+        "page": 216,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 51
+      }
+    ]
+  },
+  {
+    "swedish": "i samband med",
+    "english": "in connection to",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_5475",
+        "swedish": "i samband med",
+        "forms": "",
+        "english": "in connection to",
+        "level": "B1-B2",
+        "chapter": 17,
+        "page": 229,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 54
+      },
+      {
+        "id": "riv_b_5790",
+        "swedish": "i samband med",
+        "forms": "",
+        "english": "in connection to",
+        "level": "B1-B2",
+        "chapter": 18,
+        "page": 242,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 57
+      }
+    ]
+  },
+  {
+    "swedish": "i större utsträckning",
+    "english": "to a greater extent",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_6010",
+        "swedish": "i större utsträckning",
+        "forms": "",
+        "english": "to a greater extent",
+        "level": "B1-B2",
+        "chapter": 18,
+        "page": 256,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 59
+      },
+      {
+        "id": "riv_b_6022",
+        "swedish": "i större utsträckning",
+        "forms": "",
+        "english": "to a greater extent",
+        "level": "B1-B2",
+        "chapter": 18,
+        "page": 256,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 59
+      }
+    ]
+  },
+  {
+    "swedish": "inleda",
+    "english": "initiate",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_3985",
+        "swedish": "inleda",
+        "forms": "inleder, inledde, inlett",
+        "english": "initiate",
+        "level": "B1-B2",
+        "chapter": 11,
+        "page": 147,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 39
+      },
+      {
+        "id": "riv_b_5960",
+        "swedish": "inleda",
+        "forms": "inleder, inledde, inlett",
+        "english": "initiate",
+        "level": "B1-B2",
+        "chapter": 18,
+        "page": 254,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 59
+      }
+    ]
+  },
+  {
+    "swedish": "institution",
+    "english": "institution",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_5008",
+        "swedish": "institution",
+        "forms": "-en, -er, -erna",
+        "english": "institution",
+        "level": "B1-B2",
+        "chapter": 15,
+        "page": 203,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 49
+      },
+      {
+        "id": "riv_b_5945",
+        "swedish": "institution",
+        "forms": "-en, -er, -erna",
+        "english": "institution",
+        "level": "B1-B2",
+        "chapter": 18,
+        "page": 253,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 59
+      }
+    ]
+  },
+  {
+    "swedish": "intresse",
+    "english": "interest",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_0517",
+        "swedish": "intresse",
+        "forms": "-t, -n, -na",
+        "english": "interest",
+        "level": "B1-B2",
+        "chapter": 1,
+        "page": 16,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 5
+      },
+      {
+        "id": "riv_b_2426",
+        "swedish": "intresse",
+        "forms": "-t, -, -na",
+        "english": "interest",
+        "level": "B1-B2",
+        "chapter": 7,
+        "page": 81,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 24
+      }
+    ]
+  },
+  {
+    "swedish": "julklapp",
+    "english": "Christmas present",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_4439",
+        "swedish": "julklapp",
+        "forms": "-en, -ar, -arna",
+        "english": "Christmas present",
+        "level": "B1-B2",
+        "chapter": 13,
+        "page": 174,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 43
+      },
+      {
+        "id": "riv_b_5502",
+        "swedish": "julklapp",
+        "forms": "-en, -ar, -arna",
+        "english": "Christmas present",
+        "level": "B1-B2",
+        "chapter": 17,
+        "page": 227,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 54
+      }
+    ]
+  },
+  {
+    "swedish": "Kina",
+    "english": "China",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_2136",
+        "swedish": "Kina",
+        "forms": "",
+        "english": "China",
+        "level": "B1-B2",
+        "chapter": 5,
+        "page": 67,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 21
+      },
+      {
+        "id": "riv_b_4202",
+        "swedish": "Kina",
+        "forms": "",
+        "english": "China",
+        "level": "B1-B2",
+        "chapter": 12,
+        "page": 155,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 41
+      }
+    ]
+  },
+  {
+    "swedish": "kokain",
+    "english": "cocaine",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_3951",
+        "swedish": "kokain",
+        "forms": "-et, -, -en",
+        "english": "cocaine",
+        "level": "B1-B2",
+        "chapter": 11,
+        "page": 145,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 38
+      },
+      {
+        "id": "riv_b_4083",
+        "swedish": "kokain",
+        "forms": "-et",
+        "english": "cocaine",
+        "level": "B1-B2",
+        "chapter": 11,
+        "page": 152,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 40
+      }
+    ]
+  },
+  {
+    "swedish": "konditionalis",
+    "english": "conditional",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_2232",
+        "swedish": "konditionalis",
+        "forms": "",
+        "english": "conditional",
+        "level": "B1-B2",
+        "chapter": 6,
+        "page": 74,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 22
+      },
+      {
+        "id": "riv_b_4167",
+        "swedish": "konditionalis",
+        "forms": "",
+        "english": "conditional",
+        "level": "B1-B2",
+        "chapter": 12,
+        "page": 156,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 41
+      }
+    ]
+  },
+  {
+    "swedish": "konjak",
+    "english": "cognac",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_2956",
+        "swedish": "konjak",
+        "forms": "-en",
+        "english": "cognac",
+        "level": "B1-B2",
+        "chapter": 8,
+        "page": 96,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 29
+      },
+      {
+        "id": "riv_b_3963",
+        "swedish": "konjak",
+        "forms": "-en",
+        "english": "cognac",
+        "level": "B1-B2",
+        "chapter": 11,
+        "page": 142,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 39
+      }
+    ]
+  },
+  {
+    "swedish": "konsumtion",
+    "english": "consumption",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_2192",
+        "swedish": "konsumtion",
+        "forms": "-en",
+        "english": "consumption",
+        "level": "B1-B2",
+        "chapter": 5,
+        "page": 70,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 21
+      },
+      {
+        "id": "riv_b_3735",
+        "swedish": "konsumtion",
+        "forms": "-en",
+        "english": "consumption",
+        "level": "B1-B2",
+        "chapter": 10,
+        "page": 134,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 36
+      }
+    ]
+  },
+  {
+    "swedish": "kontakt",
+    "english": "contact",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_0979",
+        "swedish": "kontakt",
+        "forms": "-en, -er, -erna",
+        "english": "contact",
+        "level": "B1-B2",
+        "chapter": 2,
+        "page": 25,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 10
+      },
+      {
+        "id": "riv_b_4932",
+        "swedish": "kontakt",
+        "forms": "-en, -er, -erna",
+        "english": "contact",
+        "level": "B1-B2",
+        "chapter": 15,
+        "page": 203,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 48
+      }
+    ]
+  },
+  {
+    "swedish": "kontrollerad",
+    "english": "controlled",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_3561",
+        "swedish": "kontrollerad",
+        "forms": "kontrollerat, kontrollerade",
+        "english": "controlled",
+        "level": "B1-B2",
+        "chapter": 9,
+        "page": 120,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 35
+      },
+      {
+        "id": "riv_b_5930",
+        "swedish": "kontrollerad",
+        "forms": "kontrollerat, kontrollerade",
+        "english": "controlled",
+        "level": "B1-B2",
+        "chapter": 18,
+        "page": 250,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 59
+      }
+    ]
+  },
+  {
+    "swedish": "kort",
+    "english": "short",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_0681",
+        "swedish": "kort",
+        "forms": "",
+        "english": "short",
+        "level": "B1-B2",
+        "chapter": 2,
+        "page": 19,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 7
+      },
+      {
+        "id": "riv_b_2702",
+        "swedish": "kort",
+        "forms": "-a",
+        "english": "short",
+        "level": "B1-B2",
+        "chapter": 7,
+        "page": 93,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 26
+      }
+    ]
+  },
+  {
+    "swedish": "krascha",
+    "english": "crash",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_3843",
+        "swedish": "krascha",
+        "forms": "-r, -de, -t",
+        "english": "crash",
+        "level": "B1-B2",
+        "chapter": 10,
+        "page": 139,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 37
+      },
+      {
+        "id": "riv_b_4010",
+        "swedish": "krascha",
+        "forms": "-r, -de, -t",
+        "english": "crash",
+        "level": "B1-B2",
+        "chapter": 11,
+        "page": 149,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 39
+      }
+    ]
+  },
+  {
+    "swedish": "krona",
+    "english": "crown",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_2015",
+        "swedish": "krona",
+        "forms": "-n, kronor, kronorna",
+        "english": "crown",
+        "level": "B1-B2",
+        "chapter": 5,
+        "page": 67,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 20
+      },
+      {
+        "id": "riv_b_3249",
+        "swedish": "krona",
+        "forms": "-n, kronor, kronorna",
+        "english": "crown",
+        "level": "B1-B2",
+        "chapter": 8,
+        "page": 106,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 32
+      }
+    ]
+  },
+  {
+    "swedish": "krävande",
+    "english": "demanding",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_5410",
+        "swedish": "krävande",
+        "forms": "",
+        "english": "demanding",
+        "level": "B1-B2",
+        "chapter": 16,
+        "page": 226,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 53
+      },
+      {
+        "id": "riv_b_6056",
+        "swedish": "krävande",
+        "forms": "",
+        "english": "demanding",
+        "level": "B1-B2",
+        "chapter": 18,
+        "page": 258,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 60
+      }
+    ]
+  },
+  {
+    "swedish": "kyrka",
+    "english": "church",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_0932",
+        "swedish": "kyrka",
+        "forms": "-n, kyrkor, kyrkorna",
+        "english": "church",
+        "level": "B1-B2",
+        "chapter": 2,
+        "page": 27,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 9
+      },
+      {
+        "id": "riv_b_2752",
+        "swedish": "kyrka",
+        "forms": "-n, kyrkor, kyrkorna",
+        "english": "church",
+        "level": "B1-B2",
+        "chapter": 7,
+        "page": 90,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 27
+      }
+    ]
+  },
+  {
+    "swedish": "känna (känner, kände, känt) igen",
+    "english": "recognize",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_3182",
+        "swedish": "känna (känner, kände, känt) igen",
+        "forms": "",
+        "english": "recognize",
+        "level": "B1-B2",
+        "chapter": 8,
+        "page": 105,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 31
+      },
+      {
+        "id": "riv_b_4066",
+        "swedish": "känna (känner, kände, känt) igen",
+        "forms": "",
+        "english": "recognize",
+        "level": "B1-B2",
+        "chapter": 11,
+        "page": 151,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 40
+      }
+    ]
+  },
+  {
+    "swedish": "lansera",
+    "english": "launch",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_2199",
+        "swedish": "lansera",
+        "forms": "-r, -de, -t",
+        "english": "launch",
+        "level": "B1-B2",
+        "chapter": 5,
+        "page": 70,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 21
+      },
+      {
+        "id": "riv_b_3830",
+        "swedish": "lansera",
+        "forms": "-r, -de, -t",
+        "english": "launch",
+        "level": "B1-B2",
+        "chapter": 10,
+        "page": 138,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 37
+      }
+    ]
+  },
+  {
+    "swedish": "lista",
+    "english": "list",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_0743",
+        "swedish": "lista",
+        "forms": "-n, listor, listorna",
+        "english": "list",
+        "level": "B1-B2",
+        "chapter": 2,
+        "page": 21,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 8
+      },
+      {
+        "id": "riv_b_4995",
+        "swedish": "lista",
+        "forms": "-n, listor, listorna",
+        "english": "list",
+        "level": "B1-B2",
+        "chapter": 15,
+        "page": 203,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 49
+      }
+    ]
+  },
+  {
+    "swedish": "ljusare",
+    "english": "lighter",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_3606",
+        "swedish": "ljusare",
+        "forms": "",
+        "english": "lighter",
+        "level": "B1-B2",
+        "chapter": 9,
+        "page": 126,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 35
+      },
+      {
+        "id": "riv_b_4860",
+        "swedish": "ljusare",
+        "forms": "",
+        "english": "lighter",
+        "level": "B1-B2",
+        "chapter": 15,
+        "page": 196,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 48
+      }
+    ]
+  },
+  {
+    "swedish": "lojal",
+    "english": "loyal",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_0759",
+        "swedish": "lojal",
+        "forms": "-t, -a",
+        "english": "loyal",
+        "level": "B1-B2",
+        "chapter": 2,
+        "page": 21,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 8
+      },
+      {
+        "id": "riv_b_6034",
+        "swedish": "lojal",
+        "forms": "-t, -a",
+        "english": "loyal",
+        "level": "B1-B2",
+        "chapter": 18,
+        "page": 257,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 60
+      }
+    ]
+  },
+  {
+    "swedish": "läger",
+    "english": "camp",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_0504",
+        "swedish": "läger",
+        "forms": "lägret, -, lägren",
+        "english": "camp",
+        "level": "B1-B2",
+        "chapter": 1,
+        "page": 15,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 5
+      },
+      {
+        "id": "riv_b_2865",
+        "swedish": "läger",
+        "forms": "lägret, -, lägren",
+        "english": "camp",
+        "level": "B1-B2",
+        "chapter": 7,
+        "page": 96,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 28
+      }
+    ]
+  },
+  {
+    "swedish": "lärare",
+    "english": "teacher",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_2428",
+        "swedish": "lärare",
+        "forms": "-n, -, lärarna",
+        "english": "teacher",
+        "level": "B1-B2",
+        "chapter": 7,
+        "page": 81,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 24
+      },
+      {
+        "id": "riv_b_5675",
+        "swedish": "lärare",
+        "forms": "-n, -, lärarna",
+        "english": "teacher",
+        "level": "B1-B2",
+        "chapter": 17,
+        "page": 239,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 56
+      }
+    ]
+  },
+  {
+    "swedish": "läsk",
+    "english": "soda",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_0065",
+        "swedish": "läsk",
+        "forms": "-en, -, -en",
+        "english": "soda",
+        "level": "B1-B2",
+        "chapter": 1,
+        "page": null,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 1
+      },
+      {
+        "id": "riv_b_1860",
+        "swedish": "läsk",
+        "forms": "-en",
+        "english": "soda",
+        "level": "B1-B2",
+        "chapter": 5,
+        "page": 60,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 18
+      }
+    ]
+  },
+  {
+    "swedish": "löna (-r, -de, -t) sig",
+    "english": "pay off",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_4921",
+        "swedish": "löna (-r, -de, -t) sig",
+        "forms": "",
+        "english": "pay off",
+        "level": "B1-B2",
+        "chapter": 15,
+        "page": 202,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 48
+      },
+      {
+        "id": "riv_b_4936",
+        "swedish": "löna (-r, -de, -t) sig",
+        "forms": "",
+        "english": "pay off",
+        "level": "B1-B2",
+        "chapter": 15,
+        "page": 200,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 49
+      }
+    ]
+  },
+  {
+    "swedish": "Mellanöstern",
+    "english": "Middle East",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_2139",
+        "swedish": "Mellanöstern",
+        "forms": "",
+        "english": "Middle East",
+        "level": "B1-B2",
+        "chapter": 5,
+        "page": 67,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 21
+      },
+      {
+        "id": "riv_b_5800",
+        "swedish": "Mellanöstern",
+        "forms": "",
+        "english": "Middle East",
+        "level": "B1-B2",
+        "chapter": 18,
+        "page": 245,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 57
+      }
+    ]
+  },
+  {
+    "swedish": "mikro",
+    "english": "microwave oven",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_3443",
+        "swedish": "mikro",
+        "forms": "-n",
+        "english": "microwave oven",
+        "level": "B1-B2",
+        "chapter": 9,
+        "page": 118,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 33
+      },
+      {
+        "id": "riv_b_5854",
+        "swedish": "mikro",
+        "forms": "-n",
+        "english": "microwave oven",
+        "level": "B1-B2",
+        "chapter": 18,
+        "page": 249,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 58
+      }
+    ]
+  },
+  {
+    "swedish": "miljard",
+    "english": "billion",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_3731",
+        "swedish": "miljard",
+        "forms": "-en, -er, -erna",
+        "english": "billion",
+        "level": "B1-B2",
+        "chapter": 10,
+        "page": 134,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 36
+      },
+      {
+        "id": "riv_b_4397",
+        "swedish": "miljard",
+        "forms": "-en, -er, -erna",
+        "english": "billion",
+        "level": "B1-B2",
+        "chapter": 13,
+        "page": 171,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 43
+      }
+    ]
+  },
+  {
+    "swedish": "miljö",
+    "english": "environment",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_1817",
+        "swedish": "miljö",
+        "forms": "-n, -er, -erna",
+        "english": "environment",
+        "level": "B1-B2",
+        "chapter": 5,
+        "page": 54,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 18
+      },
+      {
+        "id": "riv_b_3002",
+        "swedish": "miljö",
+        "forms": "-n, -er, -erna",
+        "english": "environment",
+        "level": "B1-B2",
+        "chapter": 8,
+        "page": 100,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 29
+      }
+    ]
+  },
+  {
+    "swedish": "miljömedveten",
+    "english": "environme­",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_3738",
+        "swedish": "miljömedveten",
+        "forms": "miljömedvetet, miljömedvetna",
+        "english": "environme­",
+        "level": "B1-B2",
+        "chapter": 10,
+        "page": 134,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 36
+      },
+      {
+        "id": "riv_b_5792",
+        "swedish": "miljömedveten",
+        "forms": "miljömedvetet, miljömedvetna",
+        "english": "environme­",
+        "level": "B1-B2",
+        "chapter": 18,
+        "page": 242,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 57
+      }
+    ]
+  },
+  {
+    "swedish": "misslyckande",
+    "english": "failure",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_1418",
+        "swedish": "misslyckande",
+        "forms": "-t, -n, -na",
+        "english": "failure",
+        "level": "B1-B2",
+        "chapter": 4,
+        "page": 44,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 14
+      },
+      {
+        "id": "riv_b_4186",
+        "swedish": "misslyckande",
+        "forms": "",
+        "english": "failure",
+        "level": "B1-B2",
+        "chapter": 12,
+        "page": 158,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 41
+      }
+    ]
+  },
+  {
+    "swedish": "mod",
+    "english": "courage",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_4182",
+        "swedish": "mod",
+        "forms": "-et",
+        "english": "courage",
+        "level": "B1-B2",
+        "chapter": 12,
+        "page": 158,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 41
+      },
+      {
+        "id": "riv_b_6067",
+        "swedish": "mod",
+        "forms": "-et",
+        "english": "courage",
+        "level": "B1-B2",
+        "chapter": 18,
+        "page": 258,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 60
+      }
+    ]
+  },
+  {
+    "swedish": "mun",
+    "english": "mouth",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_1568",
+        "swedish": "mun",
+        "forms": "munnen, munnar, munnarna",
+        "english": "mouth",
+        "level": "B1-B2",
+        "chapter": 4,
+        "page": 50,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 15
+      },
+      {
+        "id": "riv_b_5688",
+        "swedish": "mun",
+        "forms": "-nen, munnar, munnarna",
+        "english": "mouth",
+        "level": "B1-B2",
+        "chapter": 17,
+        "page": 236,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 56
+      }
+    ]
+  },
+  {
+    "swedish": "mål",
+    "english": "goal",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_0360",
+        "swedish": "mål",
+        "forms": "-et, -, -en",
+        "english": "goal",
+        "level": "B1-B2",
+        "chapter": 1,
+        "page": 10,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 4
+      },
+      {
+        "id": "riv_b_2038",
+        "swedish": "mål",
+        "forms": "-et, -, -en",
+        "english": "goal",
+        "level": "B1-B2",
+        "chapter": 5,
+        "page": 67,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 20
+      }
+    ]
+  },
+  {
+    "swedish": "möte",
+    "english": "meeting",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_1388",
+        "swedish": "möte",
+        "forms": "-t, -n, -na",
+        "english": "meeting",
+        "level": "B1-B2",
+        "chapter": 4,
+        "page": 43,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 14
+      },
+      {
+        "id": "riv_b_5848",
+        "swedish": "möte",
+        "forms": "-t, -n, -na",
+        "english": "meeting",
+        "level": "B1-B2",
+        "chapter": 18,
+        "page": 249,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 58
+      }
+    ]
+  },
+  {
+    "swedish": "närma (-r, -de, -t) sig",
+    "english": "approach",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_1549",
+        "swedish": "närma (-r, -de, -t) sig",
+        "forms": "",
+        "english": "approach",
+        "level": "B1-B2",
+        "chapter": 4,
+        "page": 50,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 15
+      },
+      {
+        "id": "riv_b_4551",
+        "swedish": "närma (-r, -de, -t) sig",
+        "forms": "",
+        "english": "approach",
+        "level": "B1-B2",
+        "chapter": 13,
+        "page": 175,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 45
+      }
+    ]
+  },
+  {
+    "swedish": "nästa",
+    "english": "next",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_0040",
+        "swedish": "nästa",
+        "forms": "",
+        "english": "next",
+        "level": "B1-B2",
+        "chapter": 1,
+        "page": 8,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 1
+      },
+      {
+        "id": "riv_b_1239",
+        "swedish": "nästa",
+        "forms": "",
+        "english": "next",
+        "level": "B1-B2",
+        "chapter": 3,
+        "page": 37,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 12
+      }
+    ]
+  },
+  {
+    "swedish": "Oj!",
+    "english": "Oh!",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_0841",
+        "swedish": "Oj!",
+        "forms": "",
+        "english": "Oh!",
+        "level": "B1-B2",
+        "chapter": 2,
+        "page": 24,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 8
+      },
+      {
+        "id": "riv_b_3303",
+        "swedish": "Oj!",
+        "forms": "",
+        "english": "Oh!",
+        "level": "B1-B2",
+        "chapter": 8,
+        "page": 108,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 32
+      }
+    ]
+  },
+  {
+    "swedish": "olik",
+    "english": "different",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_0289",
+        "swedish": "olik",
+        "forms": "-t,-a",
+        "english": "different",
+        "level": "B1-B2",
+        "chapter": 1,
+        "page": 11,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 3
+      },
+      {
+        "id": "riv_b_0473",
+        "swedish": "olik",
+        "forms": "-t, -a",
+        "english": "different",
+        "level": "B1-B2",
+        "chapter": 1,
+        "page": 15,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 5
+      }
+    ]
+  },
+  {
+    "swedish": "olycka",
+    "english": "accident",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_1722",
+        "swedish": "olycka",
+        "forms": "-n, olyckor, olyckorna",
+        "english": "accident",
+        "level": "B1-B2",
+        "chapter": 4,
+        "page": 54,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 17
+      },
+      {
+        "id": "riv_b_3199",
+        "swedish": "olycka",
+        "forms": "-n, olyckor, olyckorna",
+        "english": "accident",
+        "level": "B1-B2",
+        "chapter": 8,
+        "page": 103,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 31
+      }
+    ]
+  },
+  {
+    "swedish": "omtyckt",
+    "english": "well-liked",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_3753",
+        "swedish": "omtyckt",
+        "forms": "-a",
+        "english": "well-liked",
+        "level": "B1-B2",
+        "chapter": 10,
+        "page": 133,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 37
+      },
+      {
+        "id": "riv_b_4121",
+        "swedish": "omtyckt",
+        "forms": "-a",
+        "english": "well-liked",
+        "level": "B1-B2",
+        "chapter": 11,
+        "page": 150,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 40
+      }
+    ]
+  },
+  {
+    "swedish": "ord",
+    "english": "word",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_0009",
+        "swedish": "ord",
+        "forms": "-et, -, -en",
+        "english": "word",
+        "level": "B1-B2",
+        "chapter": 1,
+        "page": 8,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 1
+      },
+      {
+        "id": "riv_b_3617",
+        "swedish": "ord",
+        "forms": "-et, -, -en",
+        "english": "word",
+        "level": "B1-B2",
+        "chapter": 9,
+        "page": 126,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 35
+      }
+    ]
+  },
+  {
+    "swedish": "organisation",
+    "english": "organization",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_0659",
+        "swedish": "organisation",
+        "forms": "-en, -er, -erna",
+        "english": "organization",
+        "level": "B1-B2",
+        "chapter": 2,
+        "page": 19,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 7
+      },
+      {
+        "id": "riv_b_5014",
+        "swedish": "organisation",
+        "forms": "-en, -er, -erna",
+        "english": "organization",
+        "level": "B1-B2",
+        "chapter": 15,
+        "page": 203,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 49
+      }
+    ]
+  },
+  {
+    "swedish": "palats",
+    "english": "palace",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_0946",
+        "swedish": "palats",
+        "forms": "-et, -, -en",
+        "english": "palace",
+        "level": "B1-B2",
+        "chapter": 2,
+        "page": 28,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 9
+      },
+      {
+        "id": "riv_b_5770",
+        "swedish": "palats",
+        "forms": "-et, -, -en",
+        "english": "palace",
+        "level": "B1-B2",
+        "chapter": 18,
+        "page": 243,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 57
+      }
+    ]
+  },
+  {
+    "swedish": "pizza",
+    "english": "pizza",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_1855",
+        "swedish": "pizza",
+        "forms": "-n, pizzor, pizzorna",
+        "english": "pizza",
+        "level": "B1-B2",
+        "chapter": 5,
+        "page": 60,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 18
+      },
+      {
+        "id": "riv_b_5460",
+        "swedish": "pizza",
+        "forms": "-n, pizzor, pizzorna",
+        "english": "pizza",
+        "level": "B1-B2",
+        "chapter": 17,
+        "page": 229,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 54
+      }
+    ]
+  },
+  {
+    "swedish": "poet",
+    "english": "poet",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_2524",
+        "swedish": "poet",
+        "forms": "-en, -er, -erna",
+        "english": "poet",
+        "level": "B1-B2",
+        "chapter": 7,
+        "page": 87,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 25
+      },
+      {
+        "id": "riv_b_4690",
+        "swedish": "poet",
+        "forms": "-en, -er, -erna",
+        "english": "poet",
+        "level": "B1-B2",
+        "chapter": 14,
+        "page": 186,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 46
+      }
+    ]
+  },
+  {
+    "swedish": "popcorn",
+    "english": "popcorn",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_1881",
+        "swedish": "popcorn",
+        "forms": "-et, -, -en",
+        "english": "popcorn",
+        "level": "B1-B2",
+        "chapter": 5,
+        "page": 60,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 18
+      },
+      {
+        "id": "riv_b_5191",
+        "swedish": "popcorn",
+        "forms": "-et, -, -en",
+        "english": "popcorn",
+        "level": "B1-B2",
+        "chapter": 16,
+        "page": 213,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 51
+      }
+    ]
+  },
+  {
+    "swedish": "preposition",
+    "english": "preposition",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_0296",
+        "swedish": "preposition",
+        "forms": "-en, -er, -erna",
+        "english": "preposition",
+        "level": "B1-B2",
+        "chapter": 1,
+        "page": 11,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 3
+      },
+      {
+        "id": "riv_b_5365",
+        "swedish": "preposition",
+        "forms": "-en, -er, -erna",
+        "english": "preposition",
+        "level": "B1-B2",
+        "chapter": 16,
+        "page": 223,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 53
+      }
+    ]
+  },
+  {
+    "swedish": "privat",
+    "english": "private",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_0976",
+        "swedish": "privat",
+        "forms": "-a",
+        "english": "private",
+        "level": "B1-B2",
+        "chapter": 2,
+        "page": 25,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 10
+      },
+      {
+        "id": "riv_b_5463",
+        "swedish": "privat",
+        "forms": "-a",
+        "english": "private",
+        "level": "B1-B2",
+        "chapter": 17,
+        "page": 229,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 54
+      }
+    ]
+  },
+  {
+    "swedish": "problem",
+    "english": "problem",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_0747",
+        "swedish": "problem",
+        "forms": "-et, -, -en",
+        "english": "problem",
+        "level": "B1-B2",
+        "chapter": 2,
+        "page": 21,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 8
+      },
+      {
+        "id": "riv_b_2625",
+        "swedish": "problem",
+        "forms": "-et, , -en",
+        "english": "problem",
+        "level": "B1-B2",
+        "chapter": 7,
+        "page": 90,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 26
+      }
+    ]
+  },
+  {
+    "swedish": "rasande",
+    "english": "livid",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_4087",
+        "swedish": "rasande",
+        "forms": "",
+        "english": "livid",
+        "level": "B1-B2",
+        "chapter": 11,
+        "page": 153,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 40
+      },
+      {
+        "id": "riv_b_5863",
+        "swedish": "rasande",
+        "forms": "",
+        "english": "livid",
+        "level": "B1-B2",
+        "chapter": 18,
+        "page": 249,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 58
+      }
+    ]
+  },
+  {
+    "swedish": "registrerad",
+    "english": "registered",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_3031",
+        "swedish": "registrerad",
+        "forms": "registrerat, registrerade",
+        "english": "registered",
+        "level": "B1-B2",
+        "chapter": 8,
+        "page": 101,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 29
+      },
+      {
+        "id": "riv_b_3047",
+        "swedish": "registrerad",
+        "forms": "registrerat, registrerade",
+        "english": "registered",
+        "level": "B1-B2",
+        "chapter": 8,
+        "page": 102,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 30
+      }
+    ]
+  },
+  {
+    "swedish": "rekommendera",
+    "english": "recommend",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_1583",
+        "swedish": "rekommendera",
+        "forms": "-r, -de, -t",
+        "english": "recommend",
+        "level": "B1-B2",
+        "chapter": 4,
+        "page": 49,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 16
+      },
+      {
+        "id": "riv_b_5656",
+        "swedish": "rekommendera",
+        "forms": "-r, -de, -t",
+        "english": "recommend",
+        "level": "B1-B2",
+        "chapter": 17,
+        "page": 238,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 56
+      }
+    ]
+  },
+  {
+    "swedish": "ren",
+    "english": "reindeer",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_1685",
+        "swedish": "ren",
+        "forms": "-en, -ar, -arna",
+        "english": "reindeer",
+        "level": "B1-B2",
+        "chapter": 4,
+        "page": 53,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 16
+      },
+      {
+        "id": "riv_b_2818",
+        "swedish": "ren",
+        "forms": "-t, -a",
+        "english": "reindeer",
+        "level": "B1-B2",
+        "chapter": 7,
+        "page": 95,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 27
+      }
+    ]
+  },
+  {
+    "swedish": "ridning",
+    "english": "riding",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_0328",
+        "swedish": "ridning",
+        "forms": "-en",
+        "english": "riding",
+        "level": "B1-B2",
+        "chapter": 1,
+        "page": 10,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 4
+      },
+      {
+        "id": "riv_b_6049",
+        "swedish": "ridning",
+        "forms": "-en",
+        "english": "riding",
+        "level": "B1-B2",
+        "chapter": 18,
+        "page": 257,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 60
+      }
+    ]
+  },
+  {
+    "swedish": "rike",
+    "english": "kingdom",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_3285",
+        "swedish": "rike",
+        "forms": "-t, -n, -na",
+        "english": "kingdom",
+        "level": "B1-B2",
+        "chapter": 8,
+        "page": 109,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 32
+      },
+      {
+        "id": "riv_b_5693",
+        "swedish": "rike",
+        "forms": "-t, -n, -na",
+        "english": "kingdom",
+        "level": "B1-B2",
+        "chapter": 17,
+        "page": 236,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 56
+      }
+    ]
+  },
+  {
+    "swedish": "roll",
+    "english": "role",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_0232",
+        "swedish": "roll",
+        "forms": "-en, -er, -erna",
+        "english": "role",
+        "level": "B1-B2",
+        "chapter": 1,
+        "page": 10,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 3
+      },
+      {
+        "id": "riv_b_0779",
+        "swedish": "roll",
+        "forms": "",
+        "english": "role",
+        "level": "B1-B2",
+        "chapter": 2,
+        "page": 22,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 8
+      }
+    ]
+  },
+  {
+    "swedish": "rätt",
+    "english": "right",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_0481",
+        "swedish": "rätt",
+        "forms": "",
+        "english": "right",
+        "level": "B1-B2",
+        "chapter": 1,
+        "page": 15,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 5
+      },
+      {
+        "id": "riv_b_0557",
+        "swedish": "rätt",
+        "forms": "-en, -er, -erna",
+        "english": "right",
+        "level": "B1-B2",
+        "chapter": 1,
+        "page": 14,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 6
+      }
+    ]
+  },
+  {
+    "swedish": "rå",
+    "english": "raw",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_2895",
+        "swedish": "rå",
+        "forms": "-tt, -a",
+        "english": "raw",
+        "level": "B1-B2",
+        "chapter": 7,
+        "page": 97,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 28
+      },
+      {
+        "id": "riv_b_2966",
+        "swedish": "rå",
+        "forms": "-tt, -a",
+        "english": "raw",
+        "level": "B1-B2",
+        "chapter": 8,
+        "page": 98,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 29
+      }
+    ]
+  },
+  {
+    "swedish": "rådjur",
+    "english": "deer",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_1746",
+        "swedish": "rådjur",
+        "forms": "-et, -, -en",
+        "english": "deer",
+        "level": "B1-B2",
+        "chapter": 4,
+        "page": 53,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 17
+      },
+      {
+        "id": "riv_b_2554",
+        "swedish": "rådjur",
+        "forms": "-et, -, -en",
+        "english": "deer",
+        "level": "B1-B2",
+        "chapter": 7,
+        "page": 87,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 25
+      }
+    ]
+  },
+  {
+    "swedish": "råtta",
+    "english": "rat",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_1530",
+        "swedish": "råtta",
+        "forms": "-n, råttor, råttorna",
+        "english": "rat",
+        "level": "B1-B2",
+        "chapter": 4,
+        "page": 47,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 15
+      },
+      {
+        "id": "riv_b_2003",
+        "swedish": "råtta",
+        "forms": "-n, råttor, råttorna",
+        "english": "rat",
+        "level": "B1-B2",
+        "chapter": 5,
+        "page": 63,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 20
+      }
+    ]
+  },
+  {
+    "swedish": "röka",
+    "english": "to smoke",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_2060",
+        "swedish": "röka",
+        "forms": "röker, rökte, rökt",
+        "english": "to smoke",
+        "level": "B1-B2",
+        "chapter": 5,
+        "page": 68,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 20
+      },
+      {
+        "id": "riv_b_3531",
+        "swedish": "röka",
+        "forms": "röker, rökte, rökt",
+        "english": "to smoke",
+        "level": "B1-B2",
+        "chapter": 9,
+        "page": 123,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 34
+      }
+    ]
+  },
+  {
+    "swedish": "samma",
+    "english": "same",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_0626",
+        "swedish": "samma",
+        "forms": "",
+        "english": "same",
+        "level": "B1-B2",
+        "chapter": 1,
+        "page": 16,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 6
+      },
+      {
+        "id": "riv_b_4259",
+        "swedish": "samma",
+        "forms": "-e",
+        "english": "same",
+        "level": "B1-B2",
+        "chapter": 12,
+        "page": 159,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 42
+      }
+    ]
+  },
+  {
+    "swedish": "satsadverb",
+    "english": "clausal adverb",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_4205",
+        "swedish": "satsadverb",
+        "forms": "-et, -, -en",
+        "english": "clausal adverb",
+        "level": "B1-B2",
+        "chapter": 12,
+        "page": 160,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 41
+      },
+      {
+        "id": "riv_b_5363",
+        "swedish": "satsadverb",
+        "forms": "-et, -, -en",
+        "english": "clausal adverb",
+        "level": "B1-B2",
+        "chapter": 16,
+        "page": 223,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 53
+      }
+    ]
+  },
+  {
+    "swedish": "sex",
+    "english": "sex",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_2647",
+        "swedish": "sex",
+        "forms": "",
+        "english": "sex",
+        "level": "B1-B2",
+        "chapter": 7,
+        "page": 90,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 26
+      },
+      {
+        "id": "riv_b_3021",
+        "swedish": "sex",
+        "forms": "",
+        "english": "sex",
+        "level": "B1-B2",
+        "chapter": 8,
+        "page": 101,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 29
+      }
+    ]
+  },
+  {
+    "swedish": "skamlig",
+    "english": "shameful",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_1011",
+        "swedish": "skamlig",
+        "forms": "-t, -a",
+        "english": "shameful",
+        "level": "B1-B2",
+        "chapter": 2,
+        "page": 28,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 10
+      },
+      {
+        "id": "riv_b_5581",
+        "swedish": "skamlig",
+        "forms": "-t, -a",
+        "english": "shameful",
+        "level": "B1-B2",
+        "chapter": 17,
+        "page": 234,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 55
+      }
+    ]
+  },
+  {
+    "swedish": "skapa",
+    "english": "create",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_0572",
+        "swedish": "skapa",
+        "forms": "-r, -de, -t",
+        "english": "create",
+        "level": "B1-B2",
+        "chapter": 1,
+        "page": 14,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 6
+      },
+      {
+        "id": "riv_b_3729",
+        "swedish": "skapa",
+        "forms": "-r, -de, -t",
+        "english": "create",
+        "level": "B1-B2",
+        "chapter": 10,
+        "page": 134,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 36
+      }
+    ]
+  },
+  {
+    "swedish": "ske",
+    "english": "occur",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_1708",
+        "swedish": "ske",
+        "forms": "sker, skedde, skett",
+        "english": "occur",
+        "level": "B1-B2",
+        "chapter": 4,
+        "page": 52,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 17
+      },
+      {
+        "id": "riv_b_4055",
+        "swedish": "ske",
+        "forms": "-r, -dde, -tt",
+        "english": "occur",
+        "level": "B1-B2",
+        "chapter": 11,
+        "page": 151,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 40
+      }
+    ]
+  },
+  {
+    "swedish": "skilsmässa",
+    "english": "divorce",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_0869",
+        "swedish": "skilsmässa",
+        "forms": "-n, skilsmässor, skilsmässorna",
+        "english": "divorce",
+        "level": "B1-B2",
+        "chapter": 2,
+        "page": 25,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 9
+      },
+      {
+        "id": "riv_b_5866",
+        "swedish": "skilsmässa",
+        "forms": "-n, skilsmässor, skilsmässorna",
+        "english": "divorce",
+        "level": "B1-B2",
+        "chapter": 18,
+        "page": 249,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 58
+      }
+    ]
+  },
+  {
+    "swedish": "skinka",
+    "english": "ham",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_2981",
+        "swedish": "skinka",
+        "forms": "-n, skinkor, skinkorna",
+        "english": "ham",
+        "level": "B1-B2",
+        "chapter": 8,
+        "page": 98,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 29
+      },
+      {
+        "id": "riv_b_5595",
+        "swedish": "skinka",
+        "forms": "-n, skinkor, skinkorna",
+        "english": "ham",
+        "level": "B1-B2",
+        "chapter": 17,
+        "page": 233,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 55
+      }
+    ]
+  },
+  {
+    "swedish": "slippa",
+    "english": "avoid, escape",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_0506",
+        "swedish": "slippa",
+        "forms": "slipper, slapp, sluppit",
+        "english": "avoid, escape",
+        "level": "B1-B2",
+        "chapter": 1,
+        "page": 15,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 5
+      },
+      {
+        "id": "riv_b_3422",
+        "swedish": "slippa",
+        "forms": "slipper, slapp, sluppit",
+        "english": "avoid, escape",
+        "level": "B1-B2",
+        "chapter": 9,
+        "page": 117,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 33
+      }
+    ]
+  },
+  {
+    "swedish": "spela (-r, -de, -t) in",
+    "english": "record",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_1607",
+        "swedish": "spela (-r, -de, -t) in",
+        "forms": "",
+        "english": "record",
+        "level": "B1-B2",
+        "chapter": 4,
+        "page": 52,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 16
+      },
+      {
+        "id": "riv_b_2556",
+        "swedish": "spela (-r, -de, -t) in",
+        "forms": "",
+        "english": "record",
+        "level": "B1-B2",
+        "chapter": 7,
+        "page": 87,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 25
+      }
+    ]
+  },
+  {
+    "swedish": "spela schack",
+    "english": "play chess",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_0678",
+        "swedish": "spela schack",
+        "forms": "",
+        "english": "play chess",
+        "level": "B1-B2",
+        "chapter": 2,
+        "page": 19,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 7
+      },
+      {
+        "id": "riv_b_1026",
+        "swedish": "spela schack",
+        "forms": "",
+        "english": "play chess",
+        "level": "B1-B2",
+        "chapter": 2,
+        "page": 28,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 10
+      }
+    ]
+  },
+  {
+    "swedish": "stall",
+    "english": "stable",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_4586",
+        "swedish": "stall",
+        "forms": "-et, -, -en",
+        "english": "stable",
+        "level": "B1-B2",
+        "chapter": 13,
+        "page": 180,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 45
+      },
+      {
+        "id": "riv_b_6054",
+        "swedish": "stall",
+        "forms": "-et, -, -en",
+        "english": "stable",
+        "level": "B1-B2",
+        "chapter": 18,
+        "page": 258,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 60
+      }
+    ]
+  },
+  {
+    "swedish": "Storbritannien",
+    "english": "Great Britain",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_0633",
+        "swedish": "Storbritannien",
+        "forms": "",
+        "english": "Great Britain",
+        "level": "B1-B2",
+        "chapter": 1,
+        "page": 16,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 6
+      },
+      {
+        "id": "riv_b_2032",
+        "swedish": "Storbritannien",
+        "forms": "",
+        "english": "Great Britain",
+        "level": "B1-B2",
+        "chapter": 5,
+        "page": 67,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 20
+      }
+    ]
+  },
+  {
+    "swedish": "stryka (stryker, strök, strukit) under",
+    "english": "underline",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_0266",
+        "swedish": "stryka (stryker, strök, strukit) under",
+        "forms": "",
+        "english": "underline",
+        "level": "B1-B2",
+        "chapter": 1,
+        "page": 11,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 3
+      },
+      {
+        "id": "riv_b_0643",
+        "swedish": "stryka (stryker, strök, strukit) under",
+        "forms": "",
+        "english": "underline",
+        "level": "B1-B2",
+        "chapter": 2,
+        "page": 18,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 7
+      }
+    ]
+  },
+  {
+    "swedish": "städare",
+    "english": "cleaner",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_1282",
+        "swedish": "städare",
+        "forms": "-n, -, städarna",
+        "english": "cleaner",
+        "level": "B1-B2",
+        "chapter": 3,
+        "page": 39,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 13
+      },
+      {
+        "id": "riv_b_5409",
+        "swedish": "städare",
+        "forms": "-n, -, städarna",
+        "english": "cleaner",
+        "level": "B1-B2",
+        "chapter": 16,
+        "page": 226,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 53
+      }
+    ]
+  },
+  {
+    "swedish": "stämma",
+    "english": "be correct",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_1233",
+        "swedish": "stämma",
+        "forms": "stämmer, stämde, stämt",
+        "english": "be correct",
+        "level": "B1-B2",
+        "chapter": 3,
+        "page": 37,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 12
+      },
+      {
+        "id": "riv_b_3493",
+        "swedish": "stämma",
+        "forms": "stämmer, stämde, stämt",
+        "english": "be correct",
+        "level": "B1-B2",
+        "chapter": 9,
+        "page": 120,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 34
+      }
+    ]
+  },
+  {
+    "swedish": "stängd",
+    "english": "closed",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_4507",
+        "swedish": "stängd",
+        "forms": "stängt, stängda",
+        "english": "closed",
+        "level": "B1-B2",
+        "chapter": 13,
+        "page": 174,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 44
+      },
+      {
+        "id": "riv_b_5396",
+        "swedish": "stängd",
+        "forms": "-a",
+        "english": "closed",
+        "level": "B1-B2",
+        "chapter": 16,
+        "page": 225,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 53
+      }
+    ]
+  },
+  {
+    "swedish": "suffix",
+    "english": "suffix",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_3403",
+        "swedish": "suffix",
+        "forms": "-et, -, -en",
+        "english": "suffix",
+        "level": "B1-B2",
+        "chapter": 9,
+        "page": 116,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 33
+      },
+      {
+        "id": "riv_b_5719",
+        "swedish": "suffix",
+        "forms": "",
+        "english": "suffix",
+        "level": "B1-B2",
+        "chapter": 17,
+        "page": 241,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 56
+      }
+    ]
+  },
+  {
+    "swedish": "supinum",
+    "english": "past perfect",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_1499",
+        "swedish": "supinum",
+        "forms": "",
+        "english": "past perfect",
+        "level": "B1-B2",
+        "chapter": 4,
+        "page": 48,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 15
+      },
+      {
+        "id": "riv_b_2969",
+        "swedish": "supinum",
+        "forms": "",
+        "english": "past perfect",
+        "level": "B1-B2",
+        "chapter": 8,
+        "page": 98,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 29
+      }
+    ]
+  },
+  {
+    "swedish": "sur",
+    "english": "upset",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_1924",
+        "swedish": "sur",
+        "forms": "-t, -a",
+        "english": "upset",
+        "level": "B1-B2",
+        "chapter": 5,
+        "page": 62,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 19
+      },
+      {
+        "id": "riv_b_5862",
+        "swedish": "sur",
+        "forms": "-t, -a",
+        "english": "upset",
+        "level": "B1-B2",
+        "chapter": 18,
+        "page": 249,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 58
+      }
+    ]
+  },
+  {
+    "swedish": "svensk",
+    "english": "Swedish",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_0314",
+        "swedish": "svensk",
+        "forms": "-t, -a",
+        "english": "Swedish",
+        "level": "B1-B2",
+        "chapter": 1,
+        "page": 10,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 4
+      },
+      {
+        "id": "riv_b_0439",
+        "swedish": "svensk",
+        "forms": "-en, -ar, -arna",
+        "english": "Swedish",
+        "level": "B1-B2",
+        "chapter": 1,
+        "page": 14,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 5
+      }
+    ]
+  },
+  {
+    "swedish": "svettig",
+    "english": "sweaty",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_0253",
+        "swedish": "svettig",
+        "forms": "-t, -a",
+        "english": "sweaty",
+        "level": "B1-B2",
+        "chapter": 1,
+        "page": 10,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 3
+      },
+      {
+        "id": "riv_b_2551",
+        "swedish": "svettig",
+        "forms": "-t, -a",
+        "english": "sweaty",
+        "level": "B1-B2",
+        "chapter": 7,
+        "page": 87,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 25
+      }
+    ]
+  },
+  {
+    "swedish": "symbol",
+    "english": "symbol",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_1703",
+        "swedish": "symbol",
+        "forms": "-en, -er, -erna",
+        "english": "symbol",
+        "level": "B1-B2",
+        "chapter": 4,
+        "page": 52,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 17
+      },
+      {
+        "id": "riv_b_5379",
+        "swedish": "symbol",
+        "forms": "-en, -er, -erna",
+        "english": "symbol",
+        "level": "B1-B2",
+        "chapter": 16,
+        "page": 223,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 53
+      }
+    ]
+  },
+  {
+    "swedish": "synonym",
+    "english": "synonym",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_4208",
+        "swedish": "synonym",
+        "forms": "-en, -er, -erna",
+        "english": "synonym",
+        "level": "B1-B2",
+        "chapter": 12,
+        "page": 160,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 41
+      },
+      {
+        "id": "riv_b_4485",
+        "swedish": "synonym",
+        "forms": "-t, -a",
+        "english": "synonym",
+        "level": "B1-B2",
+        "chapter": 13,
+        "page": 175,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 44
+      }
+    ]
+  },
+  {
+    "swedish": "sämre",
+    "english": "worse",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_1028",
+        "swedish": "sämre",
+        "forms": "",
+        "english": "worse",
+        "level": "B1-B2",
+        "chapter": 2,
+        "page": 28,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 10
+      },
+      {
+        "id": "riv_b_4858",
+        "swedish": "sämre",
+        "forms": "",
+        "english": "worse",
+        "level": "B1-B2",
+        "chapter": 15,
+        "page": 196,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 48
+      }
+    ]
+  },
+  {
+    "swedish": "tredje",
+    "english": "third",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_0415",
+        "swedish": "tredje",
+        "forms": "",
+        "english": "third",
+        "level": "B1-B2",
+        "chapter": 1,
+        "page": 13,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 4
+      },
+      {
+        "id": "riv_b_1884",
+        "swedish": "tredje",
+        "forms": "",
+        "english": "third",
+        "level": "B1-B2",
+        "chapter": 5,
+        "page": 60,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 18
+      }
+    ]
+  },
+  {
+    "swedish": "träd",
+    "english": "tree",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_1658",
+        "swedish": "träd",
+        "forms": "-et, -, -en",
+        "english": "tree",
+        "level": "B1-B2",
+        "chapter": 4,
+        "page": 53,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 16
+      },
+      {
+        "id": "riv_b_5608",
+        "swedish": "träd",
+        "forms": "-et, -, -en",
+        "english": "tree",
+        "level": "B1-B2",
+        "chapter": 17,
+        "page": 235,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 55
+      }
+    ]
+  },
+  {
+    "swedish": "trähus",
+    "english": "wooden house",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_2769",
+        "swedish": "trähus",
+        "forms": "-et, -, -en",
+        "english": "wooden house",
+        "level": "B1-B2",
+        "chapter": 7,
+        "page": 94,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 27
+      },
+      {
+        "id": "riv_b_5768",
+        "swedish": "trähus",
+        "forms": "-et, -, -en",
+        "english": "wooden house",
+        "level": "B1-B2",
+        "chapter": 18,
+        "page": 243,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 57
+      }
+    ]
+  },
+  {
+    "swedish": "tung",
+    "english": "heavy",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_1290",
+        "swedish": "tung",
+        "forms": "-t, -a",
+        "english": "heavy",
+        "level": "B1-B2",
+        "chapter": 3,
+        "page": 39,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 13
+      },
+      {
+        "id": "riv_b_2579",
+        "swedish": "tung",
+        "forms": "-t, -a",
+        "english": "heavy",
+        "level": "B1-B2",
+        "chapter": 7,
+        "page": 86,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 25
+      }
+    ]
+  },
+  {
+    "swedish": "tvilling",
+    "english": "twin",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_3853",
+        "swedish": "tvilling",
+        "forms": "-en, -ar, -arna",
+        "english": "twin",
+        "level": "B1-B2",
+        "chapter": 11,
+        "page": 141,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 38
+      },
+      {
+        "id": "riv_b_5984",
+        "swedish": "tvilling",
+        "forms": "-en, -ar, -arna",
+        "english": "twin",
+        "level": "B1-B2",
+        "chapter": 18,
+        "page": 255,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 59
+      }
+    ]
+  },
+  {
+    "swedish": "tävling",
+    "english": "competition",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_0168",
+        "swedish": "tävling",
+        "forms": "-en, -ar, -arna",
+        "english": "competition",
+        "level": "B1-B2",
+        "chapter": 1,
+        "page": 9,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 2
+      },
+      {
+        "id": "riv_b_5708",
+        "swedish": "tävling",
+        "forms": "-en, -ar, -arna",
+        "english": "competition",
+        "level": "B1-B2",
+        "chapter": 17,
+        "page": 241,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 56
+      }
+    ]
+  },
+  {
+    "swedish": "underlig",
+    "english": "strange",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_3439",
+        "swedish": "underlig",
+        "forms": "-t, -a",
+        "english": "strange",
+        "level": "B1-B2",
+        "chapter": 9,
+        "page": 118,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 33
+      },
+      {
+        "id": "riv_b_5203",
+        "swedish": "underlig",
+        "forms": "-t, -a",
+        "english": "strange",
+        "level": "B1-B2",
+        "chapter": 16,
+        "page": 216,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 51
+      }
+    ]
+  },
+  {
+    "swedish": "ung",
+    "english": "young",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_2588",
+        "swedish": "ung",
+        "forms": "-t, -a",
+        "english": "young",
+        "level": "B1-B2",
+        "chapter": 7,
+        "page": 89,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 25
+      },
+      {
+        "id": "riv_b_4724",
+        "swedish": "ung",
+        "forms": "yngre, yngst",
+        "english": "young",
+        "level": "B1-B2",
+        "chapter": 14,
+        "page": 189,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 46
+      }
+    ]
+  },
+  {
+    "swedish": "uppmana",
+    "english": "call on",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_3107",
+        "swedish": "uppmana",
+        "forms": "-r, -de, -t",
+        "english": "call on",
+        "level": "B1-B2",
+        "chapter": 8,
+        "page": 103,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 30
+      },
+      {
+        "id": "riv_b_6040",
+        "swedish": "uppmana",
+        "forms": "-r, -de, -t",
+        "english": "call on",
+        "level": "B1-B2",
+        "chapter": 18,
+        "page": 257,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 60
+      }
+    ]
+  },
+  {
+    "swedish": "ur",
+    "english": "out of",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_0286",
+        "swedish": "ur",
+        "forms": "",
+        "english": "out of",
+        "level": "B1-B2",
+        "chapter": 1,
+        "page": 11,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 3
+      },
+      {
+        "id": "riv_b_3528",
+        "swedish": "ur",
+        "forms": "",
+        "english": "out of",
+        "level": "B1-B2",
+        "chapter": 9,
+        "page": 123,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 34
+      }
+    ]
+  },
+  {
+    "swedish": "utomlands",
+    "english": "abroad",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_0978",
+        "swedish": "utomlands",
+        "forms": "",
+        "english": "abroad",
+        "level": "B1-B2",
+        "chapter": 2,
+        "page": 25,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 10
+      },
+      {
+        "id": "riv_b_2168",
+        "swedish": "utomlands",
+        "forms": "",
+        "english": "abroad",
+        "level": "B1-B2",
+        "chapter": 5,
+        "page": 70,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 21
+      }
+    ]
+  },
+  {
+    "swedish": "varannan",
+    "english": "every other",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_1864",
+        "swedish": "varannan",
+        "forms": "",
+        "english": "every other",
+        "level": "B1-B2",
+        "chapter": 5,
+        "page": 60,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 18
+      },
+      {
+        "id": "riv_b_5412",
+        "swedish": "varannan",
+        "forms": "",
+        "english": "every other",
+        "level": "B1-B2",
+        "chapter": 16,
+        "page": 226,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 53
+      }
+    ]
+  },
+  {
+    "swedish": "vecka",
+    "english": "week",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_0298",
+        "swedish": "vecka",
+        "forms": "-n, veckor, veckorna",
+        "english": "week",
+        "level": "B1-B2",
+        "chapter": 1,
+        "page": 11,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 3
+      },
+      {
+        "id": "riv_b_0558",
+        "swedish": "vecka",
+        "forms": "-n, veckor, veckorna",
+        "english": "week",
+        "level": "B1-B2",
+        "chapter": 1,
+        "page": 14,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 6
+      }
+    ]
+  },
+  {
+    "swedish": "verb",
+    "english": "verb",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_0907",
+        "swedish": "verb",
+        "forms": "-et, -, -en",
+        "english": "verb",
+        "level": "B1-B2",
+        "chapter": 2,
+        "page": 26,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 9
+      },
+      {
+        "id": "riv_b_1207",
+        "swedish": "verb",
+        "forms": "",
+        "english": "verb",
+        "level": "B1-B2",
+        "chapter": 3,
+        "page": 36,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 12
+      }
+    ]
+  },
+  {
+    "swedish": "via",
+    "english": "via",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_2138",
+        "swedish": "via",
+        "forms": "",
+        "english": "via",
+        "level": "B1-B2",
+        "chapter": 5,
+        "page": 67,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 21
+      },
+      {
+        "id": "riv_b_4931",
+        "swedish": "via",
+        "forms": "",
+        "english": "via",
+        "level": "B1-B2",
+        "chapter": 15,
+        "page": 203,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 48
+      }
+    ]
+  },
+  {
+    "swedish": "viktig",
+    "english": "important",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_0399",
+        "swedish": "viktig",
+        "forms": "-t, -a",
+        "english": "important",
+        "level": "B1-B2",
+        "chapter": 1,
+        "page": 13,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 4
+      },
+      {
+        "id": "riv_b_2665",
+        "swedish": "viktig",
+        "forms": "-t, -a",
+        "english": "important",
+        "level": "B1-B2",
+        "chapter": 7,
+        "page": 90,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 26
+      }
+    ]
+  },
+  {
+    "swedish": "viska",
+    "english": "whisper",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_0854",
+        "swedish": "viska",
+        "forms": "-r, -de, -t",
+        "english": "whisper",
+        "level": "B1-B2",
+        "chapter": 2,
+        "page": 22,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 9
+      },
+      {
+        "id": "riv_b_5785",
+        "swedish": "viska",
+        "forms": "-r, -de, -t",
+        "english": "whisper",
+        "level": "B1-B2",
+        "chapter": 18,
+        "page": 243,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 57
+      }
+    ]
+  },
+  {
+    "swedish": "vispad",
+    "english": "whipped",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_2928",
+        "swedish": "vispad",
+        "forms": "vispat, vispade",
+        "english": "whipped",
+        "level": "B1-B2",
+        "chapter": 7,
+        "page": 97,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 28
+      },
+      {
+        "id": "riv_b_3780",
+        "swedish": "vispad",
+        "forms": "vispat, vispade",
+        "english": "whipped",
+        "level": "B1-B2",
+        "chapter": 10,
+        "page": 136,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 37
+      }
+    ]
+  },
+  {
+    "swedish": "viss",
+    "english": "certain",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_1148",
+        "swedish": "viss",
+        "forms": "-t, -a",
+        "english": "certain",
+        "level": "B1-B2",
+        "chapter": 2,
+        "page": 33,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 11
+      },
+      {
+        "id": "riv_b_4499",
+        "swedish": "viss",
+        "forms": "-t, -a",
+        "english": "certain",
+        "level": "B1-B2",
+        "chapter": 13,
+        "page": 175,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 44
+      }
+    ]
+  },
+  {
+    "swedish": "vänta",
+    "english": "wait",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_0403",
+        "swedish": "vänta",
+        "forms": "-r, -de, -t",
+        "english": "wait",
+        "level": "B1-B2",
+        "chapter": 1,
+        "page": 13,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 4
+      },
+      {
+        "id": "riv_b_1004",
+        "swedish": "vänta",
+        "forms": "-r, -de, -t",
+        "english": "wait",
+        "level": "B1-B2",
+        "chapter": 2,
+        "page": 28,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 10
+      }
+    ]
+  },
+  {
+    "swedish": "väska",
+    "english": "bag",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_1377",
+        "swedish": "väska",
+        "forms": "-n, väskor, väskorna",
+        "english": "bag",
+        "level": "B1-B2",
+        "chapter": 4,
+        "page": 41,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 14
+      },
+      {
+        "id": "riv_b_3518",
+        "swedish": "väska",
+        "forms": "-n, väskor, väskorna",
+        "english": "bag",
+        "level": "B1-B2",
+        "chapter": 9,
+        "page": 123,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 34
+      }
+    ]
+  },
+  {
+    "swedish": "ärlig",
+    "english": "honest",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_0754",
+        "swedish": "ärlig",
+        "forms": "-t, -a",
+        "english": "honest",
+        "level": "B1-B2",
+        "chapter": 2,
+        "page": 21,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 8
+      },
+      {
+        "id": "riv_b_0874",
+        "swedish": "ärlig",
+        "forms": "-t, -a",
+        "english": "honest",
+        "level": "B1-B2",
+        "chapter": 2,
+        "page": 25,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 9
+      }
+    ]
+  },
+  {
+    "swedish": "äta (äter, åt, ätit) upp",
+    "english": "eat up",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_4745",
+        "swedish": "äta (äter, åt, ätit) upp",
+        "forms": "",
+        "english": "eat up",
+        "level": "B1-B2",
+        "chapter": 14,
+        "page": 186,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 47
+      },
+      {
+        "id": "riv_b_5702",
+        "swedish": "äta (äter, åt, ätit) upp",
+        "forms": "",
+        "english": "eat up",
+        "level": "B1-B2",
+        "chapter": 17,
+        "page": 236,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 56
+      }
+    ]
+  },
+  {
+    "swedish": "å ena sidan… å andra sidan",
+    "english": "on the one hand… on the",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_1228",
+        "swedish": "å ena sidan… å andra sidan",
+        "forms": "",
+        "english": "on the one hand… on the",
+        "level": "B1-B2",
+        "chapter": 3,
+        "page": 37,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 12
+      },
+      {
+        "id": "riv_b_5806",
+        "swedish": "å ena sidan… å andra sidan",
+        "forms": "",
+        "english": "on the one hand… on the",
+        "level": "B1-B2",
+        "chapter": 18,
+        "page": 245,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 57
+      }
+    ]
+  },
+  {
+    "swedish": "ö",
+    "english": "island",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_2643",
+        "swedish": "ö",
+        "forms": "-n, -ar, -arna",
+        "english": "island",
+        "level": "B1-B2",
+        "chapter": 7,
+        "page": 90,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 26
+      },
+      {
+        "id": "riv_b_3862",
+        "swedish": "ö",
+        "forms": "-n, -ar, -arna",
+        "english": "island",
+        "level": "B1-B2",
+        "chapter": 11,
+        "page": 141,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 38
+      }
+    ]
+  },
+  {
+    "swedish": "öka",
+    "english": "increase",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_0657",
+        "swedish": "öka",
+        "forms": "-r, -de, -t",
+        "english": "increase",
+        "level": "B1-B2",
+        "chapter": 2,
+        "page": 18,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 7
+      },
+      {
+        "id": "riv_b_2191",
+        "swedish": "öka",
+        "forms": "-r, -de, -t",
+        "english": "increase",
+        "level": "B1-B2",
+        "chapter": 5,
+        "page": 70,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 21
+      }
+    ]
+  },
+  {
+    "swedish": "överraska",
+    "english": "surprise",
+    "count": 2,
+    "cards": [
+      {
+        "id": "riv_b_1633",
+        "swedish": "överraska",
+        "forms": "-r, -de, -t",
+        "english": "surprise",
+        "level": "B1-B2",
+        "chapter": 4,
+        "page": 50,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 16
+      },
+      {
+        "id": "riv_b_5531",
+        "swedish": "överraska",
+        "forms": "-r, -de, -t",
+        "english": "surprise",
+        "level": "B1-B2",
+        "chapter": 17,
+        "page": 230,
+        "source": "rivstart_b1b2",
+        "source_pdf_page": 55
+      }
+    ]
+  }
+]

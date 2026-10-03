@@ -1,0 +1,1437 @@
+[
+  {
+    "word": "Jag har en fråga.",
+    "normalized": "jag har en fråga",
+    "word_count": 4,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Vad betyder det?",
+    "normalized": "vad betyder det",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Hur säger man ... på svenska?",
+    "normalized": "hur säger man ... på svenska",
+    "word_count": 6,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Vad heter ... på svenska?",
+    "normalized": "vad heter ... på svenska",
+    "word_count": 5,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Hur uttalar man ... ?",
+    "normalized": "hur uttalar man",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Hur stavar/skriver man ... ?",
+    "normalized": "hur stavar/skriver man",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Kan du säga det en gång till?",
+    "normalized": "kan du säga det en gång till",
+    "word_count": 7,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Jag förstår inte.",
+    "normalized": "jag förstår inte",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Jaha! Nu förstår jag!",
+    "normalized": "jaha! nu förstår jag",
+    "word_count": 4,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Har ni några frågor?",
+    "normalized": "har ni några frågor",
+    "word_count": 4,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Titta på sidan X i textboken/övningsboken.",
+    "normalized": "titta på sidan x i textboken/övningsboken",
+    "word_count": 6,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Läs texten på sidan X.",
+    "normalized": "läs texten på sidan x",
+    "word_count": 5,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Säg efter mig.",
+    "normalized": "säg efter mig",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Arbeta i par.",
+    "normalized": "arbeta i par",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Du kan svenska!",
+    "normalized": "du kan svenska",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Vad heter du?",
+    "normalized": "vad heter du",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Vad talar du för språk?",
+    "normalized": "vad talar du för språk",
+    "word_count": 5,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "vad ... för",
+    "normalized": "vad ... för",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Trevligt att träffas!",
+    "normalized": "trevligt att träffas",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "ja- och nej fråga",
+    "normalized": "ja- och nej fråga",
+    "word_count": 4,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Hur mår du?",
+    "normalized": "hur mår du",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Hur är läget?",
+    "normalized": "hur är läget",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Det är lugnt.",
+    "normalized": "det är lugnt",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Det är fint!",
+    "normalized": "det är fint",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Allt bra med dig?",
+    "normalized": "allt bra med dig",
+    "word_count": 4,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Hur är det med dig?",
+    "normalized": "hur är det med dig",
+    "word_count": 5,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Jo, det är okej.",
+    "normalized": "jo, det är okej",
+    "word_count": 4,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Det är mycket på jobbet.",
+    "normalized": "det är mycket på jobbet",
+    "word_count": 5,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Nja, inget vidare.",
+    "normalized": "nja, inget vidare",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Jag är förkyld.",
+    "normalized": "jag är förkyld",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Krya på dig!",
+    "normalized": "krya på dig",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Ta hand om dig!",
+    "normalized": "ta hand om dig",
+    "word_count": 4,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "stryka (stryker, strök, strukit) under",
+    "normalized": "stryka (stryker, strök, strukit) under",
+    "word_count": 5,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Hur går det?",
+    "normalized": "hur går det",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Det går bra!",
+    "normalized": "det går bra",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Hoppas att vi ses snart igen!",
+    "normalized": "hoppas att vi ses snart igen",
+    "word_count": 6,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Ha det så bra!",
+    "normalized": "ha det så bra",
+    "word_count": 4,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "ett par glasögon",
+    "normalized": "ett par glasögon",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Det var så lite.",
+    "normalized": "det var så lite",
+    "word_count": 4,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Vilket år är du född?",
+    "normalized": "vilket år är du född",
+    "word_count": 5,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Hur mycket är klockan?",
+    "normalized": "hur mycket är klockan",
+    "word_count": 4,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "fem över halv",
+    "normalized": "fem över halv",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "kaffe på maten",
+    "normalized": "kaffe på maten",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Det låter bra!",
+    "normalized": "det låter bra",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "gå på gym",
+    "normalized": "gå på gym",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "klä (-er, -dde, -tt) på sig",
+    "normalized": "klä på sig",
+    "word_count": 3,
+    "inflection_removed": true,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "ta (-r, tog, tagit) en burgare",
+    "normalized": "ta en burgare",
+    "word_count": 3,
+    "inflection_removed": true,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Det tar en timme.",
+    "normalized": "det tar en timme",
+    "word_count": 4,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "ta en tupplur",
+    "normalized": "ta en tupplur",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "gå och lägga sig",
+    "normalized": "gå och lägga sig",
+    "word_count": 4,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "mitt på dagen",
+    "normalized": "mitt på dagen",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Krya på dig!",
+    "normalized": "krya på dig",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "ta det lugnt",
+    "normalized": "ta det lugnt",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Var det bra så?",
+    "normalized": "var det bra så",
+    "word_count": 4,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Kan jag få ...?",
+    "normalized": "kan jag få",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Det var bra så.",
+    "normalized": "det var bra så",
+    "word_count": 4,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Det blir ... kronor.",
+    "normalized": "det blir ... kronor",
+    "word_count": 4,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Vill du ha?",
+    "normalized": "vill du ha",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Tar ni kontanter?",
+    "normalized": "tar ni kontanter",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "en bit bort",
+    "normalized": "en bit bort",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "läsk (vard) (= läskedryck)",
+    "normalized": "läsk (vard) (= läskedryck",
+    "word_count": 4,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "frukt och grönt",
+    "normalized": "frukt och grönt",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Ursäkta, var finns ...?",
+    "normalized": "ursäkta, var finns",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Vad ska vi äta?",
+    "normalized": "vad ska vi äta",
+    "word_count": 4,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Ska vi gå på ...?",
+    "normalized": "ska vi gå på",
+    "word_count": 4,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Vad ska ni se?",
+    "normalized": "vad ska ni se",
+    "word_count": 4,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Var går den?",
+    "normalized": "var går den",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Den börjar klockan ...",
+    "normalized": "den börjar klockan",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "ta ett glas ...",
+    "normalized": "ta ett glas",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Vad gör du på fritiden?",
+    "normalized": "vad gör du på fritiden",
+    "word_count": 5,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "ta en AW",
+    "normalized": "ta en aw",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Vilken ... ska vi se?",
+    "normalized": "vilken ... ska vi se",
+    "word_count": 5,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Det blir bra!",
+    "normalized": "det blir bra",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Vad gillar du för ...?",
+    "normalized": "vad gillar du för",
+    "word_count": 4,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "på vägen hem",
+    "normalized": "på vägen hem",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "sent på kvällen",
+    "normalized": "sent på kvällen",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "på min pappas sida",
+    "normalized": "på min pappas sida",
+    "word_count": 4,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "ha mycket kontakt",
+    "normalized": "ha mycket kontakt",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "gå i skolan",
+    "normalized": "gå i skolan",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Jaha, vad trevligt!",
+    "normalized": "jaha, vad trevligt",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Är det sant?",
+    "normalized": "är det sant",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Vilka objektspronomen står tillsammans med fraserna i rutan?",
+    "normalized": "vilka objektspronomen står tillsammans med fraserna i rutan",
+    "word_count": 8,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "komma i kontakt med",
+    "normalized": "komma i kontakt med",
+    "word_count": 4,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "i dagens värde",
+    "normalized": "i dagens värde",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Vad kan jag hjälpa er med?",
+    "normalized": "vad kan jag hjälpa er med",
+    "word_count": 6,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Det låter bra.",
+    "normalized": "det låter bra",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Hur ska vi göra med ...?",
+    "normalized": "hur ska vi göra med",
+    "word_count": 5,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "sova på saken",
+    "normalized": "sova på saken",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "ett par byxor",
+    "normalized": "ett par byxor",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "ett par skor",
+    "normalized": "ett par skor",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Vad har du på dig i dag?",
+    "normalized": "vad har du på dig i dag",
+    "word_count": 7,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Hur mycket får de kosta?",
+    "normalized": "hur mycket får de kosta",
+    "word_count": 5,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Passar de bra?",
+    "normalized": "passar de bra",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Hur mycket kostar den?",
+    "normalized": "hur mycket kostar den",
+    "word_count": 4,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "en storlek mindre",
+    "normalized": "en storlek mindre",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Vilken storlek har du?",
+    "normalized": "vilken storlek har du",
+    "word_count": 4,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Vill du ha hjälp?",
+    "normalized": "vill du ha hjälp",
+    "word_count": 4,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Kan jag hjälpa till?",
+    "normalized": "kan jag hjälpa till",
+    "word_count": 4,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "då ska vi se",
+    "normalized": "då ska vi se",
+    "word_count": 4,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Jag tittar bara.",
+    "normalized": "jag tittar bara",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Säg till om du behöver hjälp.",
+    "normalized": "säg till om du behöver hjälp",
+    "word_count": 6,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Kan du hjälpa mig?",
+    "normalized": "kan du hjälpa mig",
+    "word_count": 4,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Sitter de bra?",
+    "normalized": "sitter de bra",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Jag läser svenska.",
+    "normalized": "jag läser svenska",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "mitt i stan",
+    "normalized": "mitt i stan",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "gå på museum",
+    "normalized": "gå på museum",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "tänk dig att",
+    "normalized": "tänk dig att",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Hur var den/det/de?",
+    "normalized": "hur var den/det/de",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "för ... år sedan",
+    "normalized": "för ... år sedan",
+    "word_count": 4,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Vad är det för datum idag?",
+    "normalized": "vad är det för datum idag",
+    "word_count": 6,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "i stora delar av Sverige",
+    "normalized": "i stora delar av sverige",
+    "word_count": 5,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "minus 10 grader",
+    "normalized": "minus 10 grader",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "plus 12 grader",
+    "normalized": "plus 12 grader",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Fy, vad kallt det är!",
+    "normalized": "fy, vad kallt det är",
+    "word_count": 5,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Vad är det för väder?",
+    "normalized": "vad är det för väder",
+    "word_count": 5,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Det är soligt.",
+    "normalized": "det är soligt",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Det är varmt.",
+    "normalized": "det är varmt",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Det är kallt.",
+    "normalized": "det är kallt",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Det är dimma.",
+    "normalized": "det är dimma",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Det är molnigt.",
+    "normalized": "det är molnigt",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Det är mulet.",
+    "normalized": "det är mulet",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "gå ut med hunden",
+    "normalized": "gå ut med hunden",
+    "word_count": 4,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Det tar en timme att ...",
+    "normalized": "det tar en timme att",
+    "word_count": 5,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Jag håller med.",
+    "normalized": "jag håller med",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "lära (lär, lärde, lärt) sig",
+    "normalized": "lära (lär, lärde, lärt) sig",
+    "word_count": 5,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "När går tåget?",
+    "normalized": "när går tåget",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "När går flyget?",
+    "normalized": "när går flyget",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "ta (-r, tog, tagit) lång tid",
+    "normalized": "ta lång tid",
+    "word_count": 3,
+    "inflection_removed": true,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "det är ganska långt",
+    "normalized": "det är ganska långt",
+    "word_count": 4,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "komma (-er, kom, kommit) in till/på",
+    "normalized": "komma in till/på",
+    "word_count": 3,
+    "inflection_removed": true,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "gå i tvåan",
+    "normalized": "gå i tvåan",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Krya på dig!",
+    "normalized": "krya på dig",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Hur kommer vi till ...?",
+    "normalized": "hur kommer vi till",
+    "word_count": 4,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "mellan ... och",
+    "normalized": "mellan ... och",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "gå (-r, gick, gått) över gatan",
+    "normalized": "gå över gatan",
+    "word_count": 3,
+    "inflection_removed": true,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "om 10 dagar",
+    "normalized": "om 10 dagar",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "en dryg vecka",
+    "normalized": "en dryg vecka",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "i så fall",
+    "normalized": "i så fall",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "ta (-r, tog, tagit) ett dopp",
+    "normalized": "ta ett dopp",
+    "word_count": 3,
+    "inflection_removed": true,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "förr i tiden",
+    "normalized": "förr i tiden",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "dra (-r, drog, dragit) in luft",
+    "normalized": "dra in luft",
+    "word_count": 3,
+    "inflection_removed": true,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "10 i topp",
+    "normalized": "10 i topp",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "mess (-et, –, -en)",
+    "normalized": "mess (-et, –, -en",
+    "word_count": 4,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Nu går det.",
+    "normalized": "nu går det",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Det sa bara pang!",
+    "normalized": "det sa bara pang",
+    "word_count": 4,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "biff med lök",
+    "normalized": "biff med lök",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "dubbelt så mycket",
+    "normalized": "dubbelt så mycket",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "ett glas rött",
+    "normalized": "ett glas rött",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Kan vi få notan?",
+    "normalized": "kan vi få notan",
+    "word_count": 4,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Ska vi dela rakt av?",
+    "normalized": "ska vi dela rakt av",
+    "word_count": 5,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "bra med barn",
+    "normalized": "bra med barn",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "KTH = Kungliga Tekniska Högskolan",
+    "normalized": "kth = kungliga tekniska högskolan",
+    "word_count": 5,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "något helt annat",
+    "normalized": "något helt annat",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "ont i ryggen",
+    "normalized": "ont i ryggen",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Tack för ikväll!",
+    "normalized": "tack för ikväll",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Välkomna till bords!",
+    "normalized": "välkomna till bords",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Ta för er!",
+    "normalized": "ta för er",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Det är bra för mig.",
+    "normalized": "det är bra för mig",
+    "word_count": 5,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "dra (-r, drog, dragit) sig hemåt",
+    "normalized": "dra sig hemåt",
+    "word_count": 3,
+    "inflection_removed": true,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "vett och etikett",
+    "normalized": "vett och etikett",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "komma (-er, kom, kommit) i tid",
+    "normalized": "komma i tid",
+    "word_count": 3,
+    "inflection_removed": true,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "ta i hand",
+    "normalized": "ta i hand",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Tack för maten!",
+    "normalized": "tack för maten",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Tack för senast!",
+    "normalized": "tack för senast",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Hoppas det går bra.",
+    "normalized": "hoppas det går bra",
+    "word_count": 4,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "på grund av",
+    "normalized": "på grund av",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "reflexiva possessiva pronomen",
+    "normalized": "reflexiva possessiva pronomen",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "fordons- och transportprogram",
+    "normalized": "fordons- och transportprogram",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "barn- och fritidsprogram",
+    "normalized": "barn- och fritidsprogram",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "på så sätt",
+    "normalized": "på så sätt",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Så här kan det gå till.",
+    "normalized": "så här kan det gå till",
+    "word_count": 6,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "idrott och hälsa",
+    "normalized": "idrott och hälsa",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Chalmers tekniska högskola",
+    "normalized": "chalmers tekniska högskola",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "svenska som andraspråk",
+    "normalized": "svenska som andraspråk",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "hem- och konsumentkunskap (hemkunskap)",
+    "normalized": "hem- och konsumentkunskap (hemkunskap",
+    "word_count": 4,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "dag för dag",
+    "normalized": "dag för dag",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "i andra hand",
+    "normalized": "i andra hand",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "högt i tak",
+    "normalized": "högt i tak",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "lågt i tak",
+    "normalized": "lågt i tak",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "ta (-r, tog, tagit) reda på",
+    "normalized": "ta reda på",
+    "word_count": 3,
+    "inflection_removed": true,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "dra (-r, drog, dragit) om elen",
+    "normalized": "dra om elen",
+    "word_count": 3,
+    "inflection_removed": true,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "ordna (-r, -de, -t) efter färg",
+    "normalized": "ordna efter färg",
+    "word_count": 3,
+    "inflection_removed": true,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "lägga (-er, la/lade, lagt) ett bud",
+    "normalized": "lägga ett bud",
+    "word_count": 3,
+    "inflection_removed": true,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "se (-r, såg, sett) ... ut",
+    "normalized": "se ... ut",
+    "word_count": 3,
+    "inflection_removed": true,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "till höger om",
+    "normalized": "till höger om",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "till vänster om",
+    "normalized": "till vänster om",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "sova (-er, sov, sovit) på saken",
+    "normalized": "sova på saken",
+    "word_count": 3,
+    "inflection_removed": true,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "vabba (-r, -de, -t) (vard) = ta ledigt för vård av sjukt barn",
+    "normalized": "vabba (vard) = ta ledigt för vård av sjukt barn",
+    "word_count": 10,
+    "inflection_removed": true,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "vd = verkställande direktör",
+    "normalized": "vd = verkställande direktör",
+    "word_count": 4,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "helt och hållet",
+    "normalized": "helt och hållet",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "ta (-r, tog, tagit) upp båten",
+    "normalized": "ta upp båten",
+    "word_count": 3,
+    "inflection_removed": true,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "vara (är, var, varit) sist",
+    "normalized": "vara (är, var, varit) sist",
+    "word_count": 5,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "Jag är ledsen.",
+    "normalized": "jag är ledsen",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "ha (-r, hade, haft) fullt upp",
+    "normalized": "ha fullt upp",
+    "word_count": 3,
+    "inflection_removed": true,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "var god dröj",
+    "normalized": "var god dröj",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "sitta (-er, satt, suttit) i telefon",
+    "normalized": "sitta i telefon",
+    "word_count": 3,
+    "inflection_removed": true,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "ont i huvudet",
+    "normalized": "ont i huvudet",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "röra (rör, rörde, rört) på sig",
+    "normalized": "röra (rör, rörde, rört) på sig",
+    "word_count": 6,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "svårt att andas",
+    "normalized": "svårt att andas",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "göra (-r, gjorde, gjort) come back",
+    "normalized": "göra come back",
+    "word_count": 3,
+    "inflection_removed": true,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "vara (är, var, varit) släkt med",
+    "normalized": "vara (är, var, varit) släkt med",
+    "word_count": 6,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "köra (-r, körde, kört) i diket",
+    "normalized": "köra i diket",
+    "word_count": 3,
+    "inflection_removed": true,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "aprilväder (aprilvädret) (svenskt uttryck för omväxlande väder)",
+    "normalized": "aprilväder (aprilvädret) (svenskt uttryck för omväxlande väder",
+    "word_count": 7,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "solens upp- och nedgång",
+    "normalized": "solens upp- och nedgång",
+    "word_count": 4,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  },
+  {
+    "word": "lager på lager",
+    "normalized": "lager på lager",
+    "word_count": 3,
+    "inflection_removed": false,
+    "reason": "3_plus_words"
+  }
+]

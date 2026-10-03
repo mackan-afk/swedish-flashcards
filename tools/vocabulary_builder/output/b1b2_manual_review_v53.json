@@ -1,0 +1,3286 @@
+[
+  {
+    "status": "REVIEW",
+    "reason": "SUSPICIOUS_MORPHOLOGY_FALLBACK",
+    "source_pdf_page": 5,
+    "column": "left",
+    "chapter": 1,
+    "page": 14,
+    "y": 295.2992370605469,
+    "raw": "ringa (-r, -de, -t) in ",
+    "previous_card": {
+      "id": null,
+      "swedish": "betoning",
+      "forms": "-en, -ar, -arna",
+      "english": "emphasis",
+      "chapter": 1,
+      "page": 14,
+      "source_pdf_page": 5
+    },
+    "next_row": "markera (-r, -de, -t)  mark",
+    "attempted_parse": {
+      "swedish": "ringa",
+      "forms": "-r, -de, -t",
+      "english": "in",
+      "method": "MORPHOLOGY_FALLBACK"
+    }
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 6,
+    "column": "left",
+    "chapter": 1,
+    "page": 16,
+    "y": 627.8034057617188,
+    "raw": "son",
+    "previous_card": {
+      "id": null,
+      "swedish": "människa",
+      "forms": "-n, människor, människorna",
+      "english": "human being, per­",
+      "chapter": 1,
+      "page": 16,
+      "source_pdf_page": 6
+    },
+    "next_row": "passande  suitable"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 6,
+    "column": "right",
+    "chapter": 1,
+    "page": 17,
+    "y": 369.50341796875,
+    "raw": "vacation",
+    "previous_card": {
+      "id": null,
+      "swedish": "husmorssemester",
+      "forms": "-n, -semestrar, -semestrarna",
+      "english": "housewives’",
+      "chapter": 1,
+      "page": 17,
+      "source_pdf_page": 6
+    },
+    "next_row": "åka (åker, åkte, åkt) iväg  go away, travel"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 7,
+    "column": "left",
+    "chapter": 1,
+    "page": 19,
+    "y": 750.6049194335938,
+    "raw": "Anledningen till att jag skriver är… The reason I’m writing",
+    "previous_card": {
+      "id": null,
+      "swedish": "Jag skriver till er för att…",
+      "forms": "",
+      "english": "I am writing to you in order to…",
+      "chapter": 1,
+      "page": 19,
+      "source_pdf_page": 7
+    },
+    "next_row": "write is…"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 7,
+    "column": "right",
+    "chapter": 1,
+    "page": 19,
+    "y": 49.10492706298828,
+    "raw": "write is…",
+    "previous_card": {
+      "id": null,
+      "swedish": "Jag skriver till er för att…",
+      "forms": "",
+      "english": "I am writing to you in order to…",
+      "chapter": 1,
+      "page": 19,
+      "source_pdf_page": 7
+    },
+    "next_row": "jag har alltid varit intresserad av…  I have always been inte­"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 7,
+    "column": "right",
+    "chapter": 1,
+    "page": 19,
+    "y": 74.30333709716797,
+    "raw": "rested in…",
+    "previous_card": {
+      "id": null,
+      "swedish": "jag har alltid varit intresserad av…",
+      "forms": "",
+      "english": "I have always been inte­",
+      "chapter": 1,
+      "page": 19,
+      "source_pdf_page": 7
+    },
+    "next_row": "jag är mycket intresserad av… I am very interested in…"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 7,
+    "column": "right",
+    "chapter": 1,
+    "page": 19,
+    "y": 86.00489044189453,
+    "raw": "jag är mycket intresserad av… I am very interested in…",
+    "previous_card": {
+      "id": null,
+      "swedish": "jag har alltid varit intresserad av…",
+      "forms": "",
+      "english": "I have always been inte­",
+      "chapter": 1,
+      "page": 19,
+      "source_pdf_page": 7
+    },
+    "next_row": "jag skulle vilja…  I would like…"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 8,
+    "column": "left",
+    "chapter": 2,
+    "page": 21,
+    "y": 492.70343017578125,
+    "raw": "fashion",
+    "previous_card": {
+      "id": null,
+      "swedish": "modeintresserad",
+      "forms": "-intresserat, -intresserade",
+      "english": "interested in",
+      "chapter": 2,
+      "page": 21,
+      "source_pdf_page": 8
+    },
+    "next_row": "icke-rökare (-n, –, -rökarna)  non-smoker"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 8,
+    "column": "right",
+    "chapter": 2,
+    "page": 24,
+    "y": 455.1977767944336,
+    "raw": "sammanfatta (-r, -de, -t) ",
+    "previous_card": {
+      "id": null,
+      "swedish": "forum",
+      "forms": "-et, -, -en",
+      "english": "forum",
+      "chapter": 2,
+      "page": 24,
+      "source_pdf_page": 8
+    },
+    "next_row": "muntlig (-t, -a)  oral"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 9,
+    "column": "right",
+    "chapter": 2,
+    "page": 27,
+    "y": 382.20343017578125,
+    "raw": "one’s mind",
+    "previous_card": {
+      "id": null,
+      "swedish": "bestämma sig",
+      "forms": "bestämmer, bestämde, bestämt",
+      "english": "make up",
+      "chapter": 2,
+      "page": 27,
+      "source_pdf_page": 9
+    },
+    "next_row": "bry (bryr, brydde, brytt) sig om  care about"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 9,
+    "column": "right",
+    "chapter": 2,
+    "page": 27,
+    "y": 419.1034240722656,
+    "raw": "self",
+    "previous_card": {
+      "id": null,
+      "swedish": "förbereda sig",
+      "forms": "förbereder, förberedde, förberett",
+      "english": "prepare one­",
+      "chapter": 2,
+      "page": 27,
+      "source_pdf_page": 9
+    },
+    "next_row": "lägga (lägger, lade/la, lagt) sig  lie down, go to bed"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 9,
+    "column": "right",
+    "chapter": 2,
+    "page": 28,
+    "y": 616.1034545898438,
+    "raw": "ne well known in the arts/culture",
+    "previous_card": {
+      "id": null,
+      "swedish": "kulturpersonlighet",
+      "forms": "-en, -er, -erna",
+      "english": "cultural persona, someo­",
+      "chapter": 2,
+      "page": 28,
+      "source_pdf_page": 9
+    },
+    "next_row": "runt  around"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 10,
+    "column": "right",
+    "chapter": 2,
+    "page": 30,
+    "y": 664.9033813476562,
+    "raw": "slower?",
+    "previous_card": {
+      "id": null,
+      "swedish": "Kan du prata lite långsammare?",
+      "forms": "",
+      "english": "Can you speak a bit",
+      "chapter": 2,
+      "page": 30,
+      "source_pdf_page": 10
+    },
+    "next_row": "Jag hänger inte med riktigt!  I can’t quite follow!"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 11,
+    "column": "left",
+    "chapter": 2,
+    "page": 30,
+    "y": 172.70343017578125,
+    "raw": "culture",
+    "previous_card": {
+      "id": null,
+      "swedish": "kuturintresserad",
+      "forms": "-intresserat, -intresserade",
+      "english": "interested in",
+      "chapter": 2,
+      "page": 30,
+      "source_pdf_page": 11
+    },
+    "next_row": "förälder (-n, föräldrar, föräldrarna)  parent"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 11,
+    "column": "right",
+    "chapter": 2,
+    "page": 33,
+    "y": 664.9033813476562,
+    "raw": "pened?",
+    "previous_card": {
+      "id": null,
+      "swedish": "Har du hört vad som har hänt?",
+      "forms": "",
+      "english": "Have you heard what’s hap­",
+      "chapter": 2,
+      "page": 33,
+      "source_pdf_page": 11
+    },
+    "next_row": "Det hände en så rolig sak …  A funny thing happened…"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 11,
+    "column": "right",
+    "chapter": 2,
+    "page": 33,
+    "y": 726.4034423828125,
+    "raw": "here",
+    "previous_card": {
+      "id": null,
+      "swedish": "Här är allting toppen/underbart/härligt",
+      "forms": "",
+      "english": "Everything is great",
+      "chapter": 2,
+      "page": 33,
+      "source_pdf_page": 11
+    },
+    "next_row": "Vi har det jättebra här i …  We’re having a wonderful time"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 11,
+    "column": "right",
+    "chapter": 2,
+    "page": 33,
+    "y": 751.00341796875,
+    "raw": "in…",
+    "previous_card": {
+      "id": null,
+      "swedish": "Vi har det jättebra här i …",
+      "forms": "",
+      "english": "We’re having a wonderful time",
+      "chapter": 2,
+      "page": 33,
+      "source_pdf_page": 11
+    },
+    "next_row": "11"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 12,
+    "column": "right",
+    "chapter": 3,
+    "page": 37,
+    "y": 271.30340576171875,
+    "raw": "other hand",
+    "previous_card": {
+      "id": null,
+      "swedish": "å ena sidan… å andra sidan",
+      "forms": "",
+      "english": "on the one hand… on the",
+      "chapter": 3,
+      "page": 37,
+      "source_pdf_page": 12
+    },
+    "next_row": "salamikorv (-en, -ar, -arna)  salami sausage"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 12,
+    "column": "right",
+    "chapter": 3,
+    "page": 38,
+    "y": 627.5977783203125,
+    "raw": "karensdag (-en, -ar, -arna) ",
+    "previous_card": {
+      "id": null,
+      "swedish": "gå ut och äta",
+      "forms": "",
+      "english": "go out to eat",
+      "chapter": 3,
+      "page": 38,
+      "source_pdf_page": 12
+    },
+    "next_row": "Hur mycket tjänar du?  How much do you make?"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 15,
+    "column": "left",
+    "chapter": 4,
+    "page": 47,
+    "y": 319.70489501953125,
+    "raw": "Vad hände med…? What happened with…?",
+    "previous_card": {
+      "id": null,
+      "swedish": "fisk",
+      "forms": "-en, -, -ar",
+      "english": "fish",
+      "chapter": 4,
+      "page": 47,
+      "source_pdf_page": 15
+    },
+    "next_row": "till slut  in the end"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 15,
+    "column": "left",
+    "chapter": 4,
+    "page": 48,
+    "y": 393.70489501953125,
+    "raw": "Vilken form står de i? In what form are they?",
+    "previous_card": {
+      "id": null,
+      "swedish": "form",
+      "forms": "-en, -er, -erna",
+      "english": "form",
+      "chapter": 4,
+      "page": 48,
+      "source_pdf_page": 15
+    },
+    "next_row": "imperativ  imperative"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 17,
+    "column": "left",
+    "chapter": 4,
+    "page": 53,
+    "y": 271.1033935546875,
+    "raw": "forefather",
+    "previous_card": {
+      "id": null,
+      "swedish": "stamfader",
+      "forms": "stamfadern, stamfäder, stamfäderna",
+      "english": "ancestor,",
+      "chapter": 4,
+      "page": 53,
+      "source_pdf_page": 17
+    },
+    "next_row": "släkt med  related to"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "SUSPICIOUS_MORPHOLOGY_FALLBACK",
+    "source_pdf_page": 17,
+    "column": "left",
+    "chapter": 4,
+    "page": 54,
+    "y": 639.6991821289063,
+    "raw": "stöta (stöter, stötte, stött) på ",
+    "previous_card": {
+      "id": null,
+      "swedish": "USA",
+      "forms": "",
+      "english": "United States",
+      "chapter": 4,
+      "page": 54,
+      "source_pdf_page": 17
+    },
+    "next_row": "sjungande  singing",
+    "attempted_parse": {
+      "swedish": "stöta",
+      "forms": "stöter, stötte, stött",
+      "english": "på",
+      "method": "MORPHOLOGY_FALLBACK"
+    }
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 17,
+    "column": "right",
+    "chapter": 4,
+    "page": 55,
+    "y": 283.6033935546875,
+    "raw": "ticle",
+    "previous_card": {
+      "id": null,
+      "swedish": "partikel",
+      "forms": "partikeln, partiklar, partiklarna",
+      "english": "grammatical par­",
+      "chapter": 4,
+      "page": 55,
+      "source_pdf_page": 17
+    },
+    "next_row": "likadan (-t, -a)  same, identical"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 19,
+    "column": "left",
+    "chapter": 5,
+    "page": 63,
+    "y": 628.2034301757812,
+    "raw": "yesterday?",
+    "previous_card": {
+      "id": null,
+      "swedish": "Vet du vad som hände igår?",
+      "forms": "",
+      "english": "Do you know what happened",
+      "chapter": 5,
+      "page": 63,
+      "source_pdf_page": 19
+    },
+    "next_row": "jo  yes "
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 19,
+    "column": "right",
+    "chapter": 5,
+    "page": 64,
+    "y": 443.50341796875,
+    "raw": "leave?",
+    "previous_card": {
+      "id": null,
+      "swedish": "Vet du när bussarna går?",
+      "forms": "",
+      "english": "Do you know when the buses",
+      "chapter": 5,
+      "page": 64,
+      "source_pdf_page": 19
+    },
+    "next_row": "Sidan 65"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 19,
+    "column": "right",
+    "chapter": 5,
+    "page": 65,
+    "y": 591.3034057617188,
+    "raw": "about you?",
+    "previous_card": {
+      "id": null,
+      "swedish": "Vet du vem som frågade efter dig?",
+      "forms": "",
+      "english": "Do you know who asked",
+      "chapter": 5,
+      "page": 65,
+      "source_pdf_page": 19
+    },
+    "next_row": "Vet du vad jag gjorde igår…?  Do you know what I did yes­"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 19,
+    "column": "right",
+    "chapter": 5,
+    "page": 65,
+    "y": 615.9033813476562,
+    "raw": "terday…?",
+    "previous_card": {
+      "id": null,
+      "swedish": "Vet du vad jag gjorde igår…?",
+      "forms": "",
+      "english": "Do you know what I did yes­",
+      "chapter": 5,
+      "page": 65,
+      "source_pdf_page": 19
+    },
+    "next_row": "Jag har ingen aning om…  I have no idea if…"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 20,
+    "column": "left",
+    "chapter": 5,
+    "page": 66,
+    "y": 111.20342254638672,
+    "raw": "grandmother",
+    "previous_card": {
+      "id": null,
+      "swedish": "mormor",
+      "forms": "mormodern, mormödrar, mormödrarna",
+      "english": "maternal",
+      "chapter": 5,
+      "page": 66,
+      "source_pdf_page": 20
+    },
+    "next_row": "ferraribil (-en, -ar, -arna)  Ferrari"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 20,
+    "column": "left",
+    "chapter": 5,
+    "page": 67,
+    "y": 751.00341796875,
+    "raw": "snap",
+    "previous_card": {
+      "id": null,
+      "swedish": "pepparkaka",
+      "forms": "-n, pepparkakor, pepparkakorna",
+      "english": "gingerbread",
+      "chapter": 5,
+      "page": 67,
+      "source_pdf_page": 20
+    },
+    "next_row": "fördubbla (-r, -de, -t)  double"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 21,
+    "column": "left",
+    "chapter": 5,
+    "page": 71,
+    "y": 726.4034423828125,
+    "raw": "ner",
+    "previous_card": {
+      "id": null,
+      "swedish": "sockerbagare",
+      "forms": "sockerbagaren, -, sockerbagarna",
+      "english": "confectio­",
+      "chapter": 5,
+      "page": 71,
+      "source_pdf_page": 21
+    },
+    "next_row": "adelsfamilj (-en, -er, -erna)  aristocratic family"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 21,
+    "column": "right",
+    "chapter": 5,
+    "page": 71,
+    "y": 234.20343017578125,
+    "raw": "beet",
+    "previous_card": {
+      "id": null,
+      "swedish": "sockerbeta",
+      "forms": "sockerbetan, sockerbetor, sockerbetorna",
+      "english": "sugar",
+      "chapter": 5,
+      "page": 71,
+      "source_pdf_page": 21
+    },
+    "next_row": "mot slutet av  towards the end of"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 22,
+    "column": "left",
+    "chapter": 6,
+    "page": 74,
+    "y": 499.8014221191406,
+    "raw": "ter of finance",
+    "previous_card": {
+      "id": null,
+      "swedish": "finansminister",
+      "forms": "-n, finansministrar, finansministrarna",
+      "english": "minis­",
+      "chapter": 6,
+      "page": 74,
+      "source_pdf_page": 22
+    },
+    "next_row": "surströmming (-en, -ar, -arna)  fermented herring"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 22,
+    "column": "right",
+    "chapter": 6,
+    "page": 75,
+    "y": 332.6034240722656,
+    "raw": "follow",
+    "previous_card": {
+      "id": null,
+      "swedish": "efterträda",
+      "forms": "efterträder, efterträdde, efterträtt",
+      "english": "to succeed, to",
+      "chapter": 6,
+      "page": 75,
+      "source_pdf_page": 22
+    },
+    "next_row": "behålla (behåller, behöll, behållit)  to keep"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 22,
+    "column": "right",
+    "chapter": 6,
+    "page": 75,
+    "y": 480.20343017578125,
+    "raw": "of parliament",
+    "previous_card": {
+      "id": null,
+      "swedish": "parlamentsledamot",
+      "forms": "-en, -ledamöter, -ledamöterna",
+      "english": "member",
+      "chapter": 6,
+      "page": 75,
+      "source_pdf_page": 22
+    },
+    "next_row": "Sidan 76"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 22,
+    "column": "right",
+    "chapter": 6,
+    "page": 77,
+    "y": 677.4033813476562,
+    "raw": "book",
+    "previous_card": {
+      "id": null,
+      "swedish": "övningsbok",
+      "forms": "-en, övningsböcker, övningsböckerna",
+      "english": "exercise",
+      "chapter": 6,
+      "page": 77,
+      "source_pdf_page": 22
+    },
+    "next_row": "först (-a)  first"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 23,
+    "column": "left",
+    "chapter": 6,
+    "page": 77,
+    "y": 283.4034423828125,
+    "raw": "sed pension",
+    "previous_card": {
+      "id": null,
+      "swedish": "tilläggspension",
+      "forms": "-en, -er, -erna",
+      "english": "supplementary, income-ba­",
+      "chapter": 6,
+      "page": 77,
+      "source_pdf_page": 23
+    },
+    "next_row": "reform (-en, -er, -erna)  reform"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 23,
+    "column": "right",
+    "chapter": 6,
+    "page": 79,
+    "y": 246.70343017578125,
+    "raw": "issue",
+    "previous_card": {
+      "id": null,
+      "swedish": "huvudfråga",
+      "forms": "-n, -frågor, -frågorna",
+      "english": "main quastion, main",
+      "chapter": 6,
+      "page": 79,
+      "source_pdf_page": 23
+    },
+    "next_row": "republikansk (-t, -a)  republican"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 24,
+    "column": "left",
+    "chapter": 6,
+    "page": 81,
+    "y": 185.20343017578125,
+    "raw": "with",
+    "previous_card": {
+      "id": null,
+      "swedish": "hålla på med",
+      "forms": "håller, höll, hållit",
+      "english": "to do, to occupy oneself",
+      "chapter": 6,
+      "page": 81,
+      "source_pdf_page": 24
+    },
+    "next_row": "ointresserad (ointresserat, ointresserade)  uninterested"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 24,
+    "column": "left",
+    "chapter": 6,
+    "page": 82,
+    "y": 406.80340576171875,
+    "raw": "freedom of the press",
+    "previous_card": {
+      "id": null,
+      "swedish": "tryckfrihetsförordningen",
+      "forms": "",
+      "english": "constitutional law guaranteeing",
+      "chapter": 6,
+      "page": 82,
+      "source_pdf_page": 24
+    },
+    "next_row": "yttrandefrihetsgrundlagen  constitutional law guaranteeing"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 24,
+    "column": "left",
+    "chapter": 6,
+    "page": 82,
+    "y": 431.4034118652344,
+    "raw": "freedom of speech",
+    "previous_card": {
+      "id": null,
+      "swedish": "yttrandefrihetsgrundlagen",
+      "forms": "",
+      "english": "constitutional law guaranteeing",
+      "chapter": 6,
+      "page": 82,
+      "source_pdf_page": 24
+    },
+    "next_row": "rättighet (-en, -er, -erna)  right"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 24,
+    "column": "right",
+    "chapter": 6,
+    "page": 84,
+    "y": 49.703426361083984,
+    "raw": "parliament",
+    "previous_card": {
+      "id": null,
+      "swedish": "motion",
+      "forms": "-en, -er, -erna",
+      "english": "bill proposed by members of",
+      "chapter": 6,
+      "page": 84,
+      "source_pdf_page": 24
+    },
+    "next_row": "riksdagsman (-nen, riksdagsmän, riksdagsmännen)  member"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 24,
+    "column": "right",
+    "chapter": 6,
+    "page": 84,
+    "y": 74.30333709716797,
+    "raw": "of parliament",
+    "previous_card": {
+      "id": null,
+      "swedish": "riksdagsman",
+      "forms": "-nen, riksdagsmän, riksdagsmännen",
+      "english": "member",
+      "chapter": 6,
+      "page": 84,
+      "source_pdf_page": 24
+    },
+    "next_row": "budget (-en, -ar, -arna)  budget"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 24,
+    "column": "right",
+    "chapter": 6,
+    "page": 85,
+    "y": 566.50341796875,
+    "raw": "bility",
+    "previous_card": {
+      "id": null,
+      "swedish": "funktionshinder",
+      "forms": "funktionshindret, -, funktionshindren",
+      "english": "disa­",
+      "chapter": 6,
+      "page": 85,
+      "source_pdf_page": 24
+    },
+    "next_row": "statistik (-en)  statistics"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 25,
+    "column": "right",
+    "chapter": 7,
+    "page": 89,
+    "y": 677.2034301757812,
+    "raw": "am",
+    "previous_card": {
+      "id": null,
+      "swedish": "dagdrömma",
+      "forms": "dagdrömmer, dagdrömde, dagdrömt",
+      "english": "daydre­",
+      "chapter": 7,
+      "page": 89,
+      "source_pdf_page": 25
+    },
+    "next_row": "skådespelerska (-n, skådespelerskor, skådespelerskorna)  actress"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 25,
+    "column": "right",
+    "chapter": 7,
+    "page": 89,
+    "y": 751.00341796875,
+    "raw": "nicle",
+    "previous_card": {
+      "id": null,
+      "swedish": "släktkrönika",
+      "forms": "-n, släktkrönikor, släktkrönikorna",
+      "english": "family chro­",
+      "chapter": 7,
+      "page": 89,
+      "source_pdf_page": 25
+    },
+    "next_row": "25"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 26,
+    "column": "left",
+    "chapter": 7,
+    "page": 89,
+    "y": 123.50328826904297,
+    "raw": "one’s normal life",
+    "previous_card": {
+      "id": null,
+      "swedish": "gå tillbaka till det normala/vanliga",
+      "forms": "",
+      "english": "go back to normal, to",
+      "chapter": 7,
+      "page": 89,
+      "source_pdf_page": 26
+    },
+    "next_row": "julfest (-en, -er, -erna)  Christmas party"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 26,
+    "column": "right",
+    "chapter": 7,
+    "page": 92,
+    "y": 283.6033935546875,
+    "raw": "ty flower",
+    "previous_card": {
+      "id": null,
+      "swedish": "landskapsblomma",
+      "forms": "-n, -blommor, blommorna",
+      "english": "official coun­",
+      "chapter": 7,
+      "page": 92,
+      "source_pdf_page": 26
+    },
+    "next_row": "landskapsdjur (-et, –, -en)  official county animal"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 27,
+    "column": "right",
+    "chapter": 7,
+    "page": 94,
+    "y": 431.00341796875,
+    "raw": "Sami people",
+    "previous_card": {
+      "id": null,
+      "swedish": "same",
+      "forms": "-n, -er, -erna",
+      "english": "Sami, person belonging to indigenous",
+      "chapter": 7,
+      "page": 94,
+      "source_pdf_page": 27
+    },
+    "next_row": "finnas (finns, fanns, funnits)  exist"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 27,
+    "column": "right",
+    "chapter": 7,
+    "page": 95,
+    "y": 677.2034301757812,
+    "raw": "tain bike",
+    "previous_card": {
+      "id": null,
+      "swedish": "mountainbike",
+      "forms": "-n, mountainbikar, mountainbikarna",
+      "english": "moun­",
+      "chapter": 7,
+      "page": 95,
+      "source_pdf_page": 27
+    },
+    "next_row": "ner för  down, downhill"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 27,
+    "column": "right",
+    "chapter": 7,
+    "page": 95,
+    "y": 751.00341796875,
+    "raw": "ced",
+    "previous_card": {
+      "id": null,
+      "swedish": "lokalproducerad",
+      "forms": "-producerat, -producerade",
+      "english": "locally produ­",
+      "chapter": 7,
+      "page": 95,
+      "source_pdf_page": 27
+    },
+    "next_row": "27"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 28,
+    "column": "left",
+    "chapter": 7,
+    "page": 95,
+    "y": 271.1033935546875,
+    "raw": "stry exhibition",
+    "previous_card": {
+      "id": null,
+      "swedish": "konst- och industriutställning",
+      "forms": "-en, -ar, -arna",
+      "english": "art and indu­",
+      "chapter": 7,
+      "page": 95,
+      "source_pdf_page": 28
+    },
+    "next_row": "en mängd  an amount"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 28,
+    "column": "right",
+    "chapter": 7,
+    "page": 97,
+    "y": 554.2034301757812,
+    "raw": "pancake",
+    "previous_card": {
+      "id": null,
+      "swedish": "saffranspannkaka",
+      "forms": "-n, -pannkakor, -pannkakorna",
+      "english": "saffron",
+      "chapter": 7,
+      "page": 97,
+      "source_pdf_page": 28
+    },
+    "next_row": "ugnsgräddad (-gräddat, -gräddade)  oven baked"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 29,
+    "column": "left",
+    "chapter": 7,
+    "page": 97,
+    "y": 381.80340576171875,
+    "raw": "slice",
+    "previous_card": {
+      "id": null,
+      "swedish": "äppelklyfta",
+      "forms": "-n, äpprlklyftor, äppelklyftorna",
+      "english": "apple wedge/",
+      "chapter": 7,
+      "page": 97,
+      "source_pdf_page": 29
+    },
+    "next_row": "Sidan 98"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 29,
+    "column": "right",
+    "chapter": 7,
+    "page": 99,
+    "y": 123.381689453125,
+    "raw": "have you/has (s)he worked here?",
+    "previous_card": {
+      "id": null,
+      "swedish": "Hur många år har du/han/hon jobbat här?",
+      "forms": "",
+      "english": "How many years",
+      "chapter": 7,
+      "page": 99,
+      "source_pdf_page": 29
+    },
+    "next_row": "köttbulle (-n, köttbullar, köttbullarna)  meatball"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 29,
+    "column": "right",
+    "chapter": 7,
+    "page": 100,
+    "y": 283.6033935546875,
+    "raw": "book by…",
+    "previous_card": {
+      "id": null,
+      "swedish": "Filmen bygger på en bok av…",
+      "forms": "",
+      "english": "The movie is based on a",
+      "chapter": 7,
+      "page": 100,
+      "source_pdf_page": 29
+    },
+    "next_row": "Filmen bygger på en verklig händelse.  The movie is based"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 29,
+    "column": "right",
+    "chapter": 7,
+    "page": 100,
+    "y": 308.20343017578125,
+    "raw": "on a true story.",
+    "previous_card": {
+      "id": null,
+      "swedish": "Filmen bygger på en verklig händelse.",
+      "forms": "",
+      "english": "The movie is based",
+      "chapter": 7,
+      "page": 100,
+      "source_pdf_page": 29
+    },
+    "next_row": "I slutet…  In the end…"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 30,
+    "column": "left",
+    "chapter": 8,
+    "page": 102,
+    "y": 172.70343017578125,
+    "raw": "on",
+    "previous_card": {
+      "id": null,
+      "swedish": "ingå partnerskap",
+      "forms": "ingår, ingick, ingått",
+      "english": "enter into a civil uni­",
+      "chapter": 8,
+      "page": 102,
+      "source_pdf_page": 30
+    },
+    "next_row": "registrerad (registrerat, registrerade)  registered"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 30,
+    "column": "left",
+    "chapter": 8,
+    "page": 102,
+    "y": 480.20343017578125,
+    "raw": "climate debate",
+    "previous_card": {
+      "id": null,
+      "swedish": "miljö- och klimatdebatt",
+      "forms": "-en, -er, -erna",
+      "english": "environment and",
+      "chapter": 8,
+      "page": 102,
+      "source_pdf_page": 30
+    },
+    "next_row": "ta (-r, tog, tagit) fart  gain speed"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 30,
+    "column": "right",
+    "chapter": 8,
+    "page": 103,
+    "y": 443.50341796875,
+    "raw": "country",
+    "previous_card": {
+      "id": null,
+      "swedish": "grannland",
+      "forms": "-et, grannländer, grannländerna",
+      "english": "neighboring",
+      "chapter": 8,
+      "page": 103,
+      "source_pdf_page": 30
+    },
+    "next_row": "resten av  the rest of"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 30,
+    "column": "right",
+    "chapter": 8,
+    "page": 103,
+    "y": 689.50341796875,
+    "raw": "parliament",
+    "previous_card": {
+      "id": null,
+      "swedish": "riksdagsledamot",
+      "forms": "-en, -ledamöter, -ledamöterna",
+      "english": "member of",
+      "chapter": 8,
+      "page": 103,
+      "source_pdf_page": 30
+    },
+    "next_row": "högvarv (-et, –, -en)  high gear, boom"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 31,
+    "column": "right",
+    "chapter": 8,
+    "page": 106,
+    "y": 148.1033935546875,
+    "raw": "daughter",
+    "previous_card": {
+      "id": null,
+      "swedish": "systerdotter",
+      "forms": "-n, systerdöttrar, systerdöttrarna",
+      "english": "niece, sister’s",
+      "chapter": 8,
+      "page": 106,
+      "source_pdf_page": 31
+    },
+    "next_row": "byta (byter, bytte, bytt) namn  change name"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 32,
+    "column": "left",
+    "chapter": 8,
+    "page": 109,
+    "y": 382.00341796875,
+    "raw": "brother",
+    "previous_card": {
+      "id": null,
+      "swedish": "farbror",
+      "forms": "farbrodern, farbröder, farbröderna",
+      "english": "uncle, father’s",
+      "chapter": 8,
+      "page": 109,
+      "source_pdf_page": 32
+    },
+    "next_row": "känd (käntt, kända)  famous, known"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 32,
+    "column": "left",
+    "chapter": 8,
+    "page": 110,
+    "y": 702.00341796875,
+    "raw": "mething…",
+    "previous_card": {
+      "id": null,
+      "swedish": "Jag måste berätta en sak/en grej…",
+      "forms": "",
+      "english": "I have to tell you so­",
+      "chapter": 8,
+      "page": 110,
+      "source_pdf_page": 32
+    },
+    "next_row": "Visste du att…?  Did you know that…?"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 32,
+    "column": "right",
+    "chapter": 8,
+    "page": 112,
+    "y": 357.6034240722656,
+    "raw": "countries",
+    "previous_card": {
+      "id": null,
+      "swedish": "nordbo",
+      "forms": "-n, -r, -rna",
+      "english": "person living in/from the Nordic",
+      "chapter": 8,
+      "page": 112,
+      "source_pdf_page": 32
+    },
+    "next_row": "bosätta (bosätter, bosatte, bosatt) sig  to settle, move to"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 33,
+    "column": "left",
+    "chapter": 8,
+    "page": 114,
+    "y": 234.4034423828125,
+    "raw": "School",
+    "previous_card": {
+      "id": null,
+      "swedish": "folkhögskola",
+      "forms": "-n, folkhögskolor, folkhögskolorna",
+      "english": "Folk High",
+      "chapter": 8,
+      "page": 114,
+      "source_pdf_page": 33
+    },
+    "next_row": "just det  exactly"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 33,
+    "column": "left",
+    "chapter": 8,
+    "page": 114,
+    "y": 320.50341796875,
+    "raw": "ment",
+    "previous_card": {
+      "id": null,
+      "swedish": "beställa tid",
+      "forms": "beställer, beställde, beställt",
+      "english": "make an appoint­",
+      "chapter": 8,
+      "page": 114,
+      "source_pdf_page": 33
+    },
+    "next_row": "återbesök (-et, –, -en)  follow-up visit"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 33,
+    "column": "left",
+    "chapter": 8,
+    "page": 114,
+    "y": 505.00341796875,
+    "raw": "minded me.",
+    "previous_card": {
+      "id": null,
+      "swedish": "Vilken tur att du påminde mig",
+      "forms": "",
+      "english": "How fortunate that you re­",
+      "chapter": 8,
+      "page": 114,
+      "source_pdf_page": 33
+    },
+    "next_row": "senast på fredag  latest on Friday"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 34,
+    "column": "left",
+    "chapter": 9,
+    "page": 118,
+    "y": 62.003292083740234,
+    "raw": "ears!",
+    "previous_card": {
+      "id": null,
+      "swedish": "Du kommer inte att tro dina öron!",
+      "forms": "",
+      "english": "You won’t believe your",
+      "chapter": 9,
+      "page": 118,
+      "source_pdf_page": 34
+    },
+    "next_row": "Vi får väl se.  We’ll see."
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 34,
+    "column": "left",
+    "chapter": 9,
+    "page": 120,
+    "y": 676.8048706054688,
+    "raw": "en sådan, ett sådant one such",
+    "previous_card": {
+      "id": null,
+      "swedish": "blank",
+      "forms": "-t, -a",
+      "english": "blank",
+      "chapter": 9,
+      "page": 120,
+      "source_pdf_page": 34
+    },
+    "next_row": "äktenskap (-et, –, -en)  marraige"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 34,
+    "column": "right",
+    "chapter": 9,
+    "page": 123,
+    "y": 382.20343017578125,
+    "raw": "bill",
+    "previous_card": {
+      "id": null,
+      "swedish": "hundrakronorssedel",
+      "forms": "-n, -sedlar, -sedlarna",
+      "english": "hundred kronor",
+      "chapter": 9,
+      "page": 123,
+      "source_pdf_page": 34
+    },
+    "next_row": "på allvar  seriously, in earnest"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 35,
+    "column": "left",
+    "chapter": 9,
+    "page": 125,
+    "y": 603.4033813476562,
+    "raw": "eyes, look away, act shifty",
+    "previous_card": {
+      "id": null,
+      "swedish": "flacka med blicken",
+      "forms": "-r, -de, -t",
+      "english": "not meet the other person’s",
+      "chapter": 9,
+      "page": 125,
+      "source_pdf_page": 35
+    },
+    "next_row": "domare (-n, –, domarna)  judge"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 35,
+    "column": "right",
+    "chapter": 9,
+    "page": 126,
+    "y": 98.90343475341797,
+    "raw": "gaze",
+    "previous_card": {
+      "id": null,
+      "swedish": "möta blicken",
+      "forms": "möter, mötte, mött",
+      "english": "look into one’s eyes, meet",
+      "chapter": 9,
+      "page": 126,
+      "source_pdf_page": 35
+    },
+    "next_row": "röst (-en, -er, -erna)  voice"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 35,
+    "column": "right",
+    "chapter": 9,
+    "page": 127,
+    "y": 541.9033813476562,
+    "raw": "meter",
+    "previous_card": {
+      "id": null,
+      "swedish": "kvadratkilometer",
+      "forms": "-n, -kilometrar, -kilometrarna",
+      "english": "square kilo­",
+      "chapter": 9,
+      "page": 127,
+      "source_pdf_page": 35
+    },
+    "next_row": "längst (-a)  longest"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 36,
+    "column": "right",
+    "chapter": 10,
+    "page": 134,
+    "y": 566.50341796875,
+    "raw": "ntally conscious",
+    "previous_card": {
+      "id": null,
+      "swedish": "miljömedveten",
+      "forms": "miljömedvetet, miljömedvetna",
+      "english": "environme­",
+      "chapter": 10,
+      "page": 134,
+      "source_pdf_page": 36
+    },
+    "next_row": "miljövänlig (-t, -a)  environmentally friendly"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 36,
+    "column": "right",
+    "chapter": 10,
+    "page": 134,
+    "y": 664.9033813476562,
+    "raw": "certification",
+    "previous_card": {
+      "id": null,
+      "swedish": "miljöcertifierad",
+      "forms": "-certifierat, -certifierade",
+      "english": "environmental",
+      "chapter": 10,
+      "page": 134,
+      "source_pdf_page": 36
+    },
+    "next_row": "användbar (-t, -a)  useful"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 37,
+    "column": "left",
+    "chapter": 10,
+    "page": 136,
+    "y": 308.20343017578125,
+    "raw": "Shrove Tuesday",
+    "previous_card": {
+      "id": null,
+      "swedish": "semla",
+      "forms": "-n, semlor, semlorna",
+      "english": "traditional sweet roll, made for",
+      "chapter": 10,
+      "page": 136,
+      "source_pdf_page": 37
+    },
+    "next_row": "vete (-t)  wheat"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 37,
+    "column": "right",
+    "chapter": 10,
+    "page": 138,
+    "y": 222.1033935546875,
+    "raw": "interest",
+    "previous_card": {
+      "id": null,
+      "swedish": "intresseanmälning",
+      "forms": "-en, -ar, -arna",
+      "english": "inquiry, expression of",
+      "chapter": 10,
+      "page": 138,
+      "source_pdf_page": 37
+    },
+    "next_row": "utöva (-r, -de, -t)  exercise, practice"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 38,
+    "column": "left",
+    "chapter": 10,
+    "page": 142,
+    "y": 652.6034545898438,
+    "raw": "ment",
+    "previous_card": {
+      "id": null,
+      "swedish": "lantbruksmiljö",
+      "forms": "-n, -er, -erna",
+      "english": "rural, agricultural environ-",
+      "chapter": 10,
+      "page": 142,
+      "source_pdf_page": 38
+    },
+    "next_row": "meritlista (-n, meritlistor, meritlistorna)  record, CV"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 39,
+    "column": "right",
+    "chapter": 11,
+    "page": 149,
+    "y": 172.9034423828125,
+    "raw": "turn out the way one imagined.",
+    "previous_card": {
+      "id": null,
+      "swedish": "Det blir inte alltid som man tänkt sig.",
+      "forms": "",
+      "english": "Things don’t always",
+      "chapter": 11,
+      "page": 149,
+      "source_pdf_page": 39
+    },
+    "next_row": "brottsling (-en, -ar, -arna)  criminal"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 39,
+    "column": "right",
+    "chapter": 11,
+    "page": 149,
+    "y": 246.70343017578125,
+    "raw": "documented",
+    "previous_card": {
+      "id": null,
+      "swedish": "väldokumenterad",
+      "forms": "väldokumenterat, väldokumenterade",
+      "english": "well",
+      "chapter": 11,
+      "page": 149,
+      "source_pdf_page": 39
+    },
+    "next_row": "kamera (-n, kameror, kamerorna)  camera"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 39,
+    "column": "right",
+    "chapter": 11,
+    "page": 150,
+    "y": 357.6034240722656,
+    "raw": "influence of drugs",
+    "previous_card": {
+      "id": null,
+      "swedish": "drogpåverkad",
+      "forms": "drogpåverkat, drogpåverkade",
+      "english": "under the",
+      "chapter": 11,
+      "page": 150,
+      "source_pdf_page": 39
+    },
+    "next_row": "låsa (låser, låste, låst)  to lock"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 40,
+    "column": "left",
+    "chapter": 11,
+    "page": 151,
+    "y": 123.70342254638672,
+    "raw": "copter",
+    "previous_card": {
+      "id": null,
+      "swedish": "polishelikopter",
+      "forms": "-n, -helikoptrar, -helikoptrarna",
+      "english": "police heli­",
+      "chapter": 11,
+      "page": 151,
+      "source_pdf_page": 40
+    },
+    "next_row": "flygplats (-en, -er, -erna)  airport"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 40,
+    "column": "left",
+    "chapter": 11,
+    "page": 152,
+    "y": 443.70343017578125,
+    "raw": "circumstances",
+    "previous_card": {
+      "id": null,
+      "swedish": "förmildrande omständighet",
+      "forms": "-en, -er, -erna",
+      "english": "mitigating",
+      "chapter": 11,
+      "page": 152,
+      "source_pdf_page": 40
+    },
+    "next_row": "keramik (-en)  ceramics"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "SUSPICIOUS_MORPHOLOGY_FALLBACK",
+    "source_pdf_page": 41,
+    "column": "left",
+    "chapter": 11,
+    "page": 157,
+    "y": 406.2001495361328,
+    "raw": "lura (-r, -de, -t) till sig ",
+    "previous_card": {
+      "id": null,
+      "swedish": "pensionär",
+      "forms": "-en, -er, -erna",
+      "english": "retiree",
+      "chapter": 11,
+      "page": 157,
+      "source_pdf_page": 41
+    },
+    "next_row": "Kapitel 12",
+    "attempted_parse": {
+      "swedish": "lura till",
+      "forms": "-r, -de, -t",
+      "english": "sig",
+      "method": "MORPHOLOGY_FALLBACK"
+    }
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 41,
+    "column": "right",
+    "chapter": 12,
+    "page": 161,
+    "y": 234.6033935546875,
+    "raw": "ress",
+    "previous_card": {
+      "id": null,
+      "swedish": "äventyrerska",
+      "forms": "-n, äventyrerskor, äventyrerskorna",
+      "english": "adventu­",
+      "chapter": 12,
+      "page": 161,
+      "source_pdf_page": 41
+    },
+    "next_row": "konflikt (-en, -er, -erna)  conflict"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 41,
+    "column": "right",
+    "chapter": 12,
+    "page": 161,
+    "y": 283.80340576171875,
+    "raw": "trip",
+    "previous_card": {
+      "id": null,
+      "swedish": "bröllopsresa",
+      "forms": "-n, bröllopsresor, bröllopsresorna",
+      "english": "honeymoon",
+      "chapter": 12,
+      "page": 161,
+      "source_pdf_page": 41
+    },
+    "next_row": "kringflackande  wandering, unsettled"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 42,
+    "column": "left",
+    "chapter": 12,
+    "page": 166,
+    "y": 640.7034301757812,
+    "raw": "law",
+    "previous_card": {
+      "id": null,
+      "swedish": "svärmor",
+      "forms": "svärmodern, svärmödrar, svärmödrarna",
+      "english": "mother in",
+      "chapter": 12,
+      "page": 166,
+      "source_pdf_page": 42
+    },
+    "next_row": "träffa en annan (vara otrogen)  meet someone else (be unfaithful)"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 43,
+    "column": "left",
+    "chapter": 12,
+    "page": 170,
+    "y": 517.50341796875,
+    "raw": "to…",
+    "previous_card": {
+      "id": null,
+      "swedish": "Nu måste det bli ett slut på…",
+      "forms": "",
+      "english": "Now, there has to be an end",
+      "chapter": 12,
+      "page": 170,
+      "source_pdf_page": 43
+    },
+    "next_row": "valfri (-tt, -a)  optional"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 43,
+    "column": "left",
+    "chapter": 13,
+    "page": 171,
+    "y": 746.0015258789062,
+    "raw": "saturday",
+    "previous_card": {
+      "id": null,
+      "swedish": "påskafton",
+      "forms": "-en, påskaftnar, påskaftnarna",
+      "english": "Easter eve, holy",
+      "chapter": 13,
+      "page": 171,
+      "source_pdf_page": 43
+    },
+    "next_row": "påskhelg (-en, -er, -erna)  Easter holiday"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 43,
+    "column": "right",
+    "chapter": 13,
+    "page": 171,
+    "y": 74.30333709716797,
+    "raw": "ce day",
+    "previous_card": {
+      "id": null,
+      "swedish": "nationaldag",
+      "forms": "-en, -ar, -arna",
+      "english": "national holiday, independen­",
+      "chapter": 13,
+      "page": 171,
+      "source_pdf_page": 43
+    },
+    "next_row": "Sidan 172"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 44,
+    "column": "left",
+    "chapter": 13,
+    "page": 174,
+    "y": 185.0032958984375,
+    "raw": "tuted family",
+    "previous_card": {
+      "id": null,
+      "swedish": "ombildad familj",
+      "forms": "ombildat, ombildade",
+      "english": "reformed, reconsti­",
+      "chapter": 13,
+      "page": 174,
+      "source_pdf_page": 44
+    },
+    "next_row": "julgran (-en, -ar, -arna)  Christmas tree"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 44,
+    "column": "left",
+    "chapter": 13,
+    "page": 175,
+    "y": 541.3048706054688,
+    "raw": "fastlagen lent",
+    "previous_card": {
+      "id": null,
+      "swedish": "fast",
+      "forms": "-a",
+      "english": "determined",
+      "chapter": 13,
+      "page": 175,
+      "source_pdf_page": 44
+    },
+    "next_row": "inte så konstigt  not so strange"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 44,
+    "column": "left",
+    "chapter": 13,
+    "page": 175,
+    "y": 701.8034057617188,
+    "raw": "before Easter",
+    "previous_card": {
+      "id": null,
+      "swedish": "skärtorsdag",
+      "forms": "-en, -ar, -arna",
+      "english": "Maundy Thursday, Thursday",
+      "chapter": 13,
+      "page": 175,
+      "source_pdf_page": 44
+    },
+    "next_row": "klä (-r, -dde, -tt) ut sig  dress up (in costume)"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 44,
+    "column": "right",
+    "chapter": 13,
+    "page": 176,
+    "y": 357.4034118652344,
+    "raw": "ves",
+    "previous_card": {
+      "id": null,
+      "swedish": "lövgubbe",
+      "forms": "-n, lövgubbar, lövgubbarna",
+      "english": "man dressed in lea­",
+      "chapter": 13,
+      "page": 176,
+      "source_pdf_page": 44
+    },
+    "next_row": "täcka (täcker, täckte, täckt)  covered"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 45,
+    "column": "right",
+    "chapter": 13,
+    "page": 180,
+    "y": 49.703426361083984,
+    "raw": "me",
+    "previous_card": {
+      "id": null,
+      "swedish": "hus- /gårdstomte",
+      "forms": "-n, -tomtar, -tomtarna",
+      "english": "house/farm gno­",
+      "chapter": 13,
+      "page": 180,
+      "source_pdf_page": 45
+    },
+    "next_row": "gråklädd (gråklätt, gråklädda)  dressed in gray"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 45,
+    "column": "right",
+    "chapter": 13,
+    "page": 180,
+    "y": 86.60338592529297,
+    "raw": "tion",
+    "previous_card": {
+      "id": null,
+      "swedish": "väcka uppmärksamhet",
+      "forms": "väcker, väckte, väckt",
+      "english": "attract atten­",
+      "chapter": 13,
+      "page": 180,
+      "source_pdf_page": 45
+    },
+    "next_row": "argsint (-a)  ill-tempered"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 45,
+    "column": "right",
+    "chapter": 13,
+    "page": 181,
+    "y": 282.99776458740234,
+    "raw": "midvinternatt (-en, midvinternätter, midvinternätterna)",
+    "previous_card": {
+      "id": null,
+      "swedish": "kvällstidning",
+      "forms": "-en, -ar, -arna",
+      "english": "evening paper",
+      "chapter": 13,
+      "page": 181,
+      "source_pdf_page": 45
+    },
+    "next_row": "mid-winter night"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 45,
+    "column": "right",
+    "chapter": 13,
+    "page": 181,
+    "y": 295.304931640625,
+    "raw": "mid-winter night",
+    "previous_card": {
+      "id": null,
+      "swedish": "kvällstidning",
+      "forms": "-en, -ar, -arna",
+      "english": "evening paper",
+      "chapter": 13,
+      "page": 181,
+      "source_pdf_page": 45
+    },
+    "next_row": "köld (-en)  cold"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 46,
+    "column": "right",
+    "chapter": 14,
+    "page": 189,
+    "y": 426.00152587890625,
+    "raw": "ations.",
+    "previous_card": {
+      "id": null,
+      "swedish": "Det är olika i olika situationer.",
+      "forms": "",
+      "english": "It’s different in different situ­",
+      "chapter": 14,
+      "page": 189,
+      "source_pdf_page": 46
+    },
+    "next_row": "inte ett dugg  not at all"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 47,
+    "column": "left",
+    "chapter": 14,
+    "page": 191,
+    "y": 295.9034423828125,
+    "raw": "again?",
+    "previous_card": {
+      "id": null,
+      "swedish": "Var var det du bodde nu igen?",
+      "forms": "",
+      "english": "Where was it you lived",
+      "chapter": 14,
+      "page": 191,
+      "source_pdf_page": 47
+    },
+    "next_row": "Sidan 192"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 47,
+    "column": "left",
+    "chapter": 14,
+    "page": 192,
+    "y": 579.00341796875,
+    "raw": "with anything?",
+    "previous_card": {
+      "id": null,
+      "swedish": "Hej. Kan jag hjälpa dig med något?",
+      "forms": "",
+      "english": "Hello. Can I help you",
+      "chapter": 14,
+      "page": 192,
+      "source_pdf_page": 47
+    },
+    "next_row": "gå sönder  break"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 47,
+    "column": "right",
+    "chapter": 14,
+    "page": 193,
+    "y": 221.9034423828125,
+    "raw": "do about the issue.",
+    "previous_card": {
+      "id": null,
+      "swedish": "Jag ska se vad jag kan göra åt saken.",
+      "forms": "",
+      "english": "I shall see what we can",
+      "chapter": 14,
+      "page": 193,
+      "source_pdf_page": 47
+    },
+    "next_row": "kompensation (-en)  compensation"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 47,
+    "column": "right",
+    "chapter": 14,
+    "page": 193,
+    "y": 258.80340576171875,
+    "raw": "nothing we can do.",
+    "previous_card": {
+      "id": null,
+      "swedish": "Tyvärr är det ingenting vi kan göra.",
+      "forms": "",
+      "english": "Unfortunately there’s",
+      "chapter": 14,
+      "page": 193,
+      "source_pdf_page": 47
+    },
+    "next_row": "Sidan 194"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 48,
+    "column": "left",
+    "chapter": 14,
+    "page": 196,
+    "y": 135.8033447265625,
+    "raw": "service instructions",
+    "previous_card": {
+      "id": null,
+      "swedish": "skötsel- och serviceinsruktion",
+      "forms": "-en, -er, -erna",
+      "english": "care and",
+      "chapter": 14,
+      "page": 196,
+      "source_pdf_page": 48
+    },
+    "next_row": "skadad (skadat, skadade)  injured, damaged"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 48,
+    "column": "left",
+    "chapter": 14,
+    "page": 196,
+    "y": 185.0032958984375,
+    "raw": "consumer goods",
+    "previous_card": {
+      "id": null,
+      "swedish": "konsumentköpslag",
+      "forms": "-en, -ar, -arna",
+      "english": "law regulating sale of",
+      "chapter": 14,
+      "page": 196,
+      "source_pdf_page": 48
+    },
+    "next_row": "ta (tat, tog, tagit)  en kopia/kopiera  make a photocopy"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 48,
+    "column": "left",
+    "chapter": 14,
+    "page": 199,
+    "y": 665.3034057617188,
+    "raw": "something",
+    "previous_card": {
+      "id": null,
+      "swedish": "måla upp en bild av något",
+      "forms": "",
+      "english": "paint oneself a picture of",
+      "chapter": 14,
+      "page": 199,
+      "source_pdf_page": 48
+    },
+    "next_row": "Sidan 200"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 48,
+    "column": "right",
+    "chapter": 14,
+    "page": 200,
+    "y": 160.4034423828125,
+    "raw": "ment",
+    "previous_card": {
+      "id": null,
+      "swedish": "vara lagd åt (ha en viss läggning)",
+      "forms": "",
+      "english": "have a certain tempera­",
+      "chapter": 14,
+      "page": 200,
+      "source_pdf_page": 48
+    },
+    "next_row": "hantera (-r, -de, -t)  handle"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 48,
+    "column": "right",
+    "chapter": 15,
+    "page": 203,
+    "y": 721.4015502929688,
+    "raw": "statistics agency",
+    "previous_card": {
+      "id": null,
+      "swedish": "Statistiska Centralbyrån",
+      "forms": "",
+      "english": "Statistics Sweden, the central",
+      "chapter": 15,
+      "page": 203,
+      "source_pdf_page": 48
+    },
+    "next_row": "via  via"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 49,
+    "column": "left",
+    "chapter": 15,
+    "page": 204,
+    "y": 295.9034423828125,
+    "raw": "counts",
+    "previous_card": {
+      "id": null,
+      "swedish": "årsredovisning",
+      "forms": "-en, -ar, -arna",
+      "english": "annual report, annual ac­",
+      "chapter": 15,
+      "page": 204,
+      "source_pdf_page": 49
+    },
+    "next_row": "nyckelperson (-en, -er, -erna)  key person"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 49,
+    "column": "right",
+    "chapter": 15,
+    "page": 206,
+    "y": 135.8033447265625,
+    "raw": "out",
+    "previous_card": {
+      "id": null,
+      "swedish": "framhäva",
+      "forms": "framhäver, framhävde, framhävt",
+      "english": "highlight, bring",
+      "chapter": 15,
+      "page": 206,
+      "source_pdf_page": 49
+    },
+    "next_row": "hoppa (-r, -de, -t) över  skip over"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 49,
+    "column": "right",
+    "chapter": 15,
+    "page": 206,
+    "y": 344.9034118652344,
+    "raw": "tion number, social security",
+    "previous_card": {
+      "id": null,
+      "swedish": "personnummer",
+      "forms": "-numret, -, -numren",
+      "english": "personal intentifica­",
+      "chapter": 15,
+      "page": 206,
+      "source_pdf_page": 49
+    },
+    "next_row": "tidperiod (-en, -er, -erna)  time period"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 49,
+    "column": "right",
+    "chapter": 15,
+    "page": 207,
+    "y": 652.6034545898438,
+    "raw": "request",
+    "previous_card": {
+      "id": null,
+      "swedish": "referenser lämnas på begäran",
+      "forms": "",
+      "english": "references available upon",
+      "chapter": 15,
+      "page": 207,
+      "source_pdf_page": 49
+    },
+    "next_row": "handledare (-n, –, handledarna)  supervisor"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 50,
+    "column": "left",
+    "chapter": 15,
+    "page": 208,
+    "y": 111.20342254638672,
+    "raw": "of…",
+    "previous_card": {
+      "id": null,
+      "swedish": "Ansökan om tjänsten som…",
+      "forms": "",
+      "english": "Application for the position",
+      "chapter": 15,
+      "page": 208,
+      "source_pdf_page": 50
+    },
+    "next_row": "ungdomsledare (-n, –, ungdomsledarna)  youth councellor"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 50,
+    "column": "left",
+    "chapter": 15,
+    "page": 208,
+    "y": 160.4034423828125,
+    "raw": "structured",
+    "previous_card": {
+      "id": null,
+      "swedish": "välstrukturerad",
+      "forms": "välstrukturerat, välstrukturerade",
+      "english": "well",
+      "chapter": 15,
+      "page": 208,
+      "source_pdf_page": 50
+    },
+    "next_row": "lättläst (-a)  easy to read"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 50,
+    "column": "right",
+    "chapter": 15,
+    "page": 211,
+    "y": 209.6033935546875,
+    "raw": "ted",
+    "previous_card": {
+      "id": null,
+      "swedish": "dokumenterade",
+      "forms": "dokumeterat, dokumenterade",
+      "english": "documen­",
+      "chapter": 15,
+      "page": 211,
+      "source_pdf_page": 50
+    },
+    "next_row": "servitör (-en, -er, -erna)  waitor"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 50,
+    "column": "right",
+    "chapter": 15,
+    "page": 211,
+    "y": 295.70343017578125,
+    "raw": "father",
+    "previous_card": {
+      "id": null,
+      "swedish": "morfar",
+      "forms": "morfadern, morfäder, morfädren",
+      "english": "maternal grand­",
+      "chapter": 15,
+      "page": 211,
+      "source_pdf_page": 50
+    },
+    "next_row": "egenhändig (-t, -a)  made by oneself"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 51,
+    "column": "left",
+    "chapter": 15,
+    "page": 213,
+    "y": 160.4034423828125,
+    "raw": "rupted",
+    "previous_card": {
+      "id": null,
+      "swedish": "tala till punkt",
+      "forms": "-r, -de, -t",
+      "english": "finish one’s sentence, not be inter­",
+      "chapter": 15,
+      "page": 213,
+      "source_pdf_page": 51
+    },
+    "next_row": "ivrig (-t, ivriga)  eager"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 51,
+    "column": "left",
+    "chapter": 15,
+    "page": 214,
+    "y": 455.80340576171875,
+    "raw": "fingers",
+    "previous_card": {
+      "id": null,
+      "swedish": "hålla tummarna",
+      "forms": "-er, höll, hållit",
+      "english": "hold thumbs, cross one’s",
+      "chapter": 15,
+      "page": 214,
+      "source_pdf_page": 51
+    },
+    "next_row": "förhandling (-en, -ar, -arna)  negotiation"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 51,
+    "column": "left",
+    "chapter": 15,
+    "page": 214,
+    "y": 615.7034301757812,
+    "raw": "table",
+    "previous_card": {
+      "id": null,
+      "swedish": "slå näven i bordet",
+      "forms": "-r, slog, slagit",
+      "english": "bang one’s fist on the",
+      "chapter": 15,
+      "page": 214,
+      "source_pdf_page": 51
+    },
+    "next_row": "sätta (sätter, satte, satt) stopp för  put a stop to"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 51,
+    "column": "right",
+    "chapter": 15,
+    "page": 215,
+    "y": 86.60338592529297,
+    "raw": "thought",
+    "previous_card": {
+      "id": null,
+      "swedish": "komma av sig",
+      "forms": "kommer, kom, kommit",
+      "english": "lose one’s train of",
+      "chapter": 15,
+      "page": 215,
+      "source_pdf_page": 51
+    },
+    "next_row": "hålla (håller, höll, hållit) hus  be located"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "SUSPICIOUS_MORPHOLOGY_FALLBACK",
+    "source_pdf_page": 51,
+    "column": "right",
+    "chapter": 15,
+    "page": 215,
+    "y": 208.9991882324219,
+    "raw": "ställa (ställer, ställde, ställt) upp ",
+    "previous_card": {
+      "id": null,
+      "swedish": "röra",
+      "forms": "-n, röror, rörorna",
+      "english": "mess",
+      "chapter": 15,
+      "page": 215,
+      "source_pdf_page": 51
+    },
+    "next_row": "startskott (-et, –, -en)  starting shot, beginning",
+    "attempted_parse": {
+      "swedish": "ställa",
+      "forms": "ställer, ställde, ställt",
+      "english": "upp",
+      "method": "MORPHOLOGY_FALLBACK"
+    }
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 51,
+    "column": "right",
+    "chapter": 16,
+    "page": 218,
+    "y": 683.9030151367188,
+    "raw": "lings",
+    "previous_card": {
+      "id": null,
+      "swedish": "syskonskara",
+      "forms": "-n, syskonskaror, syskonskarorna",
+      "english": "group of sib­",
+      "chapter": 16,
+      "page": 218,
+      "source_pdf_page": 51
+    },
+    "next_row": "faktor (-n, -er, -erna)  factor"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 51,
+    "column": "right",
+    "chapter": 16,
+    "page": 218,
+    "y": 733.7015380859375,
+    "raw": "brother",
+    "previous_card": {
+      "id": null,
+      "swedish": "storebror",
+      "forms": "storebrodern, storebröder, storebröderna",
+      "english": "big",
+      "chapter": 16,
+      "page": 218,
+      "source_pdf_page": 51
+    },
+    "next_row": "topp (-en, -ar, -arna)  top"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 52,
+    "column": "left",
+    "chapter": 16,
+    "page": 218,
+    "y": 258.80340576171875,
+    "raw": "ted",
+    "previous_card": {
+      "id": null,
+      "swedish": "prestationsinriktad",
+      "forms": "-inriktat, inriktade",
+      "english": "performance-orien­",
+      "chapter": 16,
+      "page": 218,
+      "source_pdf_page": 52
+    },
+    "next_row": "Sidan 219"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 52,
+    "column": "left",
+    "chapter": 16,
+    "page": 219,
+    "y": 406.0049133300781,
+    "raw": "change",
+    "previous_card": {
+      "id": null,
+      "swedish": "börs-vd:n",
+      "forms": "börs-vd:ar, börs-vd:arna",
+      "english": "CEO of the Stock Ex­",
+      "chapter": 16,
+      "page": 219,
+      "source_pdf_page": 52
+    },
+    "next_row": "hjärtinfarkt (-en, -er, -erna)  heart attack"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 52,
+    "column": "right",
+    "chapter": 16,
+    "page": 221,
+    "y": 480.4034118652344,
+    "raw": "brush",
+    "previous_card": {
+      "id": null,
+      "swedish": "diskborste",
+      "forms": "-n, diskborstar, diskborstarna",
+      "english": "dishwashing",
+      "chapter": 16,
+      "page": 221,
+      "source_pdf_page": 52
+    },
+    "next_row": "stekpanna (-n, stekpannor, stekpannorna)  frying pan"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 53,
+    "column": "left",
+    "chapter": 16,
+    "page": 224,
+    "y": 726.6033935546875,
+    "raw": "bunch of keys",
+    "previous_card": {
+      "id": null,
+      "swedish": "nyckelknippa",
+      "forms": "-n, nyckelknippor, nyckelknipporna",
+      "english": "keyring,",
+      "chapter": 16,
+      "page": 224,
+      "source_pdf_page": 53
+    },
+    "next_row": "bära (bär, bar, burit) med sig  carry"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 53,
+    "column": "right",
+    "chapter": 16,
+    "page": 226,
+    "y": 505.00341796875,
+    "raw": "stepmother",
+    "previous_card": {
+      "id": null,
+      "swedish": "bonusmamma",
+      "forms": "-n, -mammor, -mammorna",
+      "english": "”bonus” mother,",
+      "chapter": 16,
+      "page": 226,
+      "source_pdf_page": 53
+    },
+    "next_row": "plastmormor (-mormodern, -mormödrar, -mormödrarna)  ”plastic” grandmother, step grandmother"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 53,
+    "column": "right",
+    "chapter": 16,
+    "page": 227,
+    "y": 627.6049194335938,
+    "raw": "iblandbo ”sometimes” cohabiting",
+    "previous_card": {
+      "id": null,
+      "swedish": "adoptivfamilj",
+      "forms": "-en, -er, -erna",
+      "english": "adoptive family",
+      "chapter": 16,
+      "page": 227,
+      "source_pdf_page": 53
+    },
+    "next_row": "kulbo  ”fun” cohabiting"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 54,
+    "column": "left",
+    "chapter": 16,
+    "page": 230,
+    "y": 714.3034057617188,
+    "raw": "dows",
+    "previous_card": {
+      "id": null,
+      "swedish": "panoramafönster",
+      "forms": "-fönstret, -, -fönstren",
+      "english": "panoramic win­",
+      "chapter": 16,
+      "page": 230,
+      "source_pdf_page": 54
+    },
+    "next_row": "barnbidrag (-et, –, -en)  child benefits"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 54,
+    "column": "right",
+    "chapter": 16,
+    "page": 230,
+    "y": 332.6034240722656,
+    "raw": "being",
+    "previous_card": {
+      "id": null,
+      "swedish": "medmänniska",
+      "forms": "-n, -människor, -människorna",
+      "english": "fellow human",
+      "chapter": 16,
+      "page": 230,
+      "source_pdf_page": 54
+    },
+    "next_row": "frisedel (-n, frisedlar, frisedlarna)  get out of military service"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 54,
+    "column": "right",
+    "chapter": 16,
+    "page": 231,
+    "y": 406.6034240722656,
+    "raw": "character description",
+    "previous_card": {
+      "id": null,
+      "swedish": "personbeskrivning",
+      "forms": "-en, -ar, -arna",
+      "english": "description of a person,",
+      "chapter": 16,
+      "page": 231,
+      "source_pdf_page": 54
+    },
+    "next_row": "schema (-t, -n, -na)  schedule"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 56,
+    "column": "left",
+    "chapter": 17,
+    "page": 237,
+    "y": 148.1033935546875,
+    "raw": "tion",
+    "previous_card": {
+      "id": null,
+      "swedish": "förvandlingsdräkt",
+      "forms": "-en, -er, -erna",
+      "english": "costumes of transforma­",
+      "chapter": 17,
+      "page": 237,
+      "source_pdf_page": 56
+    },
+    "next_row": "fågeldräkt (-en, -er, -erna)  bird costume"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 56,
+    "column": "right",
+    "chapter": 17,
+    "page": 241,
+    "y": 406.6034240722656,
+    "raw": "mother",
+    "previous_card": {
+      "id": null,
+      "swedish": "farmor",
+      "forms": "farmoder, farmödrar, farmödrarna",
+      "english": "paternal grand­",
+      "chapter": 17,
+      "page": 241,
+      "source_pdf_page": 56
+    },
+    "next_row": "brotta (-r, -de, -t) ner  wrestle down, pin down"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 57,
+    "column": "left",
+    "chapter": 17,
+    "page": 242,
+    "y": 74.30333709716797,
+    "raw": "place",
+    "previous_card": {
+      "id": null,
+      "swedish": "anbringa (alternativ böjningsform)",
+      "forms": "abragte, anbragt",
+      "english": "apply,",
+      "chapter": 17,
+      "page": 242,
+      "source_pdf_page": 57
+    },
+    "next_row": "livgivande  life-giving"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 57,
+    "column": "right",
+    "chapter": 17,
+    "page": 244,
+    "y": 86.60338592529297,
+    "raw": "ntally conscious",
+    "previous_card": {
+      "id": null,
+      "swedish": "miljömedveten",
+      "forms": "miljömedvetet, miljömedvetna",
+      "english": "environme­",
+      "chapter": 17,
+      "page": 244,
+      "source_pdf_page": 57
+    },
+    "next_row": "civil olydnad  civil disobedience"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 57,
+    "column": "right",
+    "chapter": 17,
+    "page": 245,
+    "y": 295.9034423828125,
+    "raw": "other hand",
+    "previous_card": {
+      "id": null,
+      "swedish": "å ena sidan… å andra sidan",
+      "forms": "",
+      "english": "on the one hand… on the",
+      "chapter": 17,
+      "page": 245,
+      "source_pdf_page": 57
+    },
+    "next_row": "stabilitet (-en)  stability"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 58,
+    "column": "left",
+    "chapter": 18,
+    "page": 248,
+    "y": 86.60338592529297,
+    "raw": "nurse",
+    "previous_card": {
+      "id": null,
+      "swedish": "avdelningssköterska",
+      "forms": "-n, -sköterskor, -sköterskorna",
+      "english": "head",
+      "chapter": 18,
+      "page": 248,
+      "source_pdf_page": 58
+    },
+    "next_row": "injektion (-en, -er, -erna)  injection"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 58,
+    "column": "left",
+    "chapter": 18,
+    "page": 250,
+    "y": 579.00341796875,
+    "raw": "the window?",
+    "previous_card": {
+      "id": null,
+      "swedish": "Du kunde kanske stänga fönstret?",
+      "forms": "",
+      "english": "Perhaps you could close",
+      "chapter": 18,
+      "page": 250,
+      "source_pdf_page": 58
+    },
+    "next_row": "Du kan väl stänga fönstret?  Can you close the window?"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 58,
+    "column": "left",
+    "chapter": 18,
+    "page": 250,
+    "y": 615.9033813476562,
+    "raw": "close the window?",
+    "previous_card": {
+      "id": null,
+      "swedish": "Du skulle (väl) inte kunna stänga fönstret?",
+      "forms": "",
+      "english": "Couldn’t you",
+      "chapter": 18,
+      "page": 250,
+      "source_pdf_page": 58
+    },
+    "next_row": "Du skulle (väl) inte vilja hämta min jacka?  Couldn’t you get"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 58,
+    "column": "left",
+    "chapter": 18,
+    "page": 250,
+    "y": 640.50341796875,
+    "raw": "me my jacket?",
+    "previous_card": {
+      "id": null,
+      "swedish": "Du skulle (väl) inte vilja hämta min jacka?",
+      "forms": "",
+      "english": "Couldn’t you get",
+      "chapter": 18,
+      "page": 250,
+      "source_pdf_page": 58
+    },
+    "next_row": "Du kan möjligen inte stänga fönstret?  Could you possibly"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 58,
+    "column": "left",
+    "chapter": 18,
+    "page": 250,
+    "y": 665.1034545898438,
+    "raw": "close the window?",
+    "previous_card": {
+      "id": null,
+      "swedish": "Du kan möjligen inte stänga fönstret?",
+      "forms": "",
+      "english": "Could you possibly",
+      "chapter": 18,
+      "page": 250,
+      "source_pdf_page": 58
+    },
+    "next_row": "Det skulle vara bra om du stängde/kunde stänga fönstret.  It"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 58,
+    "column": "left",
+    "chapter": 18,
+    "page": 250,
+    "y": 689.7034301757812,
+    "raw": "would be good if you closed/could close the window.",
+    "previous_card": {
+      "id": null,
+      "swedish": "Det skulle vara bra om du stängde/kunde stänga fönstret.",
+      "forms": "",
+      "english": "It",
+      "chapter": 18,
+      "page": 250,
+      "source_pdf_page": 58
+    },
+    "next_row": "Skulle det vara möjligt att stänga fönstret?  Would it be pos­"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 58,
+    "column": "left",
+    "chapter": 18,
+    "page": 250,
+    "y": 714.3034057617188,
+    "raw": "sible to close the window?",
+    "previous_card": {
+      "id": null,
+      "swedish": "Skulle det vara möjligt att stänga fönstret?",
+      "forms": "",
+      "english": "Would it be pos­",
+      "chapter": 18,
+      "page": 250,
+      "source_pdf_page": 58
+    },
+    "next_row": "Du stänger fönstret, va?  You’ll close the window, yeah?"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 58,
+    "column": "right",
+    "chapter": 18,
+    "page": 250,
+    "y": 62.003292083740234,
+    "raw": "close the window?",
+    "previous_card": {
+      "id": null,
+      "swedish": "Skulle du kunna stänga fönstret?",
+      "forms": "",
+      "english": "Would you be able to",
+      "chapter": 18,
+      "page": 250,
+      "source_pdf_page": 58
+    },
+    "next_row": "Skulle du vilja stänga fönstret?  Do you want to close the"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 58,
+    "column": "right",
+    "chapter": 18,
+    "page": 250,
+    "y": 86.60338592529297,
+    "raw": "window?",
+    "previous_card": {
+      "id": null,
+      "swedish": "Skulle du vilja stänga fönstret?",
+      "forms": "",
+      "english": "Do you want to close the",
+      "chapter": 18,
+      "page": 250,
+      "source_pdf_page": 58
+    },
+    "next_row": "Vill du (inte) stänga fönstret?  Do/don’t you want to close"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 58,
+    "column": "right",
+    "chapter": 18,
+    "page": 250,
+    "y": 111.20342254638672,
+    "raw": "the window?",
+    "previous_card": {
+      "id": null,
+      "swedish": "Vill du (inte) stänga fönstret?",
+      "forms": "",
+      "english": "Do/don’t you want to close",
+      "chapter": 18,
+      "page": 250,
+      "source_pdf_page": 58
+    },
+    "next_row": "Skulle du (inte) vilja stänga fönstret?  Would/wouldn’t you"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 58,
+    "column": "right",
+    "chapter": 18,
+    "page": 250,
+    "y": 135.8033447265625,
+    "raw": "like to close the window?",
+    "previous_card": {
+      "id": null,
+      "swedish": "Skulle du (inte) vilja stänga fönstret?",
+      "forms": "",
+      "english": "Would/wouldn’t you",
+      "chapter": 18,
+      "page": 250,
+      "source_pdf_page": 58
+    },
+    "next_row": "Har du lust att stänga fönstret?  Do you want to close the"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 58,
+    "column": "right",
+    "chapter": 18,
+    "page": 250,
+    "y": 160.4034423828125,
+    "raw": "window?",
+    "previous_card": {
+      "id": null,
+      "swedish": "Har du lust att stänga fönstret?",
+      "forms": "",
+      "english": "Do you want to close the",
+      "chapter": 18,
+      "page": 250,
+      "source_pdf_page": 58
+    },
+    "next_row": "brysk (-t, -a)  brusque"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 58,
+    "column": "right",
+    "chapter": 18,
+    "page": 251,
+    "y": 308.20343017578125,
+    "raw": "between employers and employees",
+    "previous_card": {
+      "id": null,
+      "swedish": "medbestämmande lag",
+      "forms": "",
+      "english": "law regulating relationship",
+      "chapter": 18,
+      "page": 251,
+      "source_pdf_page": 58
+    },
+    "next_row": "hierarki (-n, -er, -erna)  hierarchy"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 59,
+    "column": "left",
+    "chapter": 18,
+    "page": 253,
+    "y": 259.00341796875,
+    "raw": "logger",
+    "previous_card": {
+      "id": null,
+      "swedish": "skogsarbetare",
+      "forms": "-n, -, -skogsarbetarna",
+      "english": "forestry worker,",
+      "chapter": 18,
+      "page": 253,
+      "source_pdf_page": 59
+    },
+    "next_row": "industrialism (-en)  industrialism"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 59,
+    "column": "left",
+    "chapter": 18,
+    "page": 254,
+    "y": 542.1034545898438,
+    "raw": "ned?",
+    "previous_card": {
+      "id": null,
+      "swedish": "Har du hört vad som hände?",
+      "forms": "",
+      "english": "Have you heard what happe­",
+      "chapter": 18,
+      "page": 254,
+      "source_pdf_page": 59
+    },
+    "next_row": "Du, apropå ingenting…  Hey, speaking of nothing…"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 59,
+    "column": "left",
+    "chapter": 18,
+    "page": 254,
+    "y": 591.3034057617188,
+    "raw": "bumped into the other day?",
+    "previous_card": {
+      "id": null,
+      "swedish": "Vet du vem jag stötte på häromdagen?",
+      "forms": "",
+      "english": "Do you know who I",
+      "chapter": 18,
+      "page": 254,
+      "source_pdf_page": 59
+    },
+    "next_row": "Ge respons.  Give response, reaction."
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 59,
+    "column": "left",
+    "chapter": 18,
+    "page": 254,
+    "y": 738.9034423828125,
+    "raw": "fun.",
+    "previous_card": {
+      "id": null,
+      "swedish": "Jaha… Slut på det roliga.",
+      "forms": "",
+      "english": "Well… That was the end of the",
+      "chapter": 18,
+      "page": 254,
+      "source_pdf_page": 59
+    },
+    "next_row": "Då var det väl dags.  Well, I suppose it’s time."
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 59,
+    "column": "right",
+    "chapter": 18,
+    "page": 255,
+    "y": 345.1034240722656,
+    "raw": "hip-oriented",
+    "previous_card": {
+      "id": null,
+      "swedish": "relationsorienterad",
+      "forms": "-orienterat, -orienterade",
+      "english": "relations­",
+      "chapter": 18,
+      "page": 255,
+      "source_pdf_page": 59
+    },
+    "next_row": "samarbetsinriktad (-inriktat, -inriktade)  cooperative"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 59,
+    "column": "right",
+    "chapter": 18,
+    "page": 255,
+    "y": 418.9034118652344,
+    "raw": "nated",
+    "previous_card": {
+      "id": null,
+      "swedish": "kvinnodominerad",
+      "forms": "-dominerat, -dominerade",
+      "english": "female-domi­",
+      "chapter": 18,
+      "page": 255,
+      "source_pdf_page": 59
+    },
+    "next_row": "effektivare  more effective"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 59,
+    "column": "right",
+    "chapter": 18,
+    "page": 255,
+    "y": 455.80340576171875,
+    "raw": "ted",
+    "previous_card": {
+      "id": null,
+      "swedish": "mansdominerad",
+      "forms": "-dominerat, -dominerade",
+      "english": "male-domina­",
+      "chapter": 18,
+      "page": 255,
+      "source_pdf_page": 59
+    },
+    "next_row": "Sidan 256"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 60,
+    "column": "left",
+    "chapter": 18,
+    "page": 257,
+    "y": 185.20343017578125,
+    "raw": "judged",
+    "previous_card": {
+      "id": null,
+      "swedish": "bedömas",
+      "forms": "bedöms, bedömdes, bedömts",
+      "english": "to be assessed,",
+      "chapter": 18,
+      "page": 257,
+      "source_pdf_page": 60
+    },
+    "next_row": "hårdare  harder"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 60,
+    "column": "left",
+    "chapter": 18,
+    "page": 257,
+    "y": 246.70343017578125,
+    "raw": "red",
+    "previous_card": {
+      "id": null,
+      "swedish": "återfinnas",
+      "forms": "återfinns, återfanns, återfunnits",
+      "english": "to be rediscove­",
+      "chapter": 18,
+      "page": 257,
+      "source_pdf_page": 60
+    },
+    "next_row": "sluten (slutet, slutna)  closed, sealed"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 60,
+    "column": "left",
+    "chapter": 18,
+    "page": 257,
+    "y": 369.1001739501953,
+    "raw": "ge (ett djur) mat",
+    "previous_card": {
+      "id": null,
+      "swedish": "som klippt och skuren",
+      "forms": "",
+      "english": "a perfect fit",
+      "chapter": 18,
+      "page": 257,
+      "source_pdf_page": 60
+    },
+    "next_row": "borsta (-r, -de, -t)  brush, groom"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 60,
+    "column": "left",
+    "chapter": 18,
+    "page": 258,
+    "y": 505.20343017578125,
+    "raw": "lity",
+    "previous_card": {
+      "id": null,
+      "swedish": "ansvarskänsla",
+      "forms": "-n, -känslor, -känslorna",
+      "english": "sense of responsibi­",
+      "chapter": 18,
+      "page": 258,
+      "source_pdf_page": 60
+    },
+    "next_row": "flit (-en)  diligence"
+  },
+  {
+    "status": "REVIEW",
+    "reason": "UNRESOLVED_ROW",
+    "source_pdf_page": 60,
+    "column": "right",
+    "chapter": 18,
+    "page": 259,
+    "y": 98.90343475341797,
+    "raw": "connected",
+    "previous_card": {
+      "id": null,
+      "swedish": "hänga ihop",
+      "forms": "-er, hängde, hängt",
+      "english": "to hang out together, to be",
+      "chapter": 18,
+      "page": 259,
+      "source_pdf_page": 60
+    },
+    "next_row": "spekulera (-r, -de, -t)  i  to speculate"
+  }
+]

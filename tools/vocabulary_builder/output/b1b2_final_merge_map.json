@@ -1,0 +1,1288 @@
+{
+  "special_merges": [
+    {
+      "kept_id": "riv_b_3522",
+      "removed_ids": [
+        "riv_b_manual_0008"
+      ],
+      "swedish": "stöta på",
+      "english": "encounter, run into, come across"
+    }
+  ],
+  "semantic_merges": [
+    {
+      "swedish": "bra",
+      "kept_id": "riv_b_0039",
+      "removed_ids": [
+        "riv_b_0755"
+      ],
+      "english": "good, well"
+    },
+    {
+      "swedish": "stor",
+      "kept_id": "riv_b_0049",
+      "removed_ids": [
+        "riv_b_1651",
+        "riv_b_3689"
+      ],
+      "english": "big, large"
+    },
+    {
+      "swedish": "lägga sig",
+      "kept_id": "riv_b_0075",
+      "removed_ids": [
+        "riv_b_0953"
+      ],
+      "english": "lie down, go to bed"
+    },
+    {
+      "swedish": "städa",
+      "kept_id": "riv_b_0078",
+      "removed_ids": [
+        "riv_b_2009"
+      ],
+      "english": "clean, clean up"
+    },
+    {
+      "swedish": "Varje",
+      "kept_id": "riv_b_0089",
+      "removed_ids": [
+        "riv_b_0254"
+      ],
+      "english": "each, every"
+    },
+    {
+      "swedish": "vandra",
+      "kept_id": "riv_b_0127",
+      "removed_ids": [
+        "riv_b_2833"
+      ],
+      "english": "hike"
+    },
+    {
+      "swedish": "träningskläder",
+      "kept_id": "riv_b_0155",
+      "removed_ids": [
+        "riv_b_1913"
+      ],
+      "english": "workout clothes, exercise clothes"
+    },
+    {
+      "swedish": "svettas",
+      "kept_id": "riv_b_0165",
+      "removed_ids": [
+        "riv_b_0269"
+      ],
+      "english": "sweat"
+    },
+    {
+      "swedish": "inte alls",
+      "kept_id": "riv_b_0240",
+      "removed_ids": [
+        "riv_b_3427"
+      ],
+      "english": "not at all"
+    },
+    {
+      "swedish": "väldig",
+      "kept_id": "riv_b_0289",
+      "removed_ids": [
+        "riv_b_5742"
+      ],
+      "english": "enormous, very large"
+    },
+    {
+      "swedish": "falsk",
+      "kept_id": "riv_b_0302",
+      "removed_ids": [
+        "riv_b_3663"
+      ],
+      "english": "false, out of tune"
+    },
+    {
+      "swedish": "snack",
+      "kept_id": "riv_b_0400",
+      "removed_ids": [
+        "riv_b_4721"
+      ],
+      "english": "talk, chat"
+    },
+    {
+      "swedish": "område",
+      "kept_id": "riv_b_0402",
+      "removed_ids": [
+        "riv_b_1589",
+        "riv_b_2827"
+      ],
+      "english": "area, region, field"
+    },
+    {
+      "swedish": "hård",
+      "kept_id": "riv_b_0433",
+      "removed_ids": [
+        "riv_b_2676"
+      ],
+      "english": "hard, tough"
+    },
+    {
+      "swedish": "arbetsfri",
+      "kept_id": "riv_b_0564",
+      "removed_ids": [
+        "riv_b_1884"
+      ],
+      "english": "free from work, off work"
+    },
+    {
+      "swedish": "i slutet av",
+      "kept_id": "riv_b_0568",
+      "removed_ids": [
+        "riv_b_5253"
+      ],
+      "english": "at the end of"
+    },
+    {
+      "swedish": "vara på väg",
+      "kept_id": "riv_b_0582",
+      "removed_ids": [
+        "riv_b_4540"
+      ],
+      "english": "be on the way"
+    },
+    {
+      "swedish": "i samband med",
+      "kept_id": "riv_b_0602",
+      "removed_ids": [
+        "riv_b_5534"
+      ],
+      "english": "in connection with"
+    },
+    {
+      "swedish": "känd",
+      "kept_id": "riv_b_0604",
+      "removed_ids": [
+        "riv_b_3313"
+      ],
+      "english": "famous, well known"
+    },
+    {
+      "swedish": "över",
+      "kept_id": "riv_b_0638",
+      "removed_ids": [
+        "riv_b_3091"
+      ],
+      "english": "over, more than"
+    },
+    {
+      "swedish": "stressad",
+      "kept_id": "riv_b_0646",
+      "removed_ids": [
+        "riv_b_3650"
+      ],
+      "english": "stressed, stressed out"
+    },
+    {
+      "swedish": "pålitlig",
+      "kept_id": "riv_b_0792",
+      "removed_ids": [
+        "riv_b_1489"
+      ],
+      "english": "reliable, dependable"
+    },
+    {
+      "swedish": "spontan",
+      "kept_id": "riv_b_0797",
+      "removed_ids": [
+        "riv_b_5902"
+      ],
+      "english": "spontaneous"
+    },
+    {
+      "swedish": "spela roll",
+      "kept_id": "riv_b_0808",
+      "removed_ids": [
+        "riv_b_2088"
+      ],
+      "english": "play a role, matter"
+    },
+    {
+      "swedish": "hälsa på",
+      "kept_id": "riv_b_0830",
+      "removed_ids": [
+        "riv_b_1977"
+      ],
+      "english": "visit, pay a visit"
+    },
+    {
+      "swedish": "kamma sig",
+      "kept_id": "riv_b_0856",
+      "removed_ids": [
+        "riv_b_5662"
+      ],
+      "english": "comb one's hair"
+    },
+    {
+      "swedish": "hemsk",
+      "kept_id": "riv_b_0875",
+      "removed_ids": [
+        "riv_b_2702"
+      ],
+      "english": "horrible, scary"
+    },
+    {
+      "swedish": "gifta sig",
+      "kept_id": "riv_b_0885",
+      "removed_ids": [
+        "riv_b_5447"
+      ],
+      "english": "get married"
+    },
+    {
+      "swedish": "fräck",
+      "kept_id": "riv_b_0926",
+      "removed_ids": [
+        "riv_b_4095"
+      ],
+      "english": "cheeky, brash, brazen"
+    },
+    {
+      "swedish": "falla",
+      "kept_id": "riv_b_0987",
+      "removed_ids": [
+        "riv_b_5562"
+      ],
+      "english": "fall"
+    },
+    {
+      "swedish": "läkare",
+      "kept_id": "riv_b_1137",
+      "removed_ids": [
+        "riv_b_2568"
+      ],
+      "english": "doctor"
+    },
+    {
+      "swedish": "debutera",
+      "kept_id": "riv_b_1146",
+      "removed_ids": [
+        "riv_b_5494"
+      ],
+      "english": "debut"
+    },
+    {
+      "swedish": "på så sätt",
+      "kept_id": "riv_b_1154",
+      "removed_ids": [
+        "riv_b_3700"
+      ],
+      "english": "in that way"
+    },
+    {
+      "swedish": "störst",
+      "kept_id": "riv_b_1372",
+      "removed_ids": [
+        "riv_b_3669"
+      ],
+      "english": "biggest, largest"
+    },
+    {
+      "swedish": "klappa",
+      "kept_id": "riv_b_1506",
+      "removed_ids": [
+        "riv_b_2842"
+      ],
+      "english": "pet, caress"
+    },
+    {
+      "swedish": "låta",
+      "kept_id": "riv_b_1643",
+      "removed_ids": [
+        "riv_b_3293"
+      ],
+      "english": "sound, make noise"
+    },
+    {
+      "swedish": "lukt",
+      "kept_id": "riv_b_1650",
+      "removed_ids": [
+        "riv_b_3951"
+      ],
+      "english": "smell, scent"
+    },
+    {
+      "swedish": "skadad",
+      "kept_id": "riv_b_1660",
+      "removed_ids": [
+        "riv_b_4900"
+      ],
+      "english": "injured, damaged"
+    },
+    {
+      "swedish": "skicklig",
+      "kept_id": "riv_b_1694",
+      "removed_ids": [
+        "riv_b_3622"
+      ],
+      "english": "skilled, skillful"
+    },
+    {
+      "swedish": "väga",
+      "kept_id": "riv_b_1726",
+      "removed_ids": [
+        "riv_b_3514"
+      ],
+      "english": "weigh"
+    },
+    {
+      "swedish": "saga",
+      "kept_id": "riv_b_1733",
+      "removed_ids": [
+        "riv_b_5721"
+      ],
+      "english": "story, fairy tale, saga"
+    },
+    {
+      "swedish": "rubrik",
+      "kept_id": "riv_b_1807",
+      "removed_ids": [
+        "riv_b_3455"
+      ],
+      "english": "heading, headline"
+    },
+    {
+      "swedish": "hindra",
+      "kept_id": "riv_b_1822",
+      "removed_ids": [
+        "riv_b_5850"
+      ],
+      "english": "hinder, stop"
+    },
+    {
+      "swedish": "locka",
+      "kept_id": "riv_b_1854",
+      "removed_ids": [
+        "riv_b_2857"
+      ],
+      "english": "attract, lure"
+    },
+    {
+      "swedish": "sten",
+      "kept_id": "riv_b_1858",
+      "removed_ids": [
+        "riv_b_4638"
+      ],
+      "english": "stone, rock"
+    },
+    {
+      "swedish": "gemenskap",
+      "kept_id": "riv_b_1901",
+      "removed_ids": [
+        "riv_b_3371"
+      ],
+      "english": "community, fellowship, connection"
+    },
+    {
+      "swedish": "komma på",
+      "kept_id": "riv_b_1982",
+      "removed_ids": [
+        "riv_b_3808"
+      ],
+      "english": "think of, realize"
+    },
+    {
+      "swedish": "undra",
+      "kept_id": "riv_b_2015",
+      "removed_ids": [
+        "riv_b_3807"
+      ],
+      "english": "wonder"
+    },
+    {
+      "swedish": "vid",
+      "kept_id": "riv_b_2137",
+      "removed_ids": [
+        "riv_b_2343"
+      ],
+      "english": "by, next to"
+    },
+    {
+      "swedish": "sprida sig",
+      "kept_id": "riv_b_2143",
+      "removed_ids": [
+        "riv_b_4171"
+      ],
+      "english": "spread"
+    },
+    {
+      "swedish": "bit",
+      "kept_id": "riv_b_2164",
+      "removed_ids": [
+        "riv_b_5407"
+      ],
+      "english": "bit, piece, slice"
+    },
+    {
+      "swedish": "björk",
+      "kept_id": "riv_b_2166",
+      "removed_ids": [
+        "riv_b_5807"
+      ],
+      "english": "birch, birch tree"
+    },
+    {
+      "swedish": "starta",
+      "kept_id": "riv_b_2210",
+      "removed_ids": [
+        "riv_b_3097"
+      ],
+      "english": "start"
+    },
+    {
+      "swedish": "pryl",
+      "kept_id": "riv_b_2255",
+      "removed_ids": [
+        "riv_b_6127"
+      ],
+      "english": "object, thing"
+    },
+    {
+      "swedish": "himla",
+      "kept_id": "riv_b_2264",
+      "removed_ids": [
+        "riv_b_4452"
+      ],
+      "english": "really, very"
+    },
+    {
+      "swedish": "slå",
+      "kept_id": "riv_b_2335",
+      "removed_ids": [
+        "riv_b_3222"
+      ],
+      "english": "hit, beat"
+    },
+    {
+      "swedish": "barnbidrag",
+      "kept_id": "riv_b_2361",
+      "removed_ids": [
+        "riv_b_5538"
+      ],
+      "english": "child benefit"
+    },
+    {
+      "swedish": "statskupp",
+      "kept_id": "riv_b_2386",
+      "removed_ids": [
+        "riv_b_3196"
+      ],
+      "english": "coup, coup d'état"
+    },
+    {
+      "swedish": "inför",
+      "kept_id": "riv_b_2458",
+      "removed_ids": [
+        "riv_b_5811"
+      ],
+      "english": "before, in front of"
+    },
+    {
+      "swedish": "ena",
+      "kept_id": "riv_b_2780",
+      "removed_ids": [
+        "riv_b_5872"
+      ],
+      "english": "one (of several)"
+    },
+    {
+      "swedish": "gjord av",
+      "kept_id": "riv_b_2931",
+      "removed_ids": [
+        "riv_b_4560"
+      ],
+      "english": "made of, made out of"
+    },
+    {
+      "swedish": "enorm",
+      "kept_id": "riv_b_2952",
+      "removed_ids": [
+        "riv_b_3797"
+      ],
+      "english": "enormous"
+    },
+    {
+      "swedish": "höra hemma",
+      "kept_id": "riv_b_3052",
+      "removed_ids": [
+        "riv_b_4396"
+      ],
+      "english": "belong"
+    },
+    {
+      "swedish": "gå över till",
+      "kept_id": "riv_b_3054",
+      "removed_ids": [
+        "riv_b_3272"
+      ],
+      "english": "change to, switch to"
+    },
+    {
+      "swedish": "ta kontakt med",
+      "kept_id": "riv_b_3266",
+      "removed_ids": [
+        "riv_b_5650"
+      ],
+      "english": "contact, get in touch with"
+    },
+    {
+      "swedish": "anse",
+      "kept_id": "riv_b_3289",
+      "removed_ids": [
+        "riv_b_4019"
+      ],
+      "english": "consider, deem, believe"
+    },
+    {
+      "swedish": "väcka intresse",
+      "kept_id": "riv_b_3332",
+      "removed_ids": [
+        "riv_b_5128"
+      ],
+      "english": "generate interest"
+    },
+    {
+      "swedish": "förändras",
+      "kept_id": "riv_b_3348",
+      "removed_ids": [
+        "riv_b_4776"
+      ],
+      "english": "change"
+    },
+    {
+      "swedish": "nordbo",
+      "kept_id": "riv_b_3360",
+      "removed_ids": [
+        "riv_b_5592"
+      ],
+      "english": "person from the Nordic countries"
+    },
+    {
+      "swedish": "lita på",
+      "kept_id": "riv_b_3548",
+      "removed_ids": [
+        "riv_b_5560"
+      ],
+      "english": "trust"
+    },
+    {
+      "swedish": "sammansatt",
+      "kept_id": "riv_b_3787",
+      "removed_ids": [
+        "riv_b_5657"
+      ],
+      "english": "compound, put together"
+    },
+    {
+      "swedish": "steka",
+      "kept_id": "riv_b_3841",
+      "removed_ids": [
+        "riv_b_5360"
+      ],
+      "english": "fry"
+    },
+    {
+      "swedish": "kvar",
+      "kept_id": "riv_b_3895",
+      "removed_ids": [
+        "riv_b_5817"
+      ],
+      "english": "remaining, left"
+    },
+    {
+      "swedish": "uppmaning",
+      "kept_id": "riv_b_4402",
+      "removed_ids": [
+        "riv_b_5921"
+      ],
+      "english": "appeal, urging"
+    },
+    {
+      "swedish": "i första hand",
+      "kept_id": "riv_b_4417",
+      "removed_ids": [
+        "riv_b_5432"
+      ],
+      "english": "primarily, in the first place"
+    },
+    {
+      "swedish": "hoppa över",
+      "kept_id": "riv_b_4459",
+      "removed_ids": [
+        "riv_b_5043"
+      ],
+      "english": "skip, skip over"
+    },
+    {
+      "swedish": "rest",
+      "kept_id": "riv_b_4512",
+      "removed_ids": [
+        "riv_b_5914"
+      ],
+      "english": "remainder, leftover"
+    },
+    {
+      "swedish": "fast",
+      "kept_id": "riv_b_4530",
+      "removed_ids": [
+        "riv_b_5187"
+      ],
+      "english": "firm, determined"
+    },
+    {
+      "swedish": "återgå",
+      "kept_id": "riv_b_4804",
+      "removed_ids": [
+        "riv_b_6037"
+      ],
+      "english": "return, go back"
+    },
+    {
+      "swedish": "våttorka",
+      "kept_id": "riv_b_5357",
+      "removed_ids": [
+        "riv_b_5394"
+      ],
+      "english": "wet-mop"
+    },
+    {
+      "swedish": "hjälpas åt",
+      "kept_id": "riv_b_5466",
+      "removed_ids": [
+        "riv_b_5920"
+      ],
+      "english": "help each other out"
+    },
+    {
+      "swedish": "Ask",
+      "kept_id": "riv_b_5668",
+      "removed_ids": [
+        "riv_b_5805"
+      ],
+      "english": "ash tree"
+    }
+  ],
+  "kept_separate": [
+    {
+      "swedish": "sida",
+      "ids": [
+        "riv_b_0002",
+        "riv_b_2809"
+      ],
+      "english": [
+        "book page",
+        "side"
+      ]
+    },
+    {
+      "swedish": "fråga",
+      "ids": [
+        "riv_b_0025",
+        "riv_b_0466"
+      ],
+      "english": [
+        "ask",
+        "question"
+      ]
+    },
+    {
+      "swedish": "vara",
+      "ids": [
+        "riv_b_0046",
+        "riv_b_3159",
+        "riv_b_3370",
+        "riv_b_5485"
+      ],
+      "english": [
+        "to be",
+        "good, ware",
+        "persist",
+        "to last"
+      ]
+    },
+    {
+      "swedish": "man",
+      "ids": [
+        "riv_b_0058",
+        "riv_b_0527"
+      ],
+      "english": [
+        "one",
+        "man"
+      ]
+    },
+    {
+      "swedish": "till",
+      "ids": [
+        "riv_b_0069",
+        "riv_b_0427"
+      ],
+      "english": [
+        "to",
+        "also, another"
+      ]
+    },
+    {
+      "swedish": "gång",
+      "ids": [
+        "riv_b_0090",
+        "riv_b_2788"
+      ],
+      "english": [
+        "time",
+        "walking path"
+      ]
+    },
+    {
+      "swedish": "lätt",
+      "ids": [
+        "riv_b_0145",
+        "riv_b_0764"
+      ],
+      "english": [
+        "light, low fat",
+        "simple"
+      ]
+    },
+    {
+      "swedish": "pass",
+      "ids": [
+        "riv_b_0151",
+        "riv_b_3372"
+      ],
+      "english": [
+        "workout",
+        "passport"
+      ]
+    },
+    {
+      "swedish": "tid",
+      "ids": [
+        "riv_b_0159",
+        "riv_b_3041"
+      ],
+      "english": [
+        "time",
+        "time period"
+      ]
+    },
+    {
+      "swedish": "röra",
+      "ids": [
+        "riv_b_0202",
+        "riv_b_5249"
+      ],
+      "english": [
+        "move",
+        "mess"
+      ]
+    },
+    {
+      "swedish": "andra",
+      "ids": [
+        "riv_b_0322",
+        "riv_b_1919"
+      ],
+      "english": [
+        "other",
+        "second"
+      ]
+    },
+    {
+      "swedish": "stav",
+      "ids": [
+        "riv_b_0382",
+        "riv_b_5644"
+      ],
+      "english": [
+        "pole",
+        "staff"
+      ]
+    },
+    {
+      "swedish": "motion",
+      "ids": [
+        "riv_b_0405",
+        "riv_b_2498"
+      ],
+      "english": [
+        "exercise",
+        "bill proposed by members of parliament"
+      ]
+    },
+    {
+      "swedish": "köra",
+      "ids": [
+        "riv_b_0416",
+        "riv_b_3730"
+      ],
+      "english": [
+        "to cover (in running, i.e ”to cover a mile”)",
+        "drive"
+      ]
+    },
+    {
+      "swedish": "tur",
+      "ids": [
+        "riv_b_0438",
+        "riv_b_5858"
+      ],
+      "english": [
+        "turn",
+        "good luck"
+      ]
+    },
+    {
+      "swedish": "minst",
+      "ids": [
+        "riv_b_0471",
+        "riv_b_3680",
+        "riv_b_4501"
+      ],
+      "english": [
+        "least, smallest",
+        "smallest",
+        "youngest"
+      ]
+    },
+    {
+      "swedish": "rätt",
+      "ids": [
+        "riv_b_0508",
+        "riv_b_4522"
+      ],
+      "english": [
+        "right",
+        "dish"
+      ]
+    },
+    {
+      "swedish": "fel",
+      "ids": [
+        "riv_b_0509",
+        "riv_b_4012"
+      ],
+      "english": [
+        "wrong",
+        "fault"
+      ]
+    },
+    {
+      "swedish": "ledig",
+      "ids": [
+        "riv_b_0522",
+        "riv_b_5974"
+      ],
+      "english": [
+        "free, off work",
+        "relaxed"
+      ]
+    },
+    {
+      "swedish": "resa",
+      "ids": [
+        "riv_b_0635",
+        "riv_b_4602"
+      ],
+      "english": [
+        "travel, trip",
+        "raise"
+      ]
+    },
+    {
+      "swedish": "visa",
+      "ids": [
+        "riv_b_0650",
+        "riv_b_2577"
+      ],
+      "english": [
+        "show",
+        "song"
+      ]
+    },
+    {
+      "swedish": "klubb",
+      "ids": [
+        "riv_b_0686",
+        "riv_b_2869"
+      ],
+      "english": [
+        "club",
+        "nightclub"
+      ]
+    },
+    {
+      "swedish": "presentera",
+      "ids": [
+        "riv_b_0712",
+        "riv_b_2906"
+      ],
+      "english": [
+        "introduce",
+        "present, do a presentation"
+      ]
+    },
+    {
+      "swedish": "väl",
+      "ids": [
+        "riv_b_0768",
+        "riv_b_4248"
+      ],
+      "english": [
+        "well",
+        "surely"
+      ]
+    },
+    {
+      "swedish": "val",
+      "ids": [
+        "riv_b_0803",
+        "riv_b_2370"
+      ],
+      "english": [
+        "choice",
+        "election, choice"
+      ]
+    },
+    {
+      "swedish": "Hänger du med?",
+      "ids": [
+        "riv_b_1083",
+        "riv_b_1948"
+      ],
+      "english": [
+        "Do you follow?",
+        "Will you join us?"
+      ]
+    },
+    {
+      "swedish": "gift",
+      "ids": [
+        "riv_b_1138",
+        "riv_b_6043"
+      ],
+      "english": [
+        "married",
+        "poison"
+      ]
+    },
+    {
+      "swedish": "fru",
+      "ids": [
+        "riv_b_1169",
+        "riv_b_5031"
+      ],
+      "english": [
+        "wife",
+        "Mrs."
+      ]
+    },
+    {
+      "swedish": "hälsa",
+      "ids": [
+        "riv_b_1179",
+        "riv_b_2090"
+      ],
+      "english": [
+        "greet",
+        "health"
+      ]
+    },
+    {
+      "swedish": "matte",
+      "ids": [
+        "riv_b_1255",
+        "riv_b_5488"
+      ],
+      "english": [
+        "math",
+        "pet owner (female)"
+      ]
+    },
+    {
+      "swedish": "skatt",
+      "ids": [
+        "riv_b_1276",
+        "riv_b_5752"
+      ],
+      "english": [
+        "tax",
+        "treasure"
+      ]
+    },
+    {
+      "swedish": "fylla",
+      "ids": [
+        "riv_b_1385",
+        "riv_b_1828"
+      ],
+      "english": [
+        "fill",
+        "drinking binge, being drunk"
+      ]
+    },
+    {
+      "swedish": "föda",
+      "ids": [
+        "riv_b_1717",
+        "riv_b_1724"
+      ],
+      "english": [
+        "food",
+        "give birth"
+      ]
+    },
+    {
+      "swedish": "högst",
+      "ids": [
+        "riv_b_1749",
+        "riv_b_3666",
+        "riv_b_3672"
+      ],
+      "english": [
+        "at most",
+        "highest",
+        "tallest"
+      ]
+    },
+    {
+      "swedish": "stöta på",
+      "ids": [
+        "riv_b_1795",
+        "riv_b_3522"
+      ],
+      "english": [
+        "flirt with, hit on",
+        "encounter, run into, come across"
+      ]
+    },
+    {
+      "swedish": "salt",
+      "ids": [
+        "riv_b_1850",
+        "riv_b_2033"
+      ],
+      "english": [
+        "salt",
+        "salted, salty"
+      ]
+    },
+    {
+      "swedish": "beroende",
+      "ids": [
+        "riv_b_2108",
+        "riv_b_6064"
+      ],
+      "english": [
+        "addicted",
+        "dependent"
+      ]
+    },
+    {
+      "swedish": "röst",
+      "ids": [
+        "riv_b_2425",
+        "riv_b_3644"
+      ],
+      "english": [
+        "vote",
+        "voice"
+      ]
+    },
+    {
+      "swedish": "saft",
+      "ids": [
+        "riv_b_2558",
+        "riv_b_4738"
+      ],
+      "english": [
+        "fruit syrup",
+        "juice, sap"
+      ]
+    },
+    {
+      "swedish": "synd",
+      "ids": [
+        "riv_b_2635",
+        "riv_b_3399"
+      ],
+      "english": [
+        "sin",
+        "too bad, a pity"
+      ]
+    },
+    {
+      "swedish": "öde",
+      "ids": [
+        "riv_b_2748",
+        "riv_b_4148"
+      ],
+      "english": [
+        "deserted",
+        "fate"
+      ]
+    },
+    {
+      "swedish": "ligga",
+      "ids": [
+        "riv_b_2808",
+        "riv_b_3990"
+      ],
+      "english": [
+        "lie, be placed",
+        "have sex"
+      ]
+    },
+    {
+      "swedish": "stoppa",
+      "ids": [
+        "riv_b_4069",
+        "riv_b_5747"
+      ],
+      "english": [
+        "to stop",
+        "place"
+      ]
+    },
+    {
+      "swedish": "ton",
+      "ids": [
+        "riv_b_4446",
+        "riv_b_5102"
+      ],
+      "english": [
+        "metric ton",
+        "tone"
+      ]
+    },
+    {
+      "swedish": "affär",
+      "ids": [
+        "riv_b_4573",
+        "riv_b_5983"
+      ],
+      "english": [
+        "store",
+        "agreement"
+      ]
+    },
+    {
+      "swedish": "stryka",
+      "ids": [
+        "riv_b_5129",
+        "riv_b_5345"
+      ],
+      "english": [
+        "delete",
+        "to iron"
+      ]
+    },
+    {
+      "swedish": "sopa",
+      "ids": [
+        "riv_b_5358",
+        "riv_b_5382"
+      ],
+      "english": [
+        "sweep",
+        "garbage"
+      ]
+    }
+  ],
+  "unresolved": [],
+  "corrections": [
+    {
+      "id": "riv_b_2952",
+      "before": {
+        "english": "enrmous"
+      },
+      "after": {
+        "english": "enormous"
+      }
+    },
+    {
+      "id": "riv_b_3313",
+      "before": {
+        "forms": "käntt, kända"
+      },
+      "after": {
+        "forms": "känt, kända"
+      }
+    },
+    {
+      "id": "riv_b_0797",
+      "before": {
+        "english": "spontanteous"
+      },
+      "after": {
+        "english": "spontaneous"
+      }
+    },
+    {
+      "id": "riv_b_2637",
+      "before": {
+        "swedish": "känna",
+        "english": "till to be familiar with",
+        "forms": "känner, kände, känt"
+      },
+      "after": {
+        "swedish": "känna till",
+        "english": "be familiar with",
+        "forms": "känner, kände, känt"
+      }
+    },
+    {
+      "id": "riv_b_0199",
+      "before": {
+        "swedish": "räkna",
+        "english": "ut",
+        "forms": "-r, -de, -t"
+      },
+      "after": {
+        "swedish": "räkna ut",
+        "english": "work out, calculate",
+        "forms": "-r, -de, -t"
+      }
+    },
+    {
+      "id": "riv_b_3459",
+      "before": {
+        "swedish": "tro",
+        "english": "på believe in",
+        "forms": "tror, trodde, trott"
+      },
+      "after": {
+        "swedish": "tro på",
+        "english": "believe in",
+        "forms": "tror, trodde, trott"
+      }
+    },
+    {
+      "id": "riv_b_3041",
+      "before": {
+        "forms": "",
+        "english": "(-en , -er, -erna) time period"
+      },
+      "after": {
+        "forms": "-en, -er, -erna",
+        "english": "time period"
+      }
+    },
+    {
+      "id": "riv_b_1137",
+      "before": {
+        "english": "doctor, general practicioner"
+      },
+      "after": {
+        "english": "doctor, general practitioner"
+      }
+    }
+  ]
+}

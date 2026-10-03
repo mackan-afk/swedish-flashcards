@@ -1,0 +1,5522 @@
+========================================================================
+SVENSKAKORT - B1/B2 FULL V2 AUDIT
+========================================================================
+
+TOTAL CARDS: 6086
+REJECTED ROWS: 240
+SUSPICIOUS CARDS: 669
+DUPLICATE GROUPS: 186
+
+========================================================================
+SUSPICIOUS REASON COUNTS
+========================================================================
+FORMS_INSIDE_SWEDISH           401
+POSSIBLY_CUT_ENGLISH           249
+SOFT_HYPHEN                    50
+NO_PAGE                        33
+VERY_SHORT_ENGLISH             18
+BROKEN_PARENTHESES_SWEDISH     8
+BROKEN_PARENTHESES_ENGLISH     5
+ENGLISH_ENDS_HYPHEN            2
+SWEDISH_ENDS_HYPHEN            2
+
+========================================================================
+ALL SUSPICIOUS CARDS
+========================================================================
+
+0001. riv_b_0001 [NO_PAGE]
+      SV:    rivstart
+      FORMS: -en, -er, -erna
+      EN:    flying start
+      CHAPTER: 1 PAGE: None PDF: 1
+
+0002. riv_b_0002 [NO_PAGE]
+      SV:    kapitel
+      FORMS: kapitlet, -, kapitlen
+      EN:    chapter
+      CHAPTER: 1 PAGE: None PDF: 1
+
+0003. riv_b_0004 [VERY_SHORT_ENGLISH]
+      SV:    eller
+      FORMS: 
+      EN:    or
+      CHAPTER: 1 PAGE: 8 PDF: 1
+
+0004. riv_b_0010 [POSSIBLY_CUT_ENGLISH]
+      SV:    som
+      FORMS: 
+      EN:    like, such as
+      CHAPTER: 1 PAGE: 8 PDF: 1
+
+0005. riv_b_0038 [POSSIBLY_CUT_ENGLISH]
+      SV:    enligt
+      FORMS: 
+      EN:    according to
+      CHAPTER: 1 PAGE: 8 PDF: 1
+
+0006. riv_b_0045 [NO_PAGE]
+      SV:    sport
+      FORMS: -en, -er, -erna
+      EN:    sports
+      CHAPTER: 1 PAGE: None PDF: 1
+
+0007. riv_b_0046 [NO_PAGE]
+      SV:    sportbar
+      FORMS: -en, -er, -erna
+      EN:    sports bar
+      CHAPTER: 1 PAGE: None PDF: 1
+
+0008. riv_b_0047 [NO_PAGE]
+      SV:    gigantisk
+      FORMS: -t, -a
+      EN:    gigantic
+      CHAPTER: 1 PAGE: None PDF: 1
+
+0009. riv_b_0048 [NO_PAGE]
+      SV:    teveskärm
+      FORMS: -en, -ar, -arna
+      EN:    TV screen
+      CHAPTER: 1 PAGE: None PDF: 1
+
+0010. riv_b_0049 [NO_PAGE]
+      SV:    jobbig
+      FORMS: -t, -a
+      EN:    annoying, hard work
+      CHAPTER: 1 PAGE: None PDF: 1
+
+0011. riv_b_0050 [NO_PAGE]
+      SV:    ibland
+      FORMS: 
+      EN:    sometimes
+      CHAPTER: 1 PAGE: None PDF: 1
+
+0012. riv_b_0051 [NO_PAGE]
+      SV:    måste
+      FORMS: 
+      EN:    must
+      CHAPTER: 1 PAGE: None PDF: 1
+
+0013. riv_b_0052 [NO_PAGE]
+      SV:    man
+      FORMS: 
+      EN:    one
+      CHAPTER: 1 PAGE: None PDF: 1
+
+0014. riv_b_0053 [NO_PAGE]
+      SV:    träna
+      FORMS: -r, -de, -t
+      EN:    exercise
+      CHAPTER: 1 PAGE: None PDF: 1
+
+0015. riv_b_0054 [NO_PAGE]
+      SV:    fantastisk
+      FORMS: -t, -a
+      EN:    fantastic
+      CHAPTER: 1 PAGE: None PDF: 1
+
+0016. riv_b_0055 [NO_PAGE]
+      SV:    rolig
+      FORMS: -t, -a
+      EN:    fun
+      CHAPTER: 1 PAGE: None PDF: 1
+
+0017. riv_b_0056 [NO_PAGE, VERY_SHORT_ENGLISH]
+      SV:    göra
+      FORMS: gör, gjorde, gjort
+      EN:    do
+      CHAPTER: 1 PAGE: None PDF: 1
+
+0018. riv_b_0057 [NO_PAGE]
+      SV:    när
+      FORMS: 
+      EN:    when
+      CHAPTER: 1 PAGE: None PDF: 1
+
+0019. riv_b_0058 [NO_PAGE]
+      SV:    komma
+      FORMS: kommer, kom, kommit
+      EN:    come
+      CHAPTER: 1 PAGE: None PDF: 1
+
+0020. riv_b_0059 [NO_PAGE]
+      SV:    hem
+      FORMS: -met, -, -en
+      EN:    home
+      CHAPTER: 1 PAGE: None PDF: 1
+
+0021. riv_b_0060 [NO_PAGE]
+      SV:    jobb
+      FORMS: -et, -, -en
+      EN:    job, work
+      CHAPTER: 1 PAGE: None PDF: 1
+
+0022. riv_b_0061 [NO_PAGE, VERY_SHORT_ENGLISH]
+      SV:    gå
+      FORMS: går, gick, gått
+      EN:    go
+      CHAPTER: 1 PAGE: None PDF: 1
+
+0023. riv_b_0062 [NO_PAGE]
+      SV:    direkt
+      FORMS: -a
+      EN:    directly
+      CHAPTER: 1 PAGE: None PDF: 1
+
+0024. riv_b_0063 [NO_PAGE, VERY_SHORT_ENGLISH]
+      SV:    till
+      FORMS: 
+      EN:    to
+      CHAPTER: 1 PAGE: None PDF: 1
+
+0025. riv_b_0064 [NO_PAGE]
+      SV:    ta fram
+      FORMS: 
+      EN:    bring out
+      CHAPTER: 1 PAGE: None PDF: 1
+
+0026. riv_b_0065 [NO_PAGE]
+      SV:    läsk
+      FORMS: -en, -, -en
+      EN:    soda
+      CHAPTER: 1 PAGE: None PDF: 1
+
+0027. riv_b_0066 [NO_PAGE, FORMS_INSIDE_SWEDISH]
+      SV:    lägga (lägger, la/lade, lagt) sig
+      FORMS: 
+      EN:    lie down
+      CHAPTER: 1 PAGE: None PDF: 1
+
+0028. riv_b_0067 [NO_PAGE, POSSIBLY_CUT_ENGLISH]
+      SV:    framför
+      FORMS: 
+      EN:    in front of
+      CHAPTER: 1 PAGE: None PDF: 1
+
+0029. riv_b_0068 [NO_PAGE]
+      SV:    teve
+      FORMS: -n
+      EN:    television, TV
+      CHAPTER: 1 PAGE: None PDF: 1
+
+0030. riv_b_0069 [NO_PAGE]
+      SV:    städa
+      FORMS: -r, -de, -t
+      EN:    clean
+      CHAPTER: 1 PAGE: None PDF: 1
+
+0031. riv_b_0070 [NO_PAGE]
+      SV:    hela
+      FORMS: 
+      EN:    whole
+      CHAPTER: 1 PAGE: None PDF: 1
+
+0032. riv_b_0071 [NO_PAGE]
+      SV:    inklusive
+      FORMS: 
+      EN:    including
+      CHAPTER: 1 PAGE: None PDF: 1
+
+0033. riv_b_0072 [NO_PAGE]
+      SV:    badrum
+      FORMS: -met, -, -men
+      EN:    bathroom
+      CHAPTER: 1 PAGE: None PDF: 1
+
+0034. riv_b_0073 [NO_PAGE, POSSIBLY_CUT_ENGLISH]
+      SV:    ta på
+      FORMS: 
+      EN:    put on
+      CHAPTER: 1 PAGE: None PDF: 1
+
+0035. riv_b_0074 [NO_PAGE]
+      SV:    springa
+      FORMS: springer, sprang, sprungit
+      EN:    run
+      CHAPTER: 1 PAGE: None PDF: 1
+
+0036. riv_b_0075 [NO_PAGE]
+      SV:    mil
+      FORMS: -en, -, -en
+      EN:    Swedish mile (10 km)
+      CHAPTER: 1 PAGE: None PDF: 1
+
+0037. riv_b_0107 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    åka (åker, åkte, åkt) till
+      FORMS: 
+      EN:    go to, travel to
+      CHAPTER: 1 PAGE: 8 PDF: 2
+
+0038. riv_b_0118 [POSSIBLY_CUT_ENGLISH]
+      SV:    åka på
+      FORMS: 
+      EN:    travel, go to
+      CHAPTER: 1 PAGE: 8 PDF: 2
+
+0039. riv_b_0124 [POSSIBLY_CUT_ENGLISH]
+      SV:    orka
+      FORMS: -r, -de, -t
+      EN:    manage, have energy for
+      CHAPTER: 1 PAGE: 8 PDF: 2
+
+0040. riv_b_0134 [VERY_SHORT_ENGLISH]
+      SV:    upp
+      FORMS: 
+      EN:    up
+      CHAPTER: 1 PAGE: 8 PDF: 2
+
+0041. riv_b_0167 [POSSIBLY_CUT_ENGLISH]
+      SV:    vara med i
+      FORMS: 
+      EN:    to be part of
+      CHAPTER: 1 PAGE: 9 PDF: 2
+
+0042. riv_b_0184 [VERY_SHORT_ENGLISH]
+      SV:    räkna
+      FORMS: -r, -de, -t
+      EN:    ut
+      CHAPTER: 1 PAGE: 9 PDF: 2
+
+0043. riv_b_0191 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    tänka (tänker, tänkte, tänkt) på
+      FORMS: 
+      EN:    think about
+      CHAPTER: 1 PAGE: 9 PDF: 2
+
+0044. riv_b_0217 [VERY_SHORT_ENGLISH]
+      SV:    av
+      FORMS: 
+      EN:    of
+      CHAPTER: 1 PAGE: 8 PDF: 3
+
+0045. riv_b_0224 [FORMS_INSIDE_SWEDISH]
+      SV:    må (-r, mådde, mått) bra
+      FORMS: 
+      EN:    feel well
+      CHAPTER: 1 PAGE: 10 PDF: 3
+
+0046. riv_b_0234 [FORMS_INSIDE_SWEDISH]
+      SV:    bygga (bygger, byggde, byggt) upp
+      FORMS: 
+      EN:    build up
+      CHAPTER: 1 PAGE: 10 PDF: 3
+
+0047. riv_b_0239 [FORMS_INSIDE_SWEDISH]
+      SV:    vara (är, var, varit) ute
+      FORMS: 
+      EN:    be outside
+      CHAPTER: 1 PAGE: 10 PDF: 3
+
+0048. riv_b_0241 [POSSIBLY_CUT_ENGLISH]
+      SV:    än att …
+      FORMS: 
+      EN:    than to
+      CHAPTER: 1 PAGE: 10 PDF: 3
+
+0049. riv_b_0245 [FORMS_INSIDE_SWEDISH]
+      SV:    känna (-er, kände, känt) sig/mig
+      FORMS: 
+      EN:    feel
+      CHAPTER: 1 PAGE: 10 PDF: 3
+
+0050. riv_b_0266 [FORMS_INSIDE_SWEDISH]
+      SV:    stryka (stryker, strök, strukit) under
+      FORMS: 
+      EN:    underline
+      CHAPTER: 1 PAGE: 11 PDF: 3
+
+0051. riv_b_0274 [FORMS_INSIDE_SWEDISH]
+      SV:    ta (-r, tog, tagit) en dusch
+      FORMS: 
+      EN:    take a shower
+      CHAPTER: 1 PAGE: 11 PDF: 3
+
+0052. riv_b_0286 [POSSIBLY_CUT_ENGLISH]
+      SV:    ur
+      FORMS: 
+      EN:    out of
+      CHAPTER: 1 PAGE: 11 PDF: 3
+
+0053. riv_b_0344 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    hitta (-r, -de, -t) på
+      FORMS: 
+      EN:    invent, think of
+      CHAPTER: 1 PAGE: 10 PDF: 4
+
+0054. riv_b_0387 [POSSIBLY_CUT_ENGLISH]
+      SV:    som har att göra med
+      FORMS: 
+      EN:    that has to do with
+      CHAPTER: 1 PAGE: 13 PDF: 4
+
+0055. riv_b_0400 [POSSIBLY_CUT_ENGLISH]
+      SV:    kunna
+      FORMS: kan, kunde, kunnat
+      EN:    be able to
+      CHAPTER: 1 PAGE: 13 PDF: 4
+
+0056. riv_b_0432 [FORMS_INSIDE_SWEDISH]
+      SV:    bada (-r, -de, -t) bastu
+      FORMS: 
+      EN:    have a sauna
+      CHAPTER: 1 PAGE: 10 PDF: 5
+
+0057. riv_b_0457 [FORMS_INSIDE_SWEDISH]
+      SV:    spela (-r, -de, -t) teater
+      FORMS: 
+      EN:    do theater
+      CHAPTER: 1 PAGE: 14 PDF: 5
+
+0058. riv_b_0462 [FORMS_INSIDE_SWEDISH]
+      SV:    skriva (skriver, skrev, skrivit) dagbok
+      FORMS: 
+      EN:    write in a diary/journal
+      CHAPTER: 1 PAGE: 14 PDF: 5
+
+0059. riv_b_0471 [POSSIBLY_CUT_ENGLISH]
+      SV:    procent av
+      FORMS: 
+      EN:    percent of
+      CHAPTER: 1 PAGE: 15 PDF: 5
+
+0060. riv_b_0478 [VERY_SHORT_ENGLISH]
+      SV:    göra
+      FORMS: gör, gjorde, gjort
+      EN:    do
+      CHAPTER: 1 PAGE: 15 PDF: 5
+
+0061. riv_b_0492 [POSSIBLY_CUT_ENGLISH]
+      SV:    vara med
+      FORMS: 
+      EN:    join, be part of
+      CHAPTER: 1 PAGE: 15 PDF: 5
+
+0062. riv_b_0512 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    leta (-r, -de, -t) efter
+      FORMS: 
+      EN:    look for
+      CHAPTER: 1 PAGE: 15 PDF: 5
+
+0063. riv_b_0516 [POSSIBLY_CUT_ENGLISH]
+      SV:    någon typ av
+      FORMS: 
+      EN:    some kind of
+      CHAPTER: 1 PAGE: 16 PDF: 5
+
+0064. riv_b_0519 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    syssla (-r, -de, -t) med
+      FORMS: 
+      EN:    occupy onself with
+      CHAPTER: 1 PAGE: 16 PDF: 5
+
+0065. riv_b_0541 [POSSIBLY_CUT_ENGLISH]
+      SV:    i slutet av
+      FORMS: 
+      EN:    at the end of
+      CHAPTER: 1 PAGE: 14 PDF: 6
+
+0066. riv_b_0553 [POSSIBLY_CUT_ENGLISH]
+      SV:    i mitten av
+      FORMS: 
+      EN:    in the middle of
+      CHAPTER: 1 PAGE: 14 PDF: 6
+
+0067. riv_b_0568 [SOFT_HYPHEN]
+      SV:    människa
+      FORMS: -n, människor, människorna
+      EN:    human being, per­
+      CHAPTER: 1 PAGE: 14 PDF: 6
+
+0068. riv_b_0574 [POSSIBLY_CUT_ENGLISH]
+      SV:    i samband med
+      FORMS: 
+      EN:    in conjunction with
+      CHAPTER: 1 PAGE: 17 PDF: 6
+
+0069. riv_b_0582 [FORMS_INSIDE_SWEDISH]
+      SV:    komma (kommer, kom, kommit) tillbaka
+      FORMS: 
+      EN:    come back
+      CHAPTER: 1 PAGE: 16 PDF: 6
+
+0070. riv_b_0592 [FORMS_INSIDE_SWEDISH]
+      SV:    lata (-r, -de, -t) sig
+      FORMS: 
+      EN:    to be lazy
+      CHAPTER: 1 PAGE: 16 PDF: 6
+
+0071. riv_b_0603 [FORMS_INSIDE_SWEDISH]
+      SV:    åka (åker, åkte, åkt) iväg
+      FORMS: 
+      EN:    go away, travel
+      CHAPTER: 1 PAGE: 16 PDF: 6
+
+0072. riv_b_0605 [FORMS_INSIDE_SWEDISH]
+      SV:    koppla (-r, -de, -t) av
+      FORMS: 
+      EN:    relax
+      CHAPTER: 1 PAGE: 16 PDF: 6
+
+0073. riv_b_0617 [POSSIBLY_CUT_ENGLISH]
+      SV:    en del
+      FORMS: 
+      EN:    some, a part of
+      CHAPTER: 1 PAGE: 16 PDF: 6
+
+0074. riv_b_0631 [FORMS_INSIDE_SWEDISH]
+      SV:    ta (-r, tog, tagit) tid
+      FORMS: 
+      EN:    take time
+      CHAPTER: 1 PAGE: 16 PDF: 6
+
+0075. riv_b_0637 [FORMS_INSIDE_SWEDISH]
+      SV:    komma (kommer, kom, kommit) ihåg
+      FORMS: 
+      EN:    remember
+      CHAPTER: 2 PAGE: 18 PDF: 7
+
+0076. riv_b_0640 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    stå (-r, stod, stått) för
+      FORMS: 
+      EN:    stand for
+      CHAPTER: 2 PAGE: 18 PDF: 7
+
+0077. riv_b_0642 [POSSIBLY_CUT_ENGLISH]
+      SV:    bredvid
+      FORMS: 
+      EN:    next to
+      CHAPTER: 2 PAGE: 18 PDF: 7
+
+0078. riv_b_0643 [FORMS_INSIDE_SWEDISH]
+      SV:    stryka (stryker, strök, strukit) under
+      FORMS: 
+      EN:    underline
+      CHAPTER: 2 PAGE: 18 PDF: 7
+
+0079. riv_b_0654 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    besluta (-r, -de, -t) om
+      FORMS: 
+      EN:    decide on
+      CHAPTER: 2 PAGE: 18 PDF: 7
+
+0080. riv_b_0668 [FORMS_INSIDE_SWEDISH]
+      SV:    utbilda (-r, -de, -t) sig till
+      FORMS: 
+      EN:    study to become
+      CHAPTER: 2 PAGE: 19 PDF: 7
+
+0081. riv_b_0671 [FORMS_INSIDE_SWEDISH]
+      SV:    skriva (skriver, skrev, skrivit) mejl
+      FORMS: 
+      EN:    write an email
+      CHAPTER: 2 PAGE: 19 PDF: 7
+
+0082. riv_b_0673 [POSSIBLY_CUT_ENGLISH]
+      SV:    den typen av
+      FORMS: 
+      EN:    that kind of
+      CHAPTER: 2 PAGE: 19 PDF: 7
+
+0083. riv_b_0682 [POSSIBLY_CUT_ENGLISH]
+      SV:    be att få
+      FORMS: 
+      EN:    ask for
+      CHAPTER: 2 PAGE: 19 PDF: 7
+
+0084. riv_b_0683 [FORMS_INSIDE_SWEDISH]
+      SV:    spela (-r, -de, -t) dataspel
+      FORMS: 
+      EN:    play computer games
+      CHAPTER: 2 PAGE: 19 PDF: 7
+
+0085. riv_b_0685 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    be (-r, bad, bett) om
+      FORMS: 
+      EN:    ask for
+      CHAPTER: 2 PAGE: 19 PDF: 7
+
+0086. riv_b_0687 [SOFT_HYPHEN]
+      SV:    jag har alltid varit intresserad av…
+      FORMS: 
+      EN:    I have always been inte­
+      CHAPTER: 2 PAGE: 16 PDF: 7
+
+0087. riv_b_0690 [POSSIBLY_CUT_ENGLISH]
+      SV:    hört talas om
+      FORMS: 
+      EN:    have heard of
+      CHAPTER: 2 PAGE: 16 PDF: 7
+
+0088. riv_b_0704 [POSSIBLY_CUT_ENGLISH]
+      SV:    och så vidare
+      FORMS: 
+      EN:    and so on
+      CHAPTER: 2 PAGE: 16 PDF: 7
+
+0089. riv_b_0706 [POSSIBLY_CUT_ENGLISH]
+      SV:    på grund av
+      FORMS: 
+      EN:    because of
+      CHAPTER: 2 PAGE: 16 PDF: 7
+
+0090. riv_b_0716 [FORMS_INSIDE_SWEDISH]
+      SV:    hålla (håller, höll, hållit) med
+      FORMS: 
+      EN:    agree
+      CHAPTER: 2 PAGE: 20 PDF: 7
+
+0091. riv_b_0724 [FORMS_INSIDE_SWEDISH]
+      SV:    ringa (ringer, ringde, ringt) till
+      FORMS: 
+      EN:    call
+      CHAPTER: 2 PAGE: 20 PDF: 7
+
+0092. riv_b_0739 [VERY_SHORT_ENGLISH]
+      SV:    så
+      FORMS: 
+      EN:    so
+      CHAPTER: 2 PAGE: 19 PDF: 8
+
+0093. riv_b_0741 [FORMS_INSIDE_SWEDISH]
+      SV:    lära (lär, lärde, lärt) känna
+      FORMS: 
+      EN:    get to know
+      CHAPTER: 2 PAGE: 21 PDF: 8
+
+0094. riv_b_0770 [POSSIBLY_CUT_ENGLISH]
+      SV:    modeintresserad
+      FORMS: -intresserat, -intresserade
+      EN:    interested in
+      CHAPTER: 2 PAGE: 21 PDF: 8
+
+0095. riv_b_0780 [FORMS_INSIDE_SWEDISH]
+      SV:    spela (-r, -de, -t) roll
+      FORMS: 
+      EN:    play an important role
+      CHAPTER: 2 PAGE: 22 PDF: 8
+
+0096. riv_b_0796 [FORMS_INSIDE_SWEDISH]
+      SV:    slå (slår, slog, slagit) en signal
+      FORMS: 
+      EN:    give me a call, drop a line
+      CHAPTER: 2 PAGE: 20 PDF: 8
+
+0097. riv_b_0797 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    titta (-r, -de, -t) förbi
+      FORMS: 
+      EN:    stop by
+      CHAPTER: 2 PAGE: 20 PDF: 8
+
+0098. riv_b_0798 [FORMS_INSIDE_SWEDISH]
+      SV:    höra (-hör, hörde, hört) av sig
+      FORMS: 
+      EN:    be in touch
+      CHAPTER: 2 PAGE: 20 PDF: 8
+
+0099. riv_b_0822 [FORMS_INSIDE_SWEDISH]
+      SV:    skilja (skiljer, skilde, skilt) sig
+      FORMS: 
+      EN:    divorce
+      CHAPTER: 2 PAGE: 24 PDF: 8
+
+0100. riv_b_0827 [FORMS_INSIDE_SWEDISH]
+      SV:    raka (-r, -de, -t) sig
+      FORMS: 
+      EN:    shave
+      CHAPTER: 2 PAGE: 24 PDF: 8
+
+0101. riv_b_0828 [FORMS_INSIDE_SWEDISH]
+      SV:    kamma (-r, -de, -t) sig
+      FORMS: 
+      EN:    comb one’s hair
+      CHAPTER: 2 PAGE: 24 PDF: 8
+
+0102. riv_b_0831 [POSSIBLY_CUT_ENGLISH]
+      SV:    borde
+      FORMS: 
+      EN:    should, ought to
+      CHAPTER: 2 PAGE: 24 PDF: 8
+
+0103. riv_b_0832 [FORMS_INSIDE_SWEDISH]
+      SV:    klippa (klipper, klippte, klippt) sig
+      FORMS: 
+      EN:    cut one’s hair
+      CHAPTER: 2 PAGE: 24 PDF: 8
+
+0104. riv_b_0833 [FORMS_INSIDE_SWEDISH]
+      SV:    tvätta (-r, -de, -t) sig
+      FORMS: 
+      EN:    wash
+      CHAPTER: 2 PAGE: 24 PDF: 8
+
+0105. riv_b_0837 [FORMS_INSIDE_SWEDISH]
+      SV:    låna (-r, -de, -t) ut
+      FORMS: 
+      EN:    lend
+      CHAPTER: 2 PAGE: 24 PDF: 8
+
+0106. riv_b_0839 [POSSIBLY_CUT_ENGLISH]
+      SV:    trots att
+      FORMS: 
+      EN:    in spite of
+      CHAPTER: 2 PAGE: 24 PDF: 8
+
+0107. riv_b_0842 [FORMS_INSIDE_SWEDISH]
+      SV:    ångra (-r, -de, -t) sig
+      FORMS: 
+      EN:    regret
+      CHAPTER: 2 PAGE: 24 PDF: 8
+
+0108. riv_b_0844 [FORMS_INSIDE_SWEDISH]
+      SV:    få (-r, fick, fått) tillbaka
+      FORMS: 
+      EN:    get back
+      CHAPTER: 2 PAGE: 22 PDF: 9
+
+0109. riv_b_0851 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    vara (är, var, varit) säker på
+      FORMS: 
+      EN:    be certain of
+      CHAPTER: 2 PAGE: 22 PDF: 9
+
+0110. riv_b_0853 [FORMS_INSIDE_SWEDISH]
+      SV:    gå (-r, gick, gått) ut
+      FORMS: 
+      EN:    go out
+      CHAPTER: 2 PAGE: 22 PDF: 9
+
+0111. riv_b_0856 [FORMS_INSIDE_SWEDISH]
+      SV:    skicka (-r, -de, -t) sms
+      FORMS: 
+      EN:    send sms
+      CHAPTER: 2 PAGE: 22 PDF: 9
+
+0112. riv_b_0857 [FORMS_INSIDE_SWEDISH]
+      SV:    gifta (gifter, gifte, gift) sig
+      FORMS: 
+      EN:    get married
+      CHAPTER: 2 PAGE: 22 PDF: 9
+
+0113. riv_b_0860 [FORMS_INSIDE_SWEDISH]
+      SV:    försova (försover, försov, försovit) sig
+      FORMS: 
+      EN:    oversleep
+      CHAPTER: 2 PAGE: 22 PDF: 9
+
+0114. riv_b_0861 [FORMS_INSIDE_SWEDISH]
+      SV:    koncentrera (-r, -de, -t) sig
+      FORMS: 
+      EN:    concentrate
+      CHAPTER: 2 PAGE: 22 PDF: 9
+
+0115. riv_b_0863 [FORMS_INSIDE_SWEDISH]
+      SV:    höra (hör, hörde, hört) till
+      FORMS: 
+      EN:    belong
+      CHAPTER: 2 PAGE: 22 PDF: 9
+
+0116. riv_b_0867 [FORMS_INSIDE_SWEDISH]
+      SV:    gå (-r, gick, gått) igenom
+      FORMS: 
+      EN:    go through
+      CHAPTER: 2 PAGE: 25 PDF: 9
+
+0117. riv_b_0871 [FORMS_INSIDE_SWEDISH]
+      SV:    lukta (-r, -de, -t) illa
+      FORMS: 
+      EN:    smell bad
+      CHAPTER: 2 PAGE: 25 PDF: 9
+
+0118. riv_b_0872 [FORMS_INSIDE_SWEDISH]
+      SV:    akta (-r, -de, -t) sig
+      FORMS: 
+      EN:    watch out
+      CHAPTER: 2 PAGE: 25 PDF: 9
+
+0119. riv_b_0877 [FORMS_INSIDE_SWEDISH]
+      SV:    aktivera (-r, -de, -t) sig
+      FORMS: 
+      EN:    get active
+      CHAPTER: 2 PAGE: 25 PDF: 9
+
+0120. riv_b_0908 [VERY_SHORT_ENGLISH]
+      SV:    oss
+      FORMS: 
+      EN:    us
+      CHAPTER: 2 PAGE: 26 PDF: 9
+
+0121. riv_b_0914 [POSSIBLY_CUT_ENGLISH]
+      SV:    intresserade av
+      FORMS: 
+      EN:    interested in
+      CHAPTER: 2 PAGE: 26 PDF: 9
+
+0122. riv_b_0921 [FORMS_INSIDE_SWEDISH]
+      SV:    höra (hör, hörde, hört) ihop
+      FORMS: 
+      EN:    belong together
+      CHAPTER: 2 PAGE: 27 PDF: 9
+
+0123. riv_b_0922 [FORMS_INSIDE_SWEDISH]
+      SV:    bestämma (bestämmer, bestämde, bestämt) sig
+      FORMS: 
+      EN:    make up
+      CHAPTER: 2 PAGE: 27 PDF: 9
+
+0124. riv_b_0923 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    bry (bryr, brydde, brytt) sig om
+      FORMS: 
+      EN:    care about
+      CHAPTER: 2 PAGE: 27 PDF: 9
+
+0125. riv_b_0924 [FORMS_INSIDE_SWEDISH, SOFT_HYPHEN]
+      SV:    förbereda (förbereder, förberedde, förberett) sig
+      FORMS: 
+      EN:    prepare one­
+      CHAPTER: 2 PAGE: 27 PDF: 9
+
+0126. riv_b_0925 [FORMS_INSIDE_SWEDISH]
+      SV:    lägga (lägger, lade/la, lagt) sig
+      FORMS: 
+      EN:    lie down, go to bed
+      CHAPTER: 2 PAGE: 27 PDF: 9
+
+0127. riv_b_0926 [FORMS_INSIDE_SWEDISH]
+      SV:    sätta (sätter, satte, suttit) sig
+      FORMS: 
+      EN:    sit down
+      CHAPTER: 2 PAGE: 27 PDF: 9
+
+0128. riv_b_0927 [FORMS_INSIDE_SWEDISH]
+      SV:    torka (-r, -de, -t) sig
+      FORMS: 
+      EN:    dry onself
+      CHAPTER: 2 PAGE: 27 PDF: 9
+
+0129. riv_b_0931 [FORMS_INSIDE_SWEDISH]
+      SV:    komma (kommer, kom, kommit) försent
+      FORMS: 
+      EN:    arrive late
+      CHAPTER: 2 PAGE: 27 PDF: 9
+
+0130. riv_b_0937 [SOFT_HYPHEN]
+      SV:    kulturpersonlighet
+      FORMS: -en, -er, -erna
+      EN:    cultural persona, someo­
+      CHAPTER: 2 PAGE: 28 PDF: 9
+
+0131. riv_b_0940 [POSSIBLY_CUT_ENGLISH]
+      SV:    med hjälp av
+      FORMS: 
+      EN:    with the help of
+      CHAPTER: 2 PAGE: 28 PDF: 9
+
+0132. riv_b_0981 [FORMS_INSIDE_SWEDISH]
+      SV:    lära (lär, lärde, lärt) sig
+      FORMS: 
+      EN:    learn
+      CHAPTER: 2 PAGE: 25 PDF: 10
+
+0133. riv_b_1035 [POSSIBLY_CUT_ENGLISH]
+      SV:    bli tvungen
+      FORMS: 
+      EN:    be forced to
+      CHAPTER: 2 PAGE: 28 PDF: 10
+
+0134. riv_b_1038 [POSSIBLY_CUT_ENGLISH]
+      SV:    långt ifrån
+      FORMS: 
+      EN:    far from
+      CHAPTER: 2 PAGE: 28 PDF: 10
+
+0135. riv_b_1047 [FORMS_INSIDE_SWEDISH]
+      SV:    be (ber, bad, bett) om hjälp
+      FORMS: 
+      EN:    ask for help
+      CHAPTER: 2 PAGE: 28 PDF: 10
+
+0136. riv_b_1065 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    njuta (njuter, njöt, njutit) av
+      FORMS: 
+      EN:    take pleasure in
+      CHAPTER: 2 PAGE: 29 PDF: 11
+
+0137. riv_b_1066 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    komma (kommer, kom, kommit) från
+      FORMS: 
+      EN:    come from
+      CHAPTER: 2 PAGE: 29 PDF: 11
+
+0138. riv_b_1067 [POSSIBLY_CUT_ENGLISH]
+      SV:    kuturintresserad
+      FORMS: -intresserat, -intresserade
+      EN:    interested in
+      CHAPTER: 2 PAGE: 29 PDF: 11
+
+0139. riv_b_1080 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    tröttna (-r, -de, -t) på
+      FORMS: 
+      EN:    grow tired of
+      CHAPTER: 2 PAGE: 29 PDF: 11
+
+0140. riv_b_1098 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    fokusera (-r, -de, -t) på
+      FORMS: 
+      EN:    focus on
+      CHAPTER: 2 PAGE: 29 PDF: 11
+
+0141. riv_b_1100 [FORMS_INSIDE_SWEDISH]
+      SV:    ställa (ställer, ställde, ställt) ut
+      FORMS: 
+      EN:    display
+      CHAPTER: 2 PAGE: 29 PDF: 11
+
+0142. riv_b_1106 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    handla (-r, -de, -t) om
+      FORMS: 
+      EN:    to be about
+      CHAPTER: 2 PAGE: 31 PDF: 11
+
+0143. riv_b_1112 [POSSIBLY_CUT_ENGLISH]
+      SV:    tvungen att
+      FORMS: 
+      EN:    be forced to
+      CHAPTER: 2 PAGE: 28 PDF: 11
+
+0144. riv_b_1158 [SOFT_HYPHEN]
+      SV:    Har du hört vad som har hänt?
+      FORMS: 
+      EN:    Have you heard what’s hap­
+      CHAPTER: 2 PAGE: 33 PDF: 11
+
+0145. riv_b_1174 [POSSIBLY_CUT_ENGLISH]
+      SV:    intill
+      FORMS: 
+      EN:    next to
+      CHAPTER: 3 PAGE: 34 PDF: 12
+
+0146. riv_b_1184 [POSSIBLY_CUT_ENGLISH]
+      SV:    antingen…eller
+      FORMS: 
+      EN:    either… or
+      CHAPTER: 3 PAGE: 34 PDF: 12
+
+0147. riv_b_1186 [POSSIBLY_CUT_ENGLISH]
+      SV:    både…och
+      FORMS: 
+      EN:    both… and
+      CHAPTER: 3 PAGE: 34 PDF: 12
+
+0148. riv_b_1189 [POSSIBLY_CUT_ENGLISH]
+      SV:    göra av med
+      FORMS: 
+      EN:    get rid of
+      CHAPTER: 3 PAGE: 34 PDF: 12
+
+0149. riv_b_1191 [FORMS_INSIDE_SWEDISH]
+      SV:    ta (-r, tog, tagit) bussen
+      FORMS: 
+      EN:    take the bus
+      CHAPTER: 3 PAGE: 35 PDF: 12
+
+0150. riv_b_1209 [FORMS_INSIDE_SWEDISH]
+      SV:    fira (-r, -de, -t) jul
+      FORMS: 
+      EN:    celebrate Christmas
+      CHAPTER: 3 PAGE: 36 PDF: 12
+
+0151. riv_b_1211 [POSSIBLY_CUT_ENGLISH]
+      SV:    drömmen om
+      FORMS: 
+      EN:    the dream of
+      CHAPTER: 3 PAGE: 36 PDF: 12
+
+0152. riv_b_1212 [POSSIBLY_CUT_ENGLISH]
+      SV:    hälften av
+      FORMS: 
+      EN:    half of
+      CHAPTER: 3 PAGE: 36 PDF: 12
+
+0153. riv_b_1228 [POSSIBLY_CUT_ENGLISH]
+      SV:    å ena sidan… å andra sidan
+      FORMS: 
+      EN:    on the one hand… on the
+      CHAPTER: 3 PAGE: 37 PDF: 12
+
+0154. riv_b_1252 [FORMS_INSIDE_SWEDISH]
+      SV:    ha (-r, hade, haft) råd
+      FORMS: 
+      EN:    afford
+      CHAPTER: 3 PAGE: 38 PDF: 12
+
+0155. riv_b_1263 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    hoppa (-r, -de, -t) upp ur
+      FORMS: 
+      EN:    jump out of
+      CHAPTER: 3 PAGE: 39 PDF: 13
+
+0156. riv_b_1264 [FORMS_INSIDE_SWEDISH]
+      SV:    ligga (ligger, låg, legat) kvar
+      FORMS: 
+      EN:    stay lying
+      CHAPTER: 3 PAGE: 39 PDF: 13
+
+0157. riv_b_1267 [FORMS_INSIDE_SWEDISH]
+      SV:    tänka (tänker, tänkte, tänkt) sig
+      FORMS: 
+      EN:    imagine
+      CHAPTER: 3 PAGE: 39 PDF: 13
+
+0158. riv_b_1284 [FORMS_INSIDE_SWEDISH]
+      SV:    vd (verkställande direktör)
+      FORMS: :n, :ar, :arna
+      EN:    CEO
+      CHAPTER: 3 PAGE: 39 PDF: 13
+
+0159. riv_b_1286 [FORMS_INSIDE_SWEDISH]
+      SV:    kräva (kräver, krävde, krävt) att
+      FORMS: 
+      EN:    require that
+      CHAPTER: 3 PAGE: 39 PDF: 13
+
+0160. riv_b_1291 [FORMS_INSIDE_SWEDISH]
+      SV:    bör (borde) ha
+      FORMS: 
+      EN:    should have
+      CHAPTER: 3 PAGE: 39 PDF: 13
+
+0161. riv_b_1306 [FORMS_INSIDE_SWEDISH]
+      SV:    studera (-r, -de, -t) på universitet
+      FORMS: 
+      EN:    study at university
+      CHAPTER: 3 PAGE: 41 PDF: 13
+
+0162. riv_b_1307 [FORMS_INSIDE_SWEDISH]
+      SV:    skilja (skiljer, skilde, skilt) sig åt
+      FORMS: 
+      EN:    separate
+      CHAPTER: 3 PAGE: 41 PDF: 13
+
+0163. riv_b_1309 [POSSIBLY_CUT_ENGLISH]
+      SV:    ha olika syn på
+      FORMS: 
+      EN:    have different ideas about
+      CHAPTER: 3 PAGE: 41 PDF: 13
+
+0164. riv_b_1311 [POSSIBLY_CUT_ENGLISH]
+      SV:    mitt i
+      FORMS: 
+      EN:    in the middle of
+      CHAPTER: 3 PAGE: 41 PDF: 13
+
+0165. riv_b_1329 [POSSIBLY_CUT_ENGLISH]
+      SV:    i slutet på
+      FORMS: 
+      EN:    at the end of
+      CHAPTER: 3 PAGE: 42 PDF: 13
+
+0166. riv_b_1335 [POSSIBLY_CUT_ENGLISH]
+      SV:    gå ner till
+      FORMS: minska
+      EN:    decrease to
+      CHAPTER: 3 PAGE: 42 PDF: 13
+
+0167. riv_b_1342 [POSSIBLY_CUT_ENGLISH]
+      SV:    oberoende av
+      FORMS: 
+      EN:    independently of
+      CHAPTER: 3 PAGE: 42 PDF: 13
+
+0168. riv_b_1347 [POSSIBLY_CUT_ENGLISH]
+      SV:    när det gäller
+      FORMS: 
+      EN:    when it comes to
+      CHAPTER: 3 PAGE: 42 PDF: 13
+
+0169. riv_b_1349 [FORMS_INSIDE_SWEDISH]
+      SV:    koka (-r, -de, -t) sylt
+      FORMS: 
+      EN:    make jam
+      CHAPTER: 3 PAGE: 42 PDF: 13
+
+0170. riv_b_1350 [POSSIBLY_CUT_ENGLISH]
+      SV:    en massa
+      FORMS: 
+      EN:    a lot of
+      CHAPTER: 3 PAGE: 42 PDF: 13
+
+0171. riv_b_1371 [FORMS_INSIDE_SWEDISH]
+      SV:    vara (är, var, varit) utan
+      FORMS: 
+      EN:    be without
+      CHAPTER: 4 PAGE: 41 PDF: 14
+
+0172. riv_b_1380 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    vara (är, var, varit) lik
+      FORMS: 
+      EN:    be similar to
+      CHAPTER: 4 PAGE: 43 PDF: 14
+
+0173. riv_b_1391 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    forska (-r, -de, -t) om
+      FORMS: 
+      EN:    research on
+      CHAPTER: 4 PAGE: 44 PDF: 14
+
+0174. riv_b_1396 [POSSIBLY_CUT_ENGLISH]
+      SV:    vänja
+      FORMS: vänjer, vande, vant
+      EN:    become used to
+      CHAPTER: 4 PAGE: 44 PDF: 14
+
+0175. riv_b_1397 [POSSIBLY_CUT_ENGLISH]
+      SV:    vänja sig vid
+      FORMS: 
+      EN:    become used to
+      CHAPTER: 4 PAGE: 44 PDF: 14
+
+0176. riv_b_1425 [POSSIBLY_CUT_ENGLISH]
+      SV:    ta hand om
+      FORMS: 
+      EN:    take care of
+      CHAPTER: 4 PAGE: 42 PDF: 14
+
+0177. riv_b_1427 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    sköta (sköter, skötte, skött) om
+      FORMS: 
+      EN:    care for
+      CHAPTER: 4 PAGE: 42 PDF: 14
+
+0178. riv_b_1428 [FORMS_INSIDE_SWEDISH]
+      SV:    ligga (ligger, låg, legat) vaken
+      FORMS: 
+      EN:    lie awake
+      CHAPTER: 4 PAGE: 42 PDF: 14
+
+0179. riv_b_1430 [FORMS_INSIDE_SWEDISH]
+      SV:    öva (-r, -de, -t) på
+      FORMS: 
+      EN:    practice
+      CHAPTER: 4 PAGE: 42 PDF: 14
+
+0180. riv_b_1431 [FORMS_INSIDE_SWEDISH]
+      SV:    längta (-r, -de, -t) efter
+      FORMS: 
+      EN:    long for, miss
+      CHAPTER: 4 PAGE: 42 PDF: 14
+
+0181. riv_b_1432 [FORMS_INSIDE_SWEDISH]
+      SV:    hålla (håller, höll, hållit) upp dörren
+      FORMS: 
+      EN:    hold the door
+      CHAPTER: 4 PAGE: 42 PDF: 14
+
+0182. riv_b_1472 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    drömma (om)
+      FORMS: drömmer, drömde, drömt
+      EN:    dream of
+      CHAPTER: 4 PAGE: 47 PDF: 14
+
+0183. riv_b_1474 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    gå (-r, gick, gått) förbi
+      FORMS: 
+      EN:    walk by
+      CHAPTER: 4 PAGE: 44 PDF: 15
+
+0184. riv_b_1477 [POSSIBLY_CUT_ENGLISH]
+      SV:    gå ut med
+      FORMS: 
+      EN:    go out with
+      CHAPTER: 4 PAGE: 44 PDF: 15
+
+0185. riv_b_1479 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    vara (är, var, varit) rädd
+      FORMS: för
+      EN:    be afraid of
+      CHAPTER: 4 PAGE: 44 PDF: 15
+
+0186. riv_b_1481 [FORMS_INSIDE_SWEDISH]
+      SV:    växa (växer, växte, växt) upp
+      FORMS: 
+      EN:    grow up
+      CHAPTER: 4 PAGE: 44 PDF: 15
+
+0187. riv_b_1482 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    stirra (-r, -de, -t)
+      FORMS: på
+      EN:    stare at
+      CHAPTER: 4 PAGE: 44 PDF: 15
+
+0188. riv_b_1483 [FORMS_INSIDE_SWEDISH]
+      SV:    spola (-r, -de, -t) ner
+      FORMS: 
+      EN:    flush down
+      CHAPTER: 4 PAGE: 44 PDF: 15
+
+0189. riv_b_1503 [VERY_SHORT_ENGLISH]
+      SV:    oxe
+      FORMS: -n, oxar, oxarna
+      EN:    ox
+      CHAPTER: 4 PAGE: 48 PDF: 15
+
+0190. riv_b_1549 [FORMS_INSIDE_SWEDISH]
+      SV:    närma (-r, -de, -t) sig
+      FORMS: 
+      EN:    approach
+      CHAPTER: 4 PAGE: 50 PDF: 15
+
+0191. riv_b_1553 [FORMS_INSIDE_SWEDISH]
+      SV:    göra (gör, gjorde, gjort) ont
+      FORMS: 
+      EN:    to hurt
+      CHAPTER: 4 PAGE: 50 PDF: 15
+
+0192. riv_b_1556 [FORMS_INSIDE_SWEDISH]
+      SV:    svullna (-r, -de, -t) upp
+      FORMS: 
+      EN:    to swell
+      CHAPTER: 4 PAGE: 50 PDF: 15
+
+0193. riv_b_1564 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    allergisk (-t, -a) mot
+      FORMS: 
+      EN:    allergic to
+      CHAPTER: 4 PAGE: 50 PDF: 15
+
+0194. riv_b_1601 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    sluta (-r, -de, -t) på
+      FORMS: 
+      EN:    end on
+      CHAPTER: 4 PAGE: 51 PDF: 16
+
+0195. riv_b_1607 [FORMS_INSIDE_SWEDISH]
+      SV:    spela (-r, -de, -t) in
+      FORMS: 
+      EN:    record
+      CHAPTER: 4 PAGE: 52 PDF: 16
+
+0196. riv_b_1612 [FORMS_INSIDE_SWEDISH]
+      SV:    resa (reser, reste, rest) sig
+      FORMS: 
+      EN:    stand up
+      CHAPTER: 4 PAGE: 52 PDF: 16
+
+0197. riv_b_1617 [POSSIBLY_CUT_ENGLISH]
+      SV:    i närheten
+      FORMS: 
+      EN:    close by
+      CHAPTER: 4 PAGE: 52 PDF: 16
+
+0198. riv_b_1623 [FORMS_INSIDE_SWEDISH]
+      SV:    stå (står, stod, stått) på menyn
+      FORMS: 
+      EN:    to be on the menu
+      CHAPTER: 4 PAGE: 52 PDF: 16
+
+0199. riv_b_1653 [FORMS_INSIDE_SWEDISH]
+      SV:    klappa (-r, -de, -t) i händerna
+      FORMS: 
+      EN:    clap hands
+      CHAPTER: 4 PAGE: 50 PDF: 16
+
+0200. riv_b_1661 [FORMS_INSIDE_SWEDISH]
+      SV:    följa (följer, följde, följt) efter
+      FORMS: 
+      EN:    to follow
+      CHAPTER: 4 PAGE: 53 PDF: 16
+
+0201. riv_b_1675 [POSSIBLY_CUT_ENGLISH]
+      SV:    komma från
+      FORMS: 
+      EN:    come from
+      CHAPTER: 4 PAGE: 53 PDF: 16
+
+0202. riv_b_1706 [POSSIBLY_CUT_ENGLISH]
+      SV:    släkt med
+      FORMS: 
+      EN:    related to
+      CHAPTER: 4 PAGE: 52 PDF: 17
+
+0203. riv_b_1717 [FORMS_INSIDE_SWEDISH]
+      SV:    ramla (-r, -de, -t) av
+      FORMS: 
+      EN:    fall off
+      CHAPTER: 4 PAGE: 54 PDF: 17
+
+0204. riv_b_1718 [FORMS_INSIDE_SWEDISH]
+      SV:    bryta (bryter, bröt, brutit) nacken
+      FORMS: 
+      EN:    break one’s neck
+      CHAPTER: 4 PAGE: 54 PDF: 17
+
+0205. riv_b_1719 [FORMS_INSIDE_SWEDISH]
+      SV:    hålla (håller, höll, hållit) i fångenskap
+      FORMS: 
+      EN:    hold captive
+      CHAPTER: 4 PAGE: 54 PDF: 17
+
+0206. riv_b_1735 [FORMS_INSIDE_SWEDISH]
+      SV:    vända (vänder, vände, vänt) sig om
+      FORMS: 
+      EN:    turn around
+      CHAPTER: 4 PAGE: 54 PDF: 17
+
+0207. riv_b_1738 [FORMS_INSIDE_SWEDISH]
+      SV:    spela (-r, -de, -t) död
+      FORMS: 
+      EN:    play dead
+      CHAPTER: 4 PAGE: 54 PDF: 17
+
+0208. riv_b_1758 [SOFT_HYPHEN]
+      SV:    partikel
+      FORMS: partikeln, partiklar, partiklarna
+      EN:    grammatical par­
+      CHAPTER: 4 PAGE: 55 PDF: 17
+
+0209. riv_b_1760 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    stöta (stöter, stötte, stött) på
+      FORMS: 
+      EN:    flirt with, hit on
+      CHAPTER: 4 PAGE: 55 PDF: 17
+
+0210. riv_b_1779 [SWEDISH_ENDS_HYPHEN]
+      SV:    jätte-
+      FORMS: 
+      EN:    really…
+      CHAPTER: 4 PAGE: 56 PDF: 17
+
+0211. riv_b_1794 [ENGLISH_ENDS_HYPHEN, SWEDISH_ENDS_HYPHEN]
+      SV:    fylle-
+      FORMS: älg
+      EN:    drunk-
+      CHAPTER: 5 PAGE: 54 PDF: 18
+
+0212. riv_b_1805 [POSSIBLY_CUT_ENGLISH]
+      SV:    bilda grunden för
+      FORMS: 
+      EN:    make up the foundation of
+      CHAPTER: 5 PAGE: 54 PDF: 18
+
+0213. riv_b_1809 [FORMS_INSIDE_SWEDISH]
+      SV:    plantera (-r, -de, -t) in
+      FORMS: 
+      EN:    plant
+      CHAPTER: 5 PAGE: 54 PDF: 18
+
+0214. riv_b_1825 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    tala (-r, -de, -t) för
+      FORMS: 
+      EN:    speak for
+      CHAPTER: 5 PAGE: 54 PDF: 18
+
+0215. riv_b_1850 [VERY_SHORT_ENGLISH]
+      SV:    teveapparat
+      FORMS: -en, -er, -erna
+      EN:    TV
+      CHAPTER: 5 PAGE: 57 PDF: 18
+
+0216. riv_b_1869 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    bidra (bidrar, bidrog, bidragit) till
+      FORMS: 
+      EN:    contribute to
+      CHAPTER: 5 PAGE: 60 PDF: 18
+
+0217. riv_b_1903 [POSSIBLY_CUT_ENGLISH]
+      SV:    hemma hos
+      FORMS: 
+      EN:    in the home of
+      CHAPTER: 5 PAGE: 59 PDF: 19
+
+0218. riv_b_1940 [FORMS_INSIDE_SWEDISH]
+      SV:    hälsa (-r, -de, -t) på
+      FORMS: 
+      EN:    visit
+      CHAPTER: 5 PAGE: 63 PDF: 19
+
+0219. riv_b_1945 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    komma (kommer, kom, kommit) på
+      FORMS: 
+      EN:    think of
+      CHAPTER: 5 PAGE: 63 PDF: 19
+
+0220. riv_b_1947 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    kolla (-r, -de, -t) med
+      FORMS: 
+      EN:    check with
+      CHAPTER: 5 PAGE: 63 PDF: 19
+
+0221. riv_b_1948 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    hänga (-er, hängde, hängt) med
+      FORMS: 
+      EN:    join, hang out with
+      CHAPTER: 5 PAGE: 61 PDF: 19
+
+0222. riv_b_1949 [FORMS_INSIDE_SWEDISH]
+      SV:    ha (har, hade, haft) skoj
+      FORMS: 
+      EN:    have a good time
+      CHAPTER: 5 PAGE: 61 PDF: 19
+
+0223. riv_b_1952 [VERY_SHORT_ENGLISH]
+      SV:    genom att
+      FORMS: 
+      EN:    by
+      CHAPTER: 5 PAGE: 61 PDF: 19
+
+0224. riv_b_1953 [POSSIBLY_CUT_ENGLISH]
+      SV:    istället för
+      FORMS: 
+      EN:    instead of
+      CHAPTER: 5 PAGE: 61 PDF: 19
+
+0225. riv_b_1968 [VERY_SHORT_ENGLISH]
+      SV:    om
+      FORMS: utifall
+      EN:    if
+      CHAPTER: 5 PAGE: 64 PDF: 19
+
+0226. riv_b_1971 [FORMS_INSIDE_SWEDISH]
+      SV:    stanna (-r, -de, -t) hemma
+      FORMS: 
+      EN:    stay home
+      CHAPTER: 5 PAGE: 64 PDF: 19
+
+0227. riv_b_1974 [FORMS_INSIDE_SWEDISH]
+      SV:    ändra (-r, -de, -t) på
+      FORMS: 
+      EN:    change
+      CHAPTER: 5 PAGE: 64 PDF: 19
+
+0228. riv_b_1987 [SOFT_HYPHEN]
+      SV:    Vet du vad jag gjorde igår…?
+      FORMS: 
+      EN:    Do you know what I did yes­
+      CHAPTER: 5 PAGE: 65 PDF: 19
+
+0229. riv_b_1990 [FORMS_INSIDE_SWEDISH]
+      SV:    dela (-r, -de, -t) ut
+      FORMS: 
+      EN:    distribute
+      CHAPTER: 5 PAGE: 65 PDF: 19
+
+0230. riv_b_1991 [FORMS_INSIDE_SWEDISH]
+      SV:    lämna (-r, -de, -t) tillbaka
+      FORMS: 
+      EN:    give back
+      CHAPTER: 5 PAGE: 66 PDF: 19
+
+0231. riv_b_2016 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    peka (-r, -de, -t) på
+      FORMS: 
+      EN:    to point at
+      CHAPTER: 5 PAGE: 67 PDF: 20
+
+0232. riv_b_2019 [FORMS_INSIDE_SWEDISH]
+      SV:    plocka (-r, -de, -t) ihop
+      FORMS: 
+      EN:    pack up
+      CHAPTER: 5 PAGE: 67 PDF: 20
+
+0233. riv_b_2062 [FORMS_INSIDE_SWEDISH]
+      SV:    gå (-r, gick, gått) på bio
+      FORMS: 
+      EN:    go to the cinema
+      CHAPTER: 5 PAGE: 68 PDF: 20
+
+0234. riv_b_2067 [FORMS_INSIDE_SWEDISH]
+      SV:    bita (biter, bet, bitit) på naglarna
+      FORMS: 
+      EN:    to bite one’s nails
+      CHAPTER: 5 PAGE: 68 PDF: 20
+
+0235. riv_b_2070 [FORMS_INSIDE_SWEDISH]
+      SV:    peta (-r, -de, -t) sig i näsan
+      FORMS: 
+      EN:    to pick one’s nose
+      CHAPTER: 5 PAGE: 68 PDF: 20
+
+0236. riv_b_2093 [FORMS_INSIDE_SWEDISH]
+      SV:    alkis (-en, -ar, -arna) /alkoholist
+      FORMS: -en, -er, -erna
+      EN:    alcoholic
+      CHAPTER: 5 PAGE: 69 PDF: 20
+
+0237. riv_b_2096 [FORMS_INSIDE_SWEDISH]
+      SV:    flintis (-en, -ar, -arna) /flintskallig
+      FORMS: -a
+      EN:    someone who is bald
+      CHAPTER: 5 PAGE: 69 PDF: 20
+
+0238. riv_b_2099 [BROKEN_PARENTHESES_ENGLISH, POSSIBLY_CUT_ENGLISH]
+      SV:    bokstav
+      FORMS: bokstaven, bokstäver, bokstäverna
+      EN:    letter (of the
+      CHAPTER: 5 PAGE: 70 PDF: 20
+
+0239. riv_b_2100 [VERY_SHORT_ENGLISH]
+      SV:    vid
+      FORMS: 
+      EN:    by
+      CHAPTER: 5 PAGE: 67 PDF: 21
+
+0240. riv_b_2106 [FORMS_INSIDE_SWEDISH]
+      SV:    sprida (sprider, spridde, spridit) sig
+      FORMS: 
+      EN:    spread
+      CHAPTER: 5 PAGE: 67 PDF: 21
+
+0241. riv_b_2107 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    leva (lever, levde, levt) kvar
+      FORMS: 
+      EN:    live on
+      CHAPTER: 5 PAGE: 67 PDF: 21
+
+0242. riv_b_2111 [FORMS_INSIDE_SWEDISH]
+      SV:    hålla (håller, höll, hållit) ren
+      FORMS: 
+      EN:    keep clean
+      CHAPTER: 5 PAGE: 67 PDF: 21
+
+0243. riv_b_2131 [FORMS_INSIDE_SWEDISH]
+      SV:    visa (-r, -de, -t) sig
+      FORMS: 
+      EN:    show itself, turn out
+      CHAPTER: 5 PAGE: 67 PDF: 21
+
+0244. riv_b_2152 [SOFT_HYPHEN]
+      SV:    sockerbagare
+      FORMS: sockerbagaren, -, sockerbagarna
+      EN:    confectio­
+      CHAPTER: 5 PAGE: 71 PDF: 21
+
+0245. riv_b_2170 [POSSIBLY_CUT_ENGLISH]
+      SV:    mot slutet av
+      FORMS: 
+      EN:    towards the end of
+      CHAPTER: 5 PAGE: 70 PDF: 21
+
+0246. riv_b_2171 [POSSIBLY_CUT_ENGLISH]
+      SV:    tack vare
+      FORMS: 
+      EN:    thanks to
+      CHAPTER: 5 PAGE: 70 PDF: 21
+
+0247. riv_b_2198 [POSSIBLY_CUT_ENGLISH]
+      SV:    få tag på
+      FORMS: 
+      EN:    get hold of
+      CHAPTER: 5 PAGE: 70 PDF: 21
+
+0248. riv_b_2238 [SOFT_HYPHEN]
+      SV:    finansminister
+      FORMS: -n, finansministrar, finansministrarna
+      EN:    minis­
+      CHAPTER: 6 PAGE: 74 PDF: 22
+
+0249. riv_b_2240 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    köra (kör, körde, kört) på
+      FORMS: 
+      EN:    crash into
+      CHAPTER: 6 PAGE: 74 PDF: 22
+
+0250. riv_b_2252 [FORMS_INSIDE_SWEDISH]
+      SV:    bli (blir, blev, blivit) vald
+      FORMS: 
+      EN:    to be elected
+      CHAPTER: 6 PAGE: 75 PDF: 22
+
+0251. riv_b_2256 [POSSIBLY_CUT_ENGLISH]
+      SV:    gift med
+      FORMS: 
+      EN:    married to
+      CHAPTER: 6 PAGE: 75 PDF: 22
+
+0252. riv_b_2267 [FORMS_INSIDE_SWEDISH]
+      SV:    vara (är, var, varit) beredd
+      FORMS: 
+      EN:    be prepared
+      CHAPTER: 6 PAGE: 70 PDF: 22
+
+0253. riv_b_2277 [FORMS_INSIDE_SWEDISH]
+      SV:    gå (-r, gick, gått) i arv
+      FORMS: 
+      EN:    to be inherited
+      CHAPTER: 6 PAGE: 70 PDF: 22
+
+0254. riv_b_2279 [POSSIBLY_CUT_ENGLISH]
+      SV:    efterträda
+      FORMS: efterträder, efterträdde, efterträtt
+      EN:    to succeed, to
+      CHAPTER: 6 PAGE: 70 PDF: 22
+
+0255. riv_b_2305 [FORMS_INSIDE_SWEDISH]
+      SV:    stanna (-r, -de, -t) upp
+      FORMS: 
+      EN:    to stop, pause
+      CHAPTER: 6 PAGE: 77 PDF: 22
+
+0256. riv_b_2306 [POSSIBLY_CUT_ENGLISH]
+      SV:    vid
+      FORMS: 
+      EN:    next to, by
+      CHAPTER: 6 PAGE: 77 PDF: 22
+
+0257. riv_b_2307 [POSSIBLY_CUT_ENGLISH]
+      SV:    vidare
+      FORMS: 
+      EN:    further, on
+      CHAPTER: 6 PAGE: 77 PDF: 22
+
+0258. riv_b_2326 [SOFT_HYPHEN]
+      SV:    tilläggspension
+      FORMS: -en, -er, -erna
+      EN:    supplementary, income-ba­
+      CHAPTER: 6 PAGE: 75 PDF: 23
+
+0259. riv_b_2332 [POSSIBLY_CUT_ENGLISH]
+      SV:    komma in i
+      FORMS: 
+      EN:    come into
+      CHAPTER: 6 PAGE: 75 PDF: 23
+
+0260. riv_b_2336 [FORMS_INSIDE_SWEDISH]
+      SV:    åka (åker, åkte, åkt) ur
+      FORMS: 
+      EN:    be kicked out
+      CHAPTER: 6 PAGE: 75 PDF: 23
+
+0261. riv_b_2354 [FORMS_INSIDE_SWEDISH]
+      SV:    sitta (sitter, satt, suttit) vid makten
+      FORMS: 
+      EN:    to be in power
+      CHAPTER: 6 PAGE: 78 PDF: 23
+
+0262. riv_b_2361 [FORMS_INSIDE_SWEDISH]
+      SV:    ta (-r, tog, tagit) över
+      FORMS: 
+      EN:    take over
+      CHAPTER: 6 PAGE: 78 PDF: 23
+
+0263. riv_b_2368 [POSSIBLY_CUT_ENGLISH]
+      SV:    ha rötterna i
+      FORMS: 
+      EN:    have one’s roots in
+      CHAPTER: 6 PAGE: 77 PDF: 23
+
+0264. riv_b_2370 [FORMS_INSIDE_SWEDISH]
+      SV:    dyka (dyker, dök, dykt) upp
+      FORMS: 
+      EN:    show up
+      CHAPTER: 6 PAGE: 79 PDF: 23
+
+0265. riv_b_2383 [FORMS_INSIDE_SWEDISH]
+      SV:    släppa (släpper, släppte, släppt) ut
+      FORMS: 
+      EN:    let out
+      CHAPTER: 6 PAGE: 79 PDF: 23
+
+0266. riv_b_2387 [FORMS_INSIDE_SWEDISH]
+      SV:    dö (-r, dog, dött) ut
+      FORMS: 
+      EN:    die out
+      CHAPTER: 6 PAGE: 79 PDF: 23
+
+0267. riv_b_2392 [FORMS_INSIDE_SWEDISH]
+      SV:    sätta (sätter, satte, satt) upp
+      FORMS: 
+      EN:    put up
+      CHAPTER: 6 PAGE: 79 PDF: 23
+
+0268. riv_b_2394 [FORMS_INSIDE_SWEDISH]
+      SV:    ställa (ställer, ställde, ställt) sig
+      FORMS: 
+      EN:    stand up
+      CHAPTER: 6 PAGE: 79 PDF: 23
+
+0269. riv_b_2402 [FORMS_INSIDE_SWEDISH]
+      SV:    dra (drar, drog, dragit) streck
+      FORMS: 
+      EN:    draw a line
+      CHAPTER: 6 PAGE: 80 PDF: 23
+
+0270. riv_b_2404 [POSSIBLY_CUT_ENGLISH]
+      SV:    detsamma som
+      FORMS: 
+      EN:    the same as
+      CHAPTER: 6 PAGE: 80 PDF: 23
+
+0271. riv_b_2420 [POSSIBLY_CUT_ENGLISH]
+      SV:    inför
+      FORMS: 
+      EN:    before, in front of
+      CHAPTER: 7 PAGE: 81 PDF: 24
+
+0272. riv_b_2423 [FORMS_INSIDE_SWEDISH]
+      SV:    hålla (håller, höll, hållit) på med
+      FORMS: 
+      EN:    to do, to occupy oneself
+      CHAPTER: 7 PAGE: 81 PDF: 24
+
+0273. riv_b_2441 [POSSIBLY_CUT_ENGLISH]
+      SV:    stå över
+      FORMS: 
+      EN:    be superior to
+      CHAPTER: 7 PAGE: 82 PDF: 24
+
+0274. riv_b_2448 [POSSIBLY_CUT_ENGLISH]
+      SV:    ha hand om
+      FORMS: 
+      EN:    to be responsible for
+      CHAPTER: 7 PAGE: 83 PDF: 24
+
+0275. riv_b_2460 [POSSIBLY_CUT_ENGLISH]
+      SV:    motion
+      FORMS: -en, -er, -erna
+      EN:    bill proposed by members of
+      CHAPTER: 7 PAGE: 84 PDF: 24
+
+0276. riv_b_2464 [FORMS_INSIDE_SWEDISH]
+      SV:    block (-et, –, -en)
+      FORMS: politiskt block
+      EN:    political block
+      CHAPTER: 7 PAGE: 80 PDF: 24
+
+0277. riv_b_2486 [POSSIBLY_CUT_ENGLISH]
+      SV:    motsvara
+      FORMS: -r, -de, -t
+      EN:    correspond to
+      CHAPTER: 7 PAGE: 85 PDF: 24
+
+0278. riv_b_2498 [SOFT_HYPHEN]
+      SV:    funktionshinder
+      FORMS: funktionshindret, -, funktionshindren
+      EN:    disa­
+      CHAPTER: 7 PAGE: 85 PDF: 24
+
+0279. riv_b_2514 [FORMS_INSIDE_SWEDISH]
+      SV:    trä (-r, -dde, -tt) upp
+      FORMS: 
+      EN:    thread
+      CHAPTER: 7 PAGE: 84 PDF: 25
+
+0280. riv_b_2528 [FORMS_INSIDE_SWEDISH]
+      SV:    hålla (håller, höll, hållit) hemlig
+      FORMS: eller hemlighålla
+      EN:    keep secret
+      CHAPTER: 7 PAGE: 87 PDF: 25
+
+0281. riv_b_2536 [FORMS_INSIDE_SWEDISH]
+      SV:    kallas (kallades, kallats)för
+      FORMS: 
+      EN:    to be called
+      CHAPTER: 7 PAGE: 87 PDF: 25
+
+0282. riv_b_2541 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    gå (-r, gick, gått) ur
+      FORMS: 
+      EN:    withdraw from
+      CHAPTER: 7 PAGE: 87 PDF: 25
+
+0283. riv_b_2545 [FORMS_INSIDE_SWEDISH]
+      SV:    slå (slår, slog, slagit) upp
+      FORMS: 
+      EN:    look up
+      CHAPTER: 7 PAGE: 87 PDF: 25
+
+0284. riv_b_2547 [FORMS_INSIDE_SWEDISH]
+      SV:    gå (-r, gick, gått) vilse
+      FORMS: 
+      EN:    get lost
+      CHAPTER: 7 PAGE: 87 PDF: 25
+
+0285. riv_b_2552 [FORMS_INSIDE_SWEDISH]
+      SV:    ta (-r, tog, tagit) ett dopp
+      FORMS: 
+      EN:    take a dip, go for a swim
+      CHAPTER: 7 PAGE: 87 PDF: 25
+
+0286. riv_b_2556 [FORMS_INSIDE_SWEDISH]
+      SV:    spela (-r, -de, -t) in
+      FORMS: 
+      EN:    record
+      CHAPTER: 7 PAGE: 87 PDF: 25
+
+0287. riv_b_2558 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    titta (-r, -de, -t) in
+      FORMS: 
+      EN:    look in
+      CHAPTER: 7 PAGE: 87 PDF: 25
+
+0288. riv_b_2560 [FORMS_INSIDE_SWEDISH]
+      SV:    komma (kommer, kom, kommit) fram
+      FORMS: 
+      EN:    arrive
+      CHAPTER: 7 PAGE: 88 PDF: 25
+
+0289. riv_b_2599 [POSSIBLY_CUT_ENGLISH]
+      SV:    känna
+      FORMS: känner, kände, känt
+      EN:    till to be familiar with
+      CHAPTER: 7 PAGE: 89 PDF: 25
+
+0290. riv_b_2610 [SOFT_HYPHEN]
+      SV:    dagdrömma
+      FORMS: dagdrömmer, dagdrömde, dagdrömt
+      EN:    daydre­
+      CHAPTER: 7 PAGE: 89 PDF: 25
+
+0291. riv_b_2611 [FORMS_INSIDE_SWEDISH, BROKEN_PARENTHESES_SWEDISH]
+      SV:    na)
+      FORMS: 
+      EN:    actress
+      CHAPTER: 7 PAGE: 89 PDF: 25
+
+0292. riv_b_2614 [SOFT_HYPHEN]
+      SV:    släktkrönika
+      FORMS: -n, släktkrönikor, släktkrönikorna
+      EN:    family chro­
+      CHAPTER: 7 PAGE: 89 PDF: 25
+
+0293. riv_b_2619 [FORMS_INSIDE_SWEDISH]
+      SV:    lyckligt (-t, -a) slut
+      FORMS: 
+      EN:    happy ending
+      CHAPTER: 7 PAGE: 88 PDF: 26
+
+0294. riv_b_2620 [POSSIBLY_CUT_ENGLISH]
+      SV:    gå tillbaka till det normala/vanliga
+      FORMS: 
+      EN:    go back to normal, to
+      CHAPTER: 7 PAGE: 88 PDF: 26
+
+0295. riv_b_2639 [FORMS_INSIDE_SWEDISH]
+      SV:    söka (söker, sökte, sökt) kontakt
+      FORMS: 
+      EN:    make contact
+      CHAPTER: 7 PAGE: 90 PDF: 26
+
+0296. riv_b_2683 [SOFT_HYPHEN]
+      SV:    landskapsblomma
+      FORMS: -n, -blommor, blommorna
+      EN:    official coun­
+      CHAPTER: 7 PAGE: 92 PDF: 26
+
+0297. riv_b_2707 [FORMS_INSIDE_SWEDISH]
+      SV:    glida (glider, gled, glidit) fram
+      FORMS: 
+      EN:    to glide
+      CHAPTER: 7 PAGE: 93 PDF: 26
+
+0298. riv_b_2723 [FORMS_INSIDE_SWEDISH]
+      SV:    roa (-r, -de, -t) sig
+      FORMS: 
+      EN:    enjoy oneself
+      CHAPTER: 7 PAGE: 90 PDF: 27
+
+0299. riv_b_2727 [FORMS_INSIDE_SWEDISH]
+      SV:    boka (-r, -de, -t) boende
+      FORMS: 
+      EN:    book a room/place to live
+      CHAPTER: 7 PAGE: 90 PDF: 27
+
+0300. riv_b_2729 [FORMS_INSIDE_SWEDISH]
+      SV:    missa (-r, -de, -t) inte
+      FORMS: 
+      EN:    don’t miss
+      CHAPTER: 7 PAGE: 90 PDF: 27
+
+0301. riv_b_2731 [POSSIBLY_CUT_ENGLISH]
+      SV:    på order av
+      FORMS: 
+      EN:    by the order of
+      CHAPTER: 7 PAGE: 90 PDF: 27
+
+0302. riv_b_2744 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    fungera (-r, -de, -t) som
+      FORMS: 
+      EN:    function as
+      CHAPTER: 7 PAGE: 90 PDF: 27
+
+0303. riv_b_2746 [FORMS_INSIDE_SWEDISH]
+      SV:    följa (följer, följde, följt) med
+      FORMS: 
+      EN:    follow
+      CHAPTER: 7 PAGE: 90 PDF: 27
+
+0304. riv_b_2780 [FORMS_INSIDE_SWEDISH]
+      SV:    fiska (-r, -de, -t) krabba
+      FORMS: 
+      EN:    fishing for crabs
+      CHAPTER: 7 PAGE: 93 PDF: 27
+
+0305. riv_b_2790 [POSSIBLY_CUT_ENGLISH]
+      SV:    en del av
+      FORMS: 
+      EN:    a part of
+      CHAPTER: 7 PAGE: 93 PDF: 27
+
+0306. riv_b_2798 [FORMS_INSIDE_SWEDISH]
+      SV:    åka (åker, åkte, åkt) skidor
+      FORMS: 
+      EN:    skiing
+      CHAPTER: 7 PAGE: 93 PDF: 27
+
+0307. riv_b_2803 [FORMS_INSIDE_SWEDISH]
+      SV:    pussa (-r, -de, -t) på
+      FORMS: 
+      EN:    give kisses
+      CHAPTER: 7 PAGE: 93 PDF: 27
+
+0308. riv_b_2815 [POSSIBLY_CUT_ENGLISH]
+      SV:    fyllda av
+      FORMS: 
+      EN:    filled with
+      CHAPTER: 7 PAGE: 95 PDF: 27
+
+0309. riv_b_2821 [FORMS_INSIDE_SWEDISH]
+      SV:    vandra (-r, -de, -t) i fjällen
+      FORMS: 
+      EN:    hike in the mountains
+      CHAPTER: 7 PAGE: 95 PDF: 27
+
+0310. riv_b_2823 [SOFT_HYPHEN]
+      SV:    mountainbike
+      FORMS: -n, mountainbikar, mountainbikarna
+      EN:    moun­
+      CHAPTER: 7 PAGE: 95 PDF: 27
+
+0311. riv_b_2828 [SOFT_HYPHEN]
+      SV:    lokalproducerad
+      FORMS: -producerat, -producerade
+      EN:    locally produ­
+      CHAPTER: 7 PAGE: 95 PDF: 27
+
+0312. riv_b_2846 [SOFT_HYPHEN]
+      SV:    konst- och industriutställning
+      FORMS: -en, -ar, -arna
+      EN:    art and indu­
+      CHAPTER: 7 PAGE: 94 PDF: 28
+
+0313. riv_b_2869 [POSSIBLY_CUT_ENGLISH]
+      SV:    komma ifrån
+      FORMS: 
+      EN:    come away from
+      CHAPTER: 7 PAGE: 96 PDF: 28
+
+0314. riv_b_2870 [FORMS_INSIDE_SWEDISH]
+      SV:    pricka (-r, -de, -t) in
+      FORMS: 
+      EN:    pinpoint
+      CHAPTER: 7 PAGE: 96 PDF: 28
+
+0315. riv_b_2884 [POSSIBLY_CUT_ENGLISH]
+      SV:    variant av
+      FORMS: 
+      EN:    variant of
+      CHAPTER: 7 PAGE: 95 PDF: 28
+
+0316. riv_b_2885 [POSSIBLY_CUT_ENGLISH]
+      SV:    en anledning till
+      FORMS: 
+      EN:    a reason for
+      CHAPTER: 7 PAGE: 95 PDF: 28
+
+0317. riv_b_2893 [POSSIBLY_CUT_ENGLISH]
+      SV:    gjord av
+      FORMS: 
+      EN:    made with
+      CHAPTER: 7 PAGE: 97 PDF: 28
+
+0318. riv_b_2898 [POSSIBLY_CUT_ENGLISH]
+      SV:    fylld med
+      FORMS: 
+      EN:    filled with
+      CHAPTER: 7 PAGE: 97 PDF: 28
+
+0319. riv_b_2910 [POSSIBLY_CUT_ENGLISH]
+      SV:    stora delar av
+      FORMS: 
+      EN:    large parts of
+      CHAPTER: 7 PAGE: 97 PDF: 28
+
+0320. riv_b_2917 [FORMS_INSIDE_SWEDISH]
+      SV:    blanda (-r, -de, -t) ihop
+      FORMS: 
+      EN:    mix together
+      CHAPTER: 7 PAGE: 97 PDF: 28
+
+0321. riv_b_2920 [POSSIBLY_CUT_ENGLISH]
+      SV:    bakad på
+      FORMS: 
+      EN:    baked with
+      CHAPTER: 7 PAGE: 97 PDF: 28
+
+0322. riv_b_2930 [POSSIBLY_CUT_ENGLISH]
+      SV:    en typ av
+      FORMS: 
+      EN:    a kind of
+      CHAPTER: 7 PAGE: 97 PDF: 28
+
+0323. riv_b_2936 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    handla (-r, -de, -t) med
+      FORMS: 
+      EN:    trade with
+      CHAPTER: 7 PAGE: 97 PDF: 28
+
+0324. riv_b_2946 [POSSIBLY_CUT_ENGLISH]
+      SV:    vara rädd för
+      FORMS: 
+      EN:    be afraid of
+      CHAPTER: 8 PAGE: 96 PDF: 29
+
+0325. riv_b_2948 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    bestå (består, bestod, bestått) av
+      FORMS: 
+      EN:    made up of
+      CHAPTER: 8 PAGE: 96 PDF: 29
+
+0326. riv_b_2952 [POSSIBLY_CUT_ENGLISH]
+      SV:    kryddad med
+      FORMS: 
+      EN:    spiced with
+      CHAPTER: 8 PAGE: 96 PDF: 29
+
+0327. riv_b_2972 [POSSIBLY_CUT_ENGLISH]
+      SV:    blanda i
+      FORMS: 
+      EN:    mix in
+      CHAPTER: 8 PAGE: 98 PDF: 29
+
+0328. riv_b_2991 [FORMS_INSIDE_SWEDISH]
+      SV:    kryssa (-r, -de, -t) över
+      FORMS: 
+      EN:    cross out
+      CHAPTER: 8 PAGE: 99 PDF: 29
+
+0329. riv_b_3007 [POSSIBLY_CUT_ENGLISH]
+      SV:    Filmen bygger på en bok av…
+      FORMS: 
+      EN:    The movie is based on a
+      CHAPTER: 8 PAGE: 100 PDF: 29
+
+0330. riv_b_3014 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    höra (hör, hörde, hört) hemma
+      FORMS: 
+      EN:    belong to
+      CHAPTER: 8 PAGE: 101 PDF: 29
+
+0331. riv_b_3016 [POSSIBLY_CUT_ENGLISH]
+      SV:    gå över till
+      FORMS: 
+      EN:    go over to, change to
+      CHAPTER: 8 PAGE: 101 PDF: 29
+
+0332. riv_b_3024 [POSSIBLY_CUT_ENGLISH]
+      SV:    rätt till
+      FORMS: 
+      EN:    right to
+      CHAPTER: 8 PAGE: 101 PDF: 29
+
+0333. riv_b_3030 [FORMS_INSIDE_SWEDISH]
+      SV:    äga (äger, ägde, ägt) rum
+      FORMS: 
+      EN:    take place
+      CHAPTER: 8 PAGE: 101 PDF: 29
+
+0334. riv_b_3036 [BROKEN_PARENTHESES_ENGLISH]
+      SV:    ledamot
+      FORMS: -n, ledamöter, ledamöterna
+      EN:    member (e.g. board
+      CHAPTER: 8 PAGE: 101 PDF: 29
+
+0335. riv_b_3046 [FORMS_INSIDE_SWEDISH, SOFT_HYPHEN]
+      SV:    ingå (ingår, ingick, ingått) partnerskap
+      FORMS: 
+      EN:    enter into a civil uni­
+      CHAPTER: 8 PAGE: 102 PDF: 30
+
+0336. riv_b_3064 [FORMS_INSIDE_SWEDISH]
+      SV:    slå (-r, slog, slagit) igenom
+      FORMS: 
+      EN:    have a breakthrough
+      CHAPTER: 8 PAGE: 102 PDF: 30
+
+0337. riv_b_3067 [FORMS_INSIDE_SWEDISH]
+      SV:    klassa (-r, -de, -t)
+      FORMS: klassificera
+      EN:    classify
+      CHAPTER: 8 PAGE: 102 PDF: 30
+
+0338. riv_b_3070 [POSSIBLY_CUT_ENGLISH]
+      SV:    miljö- och klimatdebatt
+      FORMS: -en, -er, -erna
+      EN:    environment and
+      CHAPTER: 8 PAGE: 102 PDF: 30
+
+0339. riv_b_3071 [FORMS_INSIDE_SWEDISH]
+      SV:    ta (-r, tog, tagit) fart
+      FORMS: 
+      EN:    gain speed
+      CHAPTER: 8 PAGE: 102 PDF: 30
+
+0340. riv_b_3075 [FORMS_INSIDE_SWEDISH]
+      SV:    bygga (bygger ,byggde, byggt) ut
+      FORMS: 
+      EN:    expand
+      CHAPTER: 8 PAGE: 102 PDF: 30
+
+0341. riv_b_3078 [FORMS_INSIDE_SWEDISH]
+      SV:    smart (-a) mobil
+      FORMS: -er
+      EN:    smartphone
+      CHAPTER: 8 PAGE: 102 PDF: 30
+
+0342. riv_b_3095 [POSSIBLY_CUT_ENGLISH]
+      SV:    oerhörd
+      FORMS: oerhört, oerhörda
+      EN:    incredible, unheard of
+      CHAPTER: 8 PAGE: 101 PDF: 30
+
+0343. riv_b_3098 [VERY_SHORT_ENGLISH]
+      SV:    cd-skiva
+      FORMS: -n, -skivor, -skivorna
+      EN:    CD
+      CHAPTER: 8 PAGE: 101 PDF: 30
+
+0344. riv_b_3107 [POSSIBLY_CUT_ENGLISH]
+      SV:    uppmana
+      FORMS: -r, -de, -t
+      EN:    call on
+      CHAPTER: 8 PAGE: 103 PDF: 30
+
+0345. riv_b_3112 [FORMS_INSIDE_SWEDISH]
+      SV:    skjuta (skjuter, skjöt, skjutit) ihjäl
+      FORMS: 
+      EN:    shoot to death
+      CHAPTER: 8 PAGE: 103 PDF: 30
+
+0346. riv_b_3120 [POSSIBLY_CUT_ENGLISH]
+      SV:    brist på
+      FORMS: 
+      EN:    shortage of
+      CHAPTER: 8 PAGE: 103 PDF: 30
+
+0347. riv_b_3123 [POSSIBLY_CUT_ENGLISH]
+      SV:    resten av
+      FORMS: 
+      EN:    the rest of
+      CHAPTER: 8 PAGE: 103 PDF: 30
+
+0348. riv_b_3139 [POSSIBLY_CUT_ENGLISH]
+      SV:    resultat av
+      FORMS: 
+      EN:    result of
+      CHAPTER: 8 PAGE: 103 PDF: 30
+
+0349. riv_b_3141 [POSSIBLY_CUT_ENGLISH]
+      SV:    riksdagsledamot
+      FORMS: -en, -ledamöter, -ledamöterna
+      EN:    member of
+      CHAPTER: 8 PAGE: 103 PDF: 30
+
+0350. riv_b_3182 [FORMS_INSIDE_SWEDISH]
+      SV:    känna (känner, kände, känt) igen
+      FORMS: 
+      EN:    recognize
+      CHAPTER: 8 PAGE: 105 PDF: 31
+
+0351. riv_b_3184 [FORMS_INSIDE_SWEDISH]
+      SV:    lämna (-r, -de, -t) över
+      FORMS: 
+      EN:    turn over (to)
+      CHAPTER: 8 PAGE: 106 PDF: 31
+
+0352. riv_b_3185 [POSSIBLY_CUT_ENGLISH]
+      SV:    vara duktig på
+      FORMS: 
+      EN:    be good at
+      CHAPTER: 8 PAGE: 106 PDF: 31
+
+0353. riv_b_3189 [POSSIBLY_CUT_ENGLISH]
+      SV:    vara smittad av
+      FORMS: 
+      EN:    be infected by
+      CHAPTER: 8 PAGE: 106 PDF: 31
+
+0354. riv_b_3201 [FORMS_INSIDE_SWEDISH]
+      SV:    trygga (-r, -de, -t) sin framtid
+      FORMS: 
+      EN:    secure one’s future
+      CHAPTER: 8 PAGE: 103 PDF: 31
+
+0355. riv_b_3205 [FORMS_INSIDE_SWEDISH]
+      SV:    byta (byter, bytte, bytt) namn
+      FORMS: 
+      EN:    change name
+      CHAPTER: 8 PAGE: 103 PDF: 31
+
+0356. riv_b_3207 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    hinna (hinner, hann, hunnit) med
+      FORMS: 
+      EN:    to have time for
+      CHAPTER: 8 PAGE: 103 PDF: 31
+
+0357. riv_b_3223 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    bjuda (bjuder, bjöd, bjudit) in
+      FORMS: 
+      EN:    invite in
+      CHAPTER: 8 PAGE: 107 PDF: 31
+
+0358. riv_b_3224 [FORMS_INSIDE_SWEDISH, BROKEN_PARENTHESES_SWEDISH]
+      SV:    nen)
+      FORMS: 
+      EN:    scientist
+      CHAPTER: 8 PAGE: 107 PDF: 31
+
+0359. riv_b_3233 [POSSIBLY_CUT_ENGLISH]
+      SV:    gå över till
+      FORMS: 
+      EN:    change to
+      CHAPTER: 8 PAGE: 107 PDF: 31
+
+0360. riv_b_3252 [FORMS_INSIDE_SWEDISH]
+      SV:    skriva (skriver, skrev, skrivit) under
+      FORMS: 
+      EN:    to sign
+      CHAPTER: 8 PAGE: 106 PDF: 32
+
+0361. riv_b_3281 [POSSIBLY_CUT_ENGLISH]
+      SV:    engagera sig i
+      FORMS: 
+      EN:    become engaged in, involved with
+      CHAPTER: 8 PAGE: 109 PDF: 32
+
+0362. riv_b_3296 [SOFT_HYPHEN]
+      SV:    Jag måste berätta en sak/en grej…
+      FORMS: 
+      EN:    I have to tell you so­
+      CHAPTER: 8 PAGE: 110 PDF: 32
+
+0363. riv_b_3314 [FORMS_INSIDE_SWEDISH]
+      SV:    ringa (ringer, ringde, ringt) på
+      FORMS: 
+      EN:    call on, ring the doorbell
+      CHAPTER: 8 PAGE: 111 PDF: 32
+
+0364. riv_b_3316 [FORMS_INSIDE_SWEDISH]
+      SV:    sätta (sätter, satt, satt) på datorn
+      FORMS: 
+      EN:    turn on the computer
+      CHAPTER: 8 PAGE: 111 PDF: 32
+
+0365. riv_b_3322 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    bosätta (bosätter, bosatte, bosatt) sig
+      FORMS: 
+      EN:    to settle, move to
+      CHAPTER: 8 PAGE: 112 PDF: 32
+
+0366. riv_b_3337 [POSSIBLY_CUT_ENGLISH]
+      SV:    vid kontakt med
+      FORMS: 
+      EN:    while in contact with
+      CHAPTER: 8 PAGE: 112 PDF: 32
+
+0367. riv_b_3369 [FORMS_INSIDE_SWEDISH, SOFT_HYPHEN]
+      SV:    beställa (beställer, beställde, beställt) tid
+      FORMS: 
+      EN:    make an appoint­
+      CHAPTER: 9 PAGE: 114 PDF: 33
+
+0368. riv_b_3377 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    skicka (-r, -de, -t) in
+      FORMS: 
+      EN:    send in
+      CHAPTER: 9 PAGE: 114 PDF: 33
+
+0369. riv_b_3383 [SOFT_HYPHEN]
+      SV:    Vilken tur att du påminde mig
+      FORMS: 
+      EN:    How fortunate that you re­
+      CHAPTER: 9 PAGE: 114 PDF: 33
+
+0370. riv_b_3410 [FORMS_INSIDE_SWEDISH, BROKEN_PARENTHESES_SWEDISH]
+      SV:    massmediet, massmedier, massmedierna)
+      FORMS: 
+      EN:    mass media
+      CHAPTER: 9 PAGE: 116 PDF: 33
+
+0371. riv_b_3420 [POSSIBLY_CUT_ENGLISH]
+      SV:    tro
+      FORMS: tror, trodde, trott
+      EN:    på believe in
+      CHAPTER: 9 PAGE: 117 PDF: 33
+
+0372. riv_b_3423 [FORMS_INSIDE_SWEDISH]
+      SV:    gå (-r, gick, gått) ut
+      FORMS: 
+      EN:    go out
+      CHAPTER: 9 PAGE: 117 PDF: 33
+
+0373. riv_b_3424 [FORMS_INSIDE_SWEDISH]
+      SV:    springa (springer, sprang, sprungit) runt
+      FORMS: 
+      EN:    run around
+      CHAPTER: 9 PAGE: 117 PDF: 33
+
+0374. riv_b_3432 [FORMS_INSIDE_SWEDISH]
+      SV:    påminna (påminner, påminde, påmint) om
+      FORMS: 
+      EN:    resemble
+      CHAPTER: 9 PAGE: 118 PDF: 33
+
+0375. riv_b_3436 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    leva (lever, levde, levt) vidare
+      FORMS: 
+      EN:    to live on
+      CHAPTER: 9 PAGE: 118 PDF: 33
+
+0376. riv_b_3441 [FORMS_INSIDE_SWEDISH]
+      SV:    varna (-r, -de, -t) för
+      FORMS: 
+      EN:    warn against
+      CHAPTER: 9 PAGE: 118 PDF: 33
+
+0377. riv_b_3446 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    sätta (sätter, satte, satt) på
+      FORMS: 
+      EN:    turn on
+      CHAPTER: 9 PAGE: 118 PDF: 33
+
+0378. riv_b_3467 [FORMS_INSIDE_SWEDISH]
+      SV:    springa (springer, -sprang, sprungit) lös
+      FORMS: 
+      EN:    run loose
+      CHAPTER: 9 PAGE: 120 PDF: 34
+
+0379. riv_b_3471 [POSSIBLY_CUT_ENGLISH]
+      SV:    nyinflyttad
+      FORMS: inflyttat, inflyttade
+      EN:    just moved in
+      CHAPTER: 9 PAGE: 120 PDF: 34
+
+0380. riv_b_3472 [POSSIBLY_CUT_ENGLISH]
+      SV:    koppla
+      FORMS: -r, -de, -t
+      EN:    put a leash on
+      CHAPTER: 9 PAGE: 120 PDF: 34
+
+0381. riv_b_3473 [FORMS_INSIDE_SWEDISH]
+      SV:    hålla (håller, höll, hållit) kopplad
+      FORMS: 
+      EN:    keep on a leash
+      CHAPTER: 9 PAGE: 120 PDF: 34
+
+0382. riv_b_3478 [FORMS_INSIDE_SWEDISH]
+      SV:    blåsa (blåser, blåste, blåst) torr
+      FORMS: 
+      EN:    blowdry
+      CHAPTER: 9 PAGE: 120 PDF: 34
+
+0383. riv_b_3483 [FORMS_INSIDE_SWEDISH]
+      SV:    stöta (stöter, stötte, stött) på
+      FORMS: 
+      EN:    encounter, pick up/flirt
+      CHAPTER: 9 PAGE: 120 PDF: 34
+
+0384. riv_b_3497 [FORMS_INSIDE_SWEDISH]
+      SV:    sticka (-r, -de, -t) iväg
+      FORMS: 
+      EN:    to leave
+      CHAPTER: 9 PAGE: 120 PDF: 34
+
+0385. riv_b_3504 [POSSIBLY_CUT_ENGLISH]
+      SV:    Ju … desto
+      FORMS: 
+      EN:    The… the
+      CHAPTER: 9 PAGE: 122 PDF: 34
+
+0386. riv_b_3506 [POSSIBLY_CUT_ENGLISH]
+      SV:    bör
+      FORMS: 
+      EN:    should, ought to
+      CHAPTER: 9 PAGE: 122 PDF: 34
+
+0387. riv_b_3508 [FORMS_INSIDE_SWEDISH]
+      SV:    tala (-r, -de, -t) sanning
+      FORMS: 
+      EN:    speak the truth
+      CHAPTER: 9 PAGE: 122 PDF: 34
+
+0388. riv_b_3509 [FORMS_INSIDE_SWEDISH]
+      SV:    lita (-r, -de, -t) på
+      FORMS: 
+      EN:    trust
+      CHAPTER: 9 PAGE: 122 PDF: 34
+
+0389. riv_b_3515 [FORMS_INSIDE_SWEDISH]
+      SV:    söka (söker, sökte, sökt) jobb
+      FORMS: 
+      EN:    look for a job
+      CHAPTER: 9 PAGE: 123 PDF: 34
+
+0390. riv_b_3519 [POSSIBLY_CUT_ENGLISH]
+      SV:    full med
+      FORMS: 
+      EN:    full of
+      CHAPTER: 9 PAGE: 123 PDF: 34
+
+0391. riv_b_3527 [FORMS_INSIDE_SWEDISH]
+      SV:    realisation (rea)
+      FORMS: -en, -er, -erna
+      EN:    sale
+      CHAPTER: 9 PAGE: 123 PDF: 34
+
+0392. riv_b_3528 [POSSIBLY_CUT_ENGLISH]
+      SV:    ur
+      FORMS: 
+      EN:    out of
+      CHAPTER: 9 PAGE: 123 PDF: 34
+
+0393. riv_b_3534 [FORMS_INSIDE_SWEDISH]
+      SV:    låta (låter, lät, låtit) bli
+      FORMS: 
+      EN:    to refrain
+      CHAPTER: 9 PAGE: 123 PDF: 34
+
+0394. riv_b_3545 [FORMS_INSIDE_SWEDISH]
+      SV:    känna (känner, kände, känt) skuld
+      FORMS: 
+      EN:    feel guilty
+      CHAPTER: 9 PAGE: 123 PDF: 34
+
+0395. riv_b_3548 [FORMS_INSIDE_SWEDISH]
+      SV:    verka (-r, -de, -t) vara
+      FORMS: 
+      EN:    seem to be
+      CHAPTER: 9 PAGE: 120 PDF: 35
+
+0396. riv_b_3550 [POSSIBLY_CUT_ENGLISH]
+      SV:    form av
+      FORMS: 
+      EN:    form of
+      CHAPTER: 9 PAGE: 120 PDF: 35
+
+0397. riv_b_3555 [FORMS_INSIDE_SWEDISH]
+      SV:    smaka (-r, -de, -t) illa
+      FORMS: 
+      EN:    taste bad
+      CHAPTER: 9 PAGE: 120 PDF: 35
+
+0398. riv_b_3588 [POSSIBLY_CUT_ENGLISH]
+      SV:    omhändertagen
+      FORMS: omhändertaget, omhändertagna
+      EN:    cared for
+      CHAPTER: 9 PAGE: 125 PDF: 35
+
+0399. riv_b_3589 [FORMS_INSIDE_SWEDISH]
+      SV:    få (-r, fick, fått) vård
+      FORMS: 
+      EN:    be give healthcare
+      CHAPTER: 9 PAGE: 125 PDF: 35
+
+0400. riv_b_3590 [FORMS_INSIDE_SWEDISH]
+      SV:    flacka (-r, -de, -t) med blicken
+      FORMS: 
+      EN:    not meet the other person’s
+      CHAPTER: 9 PAGE: 125 PDF: 35
+
+0401. riv_b_3597 [POSSIBLY_CUT_ENGLISH]
+      SV:    van vid
+      FORMS: 
+      EN:    used to
+      CHAPTER: 9 PAGE: 125 PDF: 35
+
+0402. riv_b_3598 [FORMS_INSIDE_SWEDISH]
+      SV:    skruva (-r, -de, -t) på sig
+      FORMS: 
+      EN:    squirm
+      CHAPTER: 9 PAGE: 125 PDF: 35
+
+0403. riv_b_3603 [FORMS_INSIDE_SWEDISH]
+      SV:    möta (möter, mötte, mött) blicken
+      FORMS: 
+      EN:    look into one’s eyes, meet
+      CHAPTER: 9 PAGE: 126 PDF: 35
+
+0404. riv_b_3613 [POSSIBLY_CUT_ENGLISH]
+      SV:    leda till att
+      FORMS: 
+      EN:    lead to
+      CHAPTER: 9 PAGE: 126 PDF: 35
+
+0405. riv_b_3621 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    flyta (flyter, flöt, flutit) på
+      FORMS: 
+      EN:    float on
+      CHAPTER: 9 PAGE: 126 PDF: 35
+
+0406. riv_b_3636 [SOFT_HYPHEN]
+      SV:    kvadratkilometer
+      FORMS: -n, -kilometrar, -kilometrarna
+      EN:    square kilo­
+      CHAPTER: 9 PAGE: 127 PDF: 35
+
+0407. riv_b_3638 [POSSIBLY_CUT_ENGLISH]
+      SV:    lika stor som
+      FORMS: 
+      EN:    as big as, the same size as
+      CHAPTER: 9 PAGE: 127 PDF: 35
+
+0408. riv_b_3639 [POSSIBLY_CUT_ENGLISH]
+      SV:    en tredjedel så stort som
+      FORMS: 
+      EN:    a third the size of
+      CHAPTER: 9 PAGE: 127 PDF: 35
+
+0409. riv_b_3660 [VERY_SHORT_ENGLISH]
+      SV:    på så sätt
+      FORMS: 
+      EN:    so
+      CHAPTER: 10 PAGE: 130 PDF: 36
+
+0410. riv_b_3667 [POSSIBLY_CUT_ENGLISH]
+      SV:    argumentera för
+      FORMS: 
+      EN:    argue for
+      CHAPTER: 10 PAGE: 132 PDF: 36
+
+0411. riv_b_3710 [FORMS_INSIDE_SWEDISH]
+      SV:    logga (-r, -de, -t) ut
+      FORMS: 
+      EN:    log out
+      CHAPTER: 10 PAGE: 128 PDF: 36
+
+0412. riv_b_3712 [FORMS_INSIDE_SWEDISH]
+      SV:    flyta (flyter, flöt, flutit) med
+      FORMS: 
+      EN:    go with the flow
+      CHAPTER: 10 PAGE: 128 PDF: 36
+
+0413. riv_b_3723 [POSSIBLY_CUT_ENGLISH]
+      SV:    ha gott om
+      FORMS: 
+      EN:    have plenty of
+      CHAPTER: 10 PAGE: 134 PDF: 36
+
+0414. riv_b_3725 [POSSIBLY_CUT_ENGLISH]
+      SV:    sätta guldkant på
+      FORMS: 
+      EN:    add some luxury to
+      CHAPTER: 10 PAGE: 134 PDF: 36
+
+0415. riv_b_3738 [SOFT_HYPHEN]
+      SV:    miljömedveten
+      FORMS: miljömedvetet, miljömedvetna
+      EN:    environme­
+      CHAPTER: 10 PAGE: 134 PDF: 36
+
+0416. riv_b_3768 [FORMS_INSIDE_SWEDISH]
+      SV:    komma (kommer, kom, kommit) på
+      FORMS: 
+      EN:    think of, realize
+      CHAPTER: 10 PAGE: 136 PDF: 37
+
+0417. riv_b_3769 [POSSIBLY_CUT_ENGLISH]
+      SV:    semla
+      FORMS: -n, semlor, semlorna
+      EN:    traditional sweet roll, made for
+      CHAPTER: 10 PAGE: 136 PDF: 37
+
+0418. riv_b_3777 [FORMS_INSIDE_SWEDISH]
+      SV:    gröpa (gröper, gröpte, gröpt) ur
+      FORMS: 
+      EN:    hollow out
+      CHAPTER: 10 PAGE: 136 PDF: 37
+
+0419. riv_b_3782 [POSSIBLY_CUT_ENGLISH]
+      SV:    läggas på
+      FORMS: 
+      EN:    placed on
+      CHAPTER: 10 PAGE: 136 PDF: 37
+
+0420. riv_b_3812 [POSSIBLY_CUT_ENGLISH]
+      SV:    intresseanmälning
+      FORMS: -en, -ar, -arna
+      EN:    inquiry, expression of
+      CHAPTER: 10 PAGE: 138 PDF: 37
+
+0421. riv_b_3841 [FORMS_INSIDE_SWEDISH]
+      SV:    bete (beter, betedde, betett) sig
+      FORMS: 
+      EN:    behave
+      CHAPTER: 10 PAGE: 139 PDF: 37
+
+0422. riv_b_3847 [FORMS_INSIDE_SWEDISH]
+      SV:    göra (gör, gjorde, gjort) om
+      FORMS: 
+      EN:    redo
+      CHAPTER: 10 PAGE: 140 PDF: 37
+
+0423. riv_b_3850 [FORMS_INSIDE_SWEDISH]
+      SV:    säga (säger, sade/sa, sagt) efter
+      FORMS: 
+      EN:    say after, imitate
+      CHAPTER: 10 PAGE: 140 PDF: 37
+
+0424. riv_b_3851 [POSSIBLY_CUT_ENGLISH]
+      SV:    kvart i
+      FORMS: 
+      EN:    quarter to
+      CHAPTER: 11 PAGE: 141 PDF: 38
+
+0425. riv_b_3855 [FORMS_INSIDE_SWEDISH]
+      SV:    förflytta (-r, -de, -t) sig
+      FORMS: 
+      EN:    move
+      CHAPTER: 11 PAGE: 141 PDF: 38
+
+0426. riv_b_3860 [FORMS_INSIDE_SWEDISH]
+      SV:    (sitta) fast
+      FORMS: 
+      EN:    to be stuck
+      CHAPTER: 11 PAGE: 141 PDF: 38
+
+0427. riv_b_3869 [FORMS_INSIDE_SWEDISH, BROKEN_PARENTHESES_SWEDISH]
+      SV:    na)
+      FORMS: 
+      EN:    art museum
+      CHAPTER: 11 PAGE: 141 PDF: 38
+
+0428. riv_b_3874 [POSSIBLY_CUT_ENGLISH]
+      SV:    ha tillgång till
+      FORMS: 
+      EN:    have access to
+      CHAPTER: 11 PAGE: 141 PDF: 38
+
+0429. riv_b_3877 [FORMS_INSIDE_SWEDISH]
+      SV:    (ligga) bakom
+      FORMS: 
+      EN:    to be behind
+      CHAPTER: 11 PAGE: 142 PDF: 38
+
+0430. riv_b_3895 [ENGLISH_ENDS_HYPHEN]
+      SV:    lantbruksmiljö
+      FORMS: -n, -er, -erna
+      EN:    rural, agricultural environ-
+      CHAPTER: 11 PAGE: 142 PDF: 38
+
+0431. riv_b_3898 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    nöja (nöjer, nöjde, nöjt) sig med
+      FORMS: 
+      EN:    be satisfied with
+      CHAPTER: 11 PAGE: 142 PDF: 38
+
+0432. riv_b_3899 [FORMS_INSIDE_SWEDISH]
+      SV:    befinna (befinner, befann, befunnit) sig
+      FORMS: 
+      EN:    be (in a location)
+      CHAPTER: 11 PAGE: 142 PDF: 38
+
+0433. riv_b_3914 [FORMS_INSIDE_SWEDISH]
+      SV:    kryssa (-r, -de, -t) för
+      FORMS: 
+      EN:    tick, cross
+      CHAPTER: 11 PAGE: 144 PDF: 38
+
+0434. riv_b_3939 [FORMS_INSIDE_SWEDISH]
+      SV:    slå (-r, slog, slagit) ner
+      FORMS: 
+      EN:    to beat, knock down
+      CHAPTER: 11 PAGE: 144 PDF: 38
+
+0435. riv_b_3941 [FORMS_INSIDE_SWEDISH]
+      SV:    läggas (läggs, lades, lagts) in
+      FORMS: 
+      EN:    taken to hospital
+      CHAPTER: 11 PAGE: 144 PDF: 38
+
+0436. riv_b_3945 [FORMS_INSIDE_SWEDISH]
+      SV:    ladda (-r, -de, -t) ner
+      FORMS: 
+      EN:    download
+      CHAPTER: 11 PAGE: 145 PDF: 38
+
+0437. riv_b_3950 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    bryta (bryter, bröt, brutit) sig in
+      FORMS: 
+      EN:    break in
+      CHAPTER: 11 PAGE: 145 PDF: 38
+
+0438. riv_b_3959 [BROKEN_PARENTHESES_ENGLISH]
+      SV:    brorsdotter
+      FORMS: -n, brorsdöttrar, brorsdöttrarna
+      EN:    niece (brother’s
+      CHAPTER: 11 PAGE: 142 PDF: 39
+
+0439. riv_b_3973 [FORMS_INSIDE_SWEDISH]
+      SV:    jobba (-r, -de, -t) svart
+      FORMS: 
+      EN:    undeclared work
+      CHAPTER: 11 PAGE: 146 PDF: 39
+
+0440. riv_b_3999 [FORMS_INSIDE_SWEDISH]
+      SV:    passa (-r, -de, -t) på
+      FORMS: 
+      EN:    to sieze opportunity
+      CHAPTER: 11 PAGE: 148 PDF: 39
+
+0441. riv_b_4007 [FORMS_INSIDE_SWEDISH]
+      SV:    plocka (-r, -de, -t) med sig
+      FORMS: 
+      EN:    to bring, to take
+      CHAPTER: 11 PAGE: 145 PDF: 39
+
+0442. riv_b_4021 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    bryta (bryter, bröt, brytit) sig in
+      FORMS: 
+      EN:    break in
+      CHAPTER: 11 PAGE: 150 PDF: 39
+
+0443. riv_b_4022 [POSSIBLY_CUT_ENGLISH]
+      SV:    drogpåverkad
+      FORMS: drogpåverkat, drogpåverkade
+      EN:    under the
+      CHAPTER: 11 PAGE: 150 PDF: 39
+
+0444. riv_b_4031 [FORMS_INSIDE_SWEDISH]
+      SV:    smälla (smäller, smällde, smällt) igen
+      FORMS: 
+      EN:    bang closed
+      CHAPTER: 11 PAGE: 150 PDF: 39
+
+0445. riv_b_4032 [FORMS_INSIDE_SWEDISH]
+      SV:    sitta (sitter, satt, suttit) fast
+      FORMS: 
+      EN:    be stuck
+      CHAPTER: 11 PAGE: 150 PDF: 39
+
+0446. riv_b_4050 [FORMS_INSIDE_SWEDISH]
+      SV:    luta (-r, -de, -t) sig
+      FORMS: 
+      EN:    to lean
+      CHAPTER: 11 PAGE: 150 PDF: 39
+
+0447. riv_b_4051 [FORMS_INSIDE_SWEDISH]
+      SV:    sno (-r, -dde, -tt) åt sig
+      FORMS: 
+      EN:    to grab, to take
+      CHAPTER: 11 PAGE: 150 PDF: 39
+
+0448. riv_b_4054 [FORMS_INSIDE_SWEDISH]
+      SV:    fastna (-r, -de, -t) på bild
+      FORMS: 
+      EN:    caught on camera
+      CHAPTER: 11 PAGE: 150 PDF: 39
+
+0449. riv_b_4056 [SOFT_HYPHEN]
+      SV:    polishelikopter
+      FORMS: -n, -helikoptrar, -helikoptrarna
+      EN:    police heli­
+      CHAPTER: 11 PAGE: 151 PDF: 40
+
+0450. riv_b_4066 [FORMS_INSIDE_SWEDISH]
+      SV:    känna (känner, kände, känt) igen
+      FORMS: 
+      EN:    recognize
+      CHAPTER: 11 PAGE: 151 PDF: 40
+
+0451. riv_b_4082 [FORMS_INSIDE_SWEDISH]
+      SV:    fylla (fyller, fyllde, fyllt) år
+      FORMS: 
+      EN:    have a birthday
+      CHAPTER: 11 PAGE: 152 PDF: 40
+
+0452. riv_b_4091 [FORMS_INSIDE_SWEDISH]
+      SV:    dra (-r, drog, dragit) fram
+      FORMS: 
+      EN:    pull out
+      CHAPTER: 11 PAGE: 153 PDF: 40
+
+0453. riv_b_4093 [FORMS_INSIDE_SWEDISH]
+      SV:    sticka (sticker, stack, stuckit) ned
+      FORMS: 
+      EN:    stab
+      CHAPTER: 11 PAGE: 153 PDF: 40
+
+0454. riv_b_4104 [POSSIBLY_CUT_ENGLISH]
+      SV:    gå klädd i
+      FORMS: 
+      EN:    dress in
+      CHAPTER: 11 PAGE: 150 PDF: 40
+
+0455. riv_b_4107 [POSSIBLY_CUT_ENGLISH]
+      SV:    en bit ifrån
+      FORMS: 
+      EN:    a distance away from
+      CHAPTER: 11 PAGE: 150 PDF: 40
+
+0456. riv_b_4114 [FORMS_INSIDE_SWEDISH]
+      SV:    laga (-r, -de, -t) mat
+      FORMS: 
+      EN:    cook food
+      CHAPTER: 11 PAGE: 150 PDF: 40
+
+0457. riv_b_4124 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    dra (-r, drog, dragit) vidare
+      FORMS: 
+      EN:    move on
+      CHAPTER: 11 PAGE: 150 PDF: 40
+
+0458. riv_b_4126 [FORMS_INSIDE_SWEDISH]
+      SV:    sprida (sprider, spred, spridit) sig
+      FORMS: 
+      EN:    to spread
+      CHAPTER: 11 PAGE: 150 PDF: 40
+
+0459. riv_b_4127 [POSSIBLY_CUT_ENGLISH]
+      SV:    på väg till
+      FORMS: 
+      EN:    on the way to
+      CHAPTER: 11 PAGE: 150 PDF: 40
+
+0460. riv_b_4140 [POSSIBLY_CUT_ENGLISH]
+      SV:    övergå
+      FORMS: -r, övergick, övergått
+      EN:    go over to
+      CHAPTER: 11 PAGE: 155 PDF: 40
+
+0461. riv_b_4145 [FORMS_INSIDE_SWEDISH]
+      SV:    röra (rör, rörde, rört) sig fritt
+      FORMS: 
+      EN:    move freely
+      CHAPTER: 11 PAGE: 155 PDF: 40
+
+0462. riv_b_4154 [POSSIBLY_CUT_ENGLISH]
+      SV:    ge sig ut på
+      FORMS: 
+      EN:    head out on
+      CHAPTER: 11 PAGE: 155 PDF: 40
+
+0463. riv_b_4168 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    klä (-r, klädde, klätt) sig i
+      FORMS: 
+      EN:    dressed in
+      CHAPTER: 12 PAGE: 156 PDF: 41
+
+0464. riv_b_4198 [POSSIBLY_CUT_ENGLISH]
+      SV:    inte ha med att göra
+      FORMS: 
+      EN:    have nothing to do with
+      CHAPTER: 12 PAGE: 159 PDF: 41
+
+0465. riv_b_4206 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    ge signal (-en, -er, -erna) om
+      FORMS: 
+      EN:    give sign of
+      CHAPTER: 12 PAGE: 160 PDF: 41
+
+0466. riv_b_4212 [SOFT_HYPHEN]
+      SV:    äventyrerska
+      FORMS: -n, äventyrerskor, äventyrerskorna
+      EN:    adventu­
+      CHAPTER: 12 PAGE: 161 PDF: 41
+
+0467. riv_b_4221 [FORMS_INSIDE_SWEDISH]
+      SV:    slå (-r, slog, slagit) vad
+      FORMS: 
+      EN:    make a bet
+      CHAPTER: 12 PAGE: 161 PDF: 41
+
+0468. riv_b_4233 [FORMS_INSIDE_SWEDISH]
+      SV:    läsa (-er, -te, -t) karta
+      FORMS: 
+      EN:    read a map
+      CHAPTER: 12 PAGE: 162 PDF: 41
+
+0469. riv_b_4244 [FORMS_INSIDE_SWEDISH]
+      SV:    komma (kommer, kom, kommit) i tid
+      FORMS: 
+      EN:    to be on time
+      CHAPTER: 12 PAGE: 163 PDF: 41
+
+0470. riv_b_4245 [FORMS_INSIDE_SWEDISH]
+      SV:    stämma (stämmer, stämde, stämt) träff
+      FORMS: 
+      EN:    agree to meet
+      CHAPTER: 12 PAGE: 163 PDF: 41
+
+0471. riv_b_4250 [FORMS_INSIDE_SWEDISH]
+      SV:    slappna (-r, -de, -t) av
+      FORMS: 
+      EN:    relax
+      CHAPTER: 12 PAGE: 159 PDF: 42
+
+0472. riv_b_4270 [FORMS_INSIDE_SWEDISH]
+      SV:    glömma (glömmer, glömde, glömt) bort
+      FORMS: 
+      EN:    forget
+      CHAPTER: 12 PAGE: 164 PDF: 42
+
+0473. riv_b_4290 [POSSIBLY_CUT_ENGLISH]
+      SV:    svärmor
+      FORMS: svärmodern, svärmödrar, svärmödrarna
+      EN:    mother in
+      CHAPTER: 12 PAGE: 166 PDF: 42
+
+0474. riv_b_4291 [BROKEN_PARENTHESES_ENGLISH, SOFT_HYPHEN]
+      SV:    träffa en annan
+      FORMS: vara otrogen
+      EN:    meet someone else (be unfai­
+      CHAPTER: 12 PAGE: 166 PDF: 42
+
+0475. riv_b_4302 [POSSIBLY_CUT_ENGLISH]
+      SV:    olika typer av
+      FORMS: 
+      EN:    different kinds of
+      CHAPTER: 12 PAGE: 163 PDF: 42
+
+0476. riv_b_4308 [FORMS_INSIDE_SWEDISH]
+      SV:    uppföra (uppför, uppförde, uppfört) sig
+      FORMS: 
+      EN:    behave
+      CHAPTER: 12 PAGE: 167 PDF: 42
+
+0477. riv_b_4315 [FORMS_INSIDE_SWEDISH]
+      SV:    träda (träder, trädde, trätt) fram
+      FORMS: 
+      EN:    come forward
+      CHAPTER: 12 PAGE: 167 PDF: 42
+
+0478. riv_b_4322 [FORMS_INSIDE_SWEDISH]
+      SV:    föreställa (föreställer, föreställde, föreställt) sig
+      FORMS: 
+      EN:    to imagine
+      CHAPTER: 12 PAGE: 167 PDF: 42
+
+0479. riv_b_4325 [FORMS_INSIDE_SWEDISH]
+      SV:    plocka (-r, -de, -t) bort
+      FORMS: 
+      EN:    to remove
+      CHAPTER: 12 PAGE: 167 PDF: 42
+
+0480. riv_b_4331 [POSSIBLY_CUT_ENGLISH]
+      SV:    sätta stopp för
+      FORMS: 
+      EN:    put a stop to
+      CHAPTER: 12 PAGE: 168 PDF: 42
+
+0481. riv_b_4351 [FORMS_INSIDE_SWEDISH]
+      SV:    höra (hör, hörde, hört) hemma
+      FORMS: 
+      EN:    belong
+      CHAPTER: 12 PAGE: 168 PDF: 42
+
+0482. riv_b_4376 [FORMS_INSIDE_SWEDISH]
+      SV:    lägga (lägger, la, lagt) åt sidan
+      FORMS: 
+      EN:    put aside
+      CHAPTER: 13 PAGE: 169 PDF: 43
+
+0483. riv_b_4379 [FORMS_INSIDE_SWEDISH]
+      SV:    ta (-r, tog, tagit) upp
+      FORMS: nämna, lyfta
+      EN:    bring up
+      CHAPTER: 13 PAGE: 170 PDF: 43
+
+0484. riv_b_4383 [POSSIBLY_CUT_ENGLISH]
+      SV:    trött på
+      FORMS: 
+      EN:    tired of
+      CHAPTER: 13 PAGE: 170 PDF: 43
+
+0485. riv_b_4388 [FORMS_INSIDE_SWEDISH]
+      SV:    tala (-r, -de, -t) för
+      FORMS: styrka
+      EN:    suggest, prove
+      CHAPTER: 13 PAGE: 170 PDF: 43
+
+0486. riv_b_4400 [SOFT_HYPHEN]
+      SV:    nationaldag
+      FORMS: -en, -ar, -arna
+      EN:    national holiday, independen­
+      CHAPTER: 13 PAGE: 168 PDF: 43
+
+0487. riv_b_4414 [FORMS_INSIDE_SWEDISH]
+      SV:    hoppa (-r, -de, -t) över
+      FORMS: 
+      EN:    skip
+      CHAPTER: 13 PAGE: 172 PDF: 43
+
+0488. riv_b_4422 [FORMS_INSIDE_SWEDISH]
+      SV:    frysa (fryser, frös, frusit) ihjäl
+      FORMS: 
+      EN:    freeze to death
+      CHAPTER: 13 PAGE: 173 PDF: 43
+
+0489. riv_b_4424 [FORMS_INSIDE_SWEDISH]
+      SV:    ta (-r, tog, tagit) på sig
+      FORMS: 
+      EN:    put on, wear
+      CHAPTER: 13 PAGE: 173 PDF: 43
+
+0490. riv_b_4435 [FORMS_INSIDE_SWEDISH]
+      SV:    lägga (lägger, lade/la, lagt) ägg
+      FORMS: 
+      EN:    lay eggs
+      CHAPTER: 13 PAGE: 174 PDF: 43
+
+0491. riv_b_4457 [FORMS_INSIDE_SWEDISH, SOFT_HYPHEN]
+      SV:    ombildad (ombildat, ombildade) familj
+      FORMS: 
+      EN:    reformed, reconsti­
+      CHAPTER: 13 PAGE: 171 PDF: 44
+
+0492. riv_b_4459 [FORMS_INSIDE_SWEDISH]
+      SV:    klä (-r, -dde, -tt) granen
+      FORMS: 
+      EN:    decorate the tree
+      CHAPTER: 13 PAGE: 171 PDF: 44
+
+0493. riv_b_4468 [FORMS_INSIDE_SWEDISH]
+      SV:    önska (-r, -de, -t) god jul
+      FORMS: 
+      EN:    wish merry Christmas
+      CHAPTER: 13 PAGE: 171 PDF: 44
+
+0494. riv_b_4477 [POSSIBLY_CUT_ENGLISH]
+      SV:    i olika former
+      FORMS: 
+      EN:    different forms of
+      CHAPTER: 13 PAGE: 175 PDF: 44
+
+0495. riv_b_4492 [FORMS_INSIDE_SWEDISH]
+      SV:    slå (-r, slog, slagit) ut
+      FORMS: 
+      EN:    bloom, bud
+      CHAPTER: 13 PAGE: 175 PDF: 44
+
+0496. riv_b_4493 [FORMS_INSIDE_SWEDISH]
+      SV:    vara (är, var, varit) på väg
+      FORMS: 
+      EN:    be on one’s way
+      CHAPTER: 13 PAGE: 175 PDF: 44
+
+0497. riv_b_4496 [FORMS_INSIDE_SWEDISH]
+      SV:    klä (-r, -dde, -tt) ut sig
+      FORMS: 
+      EN:    dress up (in costume)
+      CHAPTER: 13 PAGE: 175 PDF: 44
+
+0498. riv_b_4501 [POSSIBLY_CUT_ENGLISH]
+      SV:    till minne av
+      FORMS: 
+      EN:    in memory of
+      CHAPTER: 13 PAGE: 174 PDF: 44
+
+0499. riv_b_4503 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    bry (-r, -dde, -tt) sig om
+      FORMS: 
+      EN:    care about
+      CHAPTER: 13 PAGE: 174 PDF: 44
+
+0500. riv_b_4513 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    gjord (gjort, gjorda) av
+      FORMS: 
+      EN:    made out of
+      CHAPTER: 13 PAGE: 174 PDF: 44
+
+0501. riv_b_4522 [SOFT_HYPHEN]
+      SV:    lövgubbe
+      FORMS: -n, lövgubbar, lövgubbarna
+      EN:    man dressed in lea­
+      CHAPTER: 13 PAGE: 176 PDF: 44
+
+0502. riv_b_4545 [POSSIBLY_CUT_ENGLISH]
+      SV:    leva upp till
+      FORMS: 
+      EN:    live up to
+      CHAPTER: 13 PAGE: 177 PDF: 44
+
+0503. riv_b_4549 [FORMS_INSIDE_SWEDISH]
+      SV:    pussla (-r, -de, -t) ihop
+      FORMS: 
+      EN:    piece together
+      CHAPTER: 13 PAGE: 178 PDF: 44
+
+0504. riv_b_4551 [FORMS_INSIDE_SWEDISH]
+      SV:    närma (-r, -de, -t) sig
+      FORMS: 
+      EN:    approach
+      CHAPTER: 13 PAGE: 175 PDF: 45
+
+0505. riv_b_4554 [FORMS_INSIDE_SWEDISH]
+      SV:    ramla (-r, -de, -t) omkull
+      FORMS: 
+      EN:    fall down
+      CHAPTER: 13 PAGE: 175 PDF: 45
+
+0506. riv_b_4571 [FORMS_INSIDE_SWEDISH]
+      SV:    funka (-r, -de, -t) ihop
+      FORMS: 
+      EN:    work together, fit together
+      CHAPTER: 13 PAGE: 175 PDF: 45
+
+0507. riv_b_4577 [FORMS_INSIDE_SWEDISH]
+      SV:    (högtids)figur
+      FORMS: -en, -er, -erna
+      EN:    holiday character
+      CHAPTER: 13 PAGE: 179 PDF: 45
+
+0508. riv_b_4585 [FORMS_INSIDE_SWEDISH]
+      SV:    gömma (gömmer, gömde, gömt) undan
+      FORMS: 
+      EN:    hide away
+      CHAPTER: 13 PAGE: 180 PDF: 45
+
+0509. riv_b_4590 [FORMS_INSIDE_SWEDISH]
+      SV:    slänga (slänger, slängde, slängt) ner
+      FORMS: 
+      EN:    throw down
+      CHAPTER: 13 PAGE: 180 PDF: 45
+
+0510. riv_b_4596 [FORMS_INSIDE_SWEDISH]
+      SV:    brännas (bränns, brändes, bränts) på bål
+      FORMS: 
+      EN:    burned at the stake
+      CHAPTER: 13 PAGE: 180 PDF: 45
+
+0511. riv_b_4603 [SOFT_HYPHEN]
+      SV:    hus- /gårdstomte
+      FORMS: -n, -tomtar, -tomtarna
+      EN:    house/farm gno­
+      CHAPTER: 13 PAGE: 180 PDF: 45
+
+0512. riv_b_4605 [FORMS_INSIDE_SWEDISH, SOFT_HYPHEN]
+      SV:    väcka (väcker, väckte, väckt) uppmärksamhet
+      FORMS: 
+      EN:    attract atten­
+      CHAPTER: 13 PAGE: 178 PDF: 45
+
+0513. riv_b_4613 [POSSIBLY_CUT_ENGLISH]
+      SV:    som tack för
+      FORMS: 
+      EN:    as a thank you for
+      CHAPTER: 13 PAGE: 181 PDF: 45
+
+0514. riv_b_4625 [FORMS_INSIDE_SWEDISH, BROKEN_PARENTHESES_SWEDISH]
+      SV:    na)
+      FORMS: 
+      EN:    path, orbit
+      CHAPTER: 13 PAGE: 181 PDF: 45
+
+0515. riv_b_4651 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    sätta (sätter, satte, satt) eld på
+      FORMS: 
+      EN:    set fire to
+      CHAPTER: 13 PAGE: 182 PDF: 45
+
+0516. riv_b_4657 [FORMS_INSIDE_SWEDISH]
+      SV:    krona (-n, kronor, kronorna) av ljus
+      FORMS: 
+      EN:    crown of candles
+      CHAPTER: 14 PAGE: 183 PDF: 46
+
+0517. riv_b_4674 [FORMS_INSIDE_SWEDISH]
+      SV:    komma (kommer, kom, kommit) igång
+      FORMS: 
+      EN:    get going
+      CHAPTER: 14 PAGE: 185 PDF: 46
+
+0518. riv_b_4683 [FORMS_INSIDE_SWEDISH]
+      SV:    gå (-r, gick, gått) upp
+      FORMS: 
+      EN:    get up
+      CHAPTER: 14 PAGE: 185 PDF: 46
+
+0519. riv_b_4694 [FORMS_INSIDE_SWEDISH]
+      SV:    (Värmlands)dialekt
+      FORMS: -en
+      EN:    dialect from Värmland
+      CHAPTER: 14 PAGE: 186 PDF: 46
+
+0520. riv_b_4720 [SOFT_HYPHEN]
+      SV:    Det är olika i olika situationer.
+      FORMS: 
+      EN:    It’s different in different situ­
+      CHAPTER: 14 PAGE: 189 PDF: 46
+
+0521. riv_b_4733 [FORMS_INSIDE_SWEDISH]
+      SV:    kalla (-r, -de, -t) till möte
+      FORMS: 
+      EN:    call to a meeting
+      CHAPTER: 14 PAGE: 189 PDF: 46
+
+0522. riv_b_4743 [FORMS_INSIDE_SWEDISH]
+      SV:    ha (-r, hade, haft) fullt upp
+      FORMS: 
+      EN:    have a lot on one’s plate
+      CHAPTER: 14 PAGE: 189 PDF: 46
+
+0523. riv_b_4745 [FORMS_INSIDE_SWEDISH]
+      SV:    äta (äter, åt, ätit) upp
+      FORMS: 
+      EN:    eat up
+      CHAPTER: 14 PAGE: 186 PDF: 47
+
+0524. riv_b_4769 [FORMS_INSIDE_SWEDISH]
+      SV:    hänga (-er, hängde, hängt) sig
+      FORMS: 
+      EN:    to stall (computer)
+      CHAPTER: 14 PAGE: 192 PDF: 47
+
+0525. riv_b_4772 [FORMS_INSIDE_SWEDISH]
+      SV:    gå (-r, gick, gått) av
+      FORMS: 
+      EN:    break off
+      CHAPTER: 14 PAGE: 192 PDF: 47
+
+0526. riv_b_4775 [FORMS_INSIDE_SWEDISH]
+      SV:    tappa (-r, -de, -t) i golvet
+      FORMS: 
+      EN:    drop on the floor
+      CHAPTER: 14 PAGE: 192 PDF: 47
+
+0527. riv_b_4785 [FORMS_INSIDE_SWEDISH]
+      SV:    stänga (stänger, stängde, stängt) av sig
+      FORMS: 
+      EN:    shut down
+      CHAPTER: 14 PAGE: 192 PDF: 47
+
+0528. riv_b_4787 [FORMS_INSIDE_SWEDISH]
+      SV:    titta (-r, -de, -t) närmare på
+      FORMS: 
+      EN:    take a closer look
+      CHAPTER: 14 PAGE: 192 PDF: 47
+
+0529. riv_b_4838 [FORMS_INSIDE_SWEDISH]
+      SV:    lösa (löser, löste, löst) in
+      FORMS: 
+      EN:    redeem
+      CHAPTER: 14 PAGE: 195 PDF: 47
+
+0530. riv_b_4847 [POSSIBLY_CUT_ENGLISH]
+      SV:    skötsel- och serviceinsruktion
+      FORMS: -en, -er, -erna
+      EN:    care and
+      CHAPTER: 15 PAGE: 196 PDF: 48
+
+0531. riv_b_4850 [POSSIBLY_CUT_ENGLISH]
+      SV:    konsumentköpslag
+      FORMS: -en, -ar, -arna
+      EN:    law regulating sale of
+      CHAPTER: 15 PAGE: 196 PDF: 48
+
+0532. riv_b_4853 [FORMS_INSIDE_SWEDISH]
+      SV:    ändra (-r, -de, -t) sig
+      FORMS: 
+      EN:    change one’s mind
+      CHAPTER: 15 PAGE: 196 PDF: 48
+
+0533. riv_b_4861 [FORMS_INSIDE_SWEDISH]
+      SV:    lägga (-er, lade/la, lagt) ner
+      FORMS: 
+      EN:    shut down, discontinue
+      CHAPTER: 15 PAGE: 196 PDF: 48
+
+0534. riv_b_4873 [FORMS_INSIDE_SWEDISH]
+      SV:    gå (-r, gick, gått) åt skogen
+      FORMS: 
+      EN:    go to hell, mess up
+      CHAPTER: 15 PAGE: 199 PDF: 48
+
+0535. riv_b_4880 [POSSIBLY_CUT_ENGLISH]
+      SV:    medföra
+      FORMS: medför, medförde, medfört
+      EN:    result in
+      CHAPTER: 15 PAGE: 199 PDF: 48
+
+0536. riv_b_4881 [POSSIBLY_CUT_ENGLISH]
+      SV:    måla upp en bild av något
+      FORMS: 
+      EN:    paint oneself a picture of
+      CHAPTER: 15 PAGE: 199 PDF: 48
+
+0537. riv_b_4894 [SOFT_HYPHEN]
+      SV:    vara lagd åt
+      FORMS: ha en viss läggning
+      EN:    have a certain tempera­
+      CHAPTER: 15 PAGE: 195 PDF: 48
+
+0538. riv_b_4915 [POSSIBLY_CUT_ENGLISH]
+      SV:    dra sig för
+      FORMS: 
+      EN:    shy away from
+      CHAPTER: 15 PAGE: 202 PDF: 48
+
+0539. riv_b_4921 [FORMS_INSIDE_SWEDISH]
+      SV:    löna (-r, -de, -t) sig
+      FORMS: 
+      EN:    pay off
+      CHAPTER: 15 PAGE: 202 PDF: 48
+
+0540. riv_b_4928 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    ansvara (-r, -de, -t) för
+      FORMS: 
+      EN:    be responsible for
+      CHAPTER: 15 PAGE: 203 PDF: 48
+
+0541. riv_b_4936 [FORMS_INSIDE_SWEDISH]
+      SV:    löna (-r, -de, -t) sig
+      FORMS: 
+      EN:    pay off
+      CHAPTER: 15 PAGE: 200 PDF: 49
+
+0542. riv_b_4945 [FORMS_INSIDE_SWEDISH]
+      SV:    gå (-r, gick, gått) trögt
+      FORMS: 
+      EN:    go slowly
+      CHAPTER: 15 PAGE: 204 PDF: 49
+
+0543. riv_b_4946 [FORMS_INSIDE_SWEDISH]
+      SV:    avlägsen (avlägset, avlägsna) bekant/a
+      FORMS: 
+      EN:    distant aquaintance
+      CHAPTER: 15 PAGE: 204 PDF: 49
+
+0544. riv_b_4950 [SOFT_HYPHEN]
+      SV:    årsredovisning
+      FORMS: -en, -ar, -arna
+      EN:    annual report, annual ac­
+      CHAPTER: 15 PAGE: 204 PDF: 49
+
+0545. riv_b_4966 [POSSIBLY_CUT_ENGLISH]
+      SV:    ha nytta av
+      FORMS: 
+      EN:    have use for
+      CHAPTER: 15 PAGE: 204 PDF: 49
+
+0546. riv_b_4974 [POSSIBLY_CUT_ENGLISH]
+      SV:    tilltala
+      FORMS: -r, -de ,-t
+      EN:    appeal to
+      CHAPTER: 15 PAGE: 205 PDF: 49
+
+0547. riv_b_4990 [FORMS_INSIDE_SWEDISH]
+      SV:    hoppa (-r, -de, -t) över
+      FORMS: 
+      EN:    skip over
+      CHAPTER: 15 PAGE: 203 PDF: 49
+
+0548. riv_b_5005 [SOFT_HYPHEN]
+      SV:    personnummer
+      FORMS: -numret, -, -numren
+      EN:    personal intentifica­
+      CHAPTER: 15 PAGE: 203 PDF: 49
+
+0549. riv_b_5018 [POSSIBLY_CUT_ENGLISH]
+      SV:    behärska
+      FORMS: -r, -de, -t
+      EN:    master, be able to
+      CHAPTER: 15 PAGE: 207 PDF: 49
+
+0550. riv_b_5052 [POSSIBLY_CUT_ENGLISH]
+      SV:    beroende på
+      FORMS: 
+      EN:    dependent on
+      CHAPTER: 15 PAGE: 206 PDF: 50
+
+0551. riv_b_5056 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    passa (-r, -de, -t) för
+      FORMS: 
+      EN:    a fit for
+      CHAPTER: 15 PAGE: 206 PDF: 50
+
+0552. riv_b_5057 [POSSIBLY_CUT_ENGLISH]
+      SV:    sätta sig in i
+      FORMS: 
+      EN:    familiarize oneself with
+      CHAPTER: 15 PAGE: 206 PDF: 50
+
+0553. riv_b_5065 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    läsa (läser, läste, läst) vidare
+      FORMS: 
+      EN:    read on
+      CHAPTER: 15 PAGE: 209 PDF: 50
+
+0554. riv_b_5069 [POSSIBLY_CUT_ENGLISH]
+      SV:    passa in i
+      FORMS: 
+      EN:    fit in at
+      CHAPTER: 15 PAGE: 209 PDF: 50
+
+0555. riv_b_5071 [FORMS_INSIDE_SWEDISH]
+      SV:    utgå (-r, utgick, utgått) från
+      FORMS: 
+      EN:    assume
+      CHAPTER: 15 PAGE: 209 PDF: 50
+
+0556. riv_b_5077 [FORMS_INSIDE_SWEDISH]
+      SV:    lägga (lägger, lade/la, lagt) till
+      FORMS: 
+      EN:    add
+      CHAPTER: 15 PAGE: 210 PDF: 50
+
+0557. riv_b_5079 [POSSIBLY_CUT_ENGLISH]
+      SV:    ställa höga krav på
+      FORMS: 
+      EN:    have high standards for
+      CHAPTER: 15 PAGE: 210 PDF: 50
+
+0558. riv_b_5082 [FORMS_INSIDE_SWEDISH, BROKEN_PARENTHESES_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    stämt)
+      FORMS: 
+      EN:    conform, correspond to
+      CHAPTER: 15 PAGE: 210 PDF: 50
+
+0559. riv_b_5085 [POSSIBLY_CUT_ENGLISH]
+      SV:    vara beredd på
+      FORMS: 
+      EN:    be prepared for
+      CHAPTER: 15 PAGE: 211 PDF: 50
+
+0560. riv_b_5094 [SOFT_HYPHEN]
+      SV:    dokumenterade
+      FORMS: dokumeterat, dokumenterade
+      EN:    documen­
+      CHAPTER: 15 PAGE: 211 PDF: 50
+
+0561. riv_b_5100 [SOFT_HYPHEN]
+      SV:    morfar
+      FORMS: morfadern, morfäder, morfädren
+      EN:    maternal grand­
+      CHAPTER: 15 PAGE: 211 PDF: 50
+
+0562. riv_b_5102 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    passa (-r, -de, -t) upp på
+      FORMS: 
+      EN:    wait on
+      CHAPTER: 15 PAGE: 211 PDF: 50
+
+0563. riv_b_5122 [FORMS_INSIDE_SWEDISH]
+      SV:    prova (-r, -de, -t) sina vingar
+      FORMS: 
+      EN:    try one’s wings
+      CHAPTER: 15 PAGE: 212 PDF: 50
+
+0564. riv_b_5140 [FORMS_INSIDE_SWEDISH]
+      SV:    hålla (håller, höll, hållit) sig till ämnet
+      FORMS: 
+      EN:    keep to the subject
+      CHAPTER: 16 PAGE: 210 PDF: 51
+
+0565. riv_b_5142 [FORMS_INSIDE_SWEDISH, SOFT_HYPHEN]
+      SV:    tala (-r, -de, -t) till punkt
+      FORMS: 
+      EN:    finish one’s sentence, not be inter­
+      CHAPTER: 16 PAGE: 210 PDF: 51
+
+0566. riv_b_5163 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    hålla (-er, höll, hållit) tummarna
+      FORMS: 
+      EN:    hold thumbs, cross one’s
+      CHAPTER: 16 PAGE: 214 PDF: 51
+
+0567. riv_b_5171 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    hålla (håller, höll, hållit) ett öga på
+      FORMS: 
+      EN:    keep an eye on
+      CHAPTER: 16 PAGE: 214 PDF: 51
+
+0568. riv_b_5174 [FORMS_INSIDE_SWEDISH]
+      SV:    lägga (lägger, lade/la, lagt) benen på ryggen
+      FORMS: 
+      EN:    run away
+      CHAPTER: 16 PAGE: 214 PDF: 51
+
+0569. riv_b_5175 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    slå (-r, slog, slagit) näven i bordet
+      FORMS: 
+      EN:    bang one’s fist on the
+      CHAPTER: 16 PAGE: 214 PDF: 51
+
+0570. riv_b_5176 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    sätta (sätter, satte, satt) stopp för
+      FORMS: 
+      EN:    put a stop to
+      CHAPTER: 16 PAGE: 214 PDF: 51
+
+0571. riv_b_5177 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    sätta (sätter, satte, satt) tänderna i
+      FORMS: 
+      EN:    bite down on
+      CHAPTER: 16 PAGE: 214 PDF: 51
+
+0572. riv_b_5183 [POSSIBLY_CUT_ENGLISH]
+      SV:    vara tokig i
+      FORMS: 
+      EN:    be crazy about
+      CHAPTER: 16 PAGE: 215 PDF: 51
+
+0573. riv_b_5186 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    kasta (-r, -de, -t) sig över
+      FORMS: 
+      EN:    pounce on
+      CHAPTER: 16 PAGE: 213 PDF: 51
+
+0574. riv_b_5187 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    komma (kommer, kom, kommit) av sig
+      FORMS: 
+      EN:    lose one’s train of
+      CHAPTER: 16 PAGE: 213 PDF: 51
+
+0575. riv_b_5188 [FORMS_INSIDE_SWEDISH]
+      SV:    hålla (håller, höll, hållit) hus
+      FORMS: 
+      EN:    be located
+      CHAPTER: 16 PAGE: 213 PDF: 51
+
+0576. riv_b_5190 [FORMS_INSIDE_SWEDISH]
+      SV:    gå (-r, gick, gått) sönder
+      FORMS: 
+      EN:    break
+      CHAPTER: 16 PAGE: 213 PDF: 51
+
+0577. riv_b_5192 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    hoppa (-r, -de, -t) in
+      FORMS: 
+      EN:    jump in
+      CHAPTER: 16 PAGE: 213 PDF: 51
+
+0578. riv_b_5193 [FORMS_INSIDE_SWEDISH]
+      SV:    vila (-r, -de, -t) ut
+      FORMS: 
+      EN:    rest
+      CHAPTER: 16 PAGE: 213 PDF: 51
+
+0579. riv_b_5198 [FORMS_INSIDE_SWEDISH]
+      SV:    trötta (-r, -de, -t) ut
+      FORMS: 
+      EN:    tire out
+      CHAPTER: 16 PAGE: 213 PDF: 51
+
+0580. riv_b_5199 [POSSIBLY_CUT_ENGLISH]
+      SV:    i mitten av
+      FORMS: 
+      EN:    in the middle of
+      CHAPTER: 16 PAGE: 216 PDF: 51
+
+0581. riv_b_5200 [POSSIBLY_CUT_ENGLISH]
+      SV:    i slutet av
+      FORMS: 
+      EN:    in the end of
+      CHAPTER: 16 PAGE: 216 PDF: 51
+
+0582. riv_b_5220 [FORMS_INSIDE_SWEDISH]
+      SV:    säga (säger, sade/sa, sagt) emot
+      FORMS: 
+      EN:    to object
+      CHAPTER: 16 PAGE: 217 PDF: 51
+
+0583. riv_b_5238 [FORMS_INSIDE_SWEDISH]
+      SV:    köra (kör, körde, kört) över
+      FORMS: 
+      EN:    run over, dominate
+      CHAPTER: 16 PAGE: 215 PDF: 52
+
+0584. riv_b_5240 [POSSIBLY_CUT_ENGLISH]
+      SV:    till skillnad från
+      FORMS: 
+      EN:    as opposed to
+      CHAPTER: 16 PAGE: 215 PDF: 52
+
+0585. riv_b_5244 [SOFT_HYPHEN]
+      SV:    prestationsinriktad
+      FORMS: -inriktat, inriktade
+      EN:    performance-orien­
+      CHAPTER: 16 PAGE: 215 PDF: 52
+
+0586. riv_b_5250 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    kämpa (-r, -de, -t) för
+      FORMS: 
+      EN:    fight for
+      CHAPTER: 16 PAGE: 219 PDF: 52
+
+0587. riv_b_5251 [FORMS_INSIDE_SWEDISH]
+      SV:    tyda (tyder, tydde, tytt) på
+      FORMS: 
+      EN:    indicate
+      CHAPTER: 16 PAGE: 219 PDF: 52
+
+0588. riv_b_5282 [FORMS_INSIDE_SWEDISH]
+      SV:    dela (-r, -de, -t) lika
+      FORMS: 
+      EN:    share equally
+      CHAPTER: 16 PAGE: 221 PDF: 52
+
+0589. riv_b_5287 [FORMS_INSIDE_SWEDISH]
+      SV:    putsa (-r, -de, -t) fönster
+      FORMS: 
+      EN:    polish windows
+      CHAPTER: 16 PAGE: 221 PDF: 52
+
+0590. riv_b_5305 [FORMS_INSIDE_SWEDISH]
+      SV:    vika (viker, vek, vikit) ihop
+      FORMS: 
+      EN:    fold
+      CHAPTER: 16 PAGE: 221 PDF: 52
+
+0591. riv_b_5316 [FORMS_INSIDE_SWEDISH]
+      SV:    hänga (hänger, hängde, hängt) på tork
+      FORMS: 
+      EN:    hang out to dry
+      CHAPTER: 16 PAGE: 222 PDF: 52
+
+0592. riv_b_5326 [FORMS_INSIDE_SWEDISH]
+      SV:    flytta (-r, -de, -t) hemifrån
+      FORMS: 
+      EN:    move away from home
+      CHAPTER: 16 PAGE: 222 PDF: 52
+
+0593. riv_b_5330 [FORMS_INSIDE_SWEDISH]
+      SV:    plocka (-r, -de, -t) undan
+      FORMS: 
+      EN:    clean up
+      CHAPTER: 16 PAGE: 220 PDF: 53
+
+0594. riv_b_5333 [FORMS_INSIDE_SWEDISH]
+      SV:    torka (-r, -de, -t) bort
+      FORMS: 
+      EN:    wipe away
+      CHAPTER: 16 PAGE: 220 PDF: 53
+
+0595. riv_b_5344 [FORMS_INSIDE_SWEDISH]
+      SV:    skrapa (-r, -de, -t) bort
+      FORMS: 
+      EN:    scrape away
+      CHAPTER: 16 PAGE: 220 PDF: 53
+
+0596. riv_b_5381 [FORMS_INSIDE_SWEDISH]
+      SV:    bära (bär, bar, burit) med sig
+      FORMS: 
+      EN:    carry
+      CHAPTER: 16 PAGE: 223 PDF: 53
+
+0597. riv_b_5389 [FORMS_INSIDE_SWEDISH]
+      SV:    gifta (gifter, gifte, gift) sig
+      FORMS: 
+      EN:    to get married
+      CHAPTER: 16 PAGE: 225 PDF: 53
+
+0598. riv_b_5405 [FORMS_INSIDE_SWEDISH]
+      SV:    prova (-r, -de, -t) på
+      FORMS: 
+      EN:    try
+      CHAPTER: 16 PAGE: 226 PDF: 53
+
+0599. riv_b_5408 [FORMS_INSIDE_SWEDISH]
+      SV:    hjälpas (hjälps, hjälptes, hjälpts) åt
+      FORMS: 
+      EN:    help each other out
+      CHAPTER: 16 PAGE: 226 PDF: 53
+
+0600. riv_b_5416 [FORMS_INSIDE_SWEDISH, BROKEN_PARENTHESES_SWEDISH]
+      SV:    na)
+      FORMS: 
+      EN:    ”plastic” grandmother, step grandmother
+      CHAPTER: 16 PAGE: 226 PDF: 53
+
+0601. riv_b_5430 [FORMS_INSIDE_SWEDISH, BROKEN_PARENTHESES_SWEDISH, BROKEN_PARENTHESES_ENGLISH]
+      SV:    djungel (-n,
+      FORMS: 
+      EN:    djunglar, djunglarna) jungle
+      CHAPTER: 17 PAGE: 228 PDF: 54
+
+0602. riv_b_5436 [FORMS_INSIDE_SWEDISH]
+      SV:    ge (-r, gav, gett/givit) ut
+      FORMS: 
+      EN:    publish
+      CHAPTER: 17 PAGE: 228 PDF: 54
+
+0603. riv_b_5441 [POSSIBLY_CUT_ENGLISH]
+      SV:    instängd
+      FORMS: instängt, instängda
+      EN:    locked in
+      CHAPTER: 17 PAGE: 228 PDF: 54
+
+0604. riv_b_5462 [FORMS_INSIDE_SWEDISH]
+      SV:    blanda (-r, -de, -t) samman
+      FORMS: 
+      EN:    mix together
+      CHAPTER: 17 PAGE: 229 PDF: 54
+
+0605. riv_b_5470 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    relatera (-r, -de, -t) till
+      FORMS: 
+      EN:    relate to
+      CHAPTER: 17 PAGE: 229 PDF: 54
+
+0606. riv_b_5475 [POSSIBLY_CUT_ENGLISH]
+      SV:    i samband med
+      FORMS: 
+      EN:    in connection to
+      CHAPTER: 17 PAGE: 229 PDF: 54
+
+0607. riv_b_5476 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    kliva (kliver, klev, klivit) in
+      FORMS: 
+      EN:    step in
+      CHAPTER: 17 PAGE: 229 PDF: 54
+
+0608. riv_b_5477 [FORMS_INSIDE_SWEDISH]
+      SV:    ge (-r, gav, gett) bort
+      FORMS: 
+      EN:    give away
+      CHAPTER: 17 PAGE: 230 PDF: 54
+
+0609. riv_b_5478 [SOFT_HYPHEN]
+      SV:    panoramafönster
+      FORMS: -fönstret, -, -fönstren
+      EN:    panoramic win­
+      CHAPTER: 17 PAGE: 230 PDF: 54
+
+0610. riv_b_5482 [FORMS_INSIDE_SWEDISH]
+      SV:    skriva (skriver, skrev, skrivit) musik
+      FORMS: 
+      EN:    write music
+      CHAPTER: 17 PAGE: 227 PDF: 54
+
+0611. riv_b_5501 [FORMS_INSIDE_SWEDISH]
+      SV:    lita (-r, -de, -t) på
+      FORMS: 
+      EN:    to trust
+      CHAPTER: 17 PAGE: 227 PDF: 54
+
+0612. riv_b_5544 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    utgöras (utgörs, utgjordes, utgjorts) av
+      FORMS: 
+      EN:    to be made up of
+      CHAPTER: 17 PAGE: 230 PDF: 55
+
+0613. riv_b_5590 [FORMS_INSIDE_SWEDISH, POSSIBLY_CUT_ENGLISH]
+      SV:    ta (-r, tog, tagit) kontakt med
+      FORMS: 
+      EN:    make contact with
+      CHAPTER: 17 PAGE: 233 PDF: 55
+
+0614. riv_b_5601 [FORMS_INSIDE_SWEDISH]
+      SV:    kamma (-r, -de, -t) sig
+      FORMS: 
+      EN:    comb oneself
+      CHAPTER: 17 PAGE: 235 PDF: 55
+
+0615. riv_b_5625 [POSSIBLY_CUT_ENGLISH]
+      SV:    ge liv åt
+      FORMS: 
+      EN:    give life to
+      CHAPTER: 17 PAGE: 236 PDF: 55
+
+0616. riv_b_5640 [FORMS_INSIDE_SWEDISH]
+      SV:    tas (togs, tagits) som gisslan
+      FORMS: 
+      EN:    taken hostage
+      CHAPTER: 17 PAGE: 237 PDF: 56
+
+0617. riv_b_5641 [SOFT_HYPHEN]
+      SV:    förvandlingsdräkt
+      FORMS: -en, -er, -erna
+      EN:    costumes of transforma­
+      CHAPTER: 17 PAGE: 237 PDF: 56
+
+0618. riv_b_5669 [FORMS_INSIDE_SWEDISH]
+      SV:    dra (-r, drog, dragit) ut
+      FORMS: 
+      EN:    pull out
+      CHAPTER: 17 PAGE: 239 PDF: 56
+
+0619. riv_b_5685 [FORMS_INSIDE_SWEDISH]
+      SV:    bränna (bränner, brände, bränt) sig
+      FORMS: 
+      EN:    burn oneself
+      CHAPTER: 17 PAGE: 236 PDF: 56
+
+0620. riv_b_5702 [FORMS_INSIDE_SWEDISH]
+      SV:    äta (äter, åt, ätit) upp
+      FORMS: 
+      EN:    eat up
+      CHAPTER: 17 PAGE: 236 PDF: 56
+
+0621. riv_b_5703 [FORMS_INSIDE_SWEDISH]
+      SV:    komma (kommer, kom, kommit) i mål
+      FORMS: 
+      EN:    reach goal
+      CHAPTER: 17 PAGE: 236 PDF: 56
+
+0622. riv_b_5709 [POSSIBLY_CUT_ENGLISH]
+      SV:    brottas med
+      FORMS: 
+      EN:    wrestle with
+      CHAPTER: 17 PAGE: 241 PDF: 56
+
+0623. riv_b_5710 [SOFT_HYPHEN]
+      SV:    farmor
+      FORMS: farmoder, farmödrar, farmödrarna
+      EN:    paternal grand­
+      CHAPTER: 17 PAGE: 241 PDF: 56
+
+0624. riv_b_5711 [FORMS_INSIDE_SWEDISH]
+      SV:    brotta (-r, -de, -t) ner
+      FORMS: 
+      EN:    wrestle down, pin down
+      CHAPTER: 17 PAGE: 241 PDF: 56
+
+0625. riv_b_5738 [FORMS_INSIDE_SWEDISH]
+      SV:    anbringa (abragte, anbragt)
+      FORMS: alternativ böjningsform
+      EN:    apply,
+      CHAPTER: 18 PAGE: 240 PDF: 57
+
+0626. riv_b_5752 [FORMS_INSIDE_SWEDISH]
+      SV:    hugga (-er, högg, huggit) ner
+      FORMS: 
+      EN:    chop down
+      CHAPTER: 18 PAGE: 243 PDF: 57
+
+0627. riv_b_5758 [POSSIBLY_CUT_ENGLISH]
+      SV:    förhållande till
+      FORMS: 
+      EN:    relationship to
+      CHAPTER: 18 PAGE: 243 PDF: 57
+
+0628. riv_b_5773 [POSSIBLY_CUT_ENGLISH]
+      SV:    ge plats åt
+      FORMS: 
+      EN:    make space for
+      CHAPTER: 18 PAGE: 243 PDF: 57
+
+0629. riv_b_5790 [POSSIBLY_CUT_ENGLISH]
+      SV:    i samband med
+      FORMS: 
+      EN:    in connection to
+      CHAPTER: 18 PAGE: 242 PDF: 57
+
+0630. riv_b_5792 [SOFT_HYPHEN]
+      SV:    miljömedveten
+      FORMS: miljömedvetet, miljömedvetna
+      EN:    environme­
+      CHAPTER: 18 PAGE: 242 PDF: 57
+
+0631. riv_b_5806 [POSSIBLY_CUT_ENGLISH]
+      SV:    å ena sidan… å andra sidan
+      FORMS: 
+      EN:    on the one hand… on the
+      CHAPTER: 18 PAGE: 245 PDF: 57
+
+0632. riv_b_5818 [FORMS_INSIDE_SWEDISH]
+      SV:    bryta (-er, bröt, brutit) benet
+      FORMS: 
+      EN:    break one’s leg
+      CHAPTER: 18 PAGE: 246 PDF: 57
+
+0633. riv_b_5828 [FORMS_INSIDE_SWEDISH]
+      SV:    göra (gör, gjorde, gjort) bort sig
+      FORMS: 
+      EN:    embarrass oneself
+      CHAPTER: 18 PAGE: 247 PDF: 57
+
+0634. riv_b_5836 [POSSIBLY_CUT_ENGLISH]
+      SV:    jämfört med
+      FORMS: 
+      EN:    compared to
+      CHAPTER: 18 PAGE: 244 PDF: 58
+
+0635. riv_b_5856 [FORMS_INSIDE_SWEDISH]
+      SV:    ha (-r, hade, haft) råd med
+      FORMS: 
+      EN:    be able to afford
+      CHAPTER: 18 PAGE: 249 PDF: 58
+
+0636. riv_b_5857 [FORMS_INSIDE_SWEDISH]
+      SV:    plocka (-r, -de, -t) ur diskmaskinen
+      FORMS: 
+      EN:    empty the dish washer
+      CHAPTER: 18 PAGE: 249 PDF: 58
+
+0637. riv_b_5858 [FORMS_INSIDE_SWEDISH]
+      SV:    sätta (sätter, satte, satt) på kaffe
+      FORMS: 
+      EN:    put on coffee
+      CHAPTER: 18 PAGE: 249 PDF: 58
+
+0638. riv_b_5859 [FORMS_INSIDE_SWEDISH]
+      SV:    hjälpas (hjälps, hjälptes, hjälpts) åt
+      FORMS: 
+      EN:    help one another out
+      CHAPTER: 18 PAGE: 249 PDF: 58
+
+0639. riv_b_5864 [FORMS_INSIDE_SWEDISH]
+      SV:    smälla (smäller, smällde, smällt) i dörrar
+      FORMS: 
+      EN:    slam doors
+      CHAPTER: 18 PAGE: 249 PDF: 58
+
+0640. riv_b_5874 [FORMS_INSIDE_SWEDISH]
+      SV:    Du skulle (väl) inte kunna stänga fönstret?
+      FORMS: 
+      EN:    Couldn’t you
+      CHAPTER: 18 PAGE: 250 PDF: 58
+
+0641. riv_b_5875 [FORMS_INSIDE_SWEDISH]
+      SV:    Du skulle (väl) inte vilja hämta min jacka?
+      FORMS: 
+      EN:    Couldn’t you get
+      CHAPTER: 18 PAGE: 250 PDF: 58
+
+0642. riv_b_5877 [VERY_SHORT_ENGLISH]
+      SV:    Det skulle vara bra om du stängde/kunde stänga fönstret.
+      FORMS: 
+      EN:    It
+      CHAPTER: 18 PAGE: 250 PDF: 58
+
+0643. riv_b_5878 [SOFT_HYPHEN]
+      SV:    Skulle det vara möjligt att stänga fönstret?
+      FORMS: 
+      EN:    Would it be pos­
+      CHAPTER: 18 PAGE: 250 PDF: 58
+
+0644. riv_b_5882 [POSSIBLY_CUT_ENGLISH]
+      SV:    Skulle du kunna stänga fönstret?
+      FORMS: 
+      EN:    Would you be able to
+      CHAPTER: 18 PAGE: 248 PDF: 58
+
+0645. riv_b_5883 [POSSIBLY_CUT_ENGLISH]
+      SV:    Skulle du vilja stänga fönstret?
+      FORMS: 
+      EN:    Do you want to close the
+      CHAPTER: 18 PAGE: 248 PDF: 58
+
+0646. riv_b_5884 [FORMS_INSIDE_SWEDISH]
+      SV:    Vill du (inte) stänga fönstret?
+      FORMS: 
+      EN:    Do/don’t you want to close
+      CHAPTER: 18 PAGE: 248 PDF: 58
+
+0647. riv_b_5885 [FORMS_INSIDE_SWEDISH]
+      SV:    Skulle du (inte) vilja stänga fönstret?
+      FORMS: 
+      EN:    Would/wouldn’t you
+      CHAPTER: 18 PAGE: 248 PDF: 58
+
+0648. riv_b_5886 [POSSIBLY_CUT_ENGLISH]
+      SV:    Har du lust att stänga fönstret?
+      FORMS: 
+      EN:    Do you want to close the
+      CHAPTER: 18 PAGE: 248 PDF: 58
+
+0649. riv_b_5892 [FORMS_INSIDE_SWEDISH]
+      SV:    säga (säger, sade/sa, sagt) upp
+      FORMS: 
+      EN:    fire, terminate
+      CHAPTER: 18 PAGE: 251 PDF: 58
+
+0650. riv_b_5922 [POSSIBLY_CUT_ENGLISH]
+      SV:    tillbakahållen
+      FORMS: tillbakahållet, tillbakahållna
+      EN:    held in
+      CHAPTER: 18 PAGE: 252 PDF: 58
+
+0651. riv_b_5948 [FORMS_INSIDE_SWEDISH]
+      SV:    göra (gör, gjorde, gjort) entré
+      FORMS: 
+      EN:    make an entrance, arrive
+      CHAPTER: 18 PAGE: 253 PDF: 59
+
+0652. riv_b_5952 [FORMS_INSIDE_SWEDISH]
+      SV:    fylla (fyller, fyllde, fyllt) en funktion
+      FORMS: 
+      EN:    fill a function, have a role
+      CHAPTER: 18 PAGE: 253 PDF: 59
+
+0653. riv_b_5953 [FORMS_INSIDE_SWEDISH]
+      SV:    rensa (-r, -de, -t) hjärnan
+      FORMS: 
+      EN:    clear one’s brain
+      CHAPTER: 18 PAGE: 253 PDF: 59
+
+0654. riv_b_5956 [FORMS_INSIDE_SWEDISH]
+      SV:    dröja (dröjer, dröjde, dröjt) kvar
+      FORMS: 
+      EN:    linger
+      CHAPTER: 18 PAGE: 253 PDF: 59
+
+0655. riv_b_5957 [FORMS_INSIDE_SWEDISH]
+      SV:    dela (-r, -de, -t) med sig av
+      FORMS: 
+      EN:    share
+      CHAPTER: 18 PAGE: 253 PDF: 59
+
+0656. riv_b_5962 [SOFT_HYPHEN]
+      SV:    Har du hört vad som hände?
+      FORMS: 
+      EN:    Have you heard what happe­
+      CHAPTER: 18 PAGE: 254 PDF: 59
+
+0657. riv_b_5974 [POSSIBLY_CUT_ENGLISH]
+      SV:    Återgå
+      FORMS: 
+      EN:    return to
+      CHAPTER: 18 PAGE: 254 PDF: 59
+
+0658. riv_b_5976 [POSSIBLY_CUT_ENGLISH]
+      SV:    Jaha… Slut på det roliga.
+      FORMS: 
+      EN:    Well… That was the end of the
+      CHAPTER: 18 PAGE: 254 PDF: 59
+
+0659. riv_b_5999 [SOFT_HYPHEN]
+      SV:    relationsorienterad
+      FORMS: -orienterat, -orienterade
+      EN:    relations­
+      CHAPTER: 18 PAGE: 255 PDF: 59
+
+0660. riv_b_6004 [SOFT_HYPHEN]
+      SV:    kvinnodominerad
+      FORMS: -dominerat, -dominerade
+      EN:    female-domi­
+      CHAPTER: 18 PAGE: 255 PDF: 59
+
+0661. riv_b_6006 [SOFT_HYPHEN]
+      SV:    mansdominerad
+      FORMS: -dominerat, -dominerade
+      EN:    male-domina­
+      CHAPTER: 18 PAGE: 255 PDF: 59
+
+0662. riv_b_6012 [FORMS_INSIDE_SWEDISH]
+      SV:    höra (hör, hörde, hört) till
+      FORMS: 
+      EN:    belong
+      CHAPTER: 18 PAGE: 256 PDF: 59
+
+0663. riv_b_6013 [FORMS_INSIDE_SWEDISH]
+      SV:    starta (-r, -de, -t) eget
+      FORMS: 
+      EN:    start one’s own business
+      CHAPTER: 18 PAGE: 256 PDF: 59
+
+0664. riv_b_6016 [FORMS_INSIDE_SWEDISH]
+      SV:    arbeta (-r, -de, -t) sig upp
+      FORMS: 
+      EN:    work one’s way up
+      CHAPTER: 18 PAGE: 256 PDF: 59
+
+0665. riv_b_6040 [POSSIBLY_CUT_ENGLISH]
+      SV:    uppmana
+      FORMS: -r, -de, -t
+      EN:    call on
+      CHAPTER: 18 PAGE: 257 PDF: 60
+
+0666. riv_b_6041 [SOFT_HYPHEN]
+      SV:    återfinnas
+      FORMS: återfinns, återfanns, återfunnits
+      EN:    to be rediscove­
+      CHAPTER: 18 PAGE: 257 PDF: 60
+
+0667. riv_b_6058 [SOFT_HYPHEN]
+      SV:    ansvarskänsla
+      FORMS: -n, -känslor, -känslorna
+      EN:    sense of responsibi­
+      CHAPTER: 18 PAGE: 258 PDF: 60
+
+0668. riv_b_6060 [POSSIBLY_CUT_ENGLISH]
+      SV:    utöver
+      FORMS: 
+      EN:    in addition to
+      CHAPTER: 18 PAGE: 258 PDF: 60
+
+0669. riv_b_6080 [FORMS_INSIDE_SWEDISH]
+      SV:    hänga (-er, hängde, hängt) ihop
+      FORMS: 
+      EN:    to hang out together, to be
+      CHAPTER: 18 PAGE: 259 PDF: 60
+
+========================================================================
+ALL EXACT DUPLICATE GROUPS
+========================================================================
+
+0001. först -> first [5x]
+      riv_b_0283 | chapter=1 | page=11 | pdf=3 | forms=-a
+      riv_b_0419 | chapter=1 | page=10 | pdf=5 | forms=-a
+      riv_b_1944 | chapter=5 | page=63 | pdf=19 | forms=
+      riv_b_2302 | chapter=6 | page=77 | pdf=22 | forms=-a
+      riv_b_3313 | chapter=8 | page=111 | pdf=32 | forms=
+
+0002. än idag -> still today [4x]
+      riv_b_1039 | chapter=2 | page=28 | pdf=10 | forms=
+      riv_b_2108 | chapter=5 | page=67 | pdf=21 | forms=
+      riv_b_3886 | chapter=11 | page=142 | pdf=38 | forms=
+      riv_b_5782 | chapter=18 | page=243 | pdf=57 | forms=
+
+0003. lycklig -> happy [3x]
+      riv_b_0523 | chapter=1 | page=14 | pdf=6 | forms=-t, -a
+      riv_b_0892 | chapter=2 | page=25 | pdf=9 | forms=-t, -a
+      riv_b_4544 | chapter=13 | page=177 | pdf=44 | forms=-t, -a
+
+0004. långsam -> slow [3x]
+      riv_b_0291 | chapter=1 | page=11 | pdf=3 | forms=-t, -ma
+      riv_b_1696 | chapter=4 | page=52 | pdf=17 | forms=-t, -ma
+      riv_b_2580 | chapter=7 | page=86 | pdf=25 | forms=-t, -a
+
+0005. mot -> against [3x]
+      riv_b_1126 | chapter=2 | page=28 | pdf=11 | forms=
+      riv_b_2635 | chapter=7 | page=90 | pdf=26 | forms=
+      riv_b_3048 | chapter=8 | page=102 | pdf=30 | forms=
+
+0006. styrka -> strength [3x]
+      riv_b_0371 | chapter=1 | page=12 | pdf=4 | forms=-n, styrkor, styrkorna
+      riv_b_0427 | chapter=1 | page=10 | pdf=5 | forms=-n, styrkor, styrkorna
+      riv_b_5377 | chapter=16 | page=223 | pdf=53 | forms=-n, styrkor, styrkorna
+
+0007. tid -> time [3x]
+      riv_b_0145 | chapter=1 | page=8 | pdf=2 | forms=-en, -er, -erna
+      riv_b_0538 | chapter=1 | page=14 | pdf=6 | forms=-en, -er, -erna
+      riv_b_1345 | chapter=3 | page=42 | pdf=13 | forms=-en, -er, -erna
+
+0008. till och med -> even [3x]
+      riv_b_1130 | chapter=2 | page=28 | pdf=11 | forms=
+      riv_b_2909 | chapter=7 | page=97 | pdf=28 | forms=
+      riv_b_5701 | chapter=17 | page=236 | pdf=56 | forms=
+
+0009. absolut inte -> absolutely not [2x]
+      riv_b_0170 | chapter=1 | page=9 | pdf=2 | forms=
+      riv_b_1726 | chapter=4 | page=54 | pdf=17 | forms=
+
+0010. aktiv -> active [2x]
+      riv_b_1125 | chapter=2 | page=28 | pdf=11 | forms=-t, -a
+      riv_b_2318 | chapter=6 | page=75 | pdf=23 | forms=-t, -a
+
+0011. alla -> all [2x]
+      riv_b_0220 | chapter=1 | page=10 | pdf=3 | forms=
+      riv_b_0514 | chapter=1 | page=16 | pdf=5 | forms=
+
+0012. allför -> all too [2x]
+      riv_b_3756 | chapter=10 | page=133 | pdf=37 | forms=
+      riv_b_5055 | chapter=15 | page=206 | pdf=50 | forms=
+
+0013. alternativ -> alternative [2x]
+      riv_b_0032 | chapter=1 | page=8 | pdf=1 | forms=-et, -, -en
+      riv_b_0474 | chapter=1 | page=15 | pdf=5 | forms=-t, -a
+
+0014. andra -> other [2x]
+      riv_b_0302 | chapter=1 | page=12 | pdf=3 | forms=
+      riv_b_5812 | chapter=18 | page=245 | pdf=57 | forms=
+
+0015. avsluta -> finish [2x]
+      riv_b_0698 | chapter=2 | page=16 | pdf=7 | forms=-r, -de, -t
+      riv_b_3396 | chapter=9 | page=115 | pdf=33 | forms=-r, -de, -t
+
+0016. barnbarn -> grandchildren [2x]
+      riv_b_2258 | chapter=6 | page=70 | pdf=22 | forms=-et, -, -en
+      riv_b_5485 | chapter=17 | page=227 | pdf=54 | forms=-et, -, -en
+
+0017. besöka -> visit [2x]
+      riv_b_0459 | chapter=1 | page=14 | pdf=5 | forms=besöker, besökte, besökt
+      riv_b_0465 | chapter=1 | page=14 | pdf=5 | forms=besöker, besökte, besökt
+
+0018. betydelse -> meaning [2x]
+      riv_b_0791 | chapter=2 | page=20 | pdf=8 | forms=-n, -r, -rna
+      riv_b_5918 | chapter=18 | page=252 | pdf=58 | forms=-n, -r, -rna
+
+0019. bland annat -> among other things [2x]
+      riv_b_0708 | chapter=2 | page=16 | pdf=7 | forms=
+      riv_b_2328 | chapter=6 | page=75 | pdf=23 | forms=
+
+0020. blod -> blood [2x]
+      riv_b_1539 | chapter=4 | page=50 | pdf=15 | forms=-et
+      riv_b_2921 | chapter=7 | page=97 | pdf=28 | forms=-et
+
+0021. bondesamhälle -> farming society [2x]
+      riv_b_5372 | chapter=16 | page=223 | pdf=53 | forms=-t, -n, -na
+      riv_b_5388 | chapter=16 | page=225 | pdf=53 | forms=-t, -n, -na
+
+0022. djup -> deep [2x]
+      riv_b_0268 | chapter=1 | page=11 | pdf=3 | forms=-t, -a
+      riv_b_4623 | chapter=13 | page=181 | pdf=45 | forms=-t, -a
+
+0023. dålig -> bad [2x]
+      riv_b_0204 | chapter=1 | page=8 | pdf=3 | forms=-t, -a
+      riv_b_0306 | chapter=1 | page=12 | pdf=3 | forms=sämre, sämst
+
+0024. entré -> entrance [2x]
+      riv_b_1786 | chapter=4 | page=57 | pdf=17 | forms=-n, -er, -erna
+      riv_b_3143 | chapter=8 | page=103 | pdf=30 | forms=-n, -er, -erna
+
+0025. erfarenhet -> experience [2x]
+      riv_b_3427 | chapter=9 | page=117 | pdf=33 | forms=-en, -er, -erna
+      riv_b_4981 | chapter=15 | page=206 | pdf=49 | forms=-en, -er, -erna
+
+0026. europeisk -> European [2x]
+      riv_b_0621 | chapter=1 | page=16 | pdf=6 | forms=-t, -a
+      riv_b_2033 | chapter=5 | page=67 | pdf=20 | forms=-t, -a
+
+0027. exportera -> export [2x]
+      riv_b_1799 | chapter=5 | page=54 | pdf=18 | forms=-r, -de, -t
+      riv_b_2593 | chapter=7 | page=89 | pdf=25 | forms=-r, -de, -t
+
+0028. faktor -> factor [2x]
+      riv_b_2206 | chapter=5 | page=70 | pdf=21 | forms=-n, -er, -erna
+      riv_b_5225 | chapter=16 | page=218 | pdf=51 | forms=-n, -er, -erna
+
+0029. fattig -> poor [2x]
+      riv_b_1402 | chapter=4 | page=44 | pdf=14 | forms=-t, -a
+      riv_b_5855 | chapter=18 | page=249 | pdf=58 | forms=-t, -a
+
+0030. fika -> coffee break [2x]
+      riv_b_2835 | chapter=7 | page=94 | pdf=28 | forms=-r, -de, -t
+      riv_b_5783 | chapter=18 | page=243 | pdf=57 | forms=-r, -de, -t
+
+0031. folk -> people [2x]
+      riv_b_0477 | chapter=1 | page=15 | pdf=5 | forms=-et, -, -en
+      riv_b_2632 | chapter=7 | page=90 | pdf=26 | forms=-et, -, -en
+
+0032. framför allt -> above all [2x]
+      riv_b_1744 | chapter=4 | page=53 | pdf=17 | forms=
+      riv_b_5089 | chapter=15 | page=211 | pdf=50 | forms=
+
+0033. frukt -> fruit [2x]
+      riv_b_2125 | chapter=5 | page=67 | pdf=21 | forms=-en, -er, -erna
+      riv_b_4748 | chapter=14 | page=186 | pdf=47 | forms=-en, -er, -erna
+
+0034. fråga -> ask [2x]
+      riv_b_0021 | chapter=1 | page=8 | pdf=1 | forms=-r, -de, -t
+      riv_b_1048 | chapter=2 | page=28 | pdf=10 | forms=-r, -de, -t
+
+0035. från början -> from the beginning [2x]
+      riv_b_2787 | chapter=7 | page=93 | pdf=27 | forms=
+      riv_b_5522 | chapter=17 | page=233 | pdf=54 | forms=
+
+0036. full -> drunk [2x]
+      riv_b_4063 | chapter=11 | page=151 | pdf=40 | forms=-t, -a
+      riv_b_4575 | chapter=13 | page=175 | pdf=45 | forms=-t, -a
+
+0037. funktion -> function [2x]
+      riv_b_1762 | chapter=4 | page=55 | pdf=17 | forms=-en, -er, -erna
+      riv_b_5026 | chapter=15 | page=207 | pdf=49 | forms=-en , -er, -erna
+
+0038. följande -> following [2x]
+      riv_b_1147 | chapter=2 | page=33 | pdf=11 | forms=
+      riv_b_4999 | chapter=15 | page=203 | pdf=49 | forms=
+
+0039. fönsterputsmedel -> window cleaner [2x]
+      riv_b_5342 | chapter=16 | page=220 | pdf=53 | forms=-medlet, -, -medlen
+      riv_b_5457 | chapter=17 | page=229 | pdf=54 | forms=-medlet, -, -medlen
+
+0040. fönsterskrapa -> squeegee [2x]
+      riv_b_5293 | chapter=16 | page=221 | pdf=52 | forms=-n, -skrapor, -skraporna
+      riv_b_5341 | chapter=16 | page=220 | pdf=53 | forms=-n, -skrapor, -skraporna
+
+0041. förbli -> remain [2x]
+      riv_b_1145 | chapter=2 | page=32 | pdf=11 | forms=förblir, förblev, förblivit
+      riv_b_4631 | chapter=13 | page=182 | pdf=45 | forms=-r, förblev, förblivit
+
+0042. före -> before [2x]
+      riv_b_0527 | chapter=1 | page=14 | pdf=6 | forms=
+      riv_b_2674 | chapter=7 | page=91 | pdf=26 | forms=
+
+0043. förlora -> lose [2x]
+      riv_b_0866 | chapter=2 | page=25 | pdf=9 | forms=-r, -de, -t
+      riv_b_0948 | chapter=2 | page=25 | pdf=10 | forms=-r, -de, -t
+
+0044. förort -> suburb [2x]
+      riv_b_0987 | chapter=2 | page=25 | pdf=10 | forms=-en, -er, -erna
+      riv_b_5765 | chapter=18 | page=243 | pdf=57 | forms=-en, -er, -erna
+
+0045. förskollärare -> preschool teacher [2x]
+      riv_b_1276 | chapter=3 | page=39 | pdf=13 | forms=-n, -, förskollärarna
+      riv_b_4367 | chapter=13 | page=169 | pdf=43 | forms=-n, -, -lärarna
+
+0046. förstå -> understand [2x]
+      riv_b_1049 | chapter=2 | page=28 | pdf=10 | forms=förstår, förstod, förstått
+      riv_b_2577 | chapter=7 | page=86 | pdf=25 | forms=förstår, förstod, förstått
+
+0047. gammal -> old [2x]
+      riv_b_0733 | chapter=2 | page=20 | pdf=7 | forms=gammalt, gamla
+      riv_b_3648 | chapter=9 | page=128 | pdf=35 | forms=äldre, äldst
+
+0048. generation -> generation [2x]
+      riv_b_1697 | chapter=4 | page=52 | pdf=17 | forms=-en, -er, -erna
+      riv_b_5371 | chapter=16 | page=223 | pdf=53 | forms=-en, -er, -erna
+
+0049. grad -> degree [2x]
+      riv_b_3628 | chapter=9 | page=127 | pdf=35 | forms=-en, -er, -erna
+      riv_b_3647 | chapter=9 | page=127 | pdf=35 | forms=-en, -er, -erna
+
+0050. grafisk formgivning -> graphic design [2x]
+      riv_b_3277 | chapter=8 | page=109 | pdf=32 | forms=
+      riv_b_4985 | chapter=15 | page=203 | pdf=49 | forms=
+
+0051. grupp -> group [2x]
+      riv_b_0920 | chapter=2 | page=27 | pdf=9 | forms=-en, -er, -erna
+      riv_b_5760 | chapter=18 | page=243 | pdf=57 | forms=-en, -er, -erna
+
+0052. Gud -> God [2x]
+      riv_b_2636 | chapter=7 | page=90 | pdf=26 | forms=
+      riv_b_4467 | chapter=13 | page=171 | pdf=44 | forms=-en, -ar, -arna
+
+0053. gärna -> happily [2x]
+      riv_b_0100 | chapter=1 | page=8 | pdf=2 | forms=hellre, helst
+      riv_b_0666 | chapter=2 | page=19 | pdf=7 | forms=
+
+0054. gå (-r, gick, gått) ut -> go out [2x]
+      riv_b_0853 | chapter=2 | page=22 | pdf=9 | forms=
+      riv_b_3423 | chapter=9 | page=117 | pdf=33 | forms=
+
+0055. gång -> time [2x]
+      riv_b_0079 | chapter=1 | page=9 | pdf=1 | forms=-en, -ar, -arna
+      riv_b_0448 | chapter=1 | page=14 | pdf=5 | forms=-en, -er, -erna
+
+0056. göra -> do [2x]
+      riv_b_0056 | chapter=1 | page=None | pdf=1 | forms=gör, gjorde, gjort
+      riv_b_0478 | chapter=1 | page=15 | pdf=5 | forms=gör, gjorde, gjort
+
+0057. Hallå! -> Hello! [2x]
+      riv_b_0411 | chapter=1 | page=13 | pdf=4 | forms=
+      riv_b_1906 | chapter=5 | page=62 | pdf=19 | forms=
+
+0058. hals -> throat [2x]
+      riv_b_2959 | chapter=8 | page=96 | pdf=29 | forms=-en, -ar, -arna
+      riv_b_4654 | chapter=14 | page=180 | pdf=46 | forms=-en, -ar, -arna
+
+0059. hantera -> handle [2x]
+      riv_b_4895 | chapter=15 | page=195 | pdf=48 | forms=-r, -de, -t
+      riv_b_6065 | chapter=18 | page=258 | pdf=60 | forms=-r, -de, -t
+
+0060. hets mot folkgrupp -> hate speech [2x]
+      riv_b_3081 | chapter=8 | page=102 | pdf=30 | forms=
+      riv_b_4347 | chapter=12 | page=168 | pdf=42 | forms=
+
+0061. hot -> threat [2x]
+      riv_b_2052 | chapter=5 | page=66 | pdf=20 | forms=-et, -, -en
+      riv_b_5865 | chapter=18 | page=249 | pdf=58 | forms=-et, -, -en
+
+0062. hundratals -> hundreds [2x]
+      riv_b_1716 | chapter=4 | page=54 | pdf=17 | forms=
+      riv_b_5067 | chapter=15 | page=209 | pdf=50 | forms=
+
+0063. hälft -> half [2x]
+      riv_b_2504 | chapter=7 | page=85 | pdf=24 | forms=-en
+      riv_b_5813 | chapter=18 | page=245 | pdf=57 | forms=-en, -er, -erna
+
+0064. hända -> happen [2x]
+      riv_b_0836 | chapter=2 | page=24 | pdf=8 | forms=händer, hände, hänt
+      riv_b_2348 | chapter=6 | page=78 | pdf=23 | forms=händer, hände, hänt
+
+0065. här -> here [2x]
+      riv_b_0023 | chapter=1 | page=8 | pdf=1 | forms=
+      riv_b_0257 | chapter=1 | page=9 | pdf=3 | forms=
+
+0066. hår -> hair [2x]
+      riv_b_0143 | chapter=1 | page=8 | pdf=2 | forms=-et, -, -en
+      riv_b_0829 | chapter=2 | page=24 | pdf=8 | forms=-et, -, -en
+
+0067. höra (hör, hörde, hört) till -> belong [2x]
+      riv_b_0863 | chapter=2 | page=22 | pdf=9 | forms=
+      riv_b_6012 | chapter=18 | page=256 | pdf=59 | forms=
+
+0068. i allmänhet -> in general [2x]
+      riv_b_1888 | chapter=5 | page=60 | pdf=18 | forms=
+      riv_b_4845 | chapter=15 | page=196 | pdf=48 | forms=
+
+0069. i lägre grad -> to a lesser extent [2x]
+      riv_b_6008 | chapter=18 | page=256 | pdf=59 | forms=
+      riv_b_6030 | chapter=18 | page=254 | pdf=60 | forms=
+
+0070. i mitten av -> in the middle of [2x]
+      riv_b_0553 | chapter=1 | page=14 | pdf=6 | forms=
+      riv_b_5199 | chapter=16 | page=216 | pdf=51 | forms=
+
+0071. i samband med -> in connection to [2x]
+      riv_b_5475 | chapter=17 | page=229 | pdf=54 | forms=
+      riv_b_5790 | chapter=18 | page=242 | pdf=57 | forms=
+
+0072. i större utsträckning -> to a greater extent [2x]
+      riv_b_6010 | chapter=18 | page=256 | pdf=59 | forms=
+      riv_b_6022 | chapter=18 | page=256 | pdf=59 | forms=
+
+0073. inleda -> initiate [2x]
+      riv_b_3985 | chapter=11 | page=147 | pdf=39 | forms=inleder, inledde, inlett
+      riv_b_5960 | chapter=18 | page=254 | pdf=59 | forms=inleder, inledde, inlett
+
+0074. institution -> institution [2x]
+      riv_b_5008 | chapter=15 | page=203 | pdf=49 | forms=-en, -er, -erna
+      riv_b_5945 | chapter=18 | page=253 | pdf=59 | forms=-en, -er, -erna
+
+0075. intresse -> interest [2x]
+      riv_b_0517 | chapter=1 | page=16 | pdf=5 | forms=-t, -n, -na
+      riv_b_2426 | chapter=7 | page=81 | pdf=24 | forms=-t, -, -na
+
+0076. julklapp -> Christmas present [2x]
+      riv_b_4439 | chapter=13 | page=174 | pdf=43 | forms=-en, -ar, -arna
+      riv_b_5502 | chapter=17 | page=227 | pdf=54 | forms=-en, -ar, -arna
+
+0077. Kina -> China [2x]
+      riv_b_2136 | chapter=5 | page=67 | pdf=21 | forms=
+      riv_b_4202 | chapter=12 | page=155 | pdf=41 | forms=
+
+0078. kokain -> cocaine [2x]
+      riv_b_3951 | chapter=11 | page=145 | pdf=38 | forms=-et, -, -en
+      riv_b_4083 | chapter=11 | page=152 | pdf=40 | forms=-et
+
+0079. konditionalis -> conditional [2x]
+      riv_b_2232 | chapter=6 | page=74 | pdf=22 | forms=
+      riv_b_4167 | chapter=12 | page=156 | pdf=41 | forms=
+
+0080. konjak -> cognac [2x]
+      riv_b_2956 | chapter=8 | page=96 | pdf=29 | forms=-en
+      riv_b_3963 | chapter=11 | page=142 | pdf=39 | forms=-en
+
+0081. konsumtion -> consumption [2x]
+      riv_b_2192 | chapter=5 | page=70 | pdf=21 | forms=-en
+      riv_b_3735 | chapter=10 | page=134 | pdf=36 | forms=-en
+
+0082. kontakt -> contact [2x]
+      riv_b_0979 | chapter=2 | page=25 | pdf=10 | forms=-en, -er, -erna
+      riv_b_4932 | chapter=15 | page=203 | pdf=48 | forms=-en, -er, -erna
+
+0083. kontrollerad -> controlled [2x]
+      riv_b_3561 | chapter=9 | page=120 | pdf=35 | forms=kontrollerat, kontrollerade
+      riv_b_5930 | chapter=18 | page=250 | pdf=59 | forms=kontrollerat, kontrollerade
+
+0084. kort -> short [2x]
+      riv_b_0681 | chapter=2 | page=19 | pdf=7 | forms=
+      riv_b_2702 | chapter=7 | page=93 | pdf=26 | forms=-a
+
+0085. krascha -> crash [2x]
+      riv_b_3843 | chapter=10 | page=139 | pdf=37 | forms=-r, -de, -t
+      riv_b_4010 | chapter=11 | page=149 | pdf=39 | forms=-r, -de, -t
+
+0086. krona -> crown [2x]
+      riv_b_2015 | chapter=5 | page=67 | pdf=20 | forms=-n, kronor, kronorna
+      riv_b_3249 | chapter=8 | page=106 | pdf=32 | forms=-n, kronor, kronorna
+
+0087. krävande -> demanding [2x]
+      riv_b_5410 | chapter=16 | page=226 | pdf=53 | forms=
+      riv_b_6056 | chapter=18 | page=258 | pdf=60 | forms=
+
+0088. kyrka -> church [2x]
+      riv_b_0932 | chapter=2 | page=27 | pdf=9 | forms=-n, kyrkor, kyrkorna
+      riv_b_2752 | chapter=7 | page=90 | pdf=27 | forms=-n, kyrkor, kyrkorna
+
+0089. känna (känner, kände, känt) igen -> recognize [2x]
+      riv_b_3182 | chapter=8 | page=105 | pdf=31 | forms=
+      riv_b_4066 | chapter=11 | page=151 | pdf=40 | forms=
+
+0090. lansera -> launch [2x]
+      riv_b_2199 | chapter=5 | page=70 | pdf=21 | forms=-r, -de, -t
+      riv_b_3830 | chapter=10 | page=138 | pdf=37 | forms=-r, -de, -t
+
+0091. lista -> list [2x]
+      riv_b_0743 | chapter=2 | page=21 | pdf=8 | forms=-n, listor, listorna
+      riv_b_4995 | chapter=15 | page=203 | pdf=49 | forms=-n, listor, listorna
+
+0092. ljusare -> lighter [2x]
+      riv_b_3606 | chapter=9 | page=126 | pdf=35 | forms=
+      riv_b_4860 | chapter=15 | page=196 | pdf=48 | forms=
+
+0093. lojal -> loyal [2x]
+      riv_b_0759 | chapter=2 | page=21 | pdf=8 | forms=-t, -a
+      riv_b_6034 | chapter=18 | page=257 | pdf=60 | forms=-t, -a
+
+0094. läger -> camp [2x]
+      riv_b_0504 | chapter=1 | page=15 | pdf=5 | forms=lägret, -, lägren
+      riv_b_2865 | chapter=7 | page=96 | pdf=28 | forms=lägret, -, lägren
+
+0095. lärare -> teacher [2x]
+      riv_b_2428 | chapter=7 | page=81 | pdf=24 | forms=-n, -, lärarna
+      riv_b_5675 | chapter=17 | page=239 | pdf=56 | forms=-n, -, lärarna
+
+0096. läsk -> soda [2x]
+      riv_b_0065 | chapter=1 | page=None | pdf=1 | forms=-en, -, -en
+      riv_b_1860 | chapter=5 | page=60 | pdf=18 | forms=-en
+
+0097. löna (-r, -de, -t) sig -> pay off [2x]
+      riv_b_4921 | chapter=15 | page=202 | pdf=48 | forms=
+      riv_b_4936 | chapter=15 | page=200 | pdf=49 | forms=
+
+0098. Mellanöstern -> Middle East [2x]
+      riv_b_2139 | chapter=5 | page=67 | pdf=21 | forms=
+      riv_b_5800 | chapter=18 | page=245 | pdf=57 | forms=
+
+0099. mikro -> microwave oven [2x]
+      riv_b_3443 | chapter=9 | page=118 | pdf=33 | forms=-n
+      riv_b_5854 | chapter=18 | page=249 | pdf=58 | forms=-n
+
+0100. miljard -> billion [2x]
+      riv_b_3731 | chapter=10 | page=134 | pdf=36 | forms=-en, -er, -erna
+      riv_b_4397 | chapter=13 | page=171 | pdf=43 | forms=-en, -er, -erna
+
+0101. miljö -> environment [2x]
+      riv_b_1817 | chapter=5 | page=54 | pdf=18 | forms=-n, -er, -erna
+      riv_b_3002 | chapter=8 | page=100 | pdf=29 | forms=-n, -er, -erna
+
+0102. miljömedveten -> environme­ [2x]
+      riv_b_3738 | chapter=10 | page=134 | pdf=36 | forms=miljömedvetet, miljömedvetna
+      riv_b_5792 | chapter=18 | page=242 | pdf=57 | forms=miljömedvetet, miljömedvetna
+
+0103. misslyckande -> failure [2x]
+      riv_b_1418 | chapter=4 | page=44 | pdf=14 | forms=-t, -n, -na
+      riv_b_4186 | chapter=12 | page=158 | pdf=41 | forms=
+
+0104. mod -> courage [2x]
+      riv_b_4182 | chapter=12 | page=158 | pdf=41 | forms=-et
+      riv_b_6067 | chapter=18 | page=258 | pdf=60 | forms=-et
+
+0105. mun -> mouth [2x]
+      riv_b_1568 | chapter=4 | page=50 | pdf=15 | forms=munnen, munnar, munnarna
+      riv_b_5688 | chapter=17 | page=236 | pdf=56 | forms=-nen, munnar, munnarna
+
+0106. mål -> goal [2x]
+      riv_b_0360 | chapter=1 | page=10 | pdf=4 | forms=-et, -, -en
+      riv_b_2038 | chapter=5 | page=67 | pdf=20 | forms=-et, -, -en
+
+0107. möte -> meeting [2x]
+      riv_b_1388 | chapter=4 | page=43 | pdf=14 | forms=-t, -n, -na
+      riv_b_5848 | chapter=18 | page=249 | pdf=58 | forms=-t, -n, -na
+
+0108. närma (-r, -de, -t) sig -> approach [2x]
+      riv_b_1549 | chapter=4 | page=50 | pdf=15 | forms=
+      riv_b_4551 | chapter=13 | page=175 | pdf=45 | forms=
+
+0109. nästa -> next [2x]
+      riv_b_0040 | chapter=1 | page=8 | pdf=1 | forms=
+      riv_b_1239 | chapter=3 | page=37 | pdf=12 | forms=
+
+0110. Oj! -> Oh! [2x]
+      riv_b_0841 | chapter=2 | page=24 | pdf=8 | forms=
+      riv_b_3303 | chapter=8 | page=108 | pdf=32 | forms=
+
+0111. olik -> different [2x]
+      riv_b_0289 | chapter=1 | page=11 | pdf=3 | forms=-t,-a
+      riv_b_0473 | chapter=1 | page=15 | pdf=5 | forms=-t, -a
+
+0112. olycka -> accident [2x]
+      riv_b_1722 | chapter=4 | page=54 | pdf=17 | forms=-n, olyckor, olyckorna
+      riv_b_3199 | chapter=8 | page=103 | pdf=31 | forms=-n, olyckor, olyckorna
+
+0113. omtyckt -> well-liked [2x]
+      riv_b_3753 | chapter=10 | page=133 | pdf=37 | forms=-a
+      riv_b_4121 | chapter=11 | page=150 | pdf=40 | forms=-a
+
+0114. ord -> word [2x]
+      riv_b_0009 | chapter=1 | page=8 | pdf=1 | forms=-et, -, -en
+      riv_b_3617 | chapter=9 | page=126 | pdf=35 | forms=-et, -, -en
+
+0115. organisation -> organization [2x]
+      riv_b_0659 | chapter=2 | page=19 | pdf=7 | forms=-en, -er, -erna
+      riv_b_5014 | chapter=15 | page=203 | pdf=49 | forms=-en, -er, -erna
+
+0116. palats -> palace [2x]
+      riv_b_0946 | chapter=2 | page=28 | pdf=9 | forms=-et, -, -en
+      riv_b_5770 | chapter=18 | page=243 | pdf=57 | forms=-et, -, -en
+
+0117. pizza -> pizza [2x]
+      riv_b_1855 | chapter=5 | page=60 | pdf=18 | forms=-n, pizzor, pizzorna
+      riv_b_5460 | chapter=17 | page=229 | pdf=54 | forms=-n, pizzor, pizzorna
+
+0118. poet -> poet [2x]
+      riv_b_2524 | chapter=7 | page=87 | pdf=25 | forms=-en, -er, -erna
+      riv_b_4690 | chapter=14 | page=186 | pdf=46 | forms=-en, -er, -erna
+
+0119. popcorn -> popcorn [2x]
+      riv_b_1881 | chapter=5 | page=60 | pdf=18 | forms=-et, -, -en
+      riv_b_5191 | chapter=16 | page=213 | pdf=51 | forms=-et, -, -en
+
+0120. preposition -> preposition [2x]
+      riv_b_0296 | chapter=1 | page=11 | pdf=3 | forms=-en, -er, -erna
+      riv_b_5365 | chapter=16 | page=223 | pdf=53 | forms=-en, -er, -erna
+
+0121. privat -> private [2x]
+      riv_b_0976 | chapter=2 | page=25 | pdf=10 | forms=-a
+      riv_b_5463 | chapter=17 | page=229 | pdf=54 | forms=-a
+
+0122. problem -> problem [2x]
+      riv_b_0747 | chapter=2 | page=21 | pdf=8 | forms=-et, -, -en
+      riv_b_2625 | chapter=7 | page=90 | pdf=26 | forms=-et, , -en
+
+0123. rasande -> livid [2x]
+      riv_b_4087 | chapter=11 | page=153 | pdf=40 | forms=
+      riv_b_5863 | chapter=18 | page=249 | pdf=58 | forms=
+
+0124. registrerad -> registered [2x]
+      riv_b_3031 | chapter=8 | page=101 | pdf=29 | forms=registrerat, registrerade
+      riv_b_3047 | chapter=8 | page=102 | pdf=30 | forms=registrerat, registrerade
+
+0125. rekommendera -> recommend [2x]
+      riv_b_1583 | chapter=4 | page=49 | pdf=16 | forms=-r, -de, -t
+      riv_b_5656 | chapter=17 | page=238 | pdf=56 | forms=-r, -de, -t
+
+0126. ren -> reindeer [2x]
+      riv_b_1685 | chapter=4 | page=53 | pdf=16 | forms=-en, -ar, -arna
+      riv_b_2818 | chapter=7 | page=95 | pdf=27 | forms=-t, -a
+
+0127. ridning -> riding [2x]
+      riv_b_0328 | chapter=1 | page=10 | pdf=4 | forms=-en
+      riv_b_6049 | chapter=18 | page=257 | pdf=60 | forms=-en
+
+0128. rike -> kingdom [2x]
+      riv_b_3285 | chapter=8 | page=109 | pdf=32 | forms=-t, -n, -na
+      riv_b_5693 | chapter=17 | page=236 | pdf=56 | forms=-t, -n, -na
+
+0129. roll -> role [2x]
+      riv_b_0232 | chapter=1 | page=10 | pdf=3 | forms=-en, -er, -erna
+      riv_b_0779 | chapter=2 | page=22 | pdf=8 | forms=
+
+0130. rätt -> right [2x]
+      riv_b_0481 | chapter=1 | page=15 | pdf=5 | forms=
+      riv_b_0557 | chapter=1 | page=14 | pdf=6 | forms=-en, -er, -erna
+
+0131. rå -> raw [2x]
+      riv_b_2895 | chapter=7 | page=97 | pdf=28 | forms=-tt, -a
+      riv_b_2966 | chapter=8 | page=98 | pdf=29 | forms=-tt, -a
+
+0132. rådjur -> deer [2x]
+      riv_b_1746 | chapter=4 | page=53 | pdf=17 | forms=-et, -, -en
+      riv_b_2554 | chapter=7 | page=87 | pdf=25 | forms=-et, -, -en
+
+0133. råtta -> rat [2x]
+      riv_b_1530 | chapter=4 | page=47 | pdf=15 | forms=-n, råttor, råttorna
+      riv_b_2003 | chapter=5 | page=63 | pdf=20 | forms=-n, råttor, råttorna
+
+0134. röka -> to smoke [2x]
+      riv_b_2060 | chapter=5 | page=68 | pdf=20 | forms=röker, rökte, rökt
+      riv_b_3531 | chapter=9 | page=123 | pdf=34 | forms=röker, rökte, rökt
+
+0135. samma -> same [2x]
+      riv_b_0626 | chapter=1 | page=16 | pdf=6 | forms=
+      riv_b_4259 | chapter=12 | page=159 | pdf=42 | forms=-e
+
+0136. satsadverb -> clausal adverb [2x]
+      riv_b_4205 | chapter=12 | page=160 | pdf=41 | forms=-et, -, -en
+      riv_b_5363 | chapter=16 | page=223 | pdf=53 | forms=-et, -, -en
+
+0137. sex -> sex [2x]
+      riv_b_2647 | chapter=7 | page=90 | pdf=26 | forms=
+      riv_b_3021 | chapter=8 | page=101 | pdf=29 | forms=
+
+0138. skamlig -> shameful [2x]
+      riv_b_1011 | chapter=2 | page=28 | pdf=10 | forms=-t, -a
+      riv_b_5581 | chapter=17 | page=234 | pdf=55 | forms=-t, -a
+
+0139. skapa -> create [2x]
+      riv_b_0572 | chapter=1 | page=14 | pdf=6 | forms=-r, -de, -t
+      riv_b_3729 | chapter=10 | page=134 | pdf=36 | forms=-r, -de, -t
+
+0140. ske -> occur [2x]
+      riv_b_1708 | chapter=4 | page=52 | pdf=17 | forms=sker, skedde, skett
+      riv_b_4055 | chapter=11 | page=151 | pdf=40 | forms=-r, -dde, -tt
+
+0141. skilsmässa -> divorce [2x]
+      riv_b_0869 | chapter=2 | page=25 | pdf=9 | forms=-n, skilsmässor, skilsmässorna
+      riv_b_5866 | chapter=18 | page=249 | pdf=58 | forms=-n, skilsmässor, skilsmässorna
+
+0142. skinka -> ham [2x]
+      riv_b_2981 | chapter=8 | page=98 | pdf=29 | forms=-n, skinkor, skinkorna
+      riv_b_5595 | chapter=17 | page=233 | pdf=55 | forms=-n, skinkor, skinkorna
+
+0143. slippa -> avoid, escape [2x]
+      riv_b_0506 | chapter=1 | page=15 | pdf=5 | forms=slipper, slapp, sluppit
+      riv_b_3422 | chapter=9 | page=117 | pdf=33 | forms=slipper, slapp, sluppit
+
+0144. spela (-r, -de, -t) in -> record [2x]
+      riv_b_1607 | chapter=4 | page=52 | pdf=16 | forms=
+      riv_b_2556 | chapter=7 | page=87 | pdf=25 | forms=
+
+0145. spela schack -> play chess [2x]
+      riv_b_0678 | chapter=2 | page=19 | pdf=7 | forms=
+      riv_b_1026 | chapter=2 | page=28 | pdf=10 | forms=
+
+0146. stall -> stable [2x]
+      riv_b_4586 | chapter=13 | page=180 | pdf=45 | forms=-et, -, -en
+      riv_b_6054 | chapter=18 | page=258 | pdf=60 | forms=-et, -, -en
+
+0147. Storbritannien -> Great Britain [2x]
+      riv_b_0633 | chapter=1 | page=16 | pdf=6 | forms=
+      riv_b_2032 | chapter=5 | page=67 | pdf=20 | forms=
+
+0148. stryka (stryker, strök, strukit) under -> underline [2x]
+      riv_b_0266 | chapter=1 | page=11 | pdf=3 | forms=
+      riv_b_0643 | chapter=2 | page=18 | pdf=7 | forms=
+
+0149. städare -> cleaner [2x]
+      riv_b_1282 | chapter=3 | page=39 | pdf=13 | forms=-n, -, städarna
+      riv_b_5409 | chapter=16 | page=226 | pdf=53 | forms=-n, -, städarna
+
+0150. stämma -> be correct [2x]
+      riv_b_1233 | chapter=3 | page=37 | pdf=12 | forms=stämmer, stämde, stämt
+      riv_b_3493 | chapter=9 | page=120 | pdf=34 | forms=stämmer, stämde, stämt
+
+0151. stängd -> closed [2x]
+      riv_b_4507 | chapter=13 | page=174 | pdf=44 | forms=stängt, stängda
+      riv_b_5396 | chapter=16 | page=225 | pdf=53 | forms=-a
+
+0152. suffix -> suffix [2x]
+      riv_b_3403 | chapter=9 | page=116 | pdf=33 | forms=-et, -, -en
+      riv_b_5719 | chapter=17 | page=241 | pdf=56 | forms=
+
+0153. supinum -> past perfect [2x]
+      riv_b_1499 | chapter=4 | page=48 | pdf=15 | forms=
+      riv_b_2969 | chapter=8 | page=98 | pdf=29 | forms=
+
+0154. sur -> upset [2x]
+      riv_b_1924 | chapter=5 | page=62 | pdf=19 | forms=-t, -a
+      riv_b_5862 | chapter=18 | page=249 | pdf=58 | forms=-t, -a
+
+0155. svensk -> Swedish [2x]
+      riv_b_0314 | chapter=1 | page=10 | pdf=4 | forms=-t, -a
+      riv_b_0439 | chapter=1 | page=14 | pdf=5 | forms=-en, -ar, -arna
+
+0156. svettig -> sweaty [2x]
+      riv_b_0253 | chapter=1 | page=10 | pdf=3 | forms=-t, -a
+      riv_b_2551 | chapter=7 | page=87 | pdf=25 | forms=-t, -a
+
+0157. symbol -> symbol [2x]
+      riv_b_1703 | chapter=4 | page=52 | pdf=17 | forms=-en, -er, -erna
+      riv_b_5379 | chapter=16 | page=223 | pdf=53 | forms=-en, -er, -erna
+
+0158. synonym -> synonym [2x]
+      riv_b_4208 | chapter=12 | page=160 | pdf=41 | forms=-en, -er, -erna
+      riv_b_4485 | chapter=13 | page=175 | pdf=44 | forms=-t, -a
+
+0159. sämre -> worse [2x]
+      riv_b_1028 | chapter=2 | page=28 | pdf=10 | forms=
+      riv_b_4858 | chapter=15 | page=196 | pdf=48 | forms=
+
+0160. tredje -> third [2x]
+      riv_b_0415 | chapter=1 | page=13 | pdf=4 | forms=
+      riv_b_1884 | chapter=5 | page=60 | pdf=18 | forms=
+
+0161. träd -> tree [2x]
+      riv_b_1658 | chapter=4 | page=53 | pdf=16 | forms=-et, -, -en
+      riv_b_5608 | chapter=17 | page=235 | pdf=55 | forms=-et, -, -en
+
+0162. trähus -> wooden house [2x]
+      riv_b_2769 | chapter=7 | page=94 | pdf=27 | forms=-et, -, -en
+      riv_b_5768 | chapter=18 | page=243 | pdf=57 | forms=-et, -, -en
+
+0163. tung -> heavy [2x]
+      riv_b_1290 | chapter=3 | page=39 | pdf=13 | forms=-t, -a
+      riv_b_2579 | chapter=7 | page=86 | pdf=25 | forms=-t, -a
+
+0164. tvilling -> twin [2x]
+      riv_b_3853 | chapter=11 | page=141 | pdf=38 | forms=-en, -ar, -arna
+      riv_b_5984 | chapter=18 | page=255 | pdf=59 | forms=-en, -ar, -arna
+
+0165. tävling -> competition [2x]
+      riv_b_0168 | chapter=1 | page=9 | pdf=2 | forms=-en, -ar, -arna
+      riv_b_5708 | chapter=17 | page=241 | pdf=56 | forms=-en, -ar, -arna
+
+0166. underlig -> strange [2x]
+      riv_b_3439 | chapter=9 | page=118 | pdf=33 | forms=-t, -a
+      riv_b_5203 | chapter=16 | page=216 | pdf=51 | forms=-t, -a
+
+0167. ung -> young [2x]
+      riv_b_2588 | chapter=7 | page=89 | pdf=25 | forms=-t, -a
+      riv_b_4724 | chapter=14 | page=189 | pdf=46 | forms=yngre, yngst
+
+0168. uppmana -> call on [2x]
+      riv_b_3107 | chapter=8 | page=103 | pdf=30 | forms=-r, -de, -t
+      riv_b_6040 | chapter=18 | page=257 | pdf=60 | forms=-r, -de, -t
+
+0169. ur -> out of [2x]
+      riv_b_0286 | chapter=1 | page=11 | pdf=3 | forms=
+      riv_b_3528 | chapter=9 | page=123 | pdf=34 | forms=
+
+0170. utomlands -> abroad [2x]
+      riv_b_0978 | chapter=2 | page=25 | pdf=10 | forms=
+      riv_b_2168 | chapter=5 | page=70 | pdf=21 | forms=
+
+0171. varannan -> every other [2x]
+      riv_b_1864 | chapter=5 | page=60 | pdf=18 | forms=
+      riv_b_5412 | chapter=16 | page=226 | pdf=53 | forms=
+
+0172. vecka -> week [2x]
+      riv_b_0298 | chapter=1 | page=11 | pdf=3 | forms=-n, veckor, veckorna
+      riv_b_0558 | chapter=1 | page=14 | pdf=6 | forms=-n, veckor, veckorna
+
+0173. verb -> verb [2x]
+      riv_b_0907 | chapter=2 | page=26 | pdf=9 | forms=-et, -, -en
+      riv_b_1207 | chapter=3 | page=36 | pdf=12 | forms=
+
+0174. via -> via [2x]
+      riv_b_2138 | chapter=5 | page=67 | pdf=21 | forms=
+      riv_b_4931 | chapter=15 | page=203 | pdf=48 | forms=
+
+0175. viktig -> important [2x]
+      riv_b_0399 | chapter=1 | page=13 | pdf=4 | forms=-t, -a
+      riv_b_2665 | chapter=7 | page=90 | pdf=26 | forms=-t, -a
+
+0176. viska -> whisper [2x]
+      riv_b_0854 | chapter=2 | page=22 | pdf=9 | forms=-r, -de, -t
+      riv_b_5785 | chapter=18 | page=243 | pdf=57 | forms=-r, -de, -t
+
+0177. vispad -> whipped [2x]
+      riv_b_2928 | chapter=7 | page=97 | pdf=28 | forms=vispat, vispade
+      riv_b_3780 | chapter=10 | page=136 | pdf=37 | forms=vispat, vispade
+
+0178. viss -> certain [2x]
+      riv_b_1148 | chapter=2 | page=33 | pdf=11 | forms=-t, -a
+      riv_b_4499 | chapter=13 | page=175 | pdf=44 | forms=-t, -a
+
+0179. vänta -> wait [2x]
+      riv_b_0403 | chapter=1 | page=13 | pdf=4 | forms=-r, -de, -t
+      riv_b_1004 | chapter=2 | page=28 | pdf=10 | forms=-r, -de, -t
+
+0180. väska -> bag [2x]
+      riv_b_1377 | chapter=4 | page=41 | pdf=14 | forms=-n, väskor, väskorna
+      riv_b_3518 | chapter=9 | page=123 | pdf=34 | forms=-n, väskor, väskorna
+
+0181. ärlig -> honest [2x]
+      riv_b_0754 | chapter=2 | page=21 | pdf=8 | forms=-t, -a
+      riv_b_0874 | chapter=2 | page=25 | pdf=9 | forms=-t, -a
+
+0182. äta (äter, åt, ätit) upp -> eat up [2x]
+      riv_b_4745 | chapter=14 | page=186 | pdf=47 | forms=
+      riv_b_5702 | chapter=17 | page=236 | pdf=56 | forms=
+
+0183. å ena sidan… å andra sidan -> on the one hand… on the [2x]
+      riv_b_1228 | chapter=3 | page=37 | pdf=12 | forms=
+      riv_b_5806 | chapter=18 | page=245 | pdf=57 | forms=
+
+0184. ö -> island [2x]
+      riv_b_2643 | chapter=7 | page=90 | pdf=26 | forms=-n, -ar, -arna
+      riv_b_3862 | chapter=11 | page=141 | pdf=38 | forms=-n, -ar, -arna
+
+0185. öka -> increase [2x]
+      riv_b_0657 | chapter=2 | page=18 | pdf=7 | forms=-r, -de, -t
+      riv_b_2191 | chapter=5 | page=70 | pdf=21 | forms=-r, -de, -t
+
+0186. överraska -> surprise [2x]
+      riv_b_1633 | chapter=4 | page=50 | pdf=16 | forms=-r, -de, -t
+      riv_b_5531 | chapter=17 | page=230 | pdf=55 | forms=-r, -de, -t
+
+========================================================================
+ALL REJECTED ROWS
+========================================================================
+
+0001. PDF=1 COLUMN=left Y=128.3 CHAPTER=1 PAGE=None
+      sida (-n, sidor, sidorna) book page
+
+0002. PDF=1 COLUMN=left Y=226.9 CHAPTER=1 PAGE=8
+      bild (-en, -er, -erna) picture
+
+0003. PDF=1 COLUMN=left Y=239.2 CHAPTER=1 PAGE=8
+      skriva (skriver, skrev, skrivit) write
+
+0004. PDF=1 COLUMN=left Y=337.6 CHAPTER=1 PAGE=8
+      din (ditt, dina) your
+
+0005. PDF=1 COLUMN=left Y=583.6 CHAPTER=1 PAGE=8
+      svarsalternativ (-et, –, -en) multiple choice answer
+
+0006. PDF=1 COLUMN=left Y=731.2 CHAPTER=1 PAGE=8
+      stor (-t, -a) big, large
+
+0007. PDF=1 COLUMN=right Y=50.3 CHAPTER=1 PAGE=None
+      ( engelska )
+
+0008. PDF=1 COLUMN=right Y=332.4 CHAPTER=1 PAGE=None
+      kylskåp (-et, –, -en) refrigerator
+
+0009. PDF=1 COLUMN=right Y=369.3 CHAPTER=1 PAGE=None
+      påse (-n, påsar, påsarna) bag
+
+0010. PDF=1 COLUMN=right Y=381.6 CHAPTER=1 PAGE=None
+      chips (-et, –, -en) chips
+
+0011. PDF=1 COLUMN=right Y=455.4 CHAPTER=1 PAGE=None
+      hus (-et, –, -en) house
+
+0012. PDF=1 COLUMN=right Y=504.6 CHAPTER=1 PAGE=None
+      löparsko (-n, -r, -rna) running shoe
+
+0013. PDF=2 COLUMN=left Y=86.0 CHAPTER=1 PAGE=8
+      kilometer (-n, kilometrar, kilometrarna) kilometer
+
+0014. PDF=2 COLUMN=left Y=233.6 CHAPTER=1 PAGE=8
+      drink (-en, -ar, -arna) a drink
+
+0015. PDF=2 COLUMN=left Y=491.9 CHAPTER=1 PAGE=8
+      banan (-en, -er, -erna) banana
+
+0016. PDF=2 COLUMN=right Y=196.7 CHAPTER=1 PAGE=9
+      långsam (-t, -ma) slow
+
+0017. PDF=3 COLUMN=left Y=406.0 CHAPTER=1 PAGE=10
+      motargument (-et, –, -en) counter argument
+
+0018. PDF=3 COLUMN=left Y=467.5 CHAPTER=1 PAGE=10
+      knä (-t, -n, -na) knee
+
+0019. PDF=3 COLUMN=right Y=61.4 CHAPTER=1 PAGE=9
+      understuken (understruket, understrukna) underlined
+
+0020. PDF=3 COLUMN=right Y=307.6 CHAPTER=1 PAGE=11
+      kall (-t, -a) cold
+
+0021. PDF=3 COLUMN=right Y=344.5 CHAPTER=1 PAGE=11
+      lyssna (-r, -de, -t) listen
+
+0022. PDF=4 COLUMN=left Y=295.1 CHAPTER=1 PAGE=10
+      orientering (-en) orienteering
+
+0023. PDF=4 COLUMN=right Y=442.9 CHAPTER=1 PAGE=13
+      köra (kör, körde, kört) to cover (in running, i.e ”to cover a mile”)
+
+0024. PDF=4 COLUMN=right Y=652.0 CHAPTER=1 PAGE=13
+      hård (hårt, hårda) hard
+
+0025. PDF=4 COLUMN=right Y=664.3 CHAPTER=1 PAGE=13
+      serve (-n, servar, servarna) serve
+
+0026. PDF=5 COLUMN=left Y=49.1 CHAPTER=1 PAGE=10
+      släppa (släpper, släppte, släppt) let go
+
+0027. PDF=5 COLUMN=left Y=295.3 CHAPTER=1 PAGE=14
+      ringa (-r, -de, -t) in
+
+0028. PDF=5 COLUMN=left Y=590.5 CHAPTER=1 PAGE=14
+      delta (-r, deltog, deltagit) participate
+
+0029. PDF=5 COLUMN=left Y=602.8 CHAPTER=1 PAGE=14
+      lajv (-et, –, -en) cosplay
+
+0030. PDF=6 COLUMN=left Y=381.2 CHAPTER=1 PAGE=14
+      stad (-en, städer, städerna) city
+
+0031. PDF=6 COLUMN=left Y=627.8 CHAPTER=1 PAGE=14
+      son
+
+0032. PDF=6 COLUMN=right Y=369.5 CHAPTER=1 PAGE=16
+      vacation
+
+0033. PDF=7 COLUMN=left Y=750.6 CHAPTER=2 PAGE=19
+      Anledningen till att jag skriver är… The reason I’m writing
+
+0034. PDF=7 COLUMN=right Y=49.1 CHAPTER=2 PAGE=16
+      write is…
+
+0035. PDF=7 COLUMN=right Y=74.3 CHAPTER=2 PAGE=16
+      rested in…
+
+0036. PDF=7 COLUMN=right Y=86.0 CHAPTER=2 PAGE=16
+      jag är mycket intresserad av… I am very interested in…
+
+0037. PDF=8 COLUMN=left Y=492.7 CHAPTER=2 PAGE=21
+      fashion
+
+0038. PDF=8 COLUMN=right Y=455.2 CHAPTER=2 PAGE=24
+      sammanfatta (-r, -de, -t)
+
+0039. PDF=9 COLUMN=right Y=382.2 CHAPTER=2 PAGE=27
+      one’s mind
+
+0040. PDF=9 COLUMN=right Y=419.1 CHAPTER=2 PAGE=27
+      self
+
+0041. PDF=9 COLUMN=right Y=616.1 CHAPTER=2 PAGE=28
+      ne well known in the arts/culture
+
+0042. PDF=10 COLUMN=right Y=578.8 CHAPTER=2 PAGE=28
+      Sidan30
+
+0043. PDF=10 COLUMN=right Y=664.9 CHAPTER=2 PAGE=28
+      slower?
+
+0044. PDF=11 COLUMN=left Y=86.0 CHAPTER=2 PAGE=29
+      utsikt (-en, -er, -erna) view
+
+0045. PDF=11 COLUMN=left Y=172.7 CHAPTER=2 PAGE=29
+      culture
+
+0046. PDF=11 COLUMN=left Y=307.4 CHAPTER=2 PAGE=29
+      konstutbildning (-en, -ar, -arna) art program
+
+0047. PDF=11 COLUMN=right Y=664.9 CHAPTER=2 PAGE=33
+      pened?
+
+0048. PDF=11 COLUMN=right Y=726.4 CHAPTER=2 PAGE=33
+      here
+
+0049. PDF=11 COLUMN=right Y=751.0 CHAPTER=2 PAGE=33
+      in…
+
+0050. PDF=12 COLUMN=right Y=271.3 CHAPTER=3 PAGE=37
+      other hand
+
+0051. PDF=12 COLUMN=right Y=332.2 CHAPTER=3 PAGE=37
+      skrapa (-r, -de, -t) lotter
+
+0052. PDF=12 COLUMN=right Y=627.6 CHAPTER=3 PAGE=38
+      karensdag (-en, -ar, -arna)
+
+0053. PDF=15 COLUMN=left Y=86.0 CHAPTER=4 PAGE=44
+      leka (med) (leker, lekte, lekt) play with
+
+0054. PDF=15 COLUMN=left Y=282.8 CHAPTER=4 PAGE=44
+      fågel (fågeln, fåglar, fåglarna) bird
+
+0055. PDF=15 COLUMN=left Y=295.1 CHAPTER=4 PAGE=44
+      katt (-en, -er, -erna) cat
+
+0056. PDF=15 COLUMN=left Y=319.7 CHAPTER=4 PAGE=44
+      Vad hände med…? What happened with…?
+
+0057. PDF=15 COLUMN=left Y=381.4 CHAPTER=4 PAGE=48
+      form (-en, -er, -erna) form
+
+0058. PDF=15 COLUMN=left Y=393.7 CHAPTER=4 PAGE=48
+      Vilken form står de i? In what form are they?
+
+0059. PDF=17 COLUMN=left Y=271.1 CHAPTER=4 PAGE=52
+      forefather
+
+0060. PDF=17 COLUMN=left Y=639.7 CHAPTER=4 PAGE=54
+      stöta (stöter, stötte, stött) på
+
+0061. PDF=17 COLUMN=right Y=283.6 CHAPTER=4 PAGE=55
+      ticle
+
+0062. PDF=18 COLUMN=right Y=492.1 CHAPTER=5 PAGE=60
+      shorts (-en) shorts
+
+0063. PDF=19 COLUMN=left Y=479.8 CHAPTER=5 PAGE=62
+      myskväll (-en, -ar, -arna) cozy night at home
+
+0064. PDF=19 COLUMN=left Y=628.2 CHAPTER=5 PAGE=63
+      yesterday?
+
+0065. PDF=19 COLUMN=right Y=443.5 CHAPTER=5 PAGE=64
+      leave?
+
+0066. PDF=19 COLUMN=right Y=591.3 CHAPTER=5 PAGE=65
+      about you?
+
+0067. PDF=19 COLUMN=right Y=615.9 CHAPTER=5 PAGE=65
+      terday…?
+
+0068. PDF=20 COLUMN=left Y=111.2 CHAPTER=5 PAGE=63
+      grandmother
+
+0069. PDF=20 COLUMN=left Y=751.0 CHAPTER=5 PAGE=67
+      snap
+
+0070. PDF=20 COLUMN=right Y=738.5 CHAPTER=5 PAGE=70
+      alphabet)
+
+0071. PDF=21 COLUMN=left Y=726.4 CHAPTER=5 PAGE=71
+      ner
+
+0072. PDF=21 COLUMN=right Y=234.2 CHAPTER=5 PAGE=70
+      beet
+
+0073. PDF=22 COLUMN=left Y=499.8 CHAPTER=6 PAGE=74
+      ter of finance
+
+0074. PDF=22 COLUMN=right Y=332.6 CHAPTER=6 PAGE=70
+      follow
+
+0075. PDF=22 COLUMN=right Y=480.2 CHAPTER=6 PAGE=70
+      of parliament
+
+0076. PDF=22 COLUMN=right Y=677.4 CHAPTER=6 PAGE=77
+      book
+
+0077. PDF=23 COLUMN=left Y=283.4 CHAPTER=6 PAGE=75
+      sed pension
+
+0078. PDF=23 COLUMN=right Y=246.7 CHAPTER=6 PAGE=79
+      issue
+
+0079. PDF=23 COLUMN=right Y=750.6 CHAPTER=6 PAGE=80
+      farfar (farfadern, farfäder, farfäderna) paternal grandfather
+
+0080. PDF=24 COLUMN=left Y=185.2 CHAPTER=7 PAGE=81
+      with
+
+0081. PDF=24 COLUMN=left Y=406.8 CHAPTER=7 PAGE=82
+      freedom of the press
+
+0082. PDF=24 COLUMN=left Y=431.4 CHAPTER=7 PAGE=82
+      freedom of speech
+
+0083. PDF=24 COLUMN=right Y=49.7 CHAPTER=7 PAGE=80
+      parliament
+
+0084. PDF=24 COLUMN=right Y=74.3 CHAPTER=7 PAGE=80
+      of parliament
+
+0085. PDF=24 COLUMN=right Y=566.5 CHAPTER=7 PAGE=85
+      bility
+
+0086. PDF=25 COLUMN=right Y=677.2 CHAPTER=7 PAGE=89
+      am
+
+0087. PDF=25 COLUMN=right Y=688.9 CHAPTER=7 PAGE=89
+      skådespelerska (-n, skådespelerskor, skådespelerskor­
+
+0088. PDF=25 COLUMN=right Y=751.0 CHAPTER=7 PAGE=89
+      nicle
+
+0089. PDF=26 COLUMN=left Y=123.5 CHAPTER=7 PAGE=88
+      one’s normal life
+
+0090. PDF=26 COLUMN=right Y=283.6 CHAPTER=7 PAGE=92
+      ty flower
+
+0091. PDF=27 COLUMN=right Y=431.0 CHAPTER=7 PAGE=93
+      Sami people
+
+0092. PDF=27 COLUMN=right Y=677.2 CHAPTER=7 PAGE=95
+      tain bike
+
+0093. PDF=27 COLUMN=right Y=751.0 CHAPTER=7 PAGE=95
+      ced
+
+0094. PDF=28 COLUMN=left Y=271.1 CHAPTER=7 PAGE=94
+      stry exhibition
+
+0095. PDF=28 COLUMN=right Y=554.2 CHAPTER=7 PAGE=97
+      pancake
+
+0096. PDF=29 COLUMN=left Y=381.8 CHAPTER=8 PAGE=96
+      slice
+
+0097. PDF=29 COLUMN=right Y=122.9 CHAPTER=8 PAGE=97
+      have you/has (s)he worked here?
+
+0098. PDF=29 COLUMN=right Y=283.6 CHAPTER=8 PAGE=100
+      book by…
+
+0099. PDF=29 COLUMN=right Y=308.2 CHAPTER=8 PAGE=100
+      on a true story.
+
+0100. PDF=29 COLUMN=right Y=720.6 CHAPTER=8 PAGE=101
+      member)
+
+0101. PDF=30 COLUMN=left Y=172.7 CHAPTER=8 PAGE=102
+      on
+
+0102. PDF=30 COLUMN=left Y=480.2 CHAPTER=8 PAGE=102
+      climate debate
+
+0103. PDF=30 COLUMN=right Y=443.5 CHAPTER=8 PAGE=103
+      country
+
+0104. PDF=30 COLUMN=right Y=689.5 CHAPTER=8 PAGE=103
+      parliament
+
+0105. PDF=31 COLUMN=left Y=233.8 CHAPTER=8 PAGE=104
+      födas (föds, föddes, fötts) to be born
+
+0106. PDF=31 COLUMN=right Y=148.1 CHAPTER=8 PAGE=103
+      daughter
+
+0107. PDF=31 COLUMN=right Y=418.3 CHAPTER=8 PAGE=107
+      vetenskapsman (-nen, vetenskapsmän, vetneskapsmän­
+
+0108. PDF=32 COLUMN=left Y=382.0 CHAPTER=8 PAGE=109
+      brother
+
+0109. PDF=32 COLUMN=left Y=702.0 CHAPTER=8 PAGE=110
+      mething…
+
+0110. PDF=32 COLUMN=right Y=357.6 CHAPTER=8 PAGE=112
+      countries
+
+0111. PDF=33 COLUMN=left Y=234.4 CHAPTER=9 PAGE=114
+      School
+
+0112. PDF=33 COLUMN=left Y=320.5 CHAPTER=9 PAGE=114
+      ment
+
+0113. PDF=33 COLUMN=left Y=505.0 CHAPTER=9 PAGE=114
+      minded me.
+
+0114. PDF=33 COLUMN=right Y=207.9 CHAPTER=9 PAGE=116
+      massmedium (massmediet, massmedia, massmedia)( alt:
+
+0115. PDF=34 COLUMN=left Y=62.0 CHAPTER=9 PAGE=115
+      ears!
+
+0116. PDF=34 COLUMN=left Y=676.8 CHAPTER=9 PAGE=120
+      en sådan, ett sådant one such
+
+0117. PDF=34 COLUMN=right Y=382.2 CHAPTER=9 PAGE=123
+      bill
+
+0118. PDF=35 COLUMN=left Y=603.4 CHAPTER=9 PAGE=125
+      eyes, look away, act shifty
+
+0119. PDF=35 COLUMN=left Y=725.8 CHAPTER=9 PAGE=125
+      hålla (håller, höll, hållit) still
+
+0120. PDF=35 COLUMN=right Y=98.9 CHAPTER=9 PAGE=126
+      gaze
+
+0121. PDF=35 COLUMN=right Y=541.9 CHAPTER=9 PAGE=127
+      meter
+
+0122. PDF=36 COLUMN=right Y=566.5 CHAPTER=10 PAGE=134
+      ntally conscious
+
+0123. PDF=36 COLUMN=right Y=664.9 CHAPTER=10 PAGE=134
+      certification
+
+0124. PDF=37 COLUMN=left Y=308.2 CHAPTER=10 PAGE=136
+      Shrove Tuesday
+
+0125. PDF=37 COLUMN=left Y=565.9 CHAPTER=10 PAGE=136
+      nyår (-et, –, -en) New Year
+
+0126. PDF=37 COLUMN=left Y=738.3 CHAPTER=10 PAGE=137
+      koka (-r, -de, -t) to boil
+
+0127. PDF=37 COLUMN=left Y=750.6 CHAPTER=10 PAGE=137
+      paj (-en, -er, -erna) pie
+
+0128. PDF=37 COLUMN=right Y=222.1 CHAPTER=10 PAGE=138
+      interest
+
+0129. PDF=38 COLUMN=left Y=282.8 CHAPTER=11 PAGE=141
+      konstmuseum (konstmuseet, konstmuseer, konstmuseer­
+
+0130. PDF=38 COLUMN=left Y=652.6 CHAPTER=11 PAGE=142
+      ment
+
+0131. PDF=39 COLUMN=left Y=135.2 CHAPTER=11 PAGE=142
+      daughter)
+
+0132. PDF=39 COLUMN=right Y=172.9 CHAPTER=11 PAGE=149
+      turn out the way one imagined.
+
+0133. PDF=39 COLUMN=right Y=246.7 CHAPTER=11 PAGE=149
+      documented
+
+0134. PDF=39 COLUMN=right Y=357.6 CHAPTER=11 PAGE=150
+      influence of drugs
+
+0135. PDF=40 COLUMN=left Y=49.1 CHAPTER=11 PAGE=148
+      gripas (grips, greps, gripits) to be arrested
+
+0136. PDF=40 COLUMN=left Y=86.2 CHAPTER=11 PAGE=151
+      postbil (-en, -ar, -arna) mail delivery van
+
+0137. PDF=40 COLUMN=left Y=123.7 CHAPTER=11 PAGE=151
+      copter
+
+0138. PDF=40 COLUMN=left Y=443.7 CHAPTER=11 PAGE=152
+      circumstances
+
+0139. PDF=41 COLUMN=left Y=406.2 CHAPTER=12 PAGE=157
+      lura (-r, -de, -t) till sig
+
+0140. PDF=41 COLUMN=right Y=234.6 CHAPTER=12 PAGE=161
+      ress
+
+0141. PDF=41 COLUMN=right Y=283.8 CHAPTER=12 PAGE=161
+      trip
+
+0142. PDF=42 COLUMN=left Y=640.7 CHAPTER=12 PAGE=166
+      law
+
+0143. PDF=42 COLUMN=left Y=664.7 CHAPTER=12 PAGE=166
+      thful)
+
+0144. PDF=43 COLUMN=left Y=517.5 CHAPTER=13 PAGE=170
+      to…
+
+0145. PDF=43 COLUMN=left Y=746.0 CHAPTER=13 PAGE=171
+      saturday
+
+0146. PDF=43 COLUMN=right Y=74.3 CHAPTER=13 PAGE=168
+      ce day
+
+0147. PDF=43 COLUMN=right Y=738.5 CHAPTER=13 PAGE=174
+      ljus (-et, –, -en) light
+
+0148. PDF=44 COLUMN=left Y=49.1 CHAPTER=13 PAGE=171
+      lucia (-n, lucior, luciorna) St. Lucia
+
+0149. PDF=44 COLUMN=left Y=185.0 CHAPTER=13 PAGE=171
+      tuted family
+
+0150. PDF=44 COLUMN=left Y=541.3 CHAPTER=13 PAGE=175
+      fastlagen lent
+
+0151. PDF=44 COLUMN=left Y=701.8 CHAPTER=13 PAGE=175
+      before Easter
+
+0152. PDF=44 COLUMN=right Y=357.4 CHAPTER=13 PAGE=176
+      ves
+
+0153. PDF=45 COLUMN=right Y=49.7 CHAPTER=13 PAGE=178
+      me
+
+0154. PDF=45 COLUMN=right Y=86.6 CHAPTER=13 PAGE=178
+      tion
+
+0155. PDF=45 COLUMN=right Y=283.0 CHAPTER=13 PAGE=181
+      midvinternatt (-en, midvinternätter, midvinternätterna)
+
+0156. PDF=45 COLUMN=right Y=295.3 CHAPTER=13 PAGE=181
+      mid-winter night
+
+0157. PDF=45 COLUMN=right Y=381.4 CHAPTER=13 PAGE=181
+      ban (förkortning, gammalt för bana) bana (-n, banor, banor­
+
+0158. PDF=45 COLUMN=right Y=492.3 CHAPTER=13 PAGE=182
+      sticka (sticker, stack, stuckit) (hugga) stab
+
+0159. PDF=46 COLUMN=left Y=381.8 CHAPTER=14 PAGE=185
+      snack (-et) talk, chat
+
+0160. PDF=46 COLUMN=left Y=394.1 CHAPTER=14 PAGE=185
+      årstid (-en, -er, -erna) season
+
+0161. PDF=46 COLUMN=left Y=418.7 CHAPTER=14 PAGE=185
+      måste (-t, -n, -na) must
+
+0162. PDF=46 COLUMN=right Y=426.0 CHAPTER=14 PAGE=189
+      ations.
+
+0163. PDF=47 COLUMN=left Y=295.9 CHAPTER=14 PAGE=191
+      again?
+
+0164. PDF=47 COLUMN=left Y=430.8 CHAPTER=14 PAGE=192
+      bensin (-en) petrol, gas
+
+0165. PDF=47 COLUMN=left Y=579.0 CHAPTER=14 PAGE=192
+      with anything?
+
+0166. PDF=47 COLUMN=right Y=221.9 CHAPTER=14 PAGE=190
+      do about the issue.
+
+0167. PDF=47 COLUMN=right Y=258.8 CHAPTER=14 PAGE=190
+      nothing we can do.
+
+0168. PDF=48 COLUMN=left Y=135.8 CHAPTER=15 PAGE=196
+      service instructions
+
+0169. PDF=48 COLUMN=left Y=185.0 CHAPTER=15 PAGE=196
+      consumer goods
+
+0170. PDF=48 COLUMN=left Y=590.9 CHAPTER=15 PAGE=199
+      förutsätta (förutsätter, förutsatte, förutsatt) presuppose
+
+0171. PDF=48 COLUMN=left Y=665.3 CHAPTER=15 PAGE=199
+      something
+
+0172. PDF=48 COLUMN=right Y=160.4 CHAPTER=15 PAGE=195
+      ment
+
+0173. PDF=48 COLUMN=right Y=721.4 CHAPTER=15 PAGE=203
+      statistics agency
+
+0174. PDF=49 COLUMN=left Y=295.9 CHAPTER=15 PAGE=204
+      counts
+
+0175. PDF=49 COLUMN=right Y=135.8 CHAPTER=15 PAGE=203
+      out
+
+0176. PDF=49 COLUMN=right Y=344.9 CHAPTER=15 PAGE=203
+      tion number, social security
+
+0177. PDF=49 COLUMN=right Y=652.6 CHAPTER=15 PAGE=207
+      request
+
+0178. PDF=50 COLUMN=left Y=111.2 CHAPTER=15 PAGE=206
+      of…
+
+0179. PDF=50 COLUMN=left Y=160.4 CHAPTER=15 PAGE=206
+      structured
+
+0180. PDF=50 COLUMN=left Y=713.7 CHAPTER=15 PAGE=210
+      överensstämma (överensstämmer, överensstämde, överens­
+
+0181. PDF=50 COLUMN=right Y=209.6 CHAPTER=15 PAGE=211
+      ted
+
+0182. PDF=50 COLUMN=right Y=295.7 CHAPTER=15 PAGE=211
+      father
+
+0183. PDF=51 COLUMN=left Y=160.4 CHAPTER=16 PAGE=210
+      rupted
+
+0184. PDF=51 COLUMN=left Y=455.8 CHAPTER=16 PAGE=214
+      fingers
+
+0185. PDF=51 COLUMN=left Y=615.7 CHAPTER=16 PAGE=214
+      table
+
+0186. PDF=51 COLUMN=right Y=86.6 CHAPTER=16 PAGE=213
+      thought
+
+0187. PDF=51 COLUMN=right Y=209.0 CHAPTER=16 PAGE=213
+      ställa (ställer, ställde, ställt) upp
+
+0188. PDF=51 COLUMN=right Y=671.6 CHAPTER=16 PAGE=218
+      syskonskara (-n, syskonskaror, syskonskarorna) group of sib­
+
+0189. PDF=51 COLUMN=right Y=683.9 CHAPTER=16 PAGE=218
+      lings
+
+0190. PDF=51 COLUMN=right Y=708.5 CHAPTER=16 PAGE=218
+      individ (-en, -er, -erna) individual
+
+0191. PDF=51 COLUMN=right Y=733.7 CHAPTER=16 PAGE=218
+      brother
+
+0192. PDF=52 COLUMN=left Y=258.8 CHAPTER=16 PAGE=215
+      ted
+
+0193. PDF=52 COLUMN=left Y=393.7 CHAPTER=16 PAGE=219
+      börs-vd:n (börs-vd:ar, börs-vd:arna) CEO of the Stock Ex­
+
+0194. PDF=52 COLUMN=left Y=406.0 CHAPTER=16 PAGE=219
+      change
+
+0195. PDF=52 COLUMN=left Y=479.8 CHAPTER=16 PAGE=219
+      självkänsla (-n, självkänslor, -orna) self-esteem
+
+0196. PDF=52 COLUMN=right Y=270.7 CHAPTER=16 PAGE=221
+      strykjärn (-et, –, -en) iron
+
+0197. PDF=52 COLUMN=right Y=480.4 CHAPTER=16 PAGE=221
+      brush
+
+0198. PDF=53 COLUMN=left Y=529.8 CHAPTER=16 PAGE=223
+      Sidan224
+
+0199. PDF=53 COLUMN=left Y=726.6 CHAPTER=16 PAGE=223
+      bunch of keys
+
+0200. PDF=53 COLUMN=right Y=406.0 CHAPTER=16 PAGE=226
+      utsträckning (-en, -ar, -arna) extent
+
+0201. PDF=53 COLUMN=right Y=505.0 CHAPTER=16 PAGE=226
+      stepmother
+
+0202. PDF=53 COLUMN=right Y=516.7 CHAPTER=16 PAGE=226
+      plastmormor (-mormodern, -mormödrar, -mormödrar­
+
+0203. PDF=53 COLUMN=right Y=627.6 CHAPTER=16 PAGE=227
+      iblandbo ”sometimes” cohabiting
+
+0204. PDF=54 COLUMN=left Y=714.3 CHAPTER=17 PAGE=230
+      dows
+
+0205. PDF=54 COLUMN=right Y=332.6 CHAPTER=17 PAGE=227
+      being
+
+0206. PDF=54 COLUMN=right Y=406.6 CHAPTER=17 PAGE=231
+      character description
+
+0207. PDF=55 COLUMN=left Y=245.9 CHAPTER=17 PAGE=230
+      färdas (färdades, färdats) travel
+
+0208. PDF=55 COLUMN=right Y=283.0 CHAPTER=17 PAGE=235
+      nordman (-nen, nordmän, nordmännen) Northman
+
+0209. PDF=56 COLUMN=left Y=148.1 CHAPTER=17 PAGE=237
+      tion
+
+0210. PDF=56 COLUMN=right Y=406.6 CHAPTER=17 PAGE=241
+      mother
+
+0211. PDF=57 COLUMN=left Y=74.3 CHAPTER=18 PAGE=240
+      place
+
+0212. PDF=57 COLUMN=right Y=86.6 CHAPTER=18 PAGE=242
+      ntally conscious
+
+0213. PDF=57 COLUMN=right Y=295.9 CHAPTER=18 PAGE=245
+      other hand
+
+0214. PDF=58 COLUMN=left Y=86.6 CHAPTER=18 PAGE=244
+      nurse
+
+0215. PDF=58 COLUMN=left Y=579.0 CHAPTER=18 PAGE=250
+      the window?
+
+0216. PDF=58 COLUMN=left Y=615.9 CHAPTER=18 PAGE=250
+      close the window?
+
+0217. PDF=58 COLUMN=left Y=640.5 CHAPTER=18 PAGE=250
+      me my jacket?
+
+0218. PDF=58 COLUMN=left Y=665.1 CHAPTER=18 PAGE=250
+      close the window?
+
+0219. PDF=58 COLUMN=left Y=689.7 CHAPTER=18 PAGE=250
+      would be good if you closed/could close the window.
+
+0220. PDF=58 COLUMN=left Y=714.3 CHAPTER=18 PAGE=250
+      sible to close the window?
+
+0221. PDF=58 COLUMN=right Y=62.0 CHAPTER=18 PAGE=248
+      close the window?
+
+0222. PDF=58 COLUMN=right Y=86.6 CHAPTER=18 PAGE=248
+      window?
+
+0223. PDF=58 COLUMN=right Y=111.2 CHAPTER=18 PAGE=248
+      the window?
+
+0224. PDF=58 COLUMN=right Y=135.8 CHAPTER=18 PAGE=248
+      like to close the window?
+
+0225. PDF=58 COLUMN=right Y=160.4 CHAPTER=18 PAGE=248
+      window?
+
+0226. PDF=58 COLUMN=right Y=308.2 CHAPTER=18 PAGE=251
+      between employers and employees
+
+0227. PDF=58 COLUMN=right Y=442.9 CHAPTER=18 PAGE=251
+      samråd (-et, –, -en) consultation
+
+0228. PDF=58 COLUMN=right Y=566.1 CHAPTER=18 PAGE=252
+      affärsman (-nen, affärsmän, affärsmännen) business man
+
+0229. PDF=59 COLUMN=left Y=259.0 CHAPTER=18 PAGE=253
+      logger
+
+0230. PDF=59 COLUMN=left Y=542.1 CHAPTER=18 PAGE=254
+      ned?
+
+0231. PDF=59 COLUMN=left Y=591.3 CHAPTER=18 PAGE=254
+      bumped into the other day?
+
+0232. PDF=59 COLUMN=left Y=738.9 CHAPTER=18 PAGE=254
+      fun.
+
+0233. PDF=59 COLUMN=right Y=345.1 CHAPTER=18 PAGE=255
+      hip-oriented
+
+0234. PDF=59 COLUMN=right Y=418.9 CHAPTER=18 PAGE=255
+      nated
+
+0235. PDF=59 COLUMN=right Y=455.8 CHAPTER=18 PAGE=255
+      ted
+
+0236. PDF=60 COLUMN=left Y=185.2 CHAPTER=18 PAGE=257
+      judged
+
+0237. PDF=60 COLUMN=left Y=246.7 CHAPTER=18 PAGE=257
+      red
+
+0238. PDF=60 COLUMN=left Y=369.1 CHAPTER=18 PAGE=257
+      ge (ett djur) mat
+
+0239. PDF=60 COLUMN=left Y=505.2 CHAPTER=18 PAGE=258
+      lity
+
+0240. PDF=60 COLUMN=right Y=98.9 CHAPTER=18 PAGE=259
+      connected

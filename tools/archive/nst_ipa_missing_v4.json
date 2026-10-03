@@ -1,0 +1,1766 @@
+[
+  {
+    "status": "MISSING",
+    "word": "pyttelite",
+    "normalized": "pyttelite",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "Tartu",
+    "normalized": "tartu",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "frågeord",
+    "normalized": "frågeord",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "subjektspronomen",
+    "normalized": "subjektspronomen",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "webbdesigner",
+    "normalized": "webbdesigner",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "startup",
+    "normalized": "startup",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "bonusbarn",
+    "normalized": "bonusbarn",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "techbolag",
+    "normalized": "techbolag",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "bokstaveringsalfabet",
+    "normalized": "bokstaveringsalfabet",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "jättetrött",
+    "normalized": "jättetrött",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "pepp",
+    "normalized": "pepp",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "it-ingenjör",
+    "normalized": "it-ingenjör",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "surfplatta",
+    "normalized": "surfplatta",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "laptop",
+    "normalized": "laptop",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "pennfodral",
+    "normalized": "pennfodral",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "energidryck",
+    "normalized": "energidryck",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "skostorlek",
+    "normalized": "skostorlek",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "yogaläger",
+    "normalized": "yogaläger",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "vegansk",
+    "normalized": "vegansk",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "elsparkcykel",
+    "normalized": "elsparkcykel",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "messa",
+    "normalized": "messa",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "vegoburgare",
+    "normalized": "vegoburgare",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "thaimat",
+    "normalized": "thaimat",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "podd",
+    "normalized": "podd",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "favoritfik",
+    "normalized": "favoritfik",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "favoritplats",
+    "normalized": "favoritplats",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "fikabröd",
+    "normalized": "fikabröd",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "kardemummabulle",
+    "normalized": "kardemummabulle",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "satsadverbial",
+    "normalized": "satsadverbial",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "blippa",
+    "normalized": "blippa",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "latte",
+    "normalized": "latte",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "morotskaka",
+    "normalized": "morotskaka",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "chokladboll",
+    "normalized": "chokladboll",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "veganbrownie",
+    "normalized": "veganbrownie",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "brownie",
+    "normalized": "brownie",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "falafelsallad",
+    "normalized": "falafelsallad",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "ostpaj",
+    "normalized": "ostpaj",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "pizzabit",
+    "normalized": "pizzabit",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "druva/vindruva",
+    "normalized": "druva/vindruva",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "bakprodukt",
+    "normalized": "bakprodukt",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "tacobröd",
+    "normalized": "tacobröd",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "havremjölk",
+    "normalized": "havremjölk",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "ostbåge",
+    "normalized": "ostbåge",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "halvstängd",
+    "normalized": "halvstängd",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "favoritkafé",
+    "normalized": "favoritkafé",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "favoritrestaurang",
+    "normalized": "favoritrestaurang",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "favoritpub",
+    "normalized": "favoritpub",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "älgburgare",
+    "normalized": "älgburgare",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "guacamole",
+    "normalized": "guacamole",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "Grejt!",
+    "normalized": "grejt",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "skejta",
+    "normalized": "skejta",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "skrattyoga",
+    "normalized": "skrattyoga",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "superekologisk",
+    "normalized": "superekologisk",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "paraplydrink",
+    "normalized": "paraplydrink",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "skejtboard",
+    "normalized": "skejtboard",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "fundamentposition",
+    "normalized": "fundamentposition",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "tidsadverbial",
+    "normalized": "tidsadverbial",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "streamingtjänst",
+    "normalized": "streamingtjänst",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "semesterplan",
+    "normalized": "semesterplan",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "videomöte",
+    "normalized": "videomöte",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "bonusbarn",
+    "normalized": "bonusbarn",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "plastmamma",
+    "normalized": "plastmamma",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "stepbonussyskon",
+    "normalized": "stepbonussyskon",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "bonusbarnbarn",
+    "normalized": "bonusbarnbarn",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "morfarsfar",
+    "normalized": "morfarsfar",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "familjeord",
+    "normalized": "familjeord",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "låtsassyskon",
+    "normalized": "låtsassyskon",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "extrapappa",
+    "normalized": "extrapappa",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "yogainstruktör",
+    "normalized": "yogainstruktör",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "forskningsstipendium",
+    "normalized": "forskningsstipendium",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "kemiläxa",
+    "normalized": "kemiläxa",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "släktmiddag",
+    "normalized": "släktmiddag",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "objektspronomen",
+    "normalized": "objektspronomen",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "den/det",
+    "normalized": "den/det",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "vapenkonstruktör",
+    "normalized": "vapenkonstruktör",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "tyska(-n)",
+    "normalized": "tyska(-n",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "17-åring",
+    "normalized": "17-åring",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "doftljus",
+    "normalized": "doftljus",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "sneakers",
+    "normalized": "sneakers",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "luktsuddgummi",
+    "normalized": "luktsuddgummi",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "jordgubbslukt",
+    "normalized": "jordgubbslukt",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "lillkusin",
+    "normalized": "lillkusin",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "90-säng",
+    "normalized": "90-säng",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "köksgrejer",
+    "normalized": "köksgrejer",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "mellanstorlek",
+    "normalized": "mellanstorlek",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "hoodie/luvtröja",
+    "normalized": "hoodie/luvtröja",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "löparsko",
+    "normalized": "löparsko",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "löpband",
+    "normalized": "löpband",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "konsumentfakta",
+    "normalized": "konsumentfakta",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "neongrön",
+    "normalized": "neongrön",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "bagageband",
+    "normalized": "bagageband",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "regnjacka",
+    "normalized": "regnjacka",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "ABBA-museet",
+    "normalized": "abba-museet",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "designprylar",
+    "normalized": "designprylar",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "karaokebar",
+    "normalized": "karaokebar",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "supernervös",
+    "normalized": "supernervös",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "jättekonstig",
+    "normalized": "jättekonstig",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "pseudolån",
+    "normalized": "pseudolån",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "tjugoförsta",
+    "normalized": "tjugoförsta",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "tjugoandra",
+    "normalized": "tjugoandra",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "trettioförsta",
+    "normalized": "trettioförsta",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "retroflexer",
+    "normalized": "retroflexer",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "app",
+    "normalized": "app",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "gate",
+    "normalized": "gate",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "Tjoho!",
+    "normalized": "tjoho",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "partikelverb",
+    "normalized": "partikelverb",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "verbpartikel",
+    "normalized": "verbpartikel",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "yogastudio",
+    "normalized": "yogastudio",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "sushirestaurang",
+    "normalized": "sushirestaurang",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "mittemot",
+    "normalized": "mittemot",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "trafkljus",
+    "normalized": "trafkljus",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "stadssafari",
+    "normalized": "stadssafari",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "kallbadhus",
+    "normalized": "kallbadhus",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "bildgoogla",
+    "normalized": "bildgoogla",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "tidspreposition",
+    "normalized": "tidspreposition",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "ursprungsfolk",
+    "normalized": "ursprungsfolk",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "tornedaling",
+    "normalized": "tornedaling",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "meänkieli",
+    "normalized": "meänkieli",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "romska",
+    "normalized": "romska",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "jordbruksland",
+    "normalized": "jordbruksland",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "1960-talet",
+    "normalized": "1960-talet",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "it-specialist",
+    "normalized": "it-specialist",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "musikindustri",
+    "normalized": "musikindustri",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "mobilspelbranschen",
+    "normalized": "mobilspelbranschen",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "spelföretag",
+    "normalized": "spelföretag",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "sverigefinne",
+    "normalized": "sverigefinne",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "kokboksförfattare",
+    "normalized": "kokboksförfattare",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "kebabpizza",
+    "normalized": "kebabpizza",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "snabbfakta",
+    "normalized": "snabbfakta",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "statskick",
+    "normalized": "statskick",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "befokningstäthet",
+    "normalized": "befokningstäthet",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "landskod",
+    "normalized": "landskod",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "landsnummer",
+    "normalized": "landsnummer",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "glasställe",
+    "normalized": "glasställe",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "skejta",
+    "normalized": "skejta",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "skejtare",
+    "normalized": "skejtare",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "skejtpark",
+    "normalized": "skejtpark",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "skejtklipp",
+    "normalized": "skejtklipp",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "vegansk",
+    "normalized": "vegansk",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "dejta",
+    "normalized": "dejta",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "hundpromenad",
+    "normalized": "hundpromenad",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "nätdejting",
+    "normalized": "nätdejting",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "dejtingapp",
+    "normalized": "dejtingapp",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "barnfri",
+    "normalized": "barnfri",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "sportbar",
+    "normalized": "sportbar",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "sporthatare",
+    "normalized": "sporthatare",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "Tjenixen!",
+    "normalized": "tjenixen",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "snabel-a",
+    "normalized": "snabel-a",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "hashtagg/fyrkant",
+    "normalized": "hashtagg/fyrkant",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "webbkamera",
+    "normalized": "webbkamera",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "mjuta",
+    "normalized": "mjuta",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "usb-ingång",
+    "normalized": "usb-ingång",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "e-postadress",
+    "normalized": "e-postadress",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "ordbetoning",
+    "normalized": "ordbetoning",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "profiltext",
+    "normalized": "profiltext",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "dejtingsida",
+    "normalized": "dejtingsida",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "jordgubbskräm",
+    "normalized": "jordgubbskräm",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "kåldolme",
+    "normalized": "kåldolme",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "svartvinbärsgelé",
+    "normalized": "svartvinbärsgelé",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "närproducerad",
+    "normalized": "närproducerad",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "hämtmat",
+    "normalized": "hämtmat",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "falafel",
+    "normalized": "falafel",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "klimatsmart",
+    "normalized": "klimatsmart",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "laktosintolerant",
+    "normalized": "laktosintolerant",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "färdigrätt",
+    "normalized": "färdigrätt",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "subjunktion",
+    "normalized": "subjunktion",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "eritreansk",
+    "normalized": "eritreansk",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "iransk/persisk",
+    "normalized": "iransk/persisk",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "ukrainsk",
+    "normalized": "ukrainsk",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "pizzasallad",
+    "normalized": "pizzasallad",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "senapssill",
+    "normalized": "senapssill",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "wasabisill",
+    "normalized": "wasabisill",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "baconsill",
+    "normalized": "baconsill",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "jordgubbsfeber",
+    "normalized": "jordgubbsfeber",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "minipizza",
+    "normalized": "minipizza",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "dricksa",
+    "normalized": "dricksa",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "vrålhungrig",
+    "normalized": "vrålhungrig",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "jättesugen",
+    "normalized": "jättesugen",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "swisha",
+    "normalized": "swisha",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "rymdfysiker",
+    "normalized": "rymdfysiker",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "rymdbas",
+    "normalized": "rymdbas",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "välkomstdrink",
+    "normalized": "välkomstdrink",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "fjällröding",
+    "normalized": "fjällröding",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "hjortronglass",
+    "normalized": "hjortronglass",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "lingonsaft",
+    "normalized": "lingonsaft",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "grammatikprov",
+    "normalized": "grammatikprov",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "butikssäljare",
+    "normalized": "butikssäljare",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "läxhjälpare",
+    "normalized": "läxhjälpare",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "miljövetenskap",
+    "normalized": "miljövetenskap",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "saffransrisotto",
+    "normalized": "saffransrisotto",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "hotellfrukost",
+    "normalized": "hotellfrukost",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "spontanansökan",
+    "normalized": "spontanansökan",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "UX-designer",
+    "normalized": "ux-designer",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "båtsemester",
+    "normalized": "båtsemester",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "campingsemester",
+    "normalized": "campingsemester",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "cykelsemester",
+    "normalized": "cykelsemester",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "vandringssemester",
+    "normalized": "vandringssemester",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "motorcykelsemester",
+    "normalized": "motorcykelsemester",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "semesterdröm",
+    "normalized": "semesterdröm",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "bisatsinledare",
+    "normalized": "bisatsinledare",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "frågeordsfråga",
+    "normalized": "frågeordsfråga",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "Spritmuseum",
+    "normalized": "spritmuseum",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "vaniljbulle",
+    "normalized": "vaniljbulle",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "blåbärspaj",
+    "normalized": "blåbärspaj",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "tidssubjunktion",
+    "normalized": "tidssubjunktion",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "nyansskillnad",
+    "normalized": "nyansskillnad",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "rooibos",
+    "normalized": "rooibos",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "etikettsregel",
+    "normalized": "etikettsregel",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "50-årsfest",
+    "normalized": "50-årsfest",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "inflyttningsfest",
+    "normalized": "inflyttningsfest",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "kickoff",
+    "normalized": "kickoff",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "klassfest",
+    "normalized": "klassfest",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "knytis",
+    "normalized": "knytis",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "spökboll",
+    "normalized": "spökboll",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "danssko",
+    "normalized": "danssko",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "toppendag",
+    "normalized": "toppendag",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "fotbollsturnering",
+    "normalized": "fotbollsturnering",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "veckonummer",
+    "normalized": "veckonummer",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "egentid",
+    "normalized": "egentid",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "stödord",
+    "normalized": "stödord",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "vikingagud",
+    "normalized": "vikingagud",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "dubbelbokad",
+    "normalized": "dubbelbokad",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "höstlov(-et)",
+    "normalized": "höstlov(-et",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "högskoleförberedande",
+    "normalized": "högskoleförberedande",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "naturvetenskapsprogram",
+    "normalized": "naturvetenskapsprogram",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "ekonomiprogram",
+    "normalized": "ekonomiprogram",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "yrkesprogram",
+    "normalized": "yrkesprogram",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "utspring",
+    "normalized": "utspring",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "masterexamen",
+    "normalized": "masterexamen",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "forskarnivå",
+    "normalized": "forskarnivå",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "yrkeshögskola/YH-utbildning",
+    "normalized": "yrkeshögskola/yh-utbildning",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "extraövning",
+    "normalized": "extraövning",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "nanoteknik",
+    "normalized": "nanoteknik",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "juristprogram",
+    "normalized": "juristprogram",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "slacker/slöfock",
+    "normalized": "slacker/slöfock",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "managementkonsult",
+    "normalized": "managementkonsult",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "framtidsuttryck",
+    "normalized": "framtidsuttryck",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "tidsadverb",
+    "normalized": "tidsadverb",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "solpanel",
+    "normalized": "solpanel",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "bostadsrättförening",
+    "normalized": "bostadsrättförening",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "elcykel",
+    "normalized": "elcykel",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "bostadsannons",
+    "normalized": "bostadsannons",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "spa",
+    "normalized": "spa",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "pizzaugn",
+    "normalized": "pizzaugn",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "jacuzzi",
+    "normalized": "jacuzzi",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "trädäck",
+    "normalized": "trädäck",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "boarea",
+    "normalized": "boarea",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "norrläge",
+    "normalized": "norrläge",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "renoveringschans",
+    "normalized": "renoveringschans",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "drömboende",
+    "normalized": "drömboende",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "retro",
+    "normalized": "retro",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "originalkök",
+    "normalized": "originalkök",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "drömkök",
+    "normalized": "drömkök",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "acceptpris",
+    "normalized": "acceptpris",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "utemöbel",
+    "normalized": "utemöbel",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "stajlad",
+    "normalized": "stajlad",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "designlampa",
+    "normalized": "designlampa",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "presentering",
+    "normalized": "presentering",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "lånelöfte",
+    "normalized": "lånelöfte",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "laddstolpe",
+    "normalized": "laddstolpe",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "oinspirerande",
+    "normalized": "oinspirerande",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "mellanchef",
+    "normalized": "mellanchef",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "kaffeapparat",
+    "normalized": "kaffeapparat",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "apropå",
+    "normalized": "apropå",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "it-avdelning",
+    "normalized": "it-avdelning",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "kontaktuppgift",
+    "normalized": "kontaktuppgift",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "tandklinik",
+    "normalized": "tandklinik",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "ämnesrad",
+    "normalized": "ämnesrad",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "vabb",
+    "normalized": "vabb",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "ledighetsansökan",
+    "normalized": "ledighetsansökan",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "superkoncentrerad",
+    "normalized": "superkoncentrerad",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "e-sport",
+    "normalized": "e-sport",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "dygna",
+    "normalized": "dygna",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "sömnvanor",
+    "normalized": "sömnvanor",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "kortsvar",
+    "normalized": "kortsvar",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "superhjälte",
+    "normalized": "superhjälte",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "operahatare",
+    "normalized": "operahatare",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "operafri",
+    "normalized": "operafri",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "relationsexpert",
+    "normalized": "relationsexpert",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "tonand",
+    "normalized": "tonand",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "guldvinst",
+    "normalized": "guldvinst",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "hockeymästare",
+    "normalized": "hockeymästare",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "skraplott",
+    "normalized": "skraplott",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "kakljud",
+    "normalized": "kakljud",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "ekonominyheter",
+    "normalized": "ekonominyheter",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "vetenskapsnyhet",
+    "normalized": "vetenskapsnyhet",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "testperson",
+    "normalized": "testperson",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "bageriindustri",
+    "normalized": "bageriindustri",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "trettiosjuårig",
+    "normalized": "trettiosjuårig",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "giftspindel",
+    "normalized": "giftspindel",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "spindelexpert",
+    "normalized": "spindelexpert",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "dygnsmedeltemperatur",
+    "normalized": "dygnsmedeltemperatur",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "vintersolstånd",
+    "normalized": "vintersolstånd",
+    "word_count": 1
+  },
+  {
+    "status": "MISSING",
+    "word": "hamburgeria",
+    "normalized": "hamburgeria",
+    "word_count": 1
+  }
+]

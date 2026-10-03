@@ -1,0 +1,72 @@
+[
+  {
+    "category": "TRAILING_HYPHEN",
+    "reason": "swedish: possible broken word.",
+    "card": {
+      "id": "riv_b_1814",
+      "swedish": "jätte-",
+      "forms": "",
+      "english": "really…",
+      "chapter": 4,
+      "page": 56,
+      "source_pdf_page": 17,
+      "parse_method": "UNICODE_SEPARATOR"
+    }
+  },
+  {
+    "category": "TRAILING_HYPHEN",
+    "reason": "english: possible broken word.",
+    "card": {
+      "id": "riv_b_1829",
+      "swedish": "fylle-(älg)",
+      "forms": "",
+      "english": "drunk-",
+      "chapter": 4,
+      "page": 57,
+      "source_pdf_page": 18,
+      "parse_method": "UNICODE_SEPARATOR"
+    }
+  },
+  {
+    "category": "SUSPICIOUS_TEXT",
+    "reason": "english: literal NONE.",
+    "card": {
+      "id": "riv_b_4610",
+      "swedish": "inga/ingen/inget alls",
+      "forms": "",
+      "english": "none/no one/nothing at all",
+      "chapter": 13,
+      "page": 178,
+      "source_pdf_page": 45,
+      "parse_method": "UNICODE_SEPARATOR"
+    }
+  },
+  {
+    "category": "VERY_SHORT_SWEDISH",
+    "reason": "Swedish contains only one character.",
+    "card": {
+      "id": "riv_b_2681",
+      "swedish": "ö",
+      "forms": "-n, -ar, -arna",
+      "english": "island",
+      "chapter": 7,
+      "page": 90,
+      "source_pdf_page": 26,
+      "parse_method": "UNICODE_SEPARATOR"
+    }
+  },
+  {
+    "category": "VERY_SHORT_SWEDISH",
+    "reason": "Swedish contains only one character.",
+    "card": {
+      "id": "riv_b_3905",
+      "swedish": "ö",
+      "forms": "-n, -ar, -arna",
+      "english": "island",
+      "chapter": 10,
+      "page": 141,
+      "source_pdf_page": 38,
+      "parse_method": "UNICODE_SEPARATOR"
+    }
+  }
+]

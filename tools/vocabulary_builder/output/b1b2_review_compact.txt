@@ -1,0 +1,3422 @@
+====================================================================================================
+REVIEW #001
+====================================================================================================
+PDF_PAGE: 5 | COLUMN: left | CHAPTER: 1 | BOOK_PAGE: 14
+REASON: SUSPICIOUS_MORPHOLOGY_FALLBACK
+
+RAW: ringa (-r, -de, -t) in
+
+PREVIOUS CARD:
+  SWEDISH: betoning
+  FORMS:   -en, -ar, -arna
+  ENGLISH: emphasis
+
+NEXT ROW: markera (-r, -de, -t)  mark
+
+ATTEMPTED PARSE:
+  SWEDISH: ringa
+  FORMS:   -r, -de, -t
+  ENGLISH: in
+  METHOD:  MORPHOLOGY_FALLBACK
+
+====================================================================================================
+REVIEW #002
+====================================================================================================
+PDF_PAGE: 6 | COLUMN: left | CHAPTER: 1 | BOOK_PAGE: 16
+REASON: UNRESOLVED_ROW
+
+RAW: son
+
+PREVIOUS CARD:
+  SWEDISH: människa
+  FORMS:   -n, människor, människorna
+  ENGLISH: human being, per­
+
+NEXT ROW: passande  suitable
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #003
+====================================================================================================
+PDF_PAGE: 6 | COLUMN: right | CHAPTER: 1 | BOOK_PAGE: 17
+REASON: UNRESOLVED_ROW
+
+RAW: vacation
+
+PREVIOUS CARD:
+  SWEDISH: husmorssemester
+  FORMS:   -n, -semestrar, -semestrarna
+  ENGLISH: housewives’
+
+NEXT ROW: åka (åker, åkte, åkt) iväg  go away, travel
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #004
+====================================================================================================
+PDF_PAGE: 7 | COLUMN: left | CHAPTER: 1 | BOOK_PAGE: 19
+REASON: UNRESOLVED_ROW
+
+RAW: Anledningen till att jag skriver är… The reason I’m writing
+
+PREVIOUS CARD:
+  SWEDISH: Jag skriver till er för att…
+  FORMS:   
+  ENGLISH: I am writing to you in order to…
+
+NEXT ROW: write is…
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #005
+====================================================================================================
+PDF_PAGE: 7 | COLUMN: right | CHAPTER: 1 | BOOK_PAGE: 19
+REASON: UNRESOLVED_ROW
+
+RAW: write is…
+
+PREVIOUS CARD:
+  SWEDISH: Jag skriver till er för att…
+  FORMS:   
+  ENGLISH: I am writing to you in order to…
+
+NEXT ROW: jag har alltid varit intresserad av…  I have always been inte­
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #006
+====================================================================================================
+PDF_PAGE: 7 | COLUMN: right | CHAPTER: 1 | BOOK_PAGE: 19
+REASON: UNRESOLVED_ROW
+
+RAW: rested in…
+
+PREVIOUS CARD:
+  SWEDISH: jag har alltid varit intresserad av…
+  FORMS:   
+  ENGLISH: I have always been inte­
+
+NEXT ROW: jag är mycket intresserad av… I am very interested in…
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #007
+====================================================================================================
+PDF_PAGE: 7 | COLUMN: right | CHAPTER: 1 | BOOK_PAGE: 19
+REASON: UNRESOLVED_ROW
+
+RAW: jag är mycket intresserad av… I am very interested in…
+
+PREVIOUS CARD:
+  SWEDISH: jag har alltid varit intresserad av…
+  FORMS:   
+  ENGLISH: I have always been inte­
+
+NEXT ROW: jag skulle vilja…  I would like…
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #008
+====================================================================================================
+PDF_PAGE: 8 | COLUMN: left | CHAPTER: 2 | BOOK_PAGE: 21
+REASON: UNRESOLVED_ROW
+
+RAW: fashion
+
+PREVIOUS CARD:
+  SWEDISH: modeintresserad
+  FORMS:   -intresserat, -intresserade
+  ENGLISH: interested in
+
+NEXT ROW: icke-rökare (-n, –, -rökarna)  non-smoker
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #009
+====================================================================================================
+PDF_PAGE: 8 | COLUMN: right | CHAPTER: 2 | BOOK_PAGE: 24
+REASON: UNRESOLVED_ROW
+
+RAW: sammanfatta (-r, -de, -t)
+
+PREVIOUS CARD:
+  SWEDISH: forum
+  FORMS:   -et, -, -en
+  ENGLISH: forum
+
+NEXT ROW: muntlig (-t, -a)  oral
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #010
+====================================================================================================
+PDF_PAGE: 9 | COLUMN: right | CHAPTER: 2 | BOOK_PAGE: 27
+REASON: UNRESOLVED_ROW
+
+RAW: one’s mind
+
+PREVIOUS CARD:
+  SWEDISH: bestämma sig
+  FORMS:   bestämmer, bestämde, bestämt
+  ENGLISH: make up
+
+NEXT ROW: bry (bryr, brydde, brytt) sig om  care about
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #011
+====================================================================================================
+PDF_PAGE: 9 | COLUMN: right | CHAPTER: 2 | BOOK_PAGE: 27
+REASON: UNRESOLVED_ROW
+
+RAW: self
+
+PREVIOUS CARD:
+  SWEDISH: förbereda sig
+  FORMS:   förbereder, förberedde, förberett
+  ENGLISH: prepare one­
+
+NEXT ROW: lägga (lägger, lade/la, lagt) sig  lie down, go to bed
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #012
+====================================================================================================
+PDF_PAGE: 9 | COLUMN: right | CHAPTER: 2 | BOOK_PAGE: 28
+REASON: UNRESOLVED_ROW
+
+RAW: ne well known in the arts/culture
+
+PREVIOUS CARD:
+  SWEDISH: kulturpersonlighet
+  FORMS:   -en, -er, -erna
+  ENGLISH: cultural persona, someo­
+
+NEXT ROW: runt  around
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #013
+====================================================================================================
+PDF_PAGE: 10 | COLUMN: right | CHAPTER: 2 | BOOK_PAGE: 30
+REASON: UNRESOLVED_ROW
+
+RAW: slower?
+
+PREVIOUS CARD:
+  SWEDISH: Kan du prata lite långsammare?
+  FORMS:   
+  ENGLISH: Can you speak a bit
+
+NEXT ROW: Jag hänger inte med riktigt!  I can’t quite follow!
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #014
+====================================================================================================
+PDF_PAGE: 11 | COLUMN: left | CHAPTER: 2 | BOOK_PAGE: 30
+REASON: UNRESOLVED_ROW
+
+RAW: culture
+
+PREVIOUS CARD:
+  SWEDISH: kuturintresserad
+  FORMS:   -intresserat, -intresserade
+  ENGLISH: interested in
+
+NEXT ROW: förälder (-n, föräldrar, föräldrarna)  parent
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #015
+====================================================================================================
+PDF_PAGE: 11 | COLUMN: right | CHAPTER: 2 | BOOK_PAGE: 33
+REASON: UNRESOLVED_ROW
+
+RAW: pened?
+
+PREVIOUS CARD:
+  SWEDISH: Har du hört vad som har hänt?
+  FORMS:   
+  ENGLISH: Have you heard what’s hap­
+
+NEXT ROW: Det hände en så rolig sak …  A funny thing happened…
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #016
+====================================================================================================
+PDF_PAGE: 11 | COLUMN: right | CHAPTER: 2 | BOOK_PAGE: 33
+REASON: UNRESOLVED_ROW
+
+RAW: here
+
+PREVIOUS CARD:
+  SWEDISH: Här är allting toppen/underbart/härligt
+  FORMS:   
+  ENGLISH: Everything is great
+
+NEXT ROW: Vi har det jättebra här i …  We’re having a wonderful time
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #017
+====================================================================================================
+PDF_PAGE: 11 | COLUMN: right | CHAPTER: 2 | BOOK_PAGE: 33
+REASON: UNRESOLVED_ROW
+
+RAW: in…
+
+PREVIOUS CARD:
+  SWEDISH: Vi har det jättebra här i …
+  FORMS:   
+  ENGLISH: We’re having a wonderful time
+
+NEXT ROW: 11
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #018
+====================================================================================================
+PDF_PAGE: 12 | COLUMN: right | CHAPTER: 3 | BOOK_PAGE: 37
+REASON: UNRESOLVED_ROW
+
+RAW: other hand
+
+PREVIOUS CARD:
+  SWEDISH: å ena sidan… å andra sidan
+  FORMS:   
+  ENGLISH: on the one hand… on the
+
+NEXT ROW: salamikorv (-en, -ar, -arna)  salami sausage
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #019
+====================================================================================================
+PDF_PAGE: 12 | COLUMN: right | CHAPTER: 3 | BOOK_PAGE: 38
+REASON: UNRESOLVED_ROW
+
+RAW: karensdag (-en, -ar, -arna)
+
+PREVIOUS CARD:
+  SWEDISH: gå ut och äta
+  FORMS:   
+  ENGLISH: go out to eat
+
+NEXT ROW: Hur mycket tjänar du?  How much do you make?
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #020
+====================================================================================================
+PDF_PAGE: 15 | COLUMN: left | CHAPTER: 4 | BOOK_PAGE: 47
+REASON: UNRESOLVED_ROW
+
+RAW: Vad hände med…? What happened with…?
+
+PREVIOUS CARD:
+  SWEDISH: fisk
+  FORMS:   -en, -, -ar
+  ENGLISH: fish
+
+NEXT ROW: till slut  in the end
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #021
+====================================================================================================
+PDF_PAGE: 15 | COLUMN: left | CHAPTER: 4 | BOOK_PAGE: 48
+REASON: UNRESOLVED_ROW
+
+RAW: Vilken form står de i? In what form are they?
+
+PREVIOUS CARD:
+  SWEDISH: form
+  FORMS:   -en, -er, -erna
+  ENGLISH: form
+
+NEXT ROW: imperativ  imperative
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #022
+====================================================================================================
+PDF_PAGE: 17 | COLUMN: left | CHAPTER: 4 | BOOK_PAGE: 53
+REASON: UNRESOLVED_ROW
+
+RAW: forefather
+
+PREVIOUS CARD:
+  SWEDISH: stamfader
+  FORMS:   stamfadern, stamfäder, stamfäderna
+  ENGLISH: ancestor,
+
+NEXT ROW: släkt med  related to
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #023
+====================================================================================================
+PDF_PAGE: 17 | COLUMN: left | CHAPTER: 4 | BOOK_PAGE: 54
+REASON: SUSPICIOUS_MORPHOLOGY_FALLBACK
+
+RAW: stöta (stöter, stötte, stött) på
+
+PREVIOUS CARD:
+  SWEDISH: USA
+  FORMS:   
+  ENGLISH: United States
+
+NEXT ROW: sjungande  singing
+
+ATTEMPTED PARSE:
+  SWEDISH: stöta
+  FORMS:   stöter, stötte, stött
+  ENGLISH: på
+  METHOD:  MORPHOLOGY_FALLBACK
+
+====================================================================================================
+REVIEW #024
+====================================================================================================
+PDF_PAGE: 17 | COLUMN: right | CHAPTER: 4 | BOOK_PAGE: 55
+REASON: UNRESOLVED_ROW
+
+RAW: ticle
+
+PREVIOUS CARD:
+  SWEDISH: partikel
+  FORMS:   partikeln, partiklar, partiklarna
+  ENGLISH: grammatical par­
+
+NEXT ROW: likadan (-t, -a)  same, identical
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #025
+====================================================================================================
+PDF_PAGE: 19 | COLUMN: left | CHAPTER: 5 | BOOK_PAGE: 63
+REASON: UNRESOLVED_ROW
+
+RAW: yesterday?
+
+PREVIOUS CARD:
+  SWEDISH: Vet du vad som hände igår?
+  FORMS:   
+  ENGLISH: Do you know what happened
+
+NEXT ROW: jo  yes
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #026
+====================================================================================================
+PDF_PAGE: 19 | COLUMN: right | CHAPTER: 5 | BOOK_PAGE: 64
+REASON: UNRESOLVED_ROW
+
+RAW: leave?
+
+PREVIOUS CARD:
+  SWEDISH: Vet du när bussarna går?
+  FORMS:   
+  ENGLISH: Do you know when the buses
+
+NEXT ROW: Sidan 65
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #027
+====================================================================================================
+PDF_PAGE: 19 | COLUMN: right | CHAPTER: 5 | BOOK_PAGE: 65
+REASON: UNRESOLVED_ROW
+
+RAW: about you?
+
+PREVIOUS CARD:
+  SWEDISH: Vet du vem som frågade efter dig?
+  FORMS:   
+  ENGLISH: Do you know who asked
+
+NEXT ROW: Vet du vad jag gjorde igår…?  Do you know what I did yes­
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #028
+====================================================================================================
+PDF_PAGE: 19 | COLUMN: right | CHAPTER: 5 | BOOK_PAGE: 65
+REASON: UNRESOLVED_ROW
+
+RAW: terday…?
+
+PREVIOUS CARD:
+  SWEDISH: Vet du vad jag gjorde igår…?
+  FORMS:   
+  ENGLISH: Do you know what I did yes­
+
+NEXT ROW: Jag har ingen aning om…  I have no idea if…
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #029
+====================================================================================================
+PDF_PAGE: 20 | COLUMN: left | CHAPTER: 5 | BOOK_PAGE: 66
+REASON: UNRESOLVED_ROW
+
+RAW: grandmother
+
+PREVIOUS CARD:
+  SWEDISH: mormor
+  FORMS:   mormodern, mormödrar, mormödrarna
+  ENGLISH: maternal
+
+NEXT ROW: ferraribil (-en, -ar, -arna)  Ferrari
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #030
+====================================================================================================
+PDF_PAGE: 20 | COLUMN: left | CHAPTER: 5 | BOOK_PAGE: 67
+REASON: UNRESOLVED_ROW
+
+RAW: snap
+
+PREVIOUS CARD:
+  SWEDISH: pepparkaka
+  FORMS:   -n, pepparkakor, pepparkakorna
+  ENGLISH: gingerbread
+
+NEXT ROW: fördubbla (-r, -de, -t)  double
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #031
+====================================================================================================
+PDF_PAGE: 21 | COLUMN: left | CHAPTER: 5 | BOOK_PAGE: 71
+REASON: UNRESOLVED_ROW
+
+RAW: ner
+
+PREVIOUS CARD:
+  SWEDISH: sockerbagare
+  FORMS:   sockerbagaren, -, sockerbagarna
+  ENGLISH: confectio­
+
+NEXT ROW: adelsfamilj (-en, -er, -erna)  aristocratic family
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #032
+====================================================================================================
+PDF_PAGE: 21 | COLUMN: right | CHAPTER: 5 | BOOK_PAGE: 71
+REASON: UNRESOLVED_ROW
+
+RAW: beet
+
+PREVIOUS CARD:
+  SWEDISH: sockerbeta
+  FORMS:   sockerbetan, sockerbetor, sockerbetorna
+  ENGLISH: sugar
+
+NEXT ROW: mot slutet av  towards the end of
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #033
+====================================================================================================
+PDF_PAGE: 22 | COLUMN: left | CHAPTER: 6 | BOOK_PAGE: 74
+REASON: UNRESOLVED_ROW
+
+RAW: ter of finance
+
+PREVIOUS CARD:
+  SWEDISH: finansminister
+  FORMS:   -n, finansministrar, finansministrarna
+  ENGLISH: minis­
+
+NEXT ROW: surströmming (-en, -ar, -arna)  fermented herring
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #034
+====================================================================================================
+PDF_PAGE: 22 | COLUMN: right | CHAPTER: 6 | BOOK_PAGE: 75
+REASON: UNRESOLVED_ROW
+
+RAW: follow
+
+PREVIOUS CARD:
+  SWEDISH: efterträda
+  FORMS:   efterträder, efterträdde, efterträtt
+  ENGLISH: to succeed, to
+
+NEXT ROW: behålla (behåller, behöll, behållit)  to keep
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #035
+====================================================================================================
+PDF_PAGE: 22 | COLUMN: right | CHAPTER: 6 | BOOK_PAGE: 75
+REASON: UNRESOLVED_ROW
+
+RAW: of parliament
+
+PREVIOUS CARD:
+  SWEDISH: parlamentsledamot
+  FORMS:   -en, -ledamöter, -ledamöterna
+  ENGLISH: member
+
+NEXT ROW: Sidan 76
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #036
+====================================================================================================
+PDF_PAGE: 22 | COLUMN: right | CHAPTER: 6 | BOOK_PAGE: 77
+REASON: UNRESOLVED_ROW
+
+RAW: book
+
+PREVIOUS CARD:
+  SWEDISH: övningsbok
+  FORMS:   -en, övningsböcker, övningsböckerna
+  ENGLISH: exercise
+
+NEXT ROW: först (-a)  first
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #037
+====================================================================================================
+PDF_PAGE: 23 | COLUMN: left | CHAPTER: 6 | BOOK_PAGE: 77
+REASON: UNRESOLVED_ROW
+
+RAW: sed pension
+
+PREVIOUS CARD:
+  SWEDISH: tilläggspension
+  FORMS:   -en, -er, -erna
+  ENGLISH: supplementary, income-ba­
+
+NEXT ROW: reform (-en, -er, -erna)  reform
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #038
+====================================================================================================
+PDF_PAGE: 23 | COLUMN: right | CHAPTER: 6 | BOOK_PAGE: 79
+REASON: UNRESOLVED_ROW
+
+RAW: issue
+
+PREVIOUS CARD:
+  SWEDISH: huvudfråga
+  FORMS:   -n, -frågor, -frågorna
+  ENGLISH: main quastion, main
+
+NEXT ROW: republikansk (-t, -a)  republican
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #039
+====================================================================================================
+PDF_PAGE: 24 | COLUMN: left | CHAPTER: 6 | BOOK_PAGE: 81
+REASON: UNRESOLVED_ROW
+
+RAW: with
+
+PREVIOUS CARD:
+  SWEDISH: hålla på med
+  FORMS:   håller, höll, hållit
+  ENGLISH: to do, to occupy oneself
+
+NEXT ROW: ointresserad (ointresserat, ointresserade)  uninterested
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #040
+====================================================================================================
+PDF_PAGE: 24 | COLUMN: left | CHAPTER: 6 | BOOK_PAGE: 82
+REASON: UNRESOLVED_ROW
+
+RAW: freedom of the press
+
+PREVIOUS CARD:
+  SWEDISH: tryckfrihetsförordningen
+  FORMS:   
+  ENGLISH: constitutional law guaranteeing
+
+NEXT ROW: yttrandefrihetsgrundlagen  constitutional law guaranteeing
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #041
+====================================================================================================
+PDF_PAGE: 24 | COLUMN: left | CHAPTER: 6 | BOOK_PAGE: 82
+REASON: UNRESOLVED_ROW
+
+RAW: freedom of speech
+
+PREVIOUS CARD:
+  SWEDISH: yttrandefrihetsgrundlagen
+  FORMS:   
+  ENGLISH: constitutional law guaranteeing
+
+NEXT ROW: rättighet (-en, -er, -erna)  right
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #042
+====================================================================================================
+PDF_PAGE: 24 | COLUMN: right | CHAPTER: 6 | BOOK_PAGE: 84
+REASON: UNRESOLVED_ROW
+
+RAW: parliament
+
+PREVIOUS CARD:
+  SWEDISH: motion
+  FORMS:   -en, -er, -erna
+  ENGLISH: bill proposed by members of
+
+NEXT ROW: riksdagsman (-nen, riksdagsmän, riksdagsmännen)  member
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #043
+====================================================================================================
+PDF_PAGE: 24 | COLUMN: right | CHAPTER: 6 | BOOK_PAGE: 84
+REASON: UNRESOLVED_ROW
+
+RAW: of parliament
+
+PREVIOUS CARD:
+  SWEDISH: riksdagsman
+  FORMS:   -nen, riksdagsmän, riksdagsmännen
+  ENGLISH: member
+
+NEXT ROW: budget (-en, -ar, -arna)  budget
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #044
+====================================================================================================
+PDF_PAGE: 24 | COLUMN: right | CHAPTER: 6 | BOOK_PAGE: 85
+REASON: UNRESOLVED_ROW
+
+RAW: bility
+
+PREVIOUS CARD:
+  SWEDISH: funktionshinder
+  FORMS:   funktionshindret, -, funktionshindren
+  ENGLISH: disa­
+
+NEXT ROW: statistik (-en)  statistics
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #045
+====================================================================================================
+PDF_PAGE: 25 | COLUMN: right | CHAPTER: 7 | BOOK_PAGE: 89
+REASON: UNRESOLVED_ROW
+
+RAW: am
+
+PREVIOUS CARD:
+  SWEDISH: dagdrömma
+  FORMS:   dagdrömmer, dagdrömde, dagdrömt
+  ENGLISH: daydre­
+
+NEXT ROW: skådespelerska (-n, skådespelerskor, skådespelerskorna)  actress
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #046
+====================================================================================================
+PDF_PAGE: 25 | COLUMN: right | CHAPTER: 7 | BOOK_PAGE: 89
+REASON: UNRESOLVED_ROW
+
+RAW: nicle
+
+PREVIOUS CARD:
+  SWEDISH: släktkrönika
+  FORMS:   -n, släktkrönikor, släktkrönikorna
+  ENGLISH: family chro­
+
+NEXT ROW: 25
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #047
+====================================================================================================
+PDF_PAGE: 26 | COLUMN: left | CHAPTER: 7 | BOOK_PAGE: 89
+REASON: UNRESOLVED_ROW
+
+RAW: one’s normal life
+
+PREVIOUS CARD:
+  SWEDISH: gå tillbaka till det normala/vanliga
+  FORMS:   
+  ENGLISH: go back to normal, to
+
+NEXT ROW: julfest (-en, -er, -erna)  Christmas party
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #048
+====================================================================================================
+PDF_PAGE: 26 | COLUMN: right | CHAPTER: 7 | BOOK_PAGE: 92
+REASON: UNRESOLVED_ROW
+
+RAW: ty flower
+
+PREVIOUS CARD:
+  SWEDISH: landskapsblomma
+  FORMS:   -n, -blommor, blommorna
+  ENGLISH: official coun­
+
+NEXT ROW: landskapsdjur (-et, –, -en)  official county animal
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #049
+====================================================================================================
+PDF_PAGE: 27 | COLUMN: right | CHAPTER: 7 | BOOK_PAGE: 94
+REASON: UNRESOLVED_ROW
+
+RAW: Sami people
+
+PREVIOUS CARD:
+  SWEDISH: same
+  FORMS:   -n, -er, -erna
+  ENGLISH: Sami, person belonging to indigenous
+
+NEXT ROW: finnas (finns, fanns, funnits)  exist
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #050
+====================================================================================================
+PDF_PAGE: 27 | COLUMN: right | CHAPTER: 7 | BOOK_PAGE: 95
+REASON: UNRESOLVED_ROW
+
+RAW: tain bike
+
+PREVIOUS CARD:
+  SWEDISH: mountainbike
+  FORMS:   -n, mountainbikar, mountainbikarna
+  ENGLISH: moun­
+
+NEXT ROW: ner för  down, downhill
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #051
+====================================================================================================
+PDF_PAGE: 27 | COLUMN: right | CHAPTER: 7 | BOOK_PAGE: 95
+REASON: UNRESOLVED_ROW
+
+RAW: ced
+
+PREVIOUS CARD:
+  SWEDISH: lokalproducerad
+  FORMS:   -producerat, -producerade
+  ENGLISH: locally produ­
+
+NEXT ROW: 27
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #052
+====================================================================================================
+PDF_PAGE: 28 | COLUMN: left | CHAPTER: 7 | BOOK_PAGE: 95
+REASON: UNRESOLVED_ROW
+
+RAW: stry exhibition
+
+PREVIOUS CARD:
+  SWEDISH: konst- och industriutställning
+  FORMS:   -en, -ar, -arna
+  ENGLISH: art and indu­
+
+NEXT ROW: en mängd  an amount
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #053
+====================================================================================================
+PDF_PAGE: 28 | COLUMN: right | CHAPTER: 7 | BOOK_PAGE: 97
+REASON: UNRESOLVED_ROW
+
+RAW: pancake
+
+PREVIOUS CARD:
+  SWEDISH: saffranspannkaka
+  FORMS:   -n, -pannkakor, -pannkakorna
+  ENGLISH: saffron
+
+NEXT ROW: ugnsgräddad (-gräddat, -gräddade)  oven baked
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #054
+====================================================================================================
+PDF_PAGE: 29 | COLUMN: left | CHAPTER: 7 | BOOK_PAGE: 97
+REASON: UNRESOLVED_ROW
+
+RAW: slice
+
+PREVIOUS CARD:
+  SWEDISH: äppelklyfta
+  FORMS:   -n, äpprlklyftor, äppelklyftorna
+  ENGLISH: apple wedge/
+
+NEXT ROW: Sidan 98
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #055
+====================================================================================================
+PDF_PAGE: 29 | COLUMN: right | CHAPTER: 7 | BOOK_PAGE: 99
+REASON: UNRESOLVED_ROW
+
+RAW: have you/has (s)he worked here?
+
+PREVIOUS CARD:
+  SWEDISH: Hur många år har du/han/hon jobbat här?
+  FORMS:   
+  ENGLISH: How many years
+
+NEXT ROW: köttbulle (-n, köttbullar, köttbullarna)  meatball
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #056
+====================================================================================================
+PDF_PAGE: 29 | COLUMN: right | CHAPTER: 7 | BOOK_PAGE: 100
+REASON: UNRESOLVED_ROW
+
+RAW: book by…
+
+PREVIOUS CARD:
+  SWEDISH: Filmen bygger på en bok av…
+  FORMS:   
+  ENGLISH: The movie is based on a
+
+NEXT ROW: Filmen bygger på en verklig händelse.  The movie is based
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #057
+====================================================================================================
+PDF_PAGE: 29 | COLUMN: right | CHAPTER: 7 | BOOK_PAGE: 100
+REASON: UNRESOLVED_ROW
+
+RAW: on a true story.
+
+PREVIOUS CARD:
+  SWEDISH: Filmen bygger på en verklig händelse.
+  FORMS:   
+  ENGLISH: The movie is based
+
+NEXT ROW: I slutet…  In the end…
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #058
+====================================================================================================
+PDF_PAGE: 30 | COLUMN: left | CHAPTER: 8 | BOOK_PAGE: 102
+REASON: UNRESOLVED_ROW
+
+RAW: on
+
+PREVIOUS CARD:
+  SWEDISH: ingå partnerskap
+  FORMS:   ingår, ingick, ingått
+  ENGLISH: enter into a civil uni­
+
+NEXT ROW: registrerad (registrerat, registrerade)  registered
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #059
+====================================================================================================
+PDF_PAGE: 30 | COLUMN: left | CHAPTER: 8 | BOOK_PAGE: 102
+REASON: UNRESOLVED_ROW
+
+RAW: climate debate
+
+PREVIOUS CARD:
+  SWEDISH: miljö- och klimatdebatt
+  FORMS:   -en, -er, -erna
+  ENGLISH: environment and
+
+NEXT ROW: ta (-r, tog, tagit) fart  gain speed
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #060
+====================================================================================================
+PDF_PAGE: 30 | COLUMN: right | CHAPTER: 8 | BOOK_PAGE: 103
+REASON: UNRESOLVED_ROW
+
+RAW: country
+
+PREVIOUS CARD:
+  SWEDISH: grannland
+  FORMS:   -et, grannländer, grannländerna
+  ENGLISH: neighboring
+
+NEXT ROW: resten av  the rest of
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #061
+====================================================================================================
+PDF_PAGE: 30 | COLUMN: right | CHAPTER: 8 | BOOK_PAGE: 103
+REASON: UNRESOLVED_ROW
+
+RAW: parliament
+
+PREVIOUS CARD:
+  SWEDISH: riksdagsledamot
+  FORMS:   -en, -ledamöter, -ledamöterna
+  ENGLISH: member of
+
+NEXT ROW: högvarv (-et, –, -en)  high gear, boom
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #062
+====================================================================================================
+PDF_PAGE: 31 | COLUMN: right | CHAPTER: 8 | BOOK_PAGE: 106
+REASON: UNRESOLVED_ROW
+
+RAW: daughter
+
+PREVIOUS CARD:
+  SWEDISH: systerdotter
+  FORMS:   -n, systerdöttrar, systerdöttrarna
+  ENGLISH: niece, sister’s
+
+NEXT ROW: byta (byter, bytte, bytt) namn  change name
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #063
+====================================================================================================
+PDF_PAGE: 32 | COLUMN: left | CHAPTER: 8 | BOOK_PAGE: 109
+REASON: UNRESOLVED_ROW
+
+RAW: brother
+
+PREVIOUS CARD:
+  SWEDISH: farbror
+  FORMS:   farbrodern, farbröder, farbröderna
+  ENGLISH: uncle, father’s
+
+NEXT ROW: känd (käntt, kända)  famous, known
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #064
+====================================================================================================
+PDF_PAGE: 32 | COLUMN: left | CHAPTER: 8 | BOOK_PAGE: 110
+REASON: UNRESOLVED_ROW
+
+RAW: mething…
+
+PREVIOUS CARD:
+  SWEDISH: Jag måste berätta en sak/en grej…
+  FORMS:   
+  ENGLISH: I have to tell you so­
+
+NEXT ROW: Visste du att…?  Did you know that…?
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #065
+====================================================================================================
+PDF_PAGE: 32 | COLUMN: right | CHAPTER: 8 | BOOK_PAGE: 112
+REASON: UNRESOLVED_ROW
+
+RAW: countries
+
+PREVIOUS CARD:
+  SWEDISH: nordbo
+  FORMS:   -n, -r, -rna
+  ENGLISH: person living in/from the Nordic
+
+NEXT ROW: bosätta (bosätter, bosatte, bosatt) sig  to settle, move to
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #066
+====================================================================================================
+PDF_PAGE: 33 | COLUMN: left | CHAPTER: 8 | BOOK_PAGE: 114
+REASON: UNRESOLVED_ROW
+
+RAW: School
+
+PREVIOUS CARD:
+  SWEDISH: folkhögskola
+  FORMS:   -n, folkhögskolor, folkhögskolorna
+  ENGLISH: Folk High
+
+NEXT ROW: just det  exactly
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #067
+====================================================================================================
+PDF_PAGE: 33 | COLUMN: left | CHAPTER: 8 | BOOK_PAGE: 114
+REASON: UNRESOLVED_ROW
+
+RAW: ment
+
+PREVIOUS CARD:
+  SWEDISH: beställa tid
+  FORMS:   beställer, beställde, beställt
+  ENGLISH: make an appoint­
+
+NEXT ROW: återbesök (-et, –, -en)  follow-up visit
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #068
+====================================================================================================
+PDF_PAGE: 33 | COLUMN: left | CHAPTER: 8 | BOOK_PAGE: 114
+REASON: UNRESOLVED_ROW
+
+RAW: minded me.
+
+PREVIOUS CARD:
+  SWEDISH: Vilken tur att du påminde mig
+  FORMS:   
+  ENGLISH: How fortunate that you re­
+
+NEXT ROW: senast på fredag  latest on Friday
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #069
+====================================================================================================
+PDF_PAGE: 34 | COLUMN: left | CHAPTER: 9 | BOOK_PAGE: 118
+REASON: UNRESOLVED_ROW
+
+RAW: ears!
+
+PREVIOUS CARD:
+  SWEDISH: Du kommer inte att tro dina öron!
+  FORMS:   
+  ENGLISH: You won’t believe your
+
+NEXT ROW: Vi får väl se.  We’ll see.
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #070
+====================================================================================================
+PDF_PAGE: 34 | COLUMN: left | CHAPTER: 9 | BOOK_PAGE: 120
+REASON: UNRESOLVED_ROW
+
+RAW: en sådan, ett sådant one such
+
+PREVIOUS CARD:
+  SWEDISH: blank
+  FORMS:   -t, -a
+  ENGLISH: blank
+
+NEXT ROW: äktenskap (-et, –, -en)  marraige
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #071
+====================================================================================================
+PDF_PAGE: 34 | COLUMN: right | CHAPTER: 9 | BOOK_PAGE: 123
+REASON: UNRESOLVED_ROW
+
+RAW: bill
+
+PREVIOUS CARD:
+  SWEDISH: hundrakronorssedel
+  FORMS:   -n, -sedlar, -sedlarna
+  ENGLISH: hundred kronor
+
+NEXT ROW: på allvar  seriously, in earnest
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #072
+====================================================================================================
+PDF_PAGE: 35 | COLUMN: left | CHAPTER: 9 | BOOK_PAGE: 125
+REASON: UNRESOLVED_ROW
+
+RAW: eyes, look away, act shifty
+
+PREVIOUS CARD:
+  SWEDISH: flacka med blicken
+  FORMS:   -r, -de, -t
+  ENGLISH: not meet the other person’s
+
+NEXT ROW: domare (-n, –, domarna)  judge
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #073
+====================================================================================================
+PDF_PAGE: 35 | COLUMN: right | CHAPTER: 9 | BOOK_PAGE: 126
+REASON: UNRESOLVED_ROW
+
+RAW: gaze
+
+PREVIOUS CARD:
+  SWEDISH: möta blicken
+  FORMS:   möter, mötte, mött
+  ENGLISH: look into one’s eyes, meet
+
+NEXT ROW: röst (-en, -er, -erna)  voice
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #074
+====================================================================================================
+PDF_PAGE: 35 | COLUMN: right | CHAPTER: 9 | BOOK_PAGE: 127
+REASON: UNRESOLVED_ROW
+
+RAW: meter
+
+PREVIOUS CARD:
+  SWEDISH: kvadratkilometer
+  FORMS:   -n, -kilometrar, -kilometrarna
+  ENGLISH: square kilo­
+
+NEXT ROW: längst (-a)  longest
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #075
+====================================================================================================
+PDF_PAGE: 36 | COLUMN: right | CHAPTER: 10 | BOOK_PAGE: 134
+REASON: UNRESOLVED_ROW
+
+RAW: ntally conscious
+
+PREVIOUS CARD:
+  SWEDISH: miljömedveten
+  FORMS:   miljömedvetet, miljömedvetna
+  ENGLISH: environme­
+
+NEXT ROW: miljövänlig (-t, -a)  environmentally friendly
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #076
+====================================================================================================
+PDF_PAGE: 36 | COLUMN: right | CHAPTER: 10 | BOOK_PAGE: 134
+REASON: UNRESOLVED_ROW
+
+RAW: certification
+
+PREVIOUS CARD:
+  SWEDISH: miljöcertifierad
+  FORMS:   -certifierat, -certifierade
+  ENGLISH: environmental
+
+NEXT ROW: användbar (-t, -a)  useful
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #077
+====================================================================================================
+PDF_PAGE: 37 | COLUMN: left | CHAPTER: 10 | BOOK_PAGE: 136
+REASON: UNRESOLVED_ROW
+
+RAW: Shrove Tuesday
+
+PREVIOUS CARD:
+  SWEDISH: semla
+  FORMS:   -n, semlor, semlorna
+  ENGLISH: traditional sweet roll, made for
+
+NEXT ROW: vete (-t)  wheat
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #078
+====================================================================================================
+PDF_PAGE: 37 | COLUMN: right | CHAPTER: 10 | BOOK_PAGE: 138
+REASON: UNRESOLVED_ROW
+
+RAW: interest
+
+PREVIOUS CARD:
+  SWEDISH: intresseanmälning
+  FORMS:   -en, -ar, -arna
+  ENGLISH: inquiry, expression of
+
+NEXT ROW: utöva (-r, -de, -t)  exercise, practice
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #079
+====================================================================================================
+PDF_PAGE: 38 | COLUMN: left | CHAPTER: 10 | BOOK_PAGE: 142
+REASON: UNRESOLVED_ROW
+
+RAW: ment
+
+PREVIOUS CARD:
+  SWEDISH: lantbruksmiljö
+  FORMS:   -n, -er, -erna
+  ENGLISH: rural, agricultural environ-
+
+NEXT ROW: meritlista (-n, meritlistor, meritlistorna)  record, CV
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #080
+====================================================================================================
+PDF_PAGE: 39 | COLUMN: right | CHAPTER: 11 | BOOK_PAGE: 149
+REASON: UNRESOLVED_ROW
+
+RAW: turn out the way one imagined.
+
+PREVIOUS CARD:
+  SWEDISH: Det blir inte alltid som man tänkt sig.
+  FORMS:   
+  ENGLISH: Things don’t always
+
+NEXT ROW: brottsling (-en, -ar, -arna)  criminal
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #081
+====================================================================================================
+PDF_PAGE: 39 | COLUMN: right | CHAPTER: 11 | BOOK_PAGE: 149
+REASON: UNRESOLVED_ROW
+
+RAW: documented
+
+PREVIOUS CARD:
+  SWEDISH: väldokumenterad
+  FORMS:   väldokumenterat, väldokumenterade
+  ENGLISH: well
+
+NEXT ROW: kamera (-n, kameror, kamerorna)  camera
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #082
+====================================================================================================
+PDF_PAGE: 39 | COLUMN: right | CHAPTER: 11 | BOOK_PAGE: 150
+REASON: UNRESOLVED_ROW
+
+RAW: influence of drugs
+
+PREVIOUS CARD:
+  SWEDISH: drogpåverkad
+  FORMS:   drogpåverkat, drogpåverkade
+  ENGLISH: under the
+
+NEXT ROW: låsa (låser, låste, låst)  to lock
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #083
+====================================================================================================
+PDF_PAGE: 40 | COLUMN: left | CHAPTER: 11 | BOOK_PAGE: 151
+REASON: UNRESOLVED_ROW
+
+RAW: copter
+
+PREVIOUS CARD:
+  SWEDISH: polishelikopter
+  FORMS:   -n, -helikoptrar, -helikoptrarna
+  ENGLISH: police heli­
+
+NEXT ROW: flygplats (-en, -er, -erna)  airport
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #084
+====================================================================================================
+PDF_PAGE: 40 | COLUMN: left | CHAPTER: 11 | BOOK_PAGE: 152
+REASON: UNRESOLVED_ROW
+
+RAW: circumstances
+
+PREVIOUS CARD:
+  SWEDISH: förmildrande omständighet
+  FORMS:   -en, -er, -erna
+  ENGLISH: mitigating
+
+NEXT ROW: keramik (-en)  ceramics
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #085
+====================================================================================================
+PDF_PAGE: 41 | COLUMN: left | CHAPTER: 11 | BOOK_PAGE: 157
+REASON: SUSPICIOUS_MORPHOLOGY_FALLBACK
+
+RAW: lura (-r, -de, -t) till sig
+
+PREVIOUS CARD:
+  SWEDISH: pensionär
+  FORMS:   -en, -er, -erna
+  ENGLISH: retiree
+
+NEXT ROW: Kapitel 12
+
+ATTEMPTED PARSE:
+  SWEDISH: lura till
+  FORMS:   -r, -de, -t
+  ENGLISH: sig
+  METHOD:  MORPHOLOGY_FALLBACK
+
+====================================================================================================
+REVIEW #086
+====================================================================================================
+PDF_PAGE: 41 | COLUMN: right | CHAPTER: 12 | BOOK_PAGE: 161
+REASON: UNRESOLVED_ROW
+
+RAW: ress
+
+PREVIOUS CARD:
+  SWEDISH: äventyrerska
+  FORMS:   -n, äventyrerskor, äventyrerskorna
+  ENGLISH: adventu­
+
+NEXT ROW: konflikt (-en, -er, -erna)  conflict
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #087
+====================================================================================================
+PDF_PAGE: 41 | COLUMN: right | CHAPTER: 12 | BOOK_PAGE: 161
+REASON: UNRESOLVED_ROW
+
+RAW: trip
+
+PREVIOUS CARD:
+  SWEDISH: bröllopsresa
+  FORMS:   -n, bröllopsresor, bröllopsresorna
+  ENGLISH: honeymoon
+
+NEXT ROW: kringflackande  wandering, unsettled
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #088
+====================================================================================================
+PDF_PAGE: 42 | COLUMN: left | CHAPTER: 12 | BOOK_PAGE: 166
+REASON: UNRESOLVED_ROW
+
+RAW: law
+
+PREVIOUS CARD:
+  SWEDISH: svärmor
+  FORMS:   svärmodern, svärmödrar, svärmödrarna
+  ENGLISH: mother in
+
+NEXT ROW: träffa en annan (vara otrogen)  meet someone else (be unfaithful)
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #089
+====================================================================================================
+PDF_PAGE: 43 | COLUMN: left | CHAPTER: 12 | BOOK_PAGE: 170
+REASON: UNRESOLVED_ROW
+
+RAW: to…
+
+PREVIOUS CARD:
+  SWEDISH: Nu måste det bli ett slut på…
+  FORMS:   
+  ENGLISH: Now, there has to be an end
+
+NEXT ROW: valfri (-tt, -a)  optional
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #090
+====================================================================================================
+PDF_PAGE: 43 | COLUMN: left | CHAPTER: 13 | BOOK_PAGE: 171
+REASON: UNRESOLVED_ROW
+
+RAW: saturday
+
+PREVIOUS CARD:
+  SWEDISH: påskafton
+  FORMS:   -en, påskaftnar, påskaftnarna
+  ENGLISH: Easter eve, holy
+
+NEXT ROW: påskhelg (-en, -er, -erna)  Easter holiday
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #091
+====================================================================================================
+PDF_PAGE: 43 | COLUMN: right | CHAPTER: 13 | BOOK_PAGE: 171
+REASON: UNRESOLVED_ROW
+
+RAW: ce day
+
+PREVIOUS CARD:
+  SWEDISH: nationaldag
+  FORMS:   -en, -ar, -arna
+  ENGLISH: national holiday, independen­
+
+NEXT ROW: Sidan 172
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #092
+====================================================================================================
+PDF_PAGE: 44 | COLUMN: left | CHAPTER: 13 | BOOK_PAGE: 174
+REASON: UNRESOLVED_ROW
+
+RAW: tuted family
+
+PREVIOUS CARD:
+  SWEDISH: ombildad familj
+  FORMS:   ombildat, ombildade
+  ENGLISH: reformed, reconsti­
+
+NEXT ROW: julgran (-en, -ar, -arna)  Christmas tree
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #093
+====================================================================================================
+PDF_PAGE: 44 | COLUMN: left | CHAPTER: 13 | BOOK_PAGE: 175
+REASON: UNRESOLVED_ROW
+
+RAW: fastlagen lent
+
+PREVIOUS CARD:
+  SWEDISH: fast
+  FORMS:   -a
+  ENGLISH: determined
+
+NEXT ROW: inte så konstigt  not so strange
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #094
+====================================================================================================
+PDF_PAGE: 44 | COLUMN: left | CHAPTER: 13 | BOOK_PAGE: 175
+REASON: UNRESOLVED_ROW
+
+RAW: before Easter
+
+PREVIOUS CARD:
+  SWEDISH: skärtorsdag
+  FORMS:   -en, -ar, -arna
+  ENGLISH: Maundy Thursday, Thursday
+
+NEXT ROW: klä (-r, -dde, -tt) ut sig  dress up (in costume)
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #095
+====================================================================================================
+PDF_PAGE: 44 | COLUMN: right | CHAPTER: 13 | BOOK_PAGE: 176
+REASON: UNRESOLVED_ROW
+
+RAW: ves
+
+PREVIOUS CARD:
+  SWEDISH: lövgubbe
+  FORMS:   -n, lövgubbar, lövgubbarna
+  ENGLISH: man dressed in lea­
+
+NEXT ROW: täcka (täcker, täckte, täckt)  covered
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #096
+====================================================================================================
+PDF_PAGE: 45 | COLUMN: right | CHAPTER: 13 | BOOK_PAGE: 180
+REASON: UNRESOLVED_ROW
+
+RAW: me
+
+PREVIOUS CARD:
+  SWEDISH: hus- /gårdstomte
+  FORMS:   -n, -tomtar, -tomtarna
+  ENGLISH: house/farm gno­
+
+NEXT ROW: gråklädd (gråklätt, gråklädda)  dressed in gray
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #097
+====================================================================================================
+PDF_PAGE: 45 | COLUMN: right | CHAPTER: 13 | BOOK_PAGE: 180
+REASON: UNRESOLVED_ROW
+
+RAW: tion
+
+PREVIOUS CARD:
+  SWEDISH: väcka uppmärksamhet
+  FORMS:   väcker, väckte, väckt
+  ENGLISH: attract atten­
+
+NEXT ROW: argsint (-a)  ill-tempered
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #098
+====================================================================================================
+PDF_PAGE: 45 | COLUMN: right | CHAPTER: 13 | BOOK_PAGE: 181
+REASON: UNRESOLVED_ROW
+
+RAW: midvinternatt (-en, midvinternätter, midvinternätterna)
+
+PREVIOUS CARD:
+  SWEDISH: kvällstidning
+  FORMS:   -en, -ar, -arna
+  ENGLISH: evening paper
+
+NEXT ROW: mid-winter night
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #099
+====================================================================================================
+PDF_PAGE: 45 | COLUMN: right | CHAPTER: 13 | BOOK_PAGE: 181
+REASON: UNRESOLVED_ROW
+
+RAW: mid-winter night
+
+PREVIOUS CARD:
+  SWEDISH: kvällstidning
+  FORMS:   -en, -ar, -arna
+  ENGLISH: evening paper
+
+NEXT ROW: köld (-en)  cold
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #100
+====================================================================================================
+PDF_PAGE: 46 | COLUMN: right | CHAPTER: 14 | BOOK_PAGE: 189
+REASON: UNRESOLVED_ROW
+
+RAW: ations.
+
+PREVIOUS CARD:
+  SWEDISH: Det är olika i olika situationer.
+  FORMS:   
+  ENGLISH: It’s different in different situ­
+
+NEXT ROW: inte ett dugg  not at all
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #101
+====================================================================================================
+PDF_PAGE: 47 | COLUMN: left | CHAPTER: 14 | BOOK_PAGE: 191
+REASON: UNRESOLVED_ROW
+
+RAW: again?
+
+PREVIOUS CARD:
+  SWEDISH: Var var det du bodde nu igen?
+  FORMS:   
+  ENGLISH: Where was it you lived
+
+NEXT ROW: Sidan 192
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #102
+====================================================================================================
+PDF_PAGE: 47 | COLUMN: left | CHAPTER: 14 | BOOK_PAGE: 192
+REASON: UNRESOLVED_ROW
+
+RAW: with anything?
+
+PREVIOUS CARD:
+  SWEDISH: Hej. Kan jag hjälpa dig med något?
+  FORMS:   
+  ENGLISH: Hello. Can I help you
+
+NEXT ROW: gå sönder  break
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #103
+====================================================================================================
+PDF_PAGE: 47 | COLUMN: right | CHAPTER: 14 | BOOK_PAGE: 193
+REASON: UNRESOLVED_ROW
+
+RAW: do about the issue.
+
+PREVIOUS CARD:
+  SWEDISH: Jag ska se vad jag kan göra åt saken.
+  FORMS:   
+  ENGLISH: I shall see what we can
+
+NEXT ROW: kompensation (-en)  compensation
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #104
+====================================================================================================
+PDF_PAGE: 47 | COLUMN: right | CHAPTER: 14 | BOOK_PAGE: 193
+REASON: UNRESOLVED_ROW
+
+RAW: nothing we can do.
+
+PREVIOUS CARD:
+  SWEDISH: Tyvärr är det ingenting vi kan göra.
+  FORMS:   
+  ENGLISH: Unfortunately there’s
+
+NEXT ROW: Sidan 194
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #105
+====================================================================================================
+PDF_PAGE: 48 | COLUMN: left | CHAPTER: 14 | BOOK_PAGE: 196
+REASON: UNRESOLVED_ROW
+
+RAW: service instructions
+
+PREVIOUS CARD:
+  SWEDISH: skötsel- och serviceinsruktion
+  FORMS:   -en, -er, -erna
+  ENGLISH: care and
+
+NEXT ROW: skadad (skadat, skadade)  injured, damaged
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #106
+====================================================================================================
+PDF_PAGE: 48 | COLUMN: left | CHAPTER: 14 | BOOK_PAGE: 196
+REASON: UNRESOLVED_ROW
+
+RAW: consumer goods
+
+PREVIOUS CARD:
+  SWEDISH: konsumentköpslag
+  FORMS:   -en, -ar, -arna
+  ENGLISH: law regulating sale of
+
+NEXT ROW: ta (tat, tog, tagit)  en kopia/kopiera  make a photocopy
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #107
+====================================================================================================
+PDF_PAGE: 48 | COLUMN: left | CHAPTER: 14 | BOOK_PAGE: 199
+REASON: UNRESOLVED_ROW
+
+RAW: something
+
+PREVIOUS CARD:
+  SWEDISH: måla upp en bild av något
+  FORMS:   
+  ENGLISH: paint oneself a picture of
+
+NEXT ROW: Sidan 200
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #108
+====================================================================================================
+PDF_PAGE: 48 | COLUMN: right | CHAPTER: 14 | BOOK_PAGE: 200
+REASON: UNRESOLVED_ROW
+
+RAW: ment
+
+PREVIOUS CARD:
+  SWEDISH: vara lagd åt (ha en viss läggning)
+  FORMS:   
+  ENGLISH: have a certain tempera­
+
+NEXT ROW: hantera (-r, -de, -t)  handle
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #109
+====================================================================================================
+PDF_PAGE: 48 | COLUMN: right | CHAPTER: 15 | BOOK_PAGE: 203
+REASON: UNRESOLVED_ROW
+
+RAW: statistics agency
+
+PREVIOUS CARD:
+  SWEDISH: Statistiska Centralbyrån
+  FORMS:   
+  ENGLISH: Statistics Sweden, the central
+
+NEXT ROW: via  via
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #110
+====================================================================================================
+PDF_PAGE: 49 | COLUMN: left | CHAPTER: 15 | BOOK_PAGE: 204
+REASON: UNRESOLVED_ROW
+
+RAW: counts
+
+PREVIOUS CARD:
+  SWEDISH: årsredovisning
+  FORMS:   -en, -ar, -arna
+  ENGLISH: annual report, annual ac­
+
+NEXT ROW: nyckelperson (-en, -er, -erna)  key person
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #111
+====================================================================================================
+PDF_PAGE: 49 | COLUMN: right | CHAPTER: 15 | BOOK_PAGE: 206
+REASON: UNRESOLVED_ROW
+
+RAW: out
+
+PREVIOUS CARD:
+  SWEDISH: framhäva
+  FORMS:   framhäver, framhävde, framhävt
+  ENGLISH: highlight, bring
+
+NEXT ROW: hoppa (-r, -de, -t) över  skip over
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #112
+====================================================================================================
+PDF_PAGE: 49 | COLUMN: right | CHAPTER: 15 | BOOK_PAGE: 206
+REASON: UNRESOLVED_ROW
+
+RAW: tion number, social security
+
+PREVIOUS CARD:
+  SWEDISH: personnummer
+  FORMS:   -numret, -, -numren
+  ENGLISH: personal intentifica­
+
+NEXT ROW: tidperiod (-en, -er, -erna)  time period
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #113
+====================================================================================================
+PDF_PAGE: 49 | COLUMN: right | CHAPTER: 15 | BOOK_PAGE: 207
+REASON: UNRESOLVED_ROW
+
+RAW: request
+
+PREVIOUS CARD:
+  SWEDISH: referenser lämnas på begäran
+  FORMS:   
+  ENGLISH: references available upon
+
+NEXT ROW: handledare (-n, –, handledarna)  supervisor
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #114
+====================================================================================================
+PDF_PAGE: 50 | COLUMN: left | CHAPTER: 15 | BOOK_PAGE: 208
+REASON: UNRESOLVED_ROW
+
+RAW: of…
+
+PREVIOUS CARD:
+  SWEDISH: Ansökan om tjänsten som…
+  FORMS:   
+  ENGLISH: Application for the position
+
+NEXT ROW: ungdomsledare (-n, –, ungdomsledarna)  youth councellor
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #115
+====================================================================================================
+PDF_PAGE: 50 | COLUMN: left | CHAPTER: 15 | BOOK_PAGE: 208
+REASON: UNRESOLVED_ROW
+
+RAW: structured
+
+PREVIOUS CARD:
+  SWEDISH: välstrukturerad
+  FORMS:   välstrukturerat, välstrukturerade
+  ENGLISH: well
+
+NEXT ROW: lättläst (-a)  easy to read
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #116
+====================================================================================================
+PDF_PAGE: 50 | COLUMN: right | CHAPTER: 15 | BOOK_PAGE: 211
+REASON: UNRESOLVED_ROW
+
+RAW: ted
+
+PREVIOUS CARD:
+  SWEDISH: dokumenterade
+  FORMS:   dokumeterat, dokumenterade
+  ENGLISH: documen­
+
+NEXT ROW: servitör (-en, -er, -erna)  waitor
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #117
+====================================================================================================
+PDF_PAGE: 50 | COLUMN: right | CHAPTER: 15 | BOOK_PAGE: 211
+REASON: UNRESOLVED_ROW
+
+RAW: father
+
+PREVIOUS CARD:
+  SWEDISH: morfar
+  FORMS:   morfadern, morfäder, morfädren
+  ENGLISH: maternal grand­
+
+NEXT ROW: egenhändig (-t, -a)  made by oneself
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #118
+====================================================================================================
+PDF_PAGE: 51 | COLUMN: left | CHAPTER: 15 | BOOK_PAGE: 213
+REASON: UNRESOLVED_ROW
+
+RAW: rupted
+
+PREVIOUS CARD:
+  SWEDISH: tala till punkt
+  FORMS:   -r, -de, -t
+  ENGLISH: finish one’s sentence, not be inter­
+
+NEXT ROW: ivrig (-t, ivriga)  eager
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #119
+====================================================================================================
+PDF_PAGE: 51 | COLUMN: left | CHAPTER: 15 | BOOK_PAGE: 214
+REASON: UNRESOLVED_ROW
+
+RAW: fingers
+
+PREVIOUS CARD:
+  SWEDISH: hålla tummarna
+  FORMS:   -er, höll, hållit
+  ENGLISH: hold thumbs, cross one’s
+
+NEXT ROW: förhandling (-en, -ar, -arna)  negotiation
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #120
+====================================================================================================
+PDF_PAGE: 51 | COLUMN: left | CHAPTER: 15 | BOOK_PAGE: 214
+REASON: UNRESOLVED_ROW
+
+RAW: table
+
+PREVIOUS CARD:
+  SWEDISH: slå näven i bordet
+  FORMS:   -r, slog, slagit
+  ENGLISH: bang one’s fist on the
+
+NEXT ROW: sätta (sätter, satte, satt) stopp för  put a stop to
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #121
+====================================================================================================
+PDF_PAGE: 51 | COLUMN: right | CHAPTER: 15 | BOOK_PAGE: 215
+REASON: UNRESOLVED_ROW
+
+RAW: thought
+
+PREVIOUS CARD:
+  SWEDISH: komma av sig
+  FORMS:   kommer, kom, kommit
+  ENGLISH: lose one’s train of
+
+NEXT ROW: hålla (håller, höll, hållit) hus  be located
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #122
+====================================================================================================
+PDF_PAGE: 51 | COLUMN: right | CHAPTER: 15 | BOOK_PAGE: 215
+REASON: SUSPICIOUS_MORPHOLOGY_FALLBACK
+
+RAW: ställa (ställer, ställde, ställt) upp
+
+PREVIOUS CARD:
+  SWEDISH: röra
+  FORMS:   -n, röror, rörorna
+  ENGLISH: mess
+
+NEXT ROW: startskott (-et, –, -en)  starting shot, beginning
+
+ATTEMPTED PARSE:
+  SWEDISH: ställa
+  FORMS:   ställer, ställde, ställt
+  ENGLISH: upp
+  METHOD:  MORPHOLOGY_FALLBACK
+
+====================================================================================================
+REVIEW #123
+====================================================================================================
+PDF_PAGE: 51 | COLUMN: right | CHAPTER: 16 | BOOK_PAGE: 218
+REASON: UNRESOLVED_ROW
+
+RAW: lings
+
+PREVIOUS CARD:
+  SWEDISH: syskonskara
+  FORMS:   -n, syskonskaror, syskonskarorna
+  ENGLISH: group of sib­
+
+NEXT ROW: faktor (-n, -er, -erna)  factor
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #124
+====================================================================================================
+PDF_PAGE: 51 | COLUMN: right | CHAPTER: 16 | BOOK_PAGE: 218
+REASON: UNRESOLVED_ROW
+
+RAW: brother
+
+PREVIOUS CARD:
+  SWEDISH: storebror
+  FORMS:   storebrodern, storebröder, storebröderna
+  ENGLISH: big
+
+NEXT ROW: topp (-en, -ar, -arna)  top
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #125
+====================================================================================================
+PDF_PAGE: 52 | COLUMN: left | CHAPTER: 16 | BOOK_PAGE: 218
+REASON: UNRESOLVED_ROW
+
+RAW: ted
+
+PREVIOUS CARD:
+  SWEDISH: prestationsinriktad
+  FORMS:   -inriktat, inriktade
+  ENGLISH: performance-orien­
+
+NEXT ROW: Sidan 219
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #126
+====================================================================================================
+PDF_PAGE: 52 | COLUMN: left | CHAPTER: 16 | BOOK_PAGE: 219
+REASON: UNRESOLVED_ROW
+
+RAW: change
+
+PREVIOUS CARD:
+  SWEDISH: börs-vd:n
+  FORMS:   börs-vd:ar, börs-vd:arna
+  ENGLISH: CEO of the Stock Ex­
+
+NEXT ROW: hjärtinfarkt (-en, -er, -erna)  heart attack
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #127
+====================================================================================================
+PDF_PAGE: 52 | COLUMN: right | CHAPTER: 16 | BOOK_PAGE: 221
+REASON: UNRESOLVED_ROW
+
+RAW: brush
+
+PREVIOUS CARD:
+  SWEDISH: diskborste
+  FORMS:   -n, diskborstar, diskborstarna
+  ENGLISH: dishwashing
+
+NEXT ROW: stekpanna (-n, stekpannor, stekpannorna)  frying pan
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #128
+====================================================================================================
+PDF_PAGE: 53 | COLUMN: left | CHAPTER: 16 | BOOK_PAGE: 224
+REASON: UNRESOLVED_ROW
+
+RAW: bunch of keys
+
+PREVIOUS CARD:
+  SWEDISH: nyckelknippa
+  FORMS:   -n, nyckelknippor, nyckelknipporna
+  ENGLISH: keyring,
+
+NEXT ROW: bära (bär, bar, burit) med sig  carry
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #129
+====================================================================================================
+PDF_PAGE: 53 | COLUMN: right | CHAPTER: 16 | BOOK_PAGE: 226
+REASON: UNRESOLVED_ROW
+
+RAW: stepmother
+
+PREVIOUS CARD:
+  SWEDISH: bonusmamma
+  FORMS:   -n, -mammor, -mammorna
+  ENGLISH: ”bonus” mother,
+
+NEXT ROW: plastmormor (-mormodern, -mormödrar, -mormödrarna)  ”plastic” grandmother, step grandmother
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #130
+====================================================================================================
+PDF_PAGE: 53 | COLUMN: right | CHAPTER: 16 | BOOK_PAGE: 227
+REASON: UNRESOLVED_ROW
+
+RAW: iblandbo ”sometimes” cohabiting
+
+PREVIOUS CARD:
+  SWEDISH: adoptivfamilj
+  FORMS:   -en, -er, -erna
+  ENGLISH: adoptive family
+
+NEXT ROW: kulbo  ”fun” cohabiting
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #131
+====================================================================================================
+PDF_PAGE: 54 | COLUMN: left | CHAPTER: 16 | BOOK_PAGE: 230
+REASON: UNRESOLVED_ROW
+
+RAW: dows
+
+PREVIOUS CARD:
+  SWEDISH: panoramafönster
+  FORMS:   -fönstret, -, -fönstren
+  ENGLISH: panoramic win­
+
+NEXT ROW: barnbidrag (-et, –, -en)  child benefits
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #132
+====================================================================================================
+PDF_PAGE: 54 | COLUMN: right | CHAPTER: 16 | BOOK_PAGE: 230
+REASON: UNRESOLVED_ROW
+
+RAW: being
+
+PREVIOUS CARD:
+  SWEDISH: medmänniska
+  FORMS:   -n, -människor, -människorna
+  ENGLISH: fellow human
+
+NEXT ROW: frisedel (-n, frisedlar, frisedlarna)  get out of military service
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #133
+====================================================================================================
+PDF_PAGE: 54 | COLUMN: right | CHAPTER: 16 | BOOK_PAGE: 231
+REASON: UNRESOLVED_ROW
+
+RAW: character description
+
+PREVIOUS CARD:
+  SWEDISH: personbeskrivning
+  FORMS:   -en, -ar, -arna
+  ENGLISH: description of a person,
+
+NEXT ROW: schema (-t, -n, -na)  schedule
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #134
+====================================================================================================
+PDF_PAGE: 56 | COLUMN: left | CHAPTER: 17 | BOOK_PAGE: 237
+REASON: UNRESOLVED_ROW
+
+RAW: tion
+
+PREVIOUS CARD:
+  SWEDISH: förvandlingsdräkt
+  FORMS:   -en, -er, -erna
+  ENGLISH: costumes of transforma­
+
+NEXT ROW: fågeldräkt (-en, -er, -erna)  bird costume
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #135
+====================================================================================================
+PDF_PAGE: 56 | COLUMN: right | CHAPTER: 17 | BOOK_PAGE: 241
+REASON: UNRESOLVED_ROW
+
+RAW: mother
+
+PREVIOUS CARD:
+  SWEDISH: farmor
+  FORMS:   farmoder, farmödrar, farmödrarna
+  ENGLISH: paternal grand­
+
+NEXT ROW: brotta (-r, -de, -t) ner  wrestle down, pin down
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #136
+====================================================================================================
+PDF_PAGE: 57 | COLUMN: left | CHAPTER: 17 | BOOK_PAGE: 242
+REASON: UNRESOLVED_ROW
+
+RAW: place
+
+PREVIOUS CARD:
+  SWEDISH: anbringa (alternativ böjningsform)
+  FORMS:   abragte, anbragt
+  ENGLISH: apply,
+
+NEXT ROW: livgivande  life-giving
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #137
+====================================================================================================
+PDF_PAGE: 57 | COLUMN: right | CHAPTER: 17 | BOOK_PAGE: 244
+REASON: UNRESOLVED_ROW
+
+RAW: ntally conscious
+
+PREVIOUS CARD:
+  SWEDISH: miljömedveten
+  FORMS:   miljömedvetet, miljömedvetna
+  ENGLISH: environme­
+
+NEXT ROW: civil olydnad  civil disobedience
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #138
+====================================================================================================
+PDF_PAGE: 57 | COLUMN: right | CHAPTER: 17 | BOOK_PAGE: 245
+REASON: UNRESOLVED_ROW
+
+RAW: other hand
+
+PREVIOUS CARD:
+  SWEDISH: å ena sidan… å andra sidan
+  FORMS:   
+  ENGLISH: on the one hand… on the
+
+NEXT ROW: stabilitet (-en)  stability
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #139
+====================================================================================================
+PDF_PAGE: 58 | COLUMN: left | CHAPTER: 18 | BOOK_PAGE: 248
+REASON: UNRESOLVED_ROW
+
+RAW: nurse
+
+PREVIOUS CARD:
+  SWEDISH: avdelningssköterska
+  FORMS:   -n, -sköterskor, -sköterskorna
+  ENGLISH: head
+
+NEXT ROW: injektion (-en, -er, -erna)  injection
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #140
+====================================================================================================
+PDF_PAGE: 58 | COLUMN: left | CHAPTER: 18 | BOOK_PAGE: 250
+REASON: UNRESOLVED_ROW
+
+RAW: the window?
+
+PREVIOUS CARD:
+  SWEDISH: Du kunde kanske stänga fönstret?
+  FORMS:   
+  ENGLISH: Perhaps you could close
+
+NEXT ROW: Du kan väl stänga fönstret?  Can you close the window?
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #141
+====================================================================================================
+PDF_PAGE: 58 | COLUMN: left | CHAPTER: 18 | BOOK_PAGE: 250
+REASON: UNRESOLVED_ROW
+
+RAW: close the window?
+
+PREVIOUS CARD:
+  SWEDISH: Du skulle (väl) inte kunna stänga fönstret?
+  FORMS:   
+  ENGLISH: Couldn’t you
+
+NEXT ROW: Du skulle (väl) inte vilja hämta min jacka?  Couldn’t you get
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #142
+====================================================================================================
+PDF_PAGE: 58 | COLUMN: left | CHAPTER: 18 | BOOK_PAGE: 250
+REASON: UNRESOLVED_ROW
+
+RAW: me my jacket?
+
+PREVIOUS CARD:
+  SWEDISH: Du skulle (väl) inte vilja hämta min jacka?
+  FORMS:   
+  ENGLISH: Couldn’t you get
+
+NEXT ROW: Du kan möjligen inte stänga fönstret?  Could you possibly
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #143
+====================================================================================================
+PDF_PAGE: 58 | COLUMN: left | CHAPTER: 18 | BOOK_PAGE: 250
+REASON: UNRESOLVED_ROW
+
+RAW: close the window?
+
+PREVIOUS CARD:
+  SWEDISH: Du kan möjligen inte stänga fönstret?
+  FORMS:   
+  ENGLISH: Could you possibly
+
+NEXT ROW: Det skulle vara bra om du stängde/kunde stänga fönstret.  It
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #144
+====================================================================================================
+PDF_PAGE: 58 | COLUMN: left | CHAPTER: 18 | BOOK_PAGE: 250
+REASON: UNRESOLVED_ROW
+
+RAW: would be good if you closed/could close the window.
+
+PREVIOUS CARD:
+  SWEDISH: Det skulle vara bra om du stängde/kunde stänga fönstret.
+  FORMS:   
+  ENGLISH: It
+
+NEXT ROW: Skulle det vara möjligt att stänga fönstret?  Would it be pos­
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #145
+====================================================================================================
+PDF_PAGE: 58 | COLUMN: left | CHAPTER: 18 | BOOK_PAGE: 250
+REASON: UNRESOLVED_ROW
+
+RAW: sible to close the window?
+
+PREVIOUS CARD:
+  SWEDISH: Skulle det vara möjligt att stänga fönstret?
+  FORMS:   
+  ENGLISH: Would it be pos­
+
+NEXT ROW: Du stänger fönstret, va?  You’ll close the window, yeah?
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #146
+====================================================================================================
+PDF_PAGE: 58 | COLUMN: right | CHAPTER: 18 | BOOK_PAGE: 250
+REASON: UNRESOLVED_ROW
+
+RAW: close the window?
+
+PREVIOUS CARD:
+  SWEDISH: Skulle du kunna stänga fönstret?
+  FORMS:   
+  ENGLISH: Would you be able to
+
+NEXT ROW: Skulle du vilja stänga fönstret?  Do you want to close the
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #147
+====================================================================================================
+PDF_PAGE: 58 | COLUMN: right | CHAPTER: 18 | BOOK_PAGE: 250
+REASON: UNRESOLVED_ROW
+
+RAW: window?
+
+PREVIOUS CARD:
+  SWEDISH: Skulle du vilja stänga fönstret?
+  FORMS:   
+  ENGLISH: Do you want to close the
+
+NEXT ROW: Vill du (inte) stänga fönstret?  Do/don’t you want to close
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #148
+====================================================================================================
+PDF_PAGE: 58 | COLUMN: right | CHAPTER: 18 | BOOK_PAGE: 250
+REASON: UNRESOLVED_ROW
+
+RAW: the window?
+
+PREVIOUS CARD:
+  SWEDISH: Vill du (inte) stänga fönstret?
+  FORMS:   
+  ENGLISH: Do/don’t you want to close
+
+NEXT ROW: Skulle du (inte) vilja stänga fönstret?  Would/wouldn’t you
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #149
+====================================================================================================
+PDF_PAGE: 58 | COLUMN: right | CHAPTER: 18 | BOOK_PAGE: 250
+REASON: UNRESOLVED_ROW
+
+RAW: like to close the window?
+
+PREVIOUS CARD:
+  SWEDISH: Skulle du (inte) vilja stänga fönstret?
+  FORMS:   
+  ENGLISH: Would/wouldn’t you
+
+NEXT ROW: Har du lust att stänga fönstret?  Do you want to close the
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #150
+====================================================================================================
+PDF_PAGE: 58 | COLUMN: right | CHAPTER: 18 | BOOK_PAGE: 250
+REASON: UNRESOLVED_ROW
+
+RAW: window?
+
+PREVIOUS CARD:
+  SWEDISH: Har du lust att stänga fönstret?
+  FORMS:   
+  ENGLISH: Do you want to close the
+
+NEXT ROW: brysk (-t, -a)  brusque
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #151
+====================================================================================================
+PDF_PAGE: 58 | COLUMN: right | CHAPTER: 18 | BOOK_PAGE: 251
+REASON: UNRESOLVED_ROW
+
+RAW: between employers and employees
+
+PREVIOUS CARD:
+  SWEDISH: medbestämmande lag
+  FORMS:   
+  ENGLISH: law regulating relationship
+
+NEXT ROW: hierarki (-n, -er, -erna)  hierarchy
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #152
+====================================================================================================
+PDF_PAGE: 59 | COLUMN: left | CHAPTER: 18 | BOOK_PAGE: 253
+REASON: UNRESOLVED_ROW
+
+RAW: logger
+
+PREVIOUS CARD:
+  SWEDISH: skogsarbetare
+  FORMS:   -n, -, -skogsarbetarna
+  ENGLISH: forestry worker,
+
+NEXT ROW: industrialism (-en)  industrialism
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #153
+====================================================================================================
+PDF_PAGE: 59 | COLUMN: left | CHAPTER: 18 | BOOK_PAGE: 254
+REASON: UNRESOLVED_ROW
+
+RAW: ned?
+
+PREVIOUS CARD:
+  SWEDISH: Har du hört vad som hände?
+  FORMS:   
+  ENGLISH: Have you heard what happe­
+
+NEXT ROW: Du, apropå ingenting…  Hey, speaking of nothing…
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #154
+====================================================================================================
+PDF_PAGE: 59 | COLUMN: left | CHAPTER: 18 | BOOK_PAGE: 254
+REASON: UNRESOLVED_ROW
+
+RAW: bumped into the other day?
+
+PREVIOUS CARD:
+  SWEDISH: Vet du vem jag stötte på häromdagen?
+  FORMS:   
+  ENGLISH: Do you know who I
+
+NEXT ROW: Ge respons.  Give response, reaction.
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #155
+====================================================================================================
+PDF_PAGE: 59 | COLUMN: left | CHAPTER: 18 | BOOK_PAGE: 254
+REASON: UNRESOLVED_ROW
+
+RAW: fun.
+
+PREVIOUS CARD:
+  SWEDISH: Jaha… Slut på det roliga.
+  FORMS:   
+  ENGLISH: Well… That was the end of the
+
+NEXT ROW: Då var det väl dags.  Well, I suppose it’s time.
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #156
+====================================================================================================
+PDF_PAGE: 59 | COLUMN: right | CHAPTER: 18 | BOOK_PAGE: 255
+REASON: UNRESOLVED_ROW
+
+RAW: hip-oriented
+
+PREVIOUS CARD:
+  SWEDISH: relationsorienterad
+  FORMS:   -orienterat, -orienterade
+  ENGLISH: relations­
+
+NEXT ROW: samarbetsinriktad (-inriktat, -inriktade)  cooperative
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #157
+====================================================================================================
+PDF_PAGE: 59 | COLUMN: right | CHAPTER: 18 | BOOK_PAGE: 255
+REASON: UNRESOLVED_ROW
+
+RAW: nated
+
+PREVIOUS CARD:
+  SWEDISH: kvinnodominerad
+  FORMS:   -dominerat, -dominerade
+  ENGLISH: female-domi­
+
+NEXT ROW: effektivare  more effective
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #158
+====================================================================================================
+PDF_PAGE: 59 | COLUMN: right | CHAPTER: 18 | BOOK_PAGE: 255
+REASON: UNRESOLVED_ROW
+
+RAW: ted
+
+PREVIOUS CARD:
+  SWEDISH: mansdominerad
+  FORMS:   -dominerat, -dominerade
+  ENGLISH: male-domina­
+
+NEXT ROW: Sidan 256
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #159
+====================================================================================================
+PDF_PAGE: 60 | COLUMN: left | CHAPTER: 18 | BOOK_PAGE: 257
+REASON: UNRESOLVED_ROW
+
+RAW: judged
+
+PREVIOUS CARD:
+  SWEDISH: bedömas
+  FORMS:   bedöms, bedömdes, bedömts
+  ENGLISH: to be assessed,
+
+NEXT ROW: hårdare  harder
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #160
+====================================================================================================
+PDF_PAGE: 60 | COLUMN: left | CHAPTER: 18 | BOOK_PAGE: 257
+REASON: UNRESOLVED_ROW
+
+RAW: red
+
+PREVIOUS CARD:
+  SWEDISH: återfinnas
+  FORMS:   återfinns, återfanns, återfunnits
+  ENGLISH: to be rediscove­
+
+NEXT ROW: sluten (slutet, slutna)  closed, sealed
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #161
+====================================================================================================
+PDF_PAGE: 60 | COLUMN: left | CHAPTER: 18 | BOOK_PAGE: 257
+REASON: UNRESOLVED_ROW
+
+RAW: ge (ett djur) mat
+
+PREVIOUS CARD:
+  SWEDISH: som klippt och skuren
+  FORMS:   
+  ENGLISH: a perfect fit
+
+NEXT ROW: borsta (-r, -de, -t)  brush, groom
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #162
+====================================================================================================
+PDF_PAGE: 60 | COLUMN: left | CHAPTER: 18 | BOOK_PAGE: 258
+REASON: UNRESOLVED_ROW
+
+RAW: lity
+
+PREVIOUS CARD:
+  SWEDISH: ansvarskänsla
+  FORMS:   -n, -känslor, -känslorna
+  ENGLISH: sense of responsibi­
+
+NEXT ROW: flit (-en)  diligence
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
+
+====================================================================================================
+REVIEW #163
+====================================================================================================
+PDF_PAGE: 60 | COLUMN: right | CHAPTER: 18 | BOOK_PAGE: 259
+REASON: UNRESOLVED_ROW
+
+RAW: connected
+
+PREVIOUS CARD:
+  SWEDISH: hänga ihop
+  FORMS:   -er, hängde, hängt
+  ENGLISH: to hang out together, to be
+
+NEXT ROW: spekulera (-r, -de, -t)  i  to speculate
+
+ATTEMPTED PARSE:
+  SWEDISH: 
+  FORMS:   
+  ENGLISH: 
+  METHOD:  
