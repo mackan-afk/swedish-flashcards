@@ -6,10 +6,11 @@ import 'package:http/http.dart' as http;
 import 'package:shared_preferences/shared_preferences.dart';
 
 import 'data/word_repository.dart';
+import 'data/progress_migration.dart';
 import 'models/word.dart';
 import 'models/word_progress.dart';
 
-const String currentAppVersion = '1.5.0';
+const String currentAppVersion = '2.5.2';
 const String lastSeenVersionKey = 'last_seen_version';
 const String tutorialCompletedKey = 'tutorial_completed';
 const String helpGuideSeenVersionKey = 'help_guide_seen_version';
@@ -528,28 +529,11 @@ class _HomePageState extends State<HomePage> {
       builder: (dialogContext) {
         return AlertDialog(
           title: const Text("What's new in SvenskaKort 🎉"),
-          content: const SingleChildScrollView(
-            child: Column(
-              mainAxisSize: MainAxisSize.min,
-              crossAxisAlignment: CrossAxisAlignment.start,
-              children: [
-                Text('B1–B2 vocabulary', style: TextStyle(fontWeight: FontWeight.w800, fontSize: 16)),
-                SizedBox(height: 6),
-                Text('A complete B1–B2 vocabulary collection has been added with 5,870 flashcards.'),
-                SizedBox(height: 18),
-                Text('Level selection', style: TextStyle(fontWeight: FontWeight.w800, fontSize: 16)),
-                SizedBox(height: 6),
-                Text('Study material is now organised into A1–A2 and B1–B2 levels.'),
-                SizedBox(height: 18),
-                Text('All Words or By Chapter', style: TextStyle(fontWeight: FontWeight.w800, fontSize: 16)),
-                SizedBox(height: 6),
-                Text('For each level, you can study the complete collection or choose a specific chapter.'),
-                SizedBox(height: 18),
-                Text('9,378 words in total', style: TextStyle(fontWeight: FontWeight.w800, fontSize: 16)),
-                SizedBox(height: 6),
-                Text('SvenskaKort now contains 3,508 A1–A2 cards and 5,870 B1–B2 cards. Your existing learning progress is preserved.'),
-              ],
-            ),
+          content: const Text(
+            '• Updated word base\n'
+            '• Added word forms\n'
+            '• Added pronunciation',
+            style: TextStyle(fontSize: 16, height: 1.6),
           ),
           actions: [
             FilledButton(
@@ -597,7 +581,19 @@ class _HomePageState extends State<HomePage> {
 
   Future<void> _runStartupDialogs() async {
     final prefs = await SharedPreferences.getInstance();
-    final tutorialCompleted = prefs.getBool(tutorialCompletedKey) ?? false;
+    final storedTutorialState = prefs.getBool(tutorialCompletedKey);
+
+    // Older SvenskaKort builds did not always have the tutorial flag.
+    // Any existing app data proves that this is an upgrading user, so do
+    // not show onboarding after the production update.
+    final keys = prefs.getKeys();
+    final hasExistingUserData =
+        prefs.getString(lastSeenVersionKey) != null ||
+        keys.any((key) => key.startsWith('progress_') || key.startsWith('status_'));
+
+    final isNewUser = storedTutorialState == null && !hasExistingUserData;
+    final tutorialCompleted =
+        storedTutorialState == true || (!isNewUser && hasExistingUserData);
 
     if (!mounted) return;
 
@@ -609,18 +605,23 @@ class _HomePageState extends State<HomePage> {
         ),
       );
 
-      // New users have already seen the Help Guide as onboarding.
-      // Do not immediately show release notes or the guide again.
+      // A brand-new user sees onboarding, not release notes.
       await prefs.setString(lastSeenVersionKey, currentAppVersion);
       await prefs.setString(helpGuideSeenVersionKey, currentAppVersion);
       return;
     }
 
+    // Persist the migration for users coming from builds that predate
+    // tutorialCompletedKey.
+    if (storedTutorialState == null && hasExistingUserData) {
+      await prefs.setBool(tutorialCompletedKey, true);
+    }
+
     if (!mounted) return;
     await _showWhatsNewIfNeeded();
 
-    if (!mounted) return;
-    await _showHelpGuideIfNeeded();
+    // The tutorial is never opened automatically after an update.
+    // It remains available manually from Settings.
   }
 
   // ----------------------------------------------------------
@@ -629,6 +630,8 @@ class _HomePageState extends State<HomePage> {
 
   Future<void> loadAppData() async {
     try {
+      await migrateRivstartProgressToKellyV1();
+
       final words =
           await WordRepository.loadWords();
 
@@ -1050,31 +1053,32 @@ class _HomePageState extends State<HomePage> {
                   ),
                   const SizedBox(height: 12),
 
-                  MaterialTile(
-                    icon: Icons.looks_one_outlined,
-                    title: 'A1–A2',
-                    subtitle:
-                        '${allWords.where((word) => word.level == 'A1-A2').length} words',
-                    onTap: () {
-                      openLevelMaterial(
-                        level: 'A1-A2',
-                      );
-                    },
-                  ),
+                  ...[
+                    ('A1–A2', {'A1', 'A2'}),
+                    ('B1–B2', {'B1', 'B2'}),
+                    ('C1–C2', {'C1', 'C2'}),
+                  ].expand((group) {
+                    final title = group.$1;
+                    final levels = group.$2;
+                    final groupWords = allWords
+                        .where((word) => levels.contains(word.level))
+                        .toList();
 
-                  const SizedBox(height: 10),
-
-                  MaterialTile(
-                    icon: Icons.looks_two_outlined,
-                    title: 'B1–B2',
-                    subtitle:
-                        '${allWords.where((word) => word.level == 'B1-B2').length} words',
-                    onTap: () {
-                      openLevelMaterial(
-                        level: 'B1-B2',
-                      );
-                    },
-                  ),
+                    return [
+                      MaterialTile(
+                        icon: Icons.school_outlined,
+                        title: title,
+                        subtitle: '${groupWords.length} words',
+                        onTap: () async {
+                          await openStudyOptions(
+                            title: title,
+                            words: groupWords,
+                          );
+                        },
+                      ),
+                      const SizedBox(height: 10),
+                    ];
+                  }),
                 ],
               ),
             ),
@@ -2256,13 +2260,6 @@ class _LevelMaterialPageState extends State<LevelMaterialPage> {
 
   @override
   Widget build(BuildContext context) {
-    final chapters = widget.words
-        .expand((word) => word.chapters)
-        .where((chapter) => chapter > 0)
-        .toSet()
-        .toList()
-      ..sort();
-
     return Scaffold(
       appBar: AppBar(
         title: Text(widget.level),
@@ -2327,17 +2324,7 @@ class _LevelMaterialPageState extends State<LevelMaterialPage> {
                         'Study the entire ${widget.level} collection',
                     onTap: openAllWords,
                   ),
-                  const SizedBox(
-                    height: 10,
-                  ),
-                  MaterialTile(
-                    icon: Icons
-                        .menu_book_outlined,
-                    title: 'By Chapter',
-                    subtitle:
-                        'Choose from ${chapters.length} chapters',
-                    onTap: openChapters,
-                  ),
+
                 ],
               ),
             ),
@@ -3232,6 +3219,75 @@ class _FlashcardPageState
     );
   }
 
+  Widget _buildSwedishWordInfo({
+    required double wordSize,
+    required double ipaSize,
+    required double grammarSize,
+    required double formsSize,
+    required bool compact,
+  }) {
+    final hasPronunciation = currentWord.pronunciation.isNotEmpty;
+    final hasGrammar = currentWord.grammarLabel.isNotEmpty;
+    final hasNounForms = currentWord.morphologyLine.isNotEmpty;
+
+    return Column(
+      mainAxisSize: MainAxisSize.min,
+      children: [
+        Wrap(
+          alignment: WrapAlignment.center,
+          crossAxisAlignment: WrapCrossAlignment.center,
+          spacing: compact ? 8 : 10,
+          runSpacing: 4,
+          children: [
+            Text(
+              currentWord.swedish,
+              textAlign: TextAlign.center,
+              style: TextStyle(
+                fontSize: wordSize,
+                fontWeight: FontWeight.w800,
+                letterSpacing: compact ? -0.3 : -0.8,
+              ),
+            ),
+            if (hasPronunciation)
+              Text(
+                currentWord.pronunciation,
+                textAlign: TextAlign.center,
+                style: TextStyle(
+                  fontSize: ipaSize,
+                  color: Colors.grey.shade500,
+                  fontWeight: FontWeight.w400,
+                ),
+              ),
+          ],
+        ),
+        if (hasGrammar) ...[
+          SizedBox(height: compact ? 7 : 9),
+          Text(
+            currentWord.grammarLabel,
+            textAlign: TextAlign.center,
+            style: TextStyle(
+              fontSize: grammarSize,
+              color: Colors.grey.shade600,
+              fontWeight: FontWeight.w500,
+            ),
+          ),
+        ],
+        if (hasNounForms) ...[
+          SizedBox(height: compact ? 7 : 10),
+          Text(
+            currentWord.morphologyLine,
+            textAlign: TextAlign.center,
+            style: TextStyle(
+              fontSize: formsSize,
+              color: Colors.grey.shade600,
+              height: 1.25,
+            ),
+          ),
+        ],
+      ],
+    );
+  }
+
   Widget _buildFlashcardFace({
     required bool showEnglish,
   }) {
@@ -3299,56 +3355,30 @@ class _FlashcardPageState
                   Flexible(
                     child: FittedBox(
                       fit: BoxFit.scaleDown,
-                      child: Text(
-                        currentWord.swedish,
-                        textAlign: TextAlign.center,
-                        style: const TextStyle(
-                          fontSize: 46,
-                          fontWeight: FontWeight.w800,
-                          letterSpacing: -0.8,
-                        ),
+                      child: _buildSwedishWordInfo(
+                        wordSize: 46,
+                        ipaSize: 18,
+                        grammarSize: 17,
+                        formsSize: 19,
+                        compact: false,
                       ),
                     ),
                   ),
-                  if (currentWord.forms.isNotEmpty) ...[
-                    const SizedBox(height: 14),
-                    Text(
-                      currentWord.forms,
-                      textAlign: TextAlign.center,
-                      style: TextStyle(
-                        fontSize: 19,
-                        color: Colors.grey.shade600,
-                      ),
-                    ),
-                  ],
                 ],
               ] else ...[
                 if (englishToSwedish) ...[
                   Flexible(
                     child: FittedBox(
                       fit: BoxFit.scaleDown,
-                      child: Text(
-                        currentWord.swedish,
-                        textAlign: TextAlign.center,
-                        style: const TextStyle(
-                          fontSize: 46,
-                          fontWeight: FontWeight.w800,
-                          letterSpacing: -0.8,
-                        ),
+                      child: _buildSwedishWordInfo(
+                        wordSize: 46,
+                        ipaSize: 18,
+                        grammarSize: 17,
+                        formsSize: 19,
+                        compact: false,
                       ),
                     ),
                   ),
-                  if (currentWord.forms.isNotEmpty) ...[
-                    const SizedBox(height: 14),
-                    Text(
-                      currentWord.forms,
-                      textAlign: TextAlign.center,
-                      style: TextStyle(
-                        fontSize: 19,
-                        color: Colors.grey.shade600,
-                      ),
-                    ),
-                  ],
                   const SizedBox(height: 24),
                   Container(
                     width: 46,
@@ -3392,25 +3422,13 @@ class _FlashcardPageState
                     ),
                   ),
                   const SizedBox(height: 22),
-                  Text(
-                    currentWord.swedish,
-                    textAlign: TextAlign.center,
-                    style: const TextStyle(
-                      fontSize: 23,
-                      fontWeight: FontWeight.w700,
-                    ),
+                  _buildSwedishWordInfo(
+                    wordSize: 23,
+                    ipaSize: 15,
+                    grammarSize: 15,
+                    formsSize: 17,
+                    compact: true,
                   ),
-                  if (currentWord.forms.isNotEmpty) ...[
-                    const SizedBox(height: 7),
-                    Text(
-                      currentWord.forms,
-                      textAlign: TextAlign.center,
-                      style: TextStyle(
-                        fontSize: 17,
-                        color: Colors.grey.shade600,
-                      ),
-                    ),
-                  ],
                 ],
               ],
 

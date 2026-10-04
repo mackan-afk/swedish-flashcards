@@ -5,91 +5,43 @@ import 'package:flutter/services.dart';
 import '../models/word.dart';
 
 class WordRepository {
-  static const String a1a2Asset =
-      'assets/words.json';
+  static const String vocabularyAsset = 'assets/words_v2.json';
 
-  static const String b1b2Asset =
-      'assets/b1b2_words.json';
-
-  /// Loads the complete vocabulary collection used by the app.
-  ///
-  /// Existing A1-A2 IDs are left completely untouched,
-  /// so existing SRS progress remains compatible.
   static Future<List<Word>> loadWords() async {
-    final results = await Future.wait([
-      loadA1A2Words(),
-      loadB1B2Words(),
-    ]);
-
-    final words = <Word>[
-      ...results[0],
-      ...results[1],
-    ];
-
-    _validateUniqueIds(words);
-
-    return words;
-  }
-
-  static Future<List<Word>>
-      loadA1A2Words() async {
-    return _loadAsset(
-      a1a2Asset,
-      defaultLevel: 'A1-A2',
-    );
-  }
-
-  static Future<List<Word>>
-      loadB1B2Words() async {
-    return _loadAsset(
-      b1b2Asset,
-      defaultLevel: 'B1-B2',
-    );
-  }
-
-  static Future<List<Word>> _loadAsset(
-    String assetPath, {
-    required String defaultLevel,
-  }) async {
-    final String jsonString =
-        await rootBundle.loadString(assetPath);
-
-    final dynamic decoded =
-        json.decode(jsonString);
+    final jsonString = await rootBundle.loadString(vocabularyAsset);
+    final decoded = json.decode(jsonString);
 
     if (decoded is! List) {
-      throw FormatException(
-        'Vocabulary file must contain a JSON list: '
-        '$assetPath',
+      throw const FormatException(
+        'Vocabulary file must contain a JSON list.',
       );
     }
 
-    return decoded.map<Word>((item) {
+    final words = decoded.map<Word>((item) {
       if (item is! Map) {
-        throw FormatException(
-          'Invalid vocabulary record in '
-          '$assetPath',
+        throw const FormatException(
+          'Invalid vocabulary record.',
         );
       }
-
-      return Word.fromJson(
-        Map<String, dynamic>.from(item),
-        defaultLevel: defaultLevel,
-      );
+      return Word.fromJson(Map<String, dynamic>.from(item));
     }).toList();
+
+    _validate(words);
+    return words;
   }
 
-  static void _validateUniqueIds(
-    List<Word> words,
-  ) {
+  static void _validate(List<Word> words) {
     final ids = <String>{};
+    const allowedLevels = {'A1', 'A2', 'B1', 'B2', 'C1', 'C2'};
 
     for (final word in words) {
       if (!ids.add(word.id)) {
-        throw FormatException(
-          'Duplicate word ID found: '
-          '${word.id}',
-        );
+        throw FormatException('Duplicate word ID: ${word.id}');
+      }
+      if (word.swedish.trim().isEmpty ||
+          word.englishMeanings.isEmpty ||
+          !allowedLevels.contains(word.level)) {
+        throw FormatException('Invalid vocabulary record: ${word.id}');
       }
     }
   }

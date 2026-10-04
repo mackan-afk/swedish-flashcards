@@ -58,8 +58,8 @@ flutter:
   # the material Icons class.
   uses-material-design: true
   assets:
-    - assets/words.json
-    - assets/b1b2_words.json
+    - assets/words_v2.json
+    - assets/progress_migration_v1.json
 
   # To add assets to your application, add an assets section, like this:
   # assets:
