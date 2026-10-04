@@ -1,4 +1,4 @@
-name: Deploy Maintenance Page
+name: Deploy Flutter Web to GitHub Pages
 
 on:
   push:
@@ -23,91 +23,17 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Create maintenance page
-        run: |
-          mkdir -p maintenance
+      - name: Setup Flutter
+        uses: subosito/flutter-action@v2
+        with:
+          channel: stable
+          cache: true
 
-          cat > maintenance/index.html <<'EOF'
-          <!DOCTYPE html>
-          <html lang="en">
-          <head>
-            <meta charset="UTF-8">
-            <meta name="viewport" content="width=device-width, initial-scale=1.0">
-            <meta name="theme-color" content="#0d47a1">
-            <title>SvenskaKort — Maintenance</title>
+      - name: Install dependencies
+        run: flutter pub get
 
-            <style>
-              * {
-                box-sizing: border-box;
-              }
-
-              body {
-                margin: 0;
-                min-height: 100vh;
-                display: flex;
-                align-items: center;
-                justify-content: center;
-                background: #f5f7fa;
-                font-family: Arial, Helvetica, sans-serif;
-                color: #1f2937;
-                padding: 24px;
-              }
-
-              .card {
-                width: 100%;
-                max-width: 520px;
-                background: white;
-                border-radius: 24px;
-                padding: 48px 32px;
-                text-align: center;
-                box-shadow: 0 12px 40px rgba(0, 0, 0, 0.08);
-              }
-
-              .flag {
-                font-size: 56px;
-                margin-bottom: 12px;
-              }
-
-              h1 {
-                margin: 0;
-                font-size: 36px;
-                color: #0d47a1;
-              }
-
-              h2 {
-                margin-top: 32px;
-                margin-bottom: 12px;
-                font-size: 24px;
-              }
-
-              p {
-                margin: 8px 0;
-                font-size: 17px;
-                line-height: 1.6;
-                color: #6b7280;
-              }
-            </style>
-          </head>
-
-          <body>
-            <div class="card">
-              <div class="flag">🇸🇪</div>
-
-              <h1>SvenskaKort</h1>
-
-              <h2>We'll be back soon!</h2>
-
-              <p>
-                SvenskaKort is currently undergoing maintenance.
-              </p>
-
-              <p>
-                The app will be available again soon.
-              </p>
-            </div>
-          </body>
-          </html>
-          EOF
+      - name: Build Flutter Web
+        run: flutter build web --release --base-href /
 
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
@@ -115,7 +41,7 @@ jobs:
       - name: Upload GitHub Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: maintenance
+          path: build/web
 
   deploy:
     needs: build
