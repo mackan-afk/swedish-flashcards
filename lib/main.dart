@@ -10,7 +10,7 @@ import 'data/progress_migration.dart';
 import 'models/word.dart';
 import 'models/word_progress.dart';
 
-const String currentAppVersion = '2.5.2';
+const String currentAppVersion = '2.5.3';
 const String lastSeenVersionKey = 'last_seen_version';
 const String tutorialCompletedKey = 'tutorial_completed';
 const String helpGuideSeenVersionKey = 'help_guide_seen_version';
@@ -471,17 +471,49 @@ List<Word> buildStudySession({
   learningWords.shuffle(random);
   newWords.shuffle(random);
 
-  final candidates = [
-    ...dueWords,
-    ...learningWords,
-    ...newWords,
-  ];
-
   if (sessionSize == null) {
-    return candidates;
+    return [
+      ...dueWords,
+      ...learningWords,
+      ...newWords,
+    ];
   }
 
-  return candidates.take(sessionSize).toList();
+  // Standard session mix:
+  // 20% review (Due first, then Learning) + 80% new.
+  // If either pool is too small, the other fills the remaining slots.
+  final reviewWords = [
+    ...dueWords,
+    ...learningWords,
+  ];
+
+  final reviewTarget = (sessionSize * 0.20).ceil();
+  final newTarget = sessionSize - reviewTarget;
+
+  final selected = <Word>[
+    ...reviewWords.take(reviewTarget),
+    ...newWords.take(newTarget),
+  ];
+
+  if (selected.length < sessionSize) {
+    final selectedIds = selected.map((word) => word.id).toSet();
+
+    final remaining = [
+      ...newWords,
+      ...reviewWords,
+    ].where(
+      (word) => !selectedIds.contains(word.id),
+    );
+
+    selected.addAll(
+      remaining.take(sessionSize - selected.length),
+    );
+  }
+
+  // Mix old and new cards throughout the session.
+  selected.shuffle(random);
+
+  return selected;
 }
 
 List<Word> buildDailyReviewSession({
@@ -530,9 +562,9 @@ class _HomePageState extends State<HomePage> {
         return AlertDialog(
           title: const Text("What's new in SvenskaKort 🎉"),
           content: const Text(
-            '• Updated word base\n'
-            '• Added word forms\n'
-            '• Added pronunciation',
+            '• More new words in each study session, with fewer repeated words\n'
+            '• Improved translations for selected words\n'
+            '• Maximum of two English meanings per word',
             style: TextStyle(fontSize: 16, height: 1.6),
           ),
           actions: [
